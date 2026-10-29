@@ -1,0 +1,290 @@
+{
+  "initial": {
+    "exact": "1260000000",
+    "roundedDong": "1260000000"
+  },
+  "down": {
+    "exact": "1200000000",
+    "roundedDong": "1200000000"
+  },
+  "closing": {
+    "exact": "60000000",
+    "roundedDong": "60000000"
+  },
+  "loan": {
+    "exact": "1800000000",
+    "roundedDong": "1800000000"
+  },
+  "monthlyPrincipal": {
+    "exact": "7500000",
+    "roundedDong": "7500000"
+  },
+  "budget": {
+    "exact": "25000000",
+    "roundedDong": "25000000"
+  },
+  "deposit": {
+    "exact": "18000000",
+    "roundedDong": "18000000"
+  },
+  "tenantInitialInvestment": {
+    "exact": "1242000000",
+    "roundedDong": "1242000000"
+  },
+  "month1": {
+    "month": 1,
+    "debtStart": {
+      "exact": "1800000000",
+      "roundedDong": "1800000000"
+    },
+    "principal": {
+      "exact": "7500000",
+      "roundedDong": "7500000"
+    },
+    "interest": {
+      "exact": "13500000.00",
+      "roundedDong": "13500000"
+    },
+    "payment": {
+      "exact": "21000000.00",
+      "roundedDong": "21000000"
+    },
+    "maintenance": {
+      "exact": "1250000",
+      "roundedDong": "1250000"
+    },
+    "rent": {
+      "exact": "9000000",
+      "roundedDong": "9000000"
+    },
+    "buyerSaving": {
+      "exact": "2750000.00",
+      "roundedDong": "2750000"
+    },
+    "tenantSaving": {
+      "exact": "16000000",
+      "roundedDong": "16000000"
+    },
+    "buyerPortfolio": {
+      "exact": "2750000.0000000000000000000000000000000000000000000",
+      "roundedDong": "2750000"
+    },
+    "tenantPortfolio": {
+      "exact": "1263175000.0000000000000000000000000000000000000000",
+      "roundedDong": "1263175000"
+    },
+    "debtEnd": {
+      "exact": "1792500000",
+      "roundedDong": "1792500000"
+    }
+  },
+  "month12": {
+    "month": 12,
+    "debtStart": {
+      "exact": "1717500000",
+      "roundedDong": "1717500000"
+    },
+    "principal": {
+      "exact": "7500000",
+      "roundedDong": "7500000"
+    },
+    "interest": {
+      "exact": "12881250.00",
+      "roundedDong": "12881250"
+    },
+    "payment": {
+      "exact": "20381250.00",
+      "roundedDong": "20381250"
+    },
+    "maintenance": {
+      "exact": "1250000",
+      "roundedDong": "1250000"
+    },
+    "rent": {
+      "exact": "9000000",
+      "roundedDong": "9000000"
+    },
+    "buyerSaving": {
+      "exact": "3368750.00",
+      "roundedDong": "3368750"
+    },
+    "tenantSaving": {
+      "exact": "16000000",
+      "roundedDong": "16000000"
+    },
+    "buyerPortfolio": {
+      "exact": "37531401.738759440239008174747120384254865359905243",
+      "roundedDong": "37531402"
+    },
+    "tenantPortfolio": {
+      "exact": "1502004765.0349680705883691138627861007136476305232",
+      "roundedDong": "1502004765"
+    },
+    "debtEnd": {
+      "exact": "1710000000",
+      "roundedDong": "1710000000"
+    }
+  },
+  "month13": {
+    "month": 13,
+    "debtStart": {
+      "exact": "1710000000",
+      "roundedDong": "1710000000"
+    },
+    "principal": {
+      "exact": "7500000",
+      "roundedDong": "7500000"
+    },
+    "interest": {
+      "exact": "15675000.00",
+      "roundedDong": "15675000"
+    },
+    "payment": {
+      "exact": "23175000.00",
+      "roundedDong": "23175000"
+    },
+    "maintenance": {
+      "exact": "1287500.00",
+      "roundedDong": "1287500"
+    },
+    "rent": {
+      "exact": "9270000.00",
+      "roundedDong": "9270000"
+    },
+    "buyerSaving": {
+      "exact": "537500.00",
+      "roundedDong": "537500"
+    },
+    "tenantSaving": {
+      "exact": "15730000.00",
+      "roundedDong": "15730000"
+    },
+    "buyerPortfolio": {
+      "exact": "38225282.579337604573337375475233385855927298904849",
+      "roundedDong": "38225283"
+    },
+    "tenantPortfolio": {
+      "exact": "1523993118.2226137708824873185038810427999544956504",
+      "roundedDong": "1523993118"
+    },
+    "debtEnd": {
+      "exact": "1702500000",
+      "roundedDong": "1702500000"
+    }
+  },
+  "month240": {
+    "month": 240,
+    "debtStart": {
+      "exact": "7500000",
+      "roundedDong": "7500000"
+    },
+    "principal": {
+      "exact": "7500000",
+      "roundedDong": "7500000"
+    },
+    "interest": {
+      "exact": "68750.00",
+      "roundedDong": "68750"
+    },
+    "payment": {
+      "exact": "7568750.00",
+      "roundedDong": "7568750"
+    },
+    "maintenance": {
+      "exact": "2191882.56634637598514237051890986150708750000",
+      "roundedDong": "2191883"
+    },
+    "rent": {
+      "exact": "15781554.47769390709302506773615100285103000000",
+      "roundedDong": "15781554"
+    },
+    "buyerSaving": {
+      "exact": "15239367.43365362401485762948109013849291250000",
+      "roundedDong": "15239367"
+    },
+    "tenantSaving": {
+      "exact": "9218445.52230609290697493226384899714897000000",
+      "roundedDong": "9218446"
+    },
+    "buyerPortfolio": {
+      "exact": "2668492332.8406997010909279299488425232239323313141",
+      "roundedDong": "2668492333"
+    },
+    "tenantPortfolio": {
+      "exact": "8910949058.6050233725215418723451543412966778084690",
+      "roundedDong": "8910949059"
+    },
+    "debtEnd": {
+      "exact": "0",
+      "roundedDong": "0"
+    }
+  },
+  "totalInterest": {
+    "exact": "1953075000.00",
+    "roundedDong": "1953075000"
+  },
+  "totalPrincipalAndInterest": {
+    "exact": "3753075000.00",
+    "roundedDong": "3753075000"
+  },
+  "totalRent": {
+    "exact": "2902000444.80988972232632790729421317462436000000",
+    "roundedDong": "2902000445"
+  },
+  "totalMaintenance": {
+    "exact": "403055617.33470690587865665379086294092005000000",
+    "roundedDong": "403055617"
+  },
+  "buyerPortfolio": {
+    "exact": "2668492332.8406997010909279299488425232239323313141",
+    "roundedDong": "2668492333"
+  },
+  "tenantPortfolioIncludingRefund": {
+    "exact": "8928949058.6050233725215418723451543412966778084690",
+    "roundedDong": "8928949059"
+  },
+  "houseGross": {
+    "exact": "5418333704.0082414352719399227451776455203000000000",
+    "roundedDong": "5418333704"
+  },
+  "houseNet": {
+    "exact": "5255783692.8879941922137817250628223161546910000000",
+    "roundedDong": "5255783693"
+  },
+  "buyerLiquidationWealth": {
+    "exact": "7924276025.7286938933047096550116648393786233313141",
+    "roundedDong": "7924276026"
+  },
+  "tenantMinusBuyer": {
+    "exact": "1004673032.8763294792168322173334895019180544771549",
+    "roundedDong": "1004673033"
+  },
+  "breakEvenHouseGross": {
+    "exact": "6454079098.7261068777635195282436204310028303888195",
+    "roundedDong": "6454079099"
+  },
+  "breakEvenHouseAnnualGrowth": {
+    "exact": "0.039048097374570096754443008589045595384078124024050",
+    "percent": "3.9048"
+  },
+  "stressMonth13Payment": {
+    "exact": "26025000.00",
+    "roundedDong": "26025000"
+  },
+  "stressMonth13Total": {
+    "exact": "27312500.00",
+    "roundedDong": "27312500"
+  },
+  "stressMonth13Shortfall": {
+    "exact": "2312500.00",
+    "roundedDong": "2312500"
+  },
+  "buyerWealthHouseGrowth5pct": {
+    "exact": "10389588654.810962290872131456541097161895807331314",
+    "roundedDong": "10389588655"
+  },
+  "sameNewCashEachSide": {
+    "exact": "7260000000",
+    "roundedDong": "7260000000"
+  }
+}

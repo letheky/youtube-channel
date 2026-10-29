@@ -1,0 +1,78 @@
+[
+  {
+    "image": "anh/canh-01.png",
+    "prompt": "Use case: illustration-story. One full-bleed 16:9 still for a Vietnamese financial explainer. Flat 2D cartoon, thick clean dark-brown outlines, warm cream and gold palette, simple cel shading, same visual world as Bác Sáu. Chị Hai is EXACTLY the attached female sheet: 45-year-old mature Vietnamese vendor, hair bun, light-brown áo bà ba, plain apron and dark trousers. Cloth gold pouch is handheld or on table, NEVER has a shoulder strap. Her conical hat, if visible, hangs correctly on her back. There must be exactly ONE Chị Hai. Do not duplicate her face or outfit onto any other person. Chị Hai alone outside a gold shop window clutching her cloth pouch, disappointed by two blank price columns. No shopkeeper or other people. One coherent scene, no split panels, no captions. All hands, torso, collars, apron ties and accessories must be anatomically coherent and face the same direction. No ID cards or lanyards. Gold bars, coins and rings have entirely smooth unmarked surfaces. Receipts, banknotes, calendars, calculators, scales and price boards have NO letters, digits, symbols, lines resembling writing or logos. Blank calculator screen and blank unlabeled keys. Do not draw any text, letters, numbers, logos or watermarks. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "assets/nhan-vat/chi-hai.png"
+    ]
+  },
+  {
+    "image": "anh/canh-02.png",
+    "prompt": "Use case: illustration-story. One full-bleed 16:9 still for a Vietnamese financial explainer. Flat 2D cartoon, thick clean dark-brown outlines, warm cream and gold palette, simple cel shading, same visual world as Bác Sáu. Objects-only still life or conceptual diorama; absolutely no people, faces, bodies, hands, mannequins or human silhouettes unless explicitly described in the scene. A wooden two-column price board made entirely of pale green and warm red blank blocks above a gold counter. One coherent scene, no split panels, no captions. All hands, torso, collars, apron ties and accessories must be anatomically coherent and face the same direction. No ID cards or lanyards. Gold bars, coins and rings have entirely smooth unmarked surfaces. Receipts, banknotes, calendars, calculators, scales and price boards have NO letters, digits, symbols, lines resembling writing or logos. Blank calculator screen and blank unlabeled keys. Do not draw any text, letters, numbers, logos or watermarks. No text, letters, numbers, logos or watermarks.",
+    "refs": []
+  },
+  {
+    "image": "anh/canh-03.png",
+    "prompt": "Use case: illustration-story. One full-bleed 16:9 still for a Vietnamese financial explainer. Flat 2D cartoon, thick clean dark-brown outlines, warm cream and gold palette, simple cel shading, same visual world as Bác Sáu. Use BOTH attached references for separate identities: Bác Sáu is the old man in beige checkered shirt, glasses and blue pen; Chị Hai is the mature woman with bun, light brown áo bà ba and apron. Cloth pouch has no shoulder strap; hat stays on her back if visible. Bác Sáu and Chị Hai seated across a wooden desk, closed pouch between them, warm afternoon light. One coherent scene, no split panels, no captions. All hands, torso, collars, apron ties and accessories must be anatomically coherent and face the same direction. No ID cards or lanyards. Gold bars, coins and rings have entirely smooth unmarked surfaces. Receipts, banknotes, calendars, calculators, scales and price boards have NO letters, digits, symbols, lines resembling writing or logos. Blank calculator screen and blank unlabeled keys. Do not draw any text, letters, numbers, logos or watermarks. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png",
+      "assets/nhan-vat/chi-hai.png"
+    ]
+  },
+  {
+    "image": "anh/canh-04.png",
+    "prompt": "Use case: illustration-story. One full-bleed 16:9 still for a Vietnamese financial explainer. Flat 2D cartoon, thick clean dark-brown outlines, warm cream and gold palette, simple cel shading, same visual world as Bác Sáu. Objects-only still life or conceptual diorama; absolutely no people, faces, bodies, hands, mannequins or human silhouettes unless explicitly described in the scene. Three miniature gold storefront boards, each with two blank columns and differing gap widths. One coherent scene, no split panels, no captions. All hands, torso, collars, apron ties and accessories must be anatomically coherent and face the same direction. No ID cards or lanyards. Gold bars, coins and rings have entirely smooth unmarked surfaces. Receipts, banknotes, calendars, calculators, scales and price boards have NO letters, digits, symbols, lines resembling writing or logos. Blank calculator screen and blank unlabeled keys. Do not draw any text, letters, numbers, logos or watermarks. No text, letters, numbers, logos or watermarks.",
+    "refs": []
+  },
+  {
+    "image": "anh/canh-05.png",
+    "prompt": "Use case: illustration-story. One full-bleed 16:9 still for a Vietnamese financial explainer. Flat 2D cartoon, thick clean dark-brown outlines, warm cream and gold palette, simple cel shading, same visual world as Bác Sáu. The owner is a plump middle-aged Vietnamese man with short dark hair, a pale blue collared shirt, no glasses, no badges. Plump cheerful middle-aged gold shop owner between a line of selling customers and a line of buying customers. One coherent scene, no split panels, no captions. All hands, torso, collars, apron ties and accessories must be anatomically coherent and face the same direction. No ID cards or lanyards. Gold bars, coins and rings have entirely smooth unmarked surfaces. Receipts, banknotes, calendars, calculators, scales and price boards have NO letters, digits, symbols, lines resembling writing or logos. Blank calculator screen and blank unlabeled keys. Do not draw any text, letters, numbers, logos or watermarks. No text, letters, numbers, logos or watermarks.",
+    "refs": []
+  },
+  {
+    "image": "anh/canh-06.png",
+    "prompt": "Use case: illustration-story. One full-bleed 16:9 still for a Vietnamese financial explainer. Flat 2D cartoon, thick clean dark-brown outlines, warm cream and gold palette, simple cel shading, same visual world as Bác Sáu. Objects-only still life or conceptual diorama; absolutely no people, faces, bodies, hands, mannequins or human silhouettes unless explicitly described in the scene. Delicate plain gold necklace on a jeweler scale, a blank receipt missing roughly one third beside it. One coherent scene, no split panels, no captions. All hands, torso, collars, apron ties and accessories must be anatomically coherent and face the same direction. No ID cards or lanyards. Gold bars, coins and rings have entirely smooth unmarked surfaces. Receipts, banknotes, calendars, calculators, scales and price boards have NO letters, digits, symbols, lines resembling writing or logos. Blank calculator screen and blank unlabeled keys. Do not draw any text, letters, numbers, logos or watermarks. No text, letters, numbers, logos or watermarks.",
+    "refs": []
+  },
+  {
+    "image": "anh/canh-07.png",
+    "prompt": "Use case: illustration-story. One full-bleed 16:9 still for a Vietnamese financial explainer. Flat 2D cartoon, thick clean dark-brown outlines, warm cream and gold palette, simple cel shading, same visual world as Bác Sáu. Bác Sáu is EXACTLY the attached male reference: mature Vietnamese retired accountant, salt-and-pepper side-part hair, rectangular glasses, blue pen behind ear, beige checkered short-sleeve shirt, brown trousers. There must be exactly ONE Bác Sáu. Do not duplicate him. Bác Sáu inspects a plain gold ring through a magnifying glass next to his red ledger. One coherent scene, no split panels, no captions. All hands, torso, collars, apron ties and accessories must be anatomically coherent and face the same direction. No ID cards or lanyards. Gold bars, coins and rings have entirely smooth unmarked surfaces. Receipts, banknotes, calendars, calculators, scales and price boards have NO letters, digits, symbols, lines resembling writing or logos. Blank calculator screen and blank unlabeled keys. Do not draw any text, letters, numbers, logos or watermarks. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png"
+    ]
+  },
+  {
+    "image": "anh/canh-08.png",
+    "prompt": "Use case: illustration-story. One full-bleed 16:9 still for a Vietnamese financial explainer. Flat 2D cartoon, thick clean dark-brown outlines, warm cream and gold palette, simple cel shading, same visual world as Bác Sáu. Bác Sáu is EXACTLY the attached male reference: mature Vietnamese retired accountant, salt-and-pepper side-part hair, rectangular glasses, blue pen behind ear, beige checkered short-sleeve shirt, brown trousers. There must be exactly ONE Bác Sáu. Do not duplicate him. Bác Sáu closes his red ledger and places a tiny unmarked gold bar on top, calm wise half-smile. One coherent scene, no split panels, no captions. All hands, torso, collars, apron ties and accessories must be anatomically coherent and face the same direction. No ID cards or lanyards. Gold bars, coins and rings have entirely smooth unmarked surfaces. Receipts, banknotes, calendars, calculators, scales and price boards have NO letters, digits, symbols, lines resembling writing or logos. Blank calculator screen and blank unlabeled keys. Do not draw any text, letters, numbers, logos or watermarks. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png"
+    ]
+  },
+  {
+    "image": "anh/canh-09.png",
+    "prompt": "Use case: illustration-story. One full-bleed 16:9 still for a Vietnamese financial explainer. Flat 2D cartoon, thick clean dark-brown outlines, warm cream and gold palette, simple cel shading, same visual world as Bác Sáu. Objects-only still life or conceptual diorama; absolutely no people, faces, bodies, hands, mannequins or human silhouettes unless explicitly described in the scene. Small tree growing in a clay pot with plain gold coins at roots, blank calendar pages nearby, patient hopeful mood. One coherent scene, no split panels, no captions. All hands, torso, collars, apron ties and accessories must be anatomically coherent and face the same direction. No ID cards or lanyards. Gold bars, coins and rings have entirely smooth unmarked surfaces. Receipts, banknotes, calendars, calculators, scales and price boards have NO letters, digits, symbols, lines resembling writing or logos. Blank calculator screen and blank unlabeled keys. Do not draw any text, letters, numbers, logos or watermarks. No text, letters, numbers, logos or watermarks.",
+    "refs": []
+  },
+  {
+    "image": "anh/canh-10.png",
+    "prompt": "Use case: illustration-story. One full-bleed 16:9 still for a Vietnamese financial explainer. Flat 2D cartoon, thick clean dark-brown outlines, warm cream and gold palette, simple cel shading, same visual world as Bác Sáu. Bác Sáu is EXACTLY the attached male reference: mature Vietnamese retired accountant, salt-and-pepper side-part hair, rectangular glasses, blue pen behind ear, beige checkered short-sleeve shirt, brown trousers. There must be exactly ONE Bác Sáu. Do not duplicate him. Bác Sáu raises one hand clearly showing five fingers, red ledger and plain ring on desk. One coherent scene, no split panels, no captions. All hands, torso, collars, apron ties and accessories must be anatomically coherent and face the same direction. No ID cards or lanyards. Gold bars, coins and rings have entirely smooth unmarked surfaces. Receipts, banknotes, calendars, calculators, scales and price boards have NO letters, digits, symbols, lines resembling writing or logos. Blank calculator screen and blank unlabeled keys. Do not draw any text, letters, numbers, logos or watermarks. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png"
+    ]
+  },
+  {
+    "image": "anh/canh-11.png",
+    "prompt": "Use case: illustration-story. One full-bleed 16:9 still for a Vietnamese financial explainer. Flat 2D cartoon, thick clean dark-brown outlines, warm cream and gold palette, simple cel shading, same visual world as Bác Sáu. Use BOTH attached references for separate identities: Bác Sáu is the old man in beige checkered shirt, glasses and blue pen; Chị Hai is the mature woman with bun, light brown áo bà ba and apron. Cloth pouch has no shoulder strap; hat stays on her back if visible. Chị Hai smiles behind her steaming sticky-rice cart while Bác Sáu buys a small packet, golden sunrise. One coherent scene, no split panels, no captions. All hands, torso, collars, apron ties and accessories must be anatomically coherent and face the same direction. No ID cards or lanyards. Gold bars, coins and rings have entirely smooth unmarked surfaces. Receipts, banknotes, calendars, calculators, scales and price boards have NO letters, digits, symbols, lines resembling writing or logos. Blank calculator screen and blank unlabeled keys. Do not draw any text, letters, numbers, logos or watermarks. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png",
+      "assets/nhan-vat/chi-hai.png"
+    ]
+  },
+  {
+    "image": "anh/thumbnail.png",
+    "prompt": "Use case: illustration-story. One full-bleed 16:9 still for a Vietnamese financial explainer. Flat 2D cartoon, thick clean dark-brown outlines, warm cream and gold palette, simple cel shading, same visual world as Bác Sáu. Bác Sáu is EXACTLY the attached male reference: mature Vietnamese retired accountant, salt-and-pepper side-part hair, rectangular glasses, blue pen behind ear, beige checkered short-sleeve shirt, brown trousers. There must be exactly ONE Bác Sáu. Do not duplicate him. YouTube thumbnail background. Bác Sáu on RIGHT two-thirds behind a glowing glass gold counter, holding a small unmarked gold bar and pointing with other hand to two entirely blank colored price columns. Expressive knowing half-smile. Leave LEFT THIRD mostly empty cream wall for code-rendered title. High contrast face, coherent two hands. One coherent scene, no split panels, no captions. All hands, torso, collars, apron ties and accessories must be anatomically coherent and face the same direction. No ID cards or lanyards. Gold bars, coins and rings have entirely smooth unmarked surfaces. Receipts, banknotes, calendars, calculators, scales and price boards have NO letters, digits, symbols, lines resembling writing or logos. Blank calculator screen and blank unlabeled keys. Do not draw any text, letters, numbers, logos or watermarks. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png"
+    ]
+  }
+]

@@ -1,0 +1,615 @@
+{
+  "checked_at": "2026-10-29T07:39:09.567273+07:00",
+  "scene1_listened_by_owner": true,
+  "full_episode_listened": true,
+  "release_ready": false,
+  "media": {
+    "long": {
+      "file": "D:\\Repo\\chu-tu-ranh-do\\remotion\\out\\wifi-long-review-v1.mp4",
+      "sha256": "508b53495f183af1f4f36b7ce45f9dbbcd24bb218b44e0ca8d333f78558de4f5",
+      "bytes": 28358504,
+      "probe": {
+        "streams": [
+          {
+            "index": 0,
+            "codec_name": "h264",
+            "codec_long_name": "H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10",
+            "profile": "High",
+            "codec_type": "video",
+            "codec_tag_string": "avc1",
+            "codec_tag": "0x31637661",
+            "mime_codec_string": "avc1.640028",
+            "width": 1920,
+            "height": 1080,
+            "coded_width": 1920,
+            "coded_height": 1080,
+            "has_b_frames": 2,
+            "sample_aspect_ratio": "1:1",
+            "display_aspect_ratio": "16:9",
+            "pix_fmt": "yuvj420p",
+            "level": 40,
+            "color_range": "pc",
+            "color_space": "bt470bg",
+            "chroma_location": "center",
+            "field_order": "progressive",
+            "is_avc": "true",
+            "nal_length_size": "4",
+            "id": "0x1",
+            "r_frame_rate": "30/1",
+            "avg_frame_rate": "30/1",
+            "time_base": "1/90000",
+            "start_pts": 0,
+            "start_time": "0.000000",
+            "duration_ts": 43086000,
+            "duration": "478.733333",
+            "bit_rate": "279293",
+            "bits_per_raw_sample": "8",
+            "nb_frames": "14362",
+            "extradata_size": 51,
+            "disposition": {
+              "default": 1,
+              "dub": 0,
+              "original": 0,
+              "comment": 0,
+              "lyrics": 0,
+              "karaoke": 0,
+              "forced": 0,
+              "hearing_impaired": 0,
+              "visual_impaired": 0,
+              "clean_effects": 0,
+              "attached_pic": 0,
+              "timed_thumbnails": 0,
+              "non_diegetic": 0,
+              "captions": 0,
+              "descriptions": 0,
+              "metadata": 0,
+              "dependent": 0,
+              "still_image": 0,
+              "multilayer": 0
+            },
+            "tags": {
+              "language": "und",
+              "handler_name": "VideoHandler"
+            },
+            "side_data_list": [
+              {
+                "side_data_type": "ICC Profile"
+              }
+            ]
+          },
+          {
+            "index": 1,
+            "codec_name": "aac",
+            "codec_long_name": "AAC (Advanced Audio Coding)",
+            "profile": "LC",
+            "codec_type": "audio",
+            "codec_tag_string": "mp4a",
+            "codec_tag": "0x6134706d",
+            "mime_codec_string": "mp4a.40.2",
+            "sample_fmt": "fltp",
+            "sample_rate": "48000",
+            "channels": 2,
+            "channel_layout": "stereo",
+            "bits_per_sample": 0,
+            "initial_padding": 1024,
+            "id": "0x2",
+            "r_frame_rate": "0/0",
+            "avg_frame_rate": "0/0",
+            "time_base": "1/48000",
+            "start_pts": 0,
+            "start_time": "0.000000",
+            "duration_ts": 22982400,
+            "duration": "478.800000",
+            "bit_rate": "185728",
+            "nb_frames": "22442",
+            "extradata_size": 5,
+            "disposition": {
+              "default": 1,
+              "dub": 0,
+              "original": 0,
+              "comment": 0,
+              "lyrics": 0,
+              "karaoke": 0,
+              "forced": 0,
+              "hearing_impaired": 0,
+              "visual_impaired": 0,
+              "clean_effects": 0,
+              "attached_pic": 0,
+              "timed_thumbnails": 0,
+              "non_diegetic": 0,
+              "captions": 0,
+              "descriptions": 0,
+              "metadata": 0,
+              "dependent": 0,
+              "still_image": 0,
+              "multilayer": 0
+            },
+            "tags": {
+              "language": "und",
+              "handler_name": "SoundHandler"
+            }
+          }
+        ],
+        "format": {
+          "filename": "D:\\Repo\\chu-tu-ranh-do\\remotion\\out\\wifi-long-review-v1.mp4",
+          "nb_streams": 2,
+          "nb_programs": 0,
+          "nb_stream_groups": 0,
+          "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+          "format_long_name": "QuickTime / MOV",
+          "start_time": "0.000000",
+          "duration": "478.800000",
+          "size": "28358504",
+          "bit_rate": "473826",
+          "probe_score": 100,
+          "tags": {
+            "major_brand": "isom",
+            "minor_version": "512",
+            "compatible_brands": "isomiso2avc1mp41",
+            "encoder": "Lavf63.1.101",
+            "comment": "Made with Remotion 4.0.539"
+          }
+        }
+      },
+      "loudness_before": {
+        "input_i": "-20.82",
+        "input_tp": "-5.11",
+        "input_lra": "2.00",
+        "input_thresh": "-31.00",
+        "output_i": "-16.04",
+        "output_tp": "-2.50",
+        "output_lra": "2.00",
+        "output_thresh": "-26.24",
+        "normalization_type": "dynamic",
+        "target_offset": "0.04"
+      },
+      "measured_final_aac": {
+        "input_i": "-16.03",
+        "input_tp": "-2.26",
+        "input_lra": "2.00",
+        "input_thresh": "-26.23",
+        "output_i": "-16.00",
+        "output_tp": "-2.50",
+        "output_lra": "2.00",
+        "output_thresh": "-26.20",
+        "normalization_type": "dynamic",
+        "target_offset": "0.00"
+      },
+      "full_decode": "passed"
+    },
+    "short": {
+      "file": "D:\\Repo\\chu-tu-ranh-do\\remotion\\out\\wifi-short-review-v1.mp4",
+      "sha256": "74f440e1241990d45e2285a3308d597e33f87b94406adfc5c18bbd1da4faa9c5",
+      "bytes": 1925352,
+      "probe": {
+        "streams": [
+          {
+            "index": 0,
+            "codec_name": "h264",
+            "codec_long_name": "H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10",
+            "profile": "High",
+            "codec_type": "video",
+            "codec_tag_string": "avc1",
+            "codec_tag": "0x31637661",
+            "mime_codec_string": "avc1.640028",
+            "width": 1080,
+            "height": 1920,
+            "coded_width": 1080,
+            "coded_height": 1920,
+            "has_b_frames": 2,
+            "sample_aspect_ratio": "1:1",
+            "display_aspect_ratio": "9:16",
+            "pix_fmt": "yuvj420p",
+            "level": 40,
+            "color_range": "pc",
+            "color_space": "bt470bg",
+            "chroma_location": "center",
+            "field_order": "progressive",
+            "is_avc": "true",
+            "nal_length_size": "4",
+            "id": "0x1",
+            "r_frame_rate": "30/1",
+            "avg_frame_rate": "30/1",
+            "time_base": "1/90000",
+            "start_pts": 0,
+            "start_time": "0.000000",
+            "duration_ts": 3276000,
+            "duration": "36.400000",
+            "bit_rate": "228563",
+            "bits_per_raw_sample": "8",
+            "nb_frames": "1092",
+            "extradata_size": 51,
+            "disposition": {
+              "default": 1,
+              "dub": 0,
+              "original": 0,
+              "comment": 0,
+              "lyrics": 0,
+              "karaoke": 0,
+              "forced": 0,
+              "hearing_impaired": 0,
+              "visual_impaired": 0,
+              "clean_effects": 0,
+              "attached_pic": 0,
+              "timed_thumbnails": 0,
+              "non_diegetic": 0,
+              "captions": 0,
+              "descriptions": 0,
+              "metadata": 0,
+              "dependent": 0,
+              "still_image": 0,
+              "multilayer": 0
+            },
+            "tags": {
+              "language": "und",
+              "handler_name": "VideoHandler"
+            },
+            "side_data_list": [
+              {
+                "side_data_type": "ICC Profile"
+              }
+            ]
+          },
+          {
+            "index": 1,
+            "codec_name": "aac",
+            "codec_long_name": "AAC (Advanced Audio Coding)",
+            "profile": "LC",
+            "codec_type": "audio",
+            "codec_tag_string": "mp4a",
+            "codec_tag": "0x6134706d",
+            "mime_codec_string": "mp4a.40.2",
+            "sample_fmt": "fltp",
+            "sample_rate": "48000",
+            "channels": 2,
+            "channel_layout": "stereo",
+            "bits_per_sample": 0,
+            "initial_padding": 1024,
+            "id": "0x2",
+            "r_frame_rate": "0/0",
+            "avg_frame_rate": "0/0",
+            "time_base": "1/48000",
+            "start_pts": 0,
+            "start_time": "0.000000",
+            "duration_ts": 1747200,
+            "duration": "36.400000",
+            "bit_rate": "185237",
+            "nb_frames": "1707",
+            "extradata_size": 5,
+            "disposition": {
+              "default": 1,
+              "dub": 0,
+              "original": 0,
+              "comment": 0,
+              "lyrics": 0,
+              "karaoke": 0,
+              "forced": 0,
+              "hearing_impaired": 0,
+              "visual_impaired": 0,
+              "clean_effects": 0,
+              "attached_pic": 0,
+              "timed_thumbnails": 0,
+              "non_diegetic": 0,
+              "captions": 0,
+              "descriptions": 0,
+              "metadata": 0,
+              "dependent": 0,
+              "still_image": 0,
+              "multilayer": 0
+            },
+            "tags": {
+              "language": "und",
+              "handler_name": "SoundHandler"
+            }
+          }
+        ],
+        "format": {
+          "filename": "D:\\Repo\\chu-tu-ranh-do\\remotion\\out\\wifi-short-review-v1.mp4",
+          "nb_streams": 2,
+          "nb_programs": 0,
+          "nb_stream_groups": 0,
+          "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+          "format_long_name": "QuickTime / MOV",
+          "start_time": "0.000000",
+          "duration": "36.400000",
+          "size": "1925352",
+          "bit_rate": "423154",
+          "probe_score": 100,
+          "tags": {
+            "major_brand": "isom",
+            "minor_version": "512",
+            "compatible_brands": "isomiso2avc1mp41",
+            "encoder": "Lavf63.1.101",
+            "comment": "Made with Remotion 4.0.539"
+          }
+        }
+      },
+      "loudness_before": {
+        "input_i": "-20.94",
+        "input_tp": "-5.24",
+        "input_lra": "1.80",
+        "input_thresh": "-31.08",
+        "output_i": "-14.09",
+        "output_tp": "-2.50",
+        "output_lra": "2.10",
+        "output_thresh": "-24.27",
+        "normalization_type": "dynamic",
+        "target_offset": "0.09"
+      },
+      "measured_final_aac": {
+        "input_i": "-14.07",
+        "input_tp": "-2.32",
+        "input_lra": "1.70",
+        "input_thresh": "-24.23",
+        "output_i": "-13.89",
+        "output_tp": "-2.50",
+        "output_lra": "2.20",
+        "output_thresh": "-24.07",
+        "normalization_type": "dynamic",
+        "target_offset": "-0.11"
+      },
+      "full_decode": "passed"
+    }
+  },
+  "original_audio_hashes": [
+    {
+      "scene": 1,
+      "sha256": "da0e05e7b48e383f7aed09b2da062edaf0167742cc73c73811f6775a6de51b1f"
+    },
+    {
+      "scene": 2,
+      "sha256": "f674f5000f59d8403bb96c419b356875c5931fde53a64c118be5457c70db67d3"
+    },
+    {
+      "scene": 3,
+      "sha256": "b3cc82a677d0e50ce5b48cb0a9098cff67f96fc6c06b667612e41c6cfd7ebc7d"
+    },
+    {
+      "scene": 4,
+      "sha256": "2bec8855c1cfb1864537a729671fa97c9a63b8e49fd7782f12b765287663c49e"
+    },
+    {
+      "scene": 5,
+      "sha256": "5655a73845fcd80d03d20afcd2afafeb907a556275b199f2f3e4bcb595d822e3"
+    },
+    {
+      "scene": 6,
+      "sha256": "a55c8de9d9a19c6258d7847bda7e66485256de6bb99a859cfacd9dbcbea0e5a5"
+    },
+    {
+      "scene": 7,
+      "sha256": "912f510a91869b4888d1d33a8a44207687dc617fea25ffaed8071e5953f8df11"
+    },
+    {
+      "scene": 8,
+      "sha256": "b6f0f5d0837bca2264a97d189bcff0faab721be4c2ced70b2edc799ad4e982e3"
+    },
+    {
+      "scene": 9,
+      "sha256": "77dcd239e7fea1aea50d4d7d539e4f51a52c598c4f83e73f540711d37660d996"
+    },
+    {
+      "scene": 10,
+      "sha256": "7dd93b634b579758af9f84dac29c9f6d6f028640f69a9ddb1e3a1e6b206d56fd"
+    },
+    {
+      "scene": 11,
+      "sha256": "6ac5e64b7a528068cec8f9386c7898b5e8d6f86267a8373a3881816fd1f33629"
+    },
+    {
+      "scene": 12,
+      "sha256": "4883b47498d215b6d90e1e22b5aaf84cede5e8092c4a550f14ff7d0d1427306c"
+    }
+  ],
+  "visual_review": {
+    "status": "passed_for_sampled_frames",
+    "long_frames": 64,
+    "short_frames": 10,
+    "coverage": "All12 scenes/36 beats, each scene last frame sample, numeric/recap cues immediately before and after; 4 full-resolution spot checks",
+    "limitations": "Sampled frames are not continuous playback; no direct listening by agent"
+  },
+  "tts_requests_added_by_this_script": 0,
+  "source_script_sha256": "0549de6b2f86ad28d6ec7d77388367cb86ca8e9e719a0b4cdc480984b7056df5",
+  "no_upload_attempted": true,
+  "scene_audio_hashes": [
+    {
+      "scene": 1,
+      "audio_sha256": "23b6cfcfe23974922b7e07bec459b24ec65800b1a3d7a34b5c669d03670fc2ba",
+      "duration": 30.962,
+      "words": 101,
+      "beat_frames": [
+        0,
+        311,
+        671
+      ],
+      "cue_frames": {
+        "bedroom": 88,
+        "loading": 155
+      }
+    },
+    {
+      "scene": 2,
+      "audio_sha256": "56db2b6061bf1cbbc0dfa19d4d70738e7a85cdf59e2b87673a868138ae709e94",
+      "duration": 36.386,
+      "words": 120,
+      "beat_frames": [
+        0,
+        447,
+        911
+      ],
+      "cue_frames": {}
+    },
+    {
+      "scene": 3,
+      "audio_sha256": "6aabc20976abea4769f8f486882c7d82c050920c1b8e4317990f6d6b2ce1053a",
+      "duration": 40.204,
+      "words": 133,
+      "beat_frames": [
+        0,
+        418,
+        788
+      ],
+      "cue_frames": {
+        "service": 225,
+        "wifi": 370,
+        "upgrade": 470,
+        "percent": 517
+      }
+    },
+    {
+      "scene": 4,
+      "audio_sha256": "72c86d60f2a66076718202d6dd207612e39db36d5c0544fe3bf926320a678e19",
+      "duration": 41.459,
+      "words": 138,
+      "beat_frames": [
+        0,
+        333,
+        743
+      ],
+      "cue_frames": {}
+    },
+    {
+      "scene": 5,
+      "audio_sha256": "491a4c1d320e4c1f9eed35251c581705e70f5a10f03f98ac39404718c69c6b2e",
+      "duration": 44.652,
+      "words": 146,
+      "beat_frames": [
+        0,
+        413,
+        927
+      ],
+      "cue_frames": {}
+    },
+    {
+      "scene": 6,
+      "audio_sha256": "14e7dbe960408e4651e309f40cc085d29ef00257c4687a99fdd23554d6f0ff3d",
+      "duration": 37.714,
+      "words": 127,
+      "beat_frames": [
+        0,
+        250,
+        649
+      ],
+      "cue_frames": {}
+    },
+    {
+      "scene": 7,
+      "audio_sha256": "b89e4ec4f2767bbcc816b171614166d7fb7602f3e96a0ead003f93d73eb2f941",
+      "duration": 39.584,
+      "words": 137,
+      "beat_frames": [
+        0,
+        479,
+        777
+      ],
+      "cue_frames": {}
+    },
+    {
+      "scene": 8,
+      "audio_sha256": "67f959457c8145d4c05ecee9ca89beb4d9ca5386b5de3a81894ddf64f7c39548",
+      "duration": 40.837,
+      "words": 135,
+      "beat_frames": [
+        0,
+        405,
+        908
+      ],
+      "cue_frames": {}
+    },
+    {
+      "scene": 9,
+      "audio_sha256": "c2ad7dc0b8002928e34473760cfa5b8a6c7aec717622264670d8c2adb05406fd",
+      "duration": 45.277,
+      "words": 148,
+      "beat_frames": [
+        0,
+        325,
+        756
+      ],
+      "cue_frames": {}
+    },
+    {
+      "scene": 10,
+      "audio_sha256": "a2e030a2209edbb5f2d466383f6fc117d809f3298c56a841ec471f7c33ff6b26",
+      "duration": 36.56,
+      "words": 118,
+      "beat_frames": [
+        0,
+        421,
+        769
+      ],
+      "cue_frames": {}
+    },
+    {
+      "scene": 11,
+      "audio_sha256": "834a50b7ac0e1278bdc2b2c040a36cc53520c29d4465c4b2e997d7c1350aeee2",
+      "duration": 40.56,
+      "words": 132,
+      "beat_frames": [
+        0,
+        349,
+        767
+      ],
+      "cue_frames": {}
+    },
+    {
+      "scene": 12,
+      "audio_sha256": "1bbe65acdc97e4a0c8c5144bf97f781a761ae9e88151428a02694eec0e34db0c",
+      "duration": 44.366,
+      "words": 146,
+      "beat_frames": [
+        0,
+        293,
+        823
+      ],
+      "cue_frames": {
+        "recap0": 345,
+        "recap1": 419,
+        "recap2": 475,
+        "recap3": 557
+      }
+    }
+  ],
+  "typecheck": "passed after FloorPlan/Placement/Short changes",
+  "python_tests": "17 passed with PYTHONUTF8=1 before render",
+  "release_gate": "Owner listening passed. Separate release masters without review labels and final output QA still required before upload.",
+  "tts": {
+    "total_request_markers": 100,
+    "new_since_scene1": 92,
+    "missing_saved_wav": 0,
+    "provider": "vsp",
+    "voice": "vi-thai-son",
+    "model": "vieneu-v3-turbo",
+    "original_scene1_unchanged": true,
+    "resynthesis_for_alignment": false
+  },
+  "short_listened": true,
+  "listened_by": "channel_owner_direct_reply",
+  "agent_direct_listening": false,
+  "owner_listening_approval": {
+    "recorded_at": "2026-10-29T10:33:04+07:00",
+    "channel_id": "UCMDWcpFr6SZ1Nk7_ffVGTVA",
+    "episode_slug": "01-wifi-khac-goi-mang",
+    "approved_by": "channel_owner_direct_chat_reply",
+    "owner_feedback_verbatim": "Đã nghe cả hai, không thấy lỗi",
+    "scope": "Owner listened to entire long review MP4 and Short; no speech, joins or subtitle issues reported",
+    "full_episode_listening_complete": true,
+    "short_listening_complete": true,
+    "agent_direct_listening": false,
+    "reviewed_assets": [
+      {
+        "type": "long",
+        "path": "remotion/out/wifi-long-review-v1.mp4",
+        "sha256": "508b53495f183af1f4f36b7ce45f9dbbcd24bb218b44e0ca8d333f78558de4f5"
+      },
+      {
+        "type": "short",
+        "path": "remotion/out/wifi-short-review-v1.mp4",
+        "sha256": "74f440e1241990d45e2285a3308d597e33f87b94406adfc5c18bbd1da4faa9c5"
+      }
+    ],
+    "publication_completed": false,
+    "release_master_created": false,
+    "next_step": "Produce separate release files without review labels using approved existing audio; validate final files before upload"
+  }
+}

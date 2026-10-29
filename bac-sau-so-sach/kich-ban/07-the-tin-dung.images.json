@@ -1,0 +1,80 @@
+[
+  {
+    "image": "anh/canh-01.png",
+    "prompt": "Flat 2D cartoon, thick outlines, warm colors, 16:9. Use both character references. Ut holds a plain teal card and blank statement at a Vietnamese home table, puzzled; Bac Sau calmly opens his red ledger. Three-quarter view, no lanyards. No readable text, numbers, brands or watermark. One blue pen behind his ear, two arms each. One coherent full-bleed illustration, not a collage. Cream, muted teal and warm brown palette, gentle cel shading. All papers, calendars, receipts, screens, card faces, coins and keys must be completely blank and unlabeled, no handwriting-like strokes, letters, digits, money denominations, logos, speech bubbles, diagrams or watermarks. Natural anatomy and correct orientation of collars, wrists and bag straps. No ID badges or lanyards. Match each referenced identity exactly; do not blend them. Bac Sau has rectangular glasses, beige checked shirt, brown trousers and exactly one blue pen behind his ear, and a red ledger. Ut has high black ponytail, white short sleeve blouse, beige trousers and a brown bag. No glasses or pen on Ut.",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png",
+      "assets/nhan-vat/con-ut.png"
+    ]
+  },
+  {
+    "image": "anh/canh-02.png",
+    "prompt": "Flat 2D cartoon, thick outlines, warm colors, 16:9. Top-down wooden desk: one large blank statement beside a smaller blank slip, plain teal card, unmarked calendar and closed envelope. No hands or people. Separated shapes, soft afternoon light. No text, numbers, logos or watermark. One coherent full-bleed illustration, not a collage. Cream, muted teal and warm brown palette, gentle cel shading. All papers, calendars, receipts, screens, card faces, coins and keys must be completely blank and unlabeled, no handwriting-like strokes, letters, digits, money denominations, logos, speech bubbles, diagrams or watermarks. Natural anatomy and correct orientation of collars, wrists and bag straps. No ID badges or lanyards. Match each referenced identity exactly; do not blend them. Objects only, no human bodies, faces, arms or hands.",
+    "refs": []
+  },
+  {
+    "image": "anh/canh-03.png",
+    "prompt": "Flat 2D cartoon, thick outlines, warm colors, 16:9. Reference Ut only. Ut near a sunny window compares a blank calendar and three small clocks without numerals. Brown crossbody bag at her side, no lanyard, thoughtful expression, spacious composition. No readable text, digits, logos or watermark. One coherent full-bleed illustration, not a collage. Cream, muted teal and warm brown palette, gentle cel shading. All papers, calendars, receipts, screens, card faces, coins and keys must be completely blank and unlabeled, no handwriting-like strokes, letters, digits, money denominations, logos, speech bubbles, diagrams or watermarks. Natural anatomy and correct orientation of collars, wrists and bag straps. No ID badges or lanyards. Match each referenced identity exactly; do not blend them. Ut has high black ponytail, white short sleeve blouse, beige trousers and a brown bag. No glasses or pen on Ut. Exactly one person: Ut only. No older accountant.",
+    "refs": [
+      "assets/nhan-vat/con-ut.png"
+    ]
+  },
+  {
+    "image": "anh/canh-04.png",
+    "prompt": "Flat 2D cartoon, thick outlines, warm colors, 16:9. Reference Bac Sau only. Three-quarter view, he arranges plain coin stacks in two separated rows on a table beside his red ledger and a plain clock. One hand moves one coin, other visibly rests on ledger. No writing, digits, calculator labels, logos or watermark. One coherent full-bleed illustration, not a collage. Cream, muted teal and warm brown palette, gentle cel shading. All papers, calendars, receipts, screens, card faces, coins and keys must be completely blank and unlabeled, no handwriting-like strokes, letters, digits, money denominations, logos, speech bubbles, diagrams or watermarks. Natural anatomy and correct orientation of collars, wrists and bag straps. No ID badges or lanyards. Match each referenced identity exactly; do not blend them. Bac Sau has rectangular glasses, beige checked shirt, brown trousers and exactly one blue pen behind his ear, and a red ledger. Exactly one person: Bac Sau only. No young woman.",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png"
+    ]
+  },
+  {
+    "image": "anh/canh-05.png",
+    "prompt": "Flat 2D cartoon, thick outlines, warm colors, 16:9. Reference Ut only. Ut points at one small plain coin beside a much larger pile of unmarked coins and blank statement envelope on a home table, realizing a mismatch. Teal card flat on table, natural hands. No readable text, numbers, logos or watermark. One coherent full-bleed illustration, not a collage. Cream, muted teal and warm brown palette, gentle cel shading. All papers, calendars, receipts, screens, card faces, coins and keys must be completely blank and unlabeled, no handwriting-like strokes, letters, digits, money denominations, logos, speech bubbles, diagrams or watermarks. Natural anatomy and correct orientation of collars, wrists and bag straps. No ID badges or lanyards. Match each referenced identity exactly; do not blend them. Ut has high black ponytail, white short sleeve blouse, beige trousers and a brown bag. No glasses or pen on Ut. Exactly one person: Ut only. No older accountant.",
+    "refs": [
+      "assets/nhan-vat/con-ut.png"
+    ]
+  },
+  {
+    "image": "anh/canh-06.png",
+    "prompt": "Flat 2D cartoon, thick outlines, warm colors, 16:9. Use both references. Bac Sau and Ut compare two plain envelopes placed apart on a desk. He gestures with an open palm; she holds a blank paper. Red ledger centered, natural hands, no text, numbers, brands or watermark. One coherent full-bleed illustration, not a collage. Cream, muted teal and warm brown palette, gentle cel shading. All papers, calendars, receipts, screens, card faces, coins and keys must be completely blank and unlabeled, no handwriting-like strokes, letters, digits, money denominations, logos, speech bubbles, diagrams or watermarks. Natural anatomy and correct orientation of collars, wrists and bag straps. No ID badges or lanyards. Match each referenced identity exactly; do not blend them. Bac Sau has rectangular glasses, beige checked shirt, brown trousers and exactly one blue pen behind his ear, and a red ledger. Ut has high black ponytail, white short sleeve blouse, beige trousers and a brown bag. No glasses or pen on Ut.",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png",
+      "assets/nhan-vat/con-ut.png"
+    ]
+  },
+  {
+    "image": "anh/canh-07.png",
+    "prompt": "Flat 2D cartoon, thick outlines, warm colors, 16:9. Shop checkout still life, generic POS terminal with blank screen and unlabeled keys, plain teal card, three separate trays of unmarked coins, blank receipt and shopping bag. No people or hands, no text, digits, logos or watermark. One coherent full-bleed illustration, not a collage. Cream, muted teal and warm brown palette, gentle cel shading. All papers, calendars, receipts, screens, card faces, coins and keys must be completely blank and unlabeled, no handwriting-like strokes, letters, digits, money denominations, logos, speech bubbles, diagrams or watermarks. Natural anatomy and correct orientation of collars, wrists and bag straps. No ID badges or lanyards. Match each referenced identity exactly; do not blend them. Objects only, no human bodies, faces, arms or hands.",
+    "refs": []
+  },
+  {
+    "image": "anh/canh-08.png",
+    "prompt": "Flat 2D cartoon, thick outlines, warm colors, 16:9. Reference Ut only. Ut beside a generic unbranded cash machine in a quiet lobby, holding a plain envelope, cautious. Front three-quarter torso, blouse collar and brown bag strap follow body naturally. Blank ATM screen and unlabeled keypad. No text, numbers, logos, badges or watermark. One coherent full-bleed illustration, not a collage. Cream, muted teal and warm brown palette, gentle cel shading. All papers, calendars, receipts, screens, card faces, coins and keys must be completely blank and unlabeled, no handwriting-like strokes, letters, digits, money denominations, logos, speech bubbles, diagrams or watermarks. Natural anatomy and correct orientation of collars, wrists and bag straps. No ID badges or lanyards. Match each referenced identity exactly; do not blend them. Ut has high black ponytail, white short sleeve blouse, beige trousers and a brown bag. No glasses or pen on Ut. Exactly one person: Ut only. No older accountant.",
+    "refs": [
+      "assets/nhan-vat/con-ut.png"
+    ]
+  },
+  {
+    "image": "anh/canh-09.png",
+    "prompt": "Flat 2D cartoon, thick outlines, warm colors, 16:9. Use both references. Bac Sau points at two distinct envelopes while Ut compares a blank phone screen with blank statement paper. Natural visible hands, red ledger and teal card apart on desk. No text, digits, logos or watermark. One coherent full-bleed illustration, not a collage. Cream, muted teal and warm brown palette, gentle cel shading. All papers, calendars, receipts, screens, card faces, coins and keys must be completely blank and unlabeled, no handwriting-like strokes, letters, digits, money denominations, logos, speech bubbles, diagrams or watermarks. Natural anatomy and correct orientation of collars, wrists and bag straps. No ID badges or lanyards. Match each referenced identity exactly; do not blend them. Bac Sau has rectangular glasses, beige checked shirt, brown trousers and exactly one blue pen behind his ear, and a red ledger. Ut has high black ponytail, white short sleeve blouse, beige trousers and a brown bag. No glasses or pen on Ut.",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png",
+      "assets/nhan-vat/con-ut.png"
+    ]
+  },
+  {
+    "image": "anh/canh-10.png",
+    "prompt": "Flat 2D cartoon, thick outlines, warm colors, 16:9. Use both references. At a home table Ut puts a plain teal card into her brown wallet while Bac Sau closes his red ledger. Friendly resolved expressions, faces in upper half, clean space below for captions. One blue pen behind his ear. No text, numbers, logos, watermark or extra limbs. One coherent full-bleed illustration, not a collage. Cream, muted teal and warm brown palette, gentle cel shading. All papers, calendars, receipts, screens, card faces, coins and keys must be completely blank and unlabeled, no handwriting-like strokes, letters, digits, money denominations, logos, speech bubbles, diagrams or watermarks. Natural anatomy and correct orientation of collars, wrists and bag straps. No ID badges or lanyards. Match each referenced identity exactly; do not blend them. Bac Sau has rectangular glasses, beige checked shirt, brown trousers and exactly one blue pen behind his ear, and a red ledger. Ut has high black ponytail, white short sleeve blouse, beige trousers and a brown bag. No glasses or pen on Ut.",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png",
+      "assets/nhan-vat/con-ut.png"
+    ]
+  },
+  {
+    "image": "anh/thumbnail.png",
+    "prompt": "Flat 2D cartoon, thick outlines, warm colors, 16:9. Use Bac Sau and Ut character references. Large faces on RIGHT TWO THIRDS; Ut holds a plain teal card and blank statement, surprised; Bac Sau holds his red ledger, thoughtful. LEFT THIRD clean dark teal negative space. No text, numbers, logos or watermark. Correct anatomy, one blue pen behind his ear. One coherent full-bleed illustration, not a collage. Cream, muted teal and warm brown palette, gentle cel shading. All papers, calendars, receipts, screens, card faces, coins and keys must be completely blank and unlabeled, no handwriting-like strokes, letters, digits, money denominations, logos, speech bubbles, diagrams or watermarks. Natural anatomy and correct orientation of collars, wrists and bag straps. No ID badges or lanyards. Match each referenced identity exactly; do not blend them. Bac Sau has rectangular glasses, beige checked shirt and exactly one blue pen behind his ear; Ut has high black ponytail, white short sleeve blouse and beige trousers.",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png",
+      "assets/nhan-vat/con-ut.png"
+    ]
+  }
+]

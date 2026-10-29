@@ -1,0 +1,213 @@
+{
+  "mode": "built-in image_gen",
+  "reviewedOn": "2026-10-20",
+  "all164ImagesReviewed": true,
+  "revisionHistory": [
+    {
+      "image": "anh/canh-05.png",
+      "prompt": "Edit only the tiny manufacturer lettering or badge on the motorcycle seat and side panels: remove it completely and continue the plain worn material underneath. Preserve exactly the motorbike design, repair shop, composition, lighting and all objects. No text, letters, numbers, logos or watermarks anywhere."
+    },
+    {
+      "image": "anh/canh-09.png",
+      "prompt": "Remove the entire calculator from the lower right of the table and replace it with uninterrupted wood tabletop. Keep both men, faces, hands, blue notebook, red ledger, clock, room and warm daylight exactly unchanged. No extra objects or people. No text, letters, numbers, logos or watermarks."
+    },
+    {
+      "image": "anh/shots/canh-01-03.png",
+      "prompt": "Change only lighting and time of day to late night: dark blue night outside, warm porch and indoor lamp light on the same driver and table. Preserve driver identity, pose, face, clothing, hands, helmet, blank phone and parked bike. No new objects or people, no text or logos."
+    },
+    {
+      "image": "anh/shots/canh-01-05.png",
+      "prompt": "Change only time and lighting to late night with dark blue sky and warm streetlamp glow, preserving the same tired driver, hand on forehead, correct two hands, green jacket, helmet, parked bike and all composition. No daylight. No new objects or people, no text or logos."
+    },
+    {
+      "image": "anh/shots/canh-01-07.png",
+      "prompt": "Correct this opening-night story illustration. Remove the entire calculator and fill its space with plain wood tabletop. Change the exterior through doorway to dark night, with warm household lamp light. Preserve exactly Bac Sau's face, hands, glasses, beige checkered shirt, red ledger, iced tea and room composition. Only one man, no other people. No text or logos."
+    },
+    {
+      "image": "anh/shots/canh-01-08.png",
+      "prompt": "Use case: illustration-story. One full-bleed 16:9 flat 2D warm cartoon still. Exactly ONE person: Bac Sau from the attached reference, old Vietnamese accountant, gray side-part hair, rectangular glasses, blue pen, beige checkered shirt and brown trousers. INSIDE his modest home AT NIGHT under warm lamp light, he holds a closed red ledger against his chest with one arm and raises the other palm in a gentle stop gesture toward camera. Medium waist-up portrait, uncluttered wooden room, dark blue night visible at window. No driver, no girl, no customers, no motorbikes, no fuel station, no money, no calculator. Only this one elderly man and the red ledger. Natural hands, correct front-facing shirt. No text, letters, numbers, logos or watermarks."
+    },
+    {
+      "image": "anh/shots/canh-01-09.png",
+      "prompt": "Remove the entire calculator from the foreground, replacing it with plain wood tabletop. Make the exterior beyond doorway dark late night with warm household light inside. Preserve exactly Bac Sau's face, glasses, natural hands, blank phone in one hand, empty coin purse in the other, red ledger, coin pile and existing room composition. No extra people or objects, no text or logos."
+    },
+    {
+      "image": "anh/shots/canh-01-11.png",
+      "prompt": "Use case: illustration-story. One full-bleed 16:9 flat 2D Vietnamese cartoon still in warm cream colors. Exactly one person: Bac Sau, elderly Vietnamese accountant matching reference face, rectangular glasses, gray side-part hair, blue pen behind ear, beige checkered short-sleeve shirt. AT NIGHT inside his home, dark blue sky visible at window and warm table lamp. He separates ONE small pile of completely smooth blank gold disks from several CLOSED plain cream envelopes on a wooden desk; thoughtful gentle expression. A closed red ledger beside him. Medium three-quarter framing, correct natural two hands. No calculator, no banknotes, no receipts, no writing, no other people, no extra props. Coins have NO embossing, pictures, symbols or numbers. Envelopes and ledger entirely blank. Reference sheet specifies person identity only, do not copy calculator. No text, letters, numbers, logos or watermarks."
+    },
+    {
+      "image": "anh/shots/canh-02-02.png",
+      "prompt": "Correct only the driver's arms and helmet accessory: lower both arms naturally, with one hand holding a COMPLETE plain green helmet by its rim at his hip and the other hand relaxed at his side. Remove the loose black helmet strap and red buckle currently floating near his neck. Keep blue mask correctly under chin with ear loops. Keep same face, age, jacket, trousers, motorbike, street, framing and sunlight exactly unchanged. No new characters, no text or logos."
+    },
+    {
+      "image": "anh/shots/canh-02-07.png",
+      "prompt": "Correct only the phone the old accountant is holding. Show its FRONT face toward camera, with a completely blank pale screen, slim dark border and NO rear camera cluster; his pointing index fingertip should naturally touch the front screen. Preserve the old man's exact identity, two natural hands, glasses, blue pen, beige shirt, red ledger, room, motorbike and daytime background. Do not add props or people. No text, letters, numbers, logos or watermarks."
+    },
+    {
+      "image": "anh/shots/canh-05-09.png",
+      "prompt": "Use case: precise-object-edit. Image 1 is the edit target. Keep all characters, identities, anatomy, gestures, clothes, setting, objects and composition unchanged except these precise corrections: make ALL coins completely smooth blank metal disks without letters, digits, currency signs or embossed symbols. Remove any banknotes that have marks, replacing them with completely blank colored paper rectangles. Remove all lettering from wallets and motorcycle panels. Where a finger touches a phone, show its pale cream blank FRONT screen, never a rear camera surface. All phones have no text or icons. A clock must have two distinct natural hands and no digits. No extra objects or people; no writing anywhere. Preserve landscape 16:9."
+    },
+    {
+      "image": "anh/shots/canh-06-06.png",
+      "prompt": "Use case: precise-object-edit. Image 1 is the edit target. Keep all characters, identities, anatomy, gestures, clothes, setting, objects and composition unchanged except these precise corrections: make ALL coins completely smooth blank metal disks without letters, digits, currency signs or embossed symbols. Remove any banknotes that have marks, replacing them with completely blank colored paper rectangles. Remove all lettering from wallets and motorcycle panels. Where a finger touches a phone, show its pale cream blank FRONT screen, never a rear camera surface. All phones have no text or icons. A clock must have two distinct natural hands and no digits. No extra objects or people; no writing anywhere. Preserve landscape 16:9."
+    },
+    {
+      "image": "anh/shots/canh-07-13.png",
+      "prompt": "Use case: precise-object-edit. Image 1 is the edit target. Keep all characters, identities, anatomy, gestures, clothes, setting, objects and composition unchanged except these precise corrections: make ALL coins completely smooth blank metal disks without letters, digits, currency signs or embossed symbols. Remove any banknotes that have marks, replacing them with completely blank colored paper rectangles. Remove all lettering from wallets and motorcycle panels. Where a finger touches a phone, show its pale cream blank FRONT screen, never a rear camera surface. All phones have no text or icons. A clock must have two distinct natural hands and no digits. No extra objects or people; no writing anywhere. Preserve landscape 16:9."
+    },
+    {
+      "image": "anh/shots/canh-07-19.png",
+      "prompt": "Use case: precise-object-edit. Image 1 is the edit target. Keep all characters, identities, anatomy, gestures, clothes, setting, objects and composition unchanged except these precise corrections: make ALL coins completely smooth blank metal disks without letters, digits, currency signs or embossed symbols. Remove any banknotes that have marks, replacing them with completely blank colored paper rectangles. Remove all lettering from wallets and motorcycle panels. Where a finger touches a phone, show its pale cream blank FRONT screen, never a rear camera surface. All phones have no text or icons. A clock must have two distinct natural hands and no digits. No extra objects or people; no writing anywhere. Preserve landscape 16:9."
+    },
+    {
+      "image": "anh/shots/canh-07-20.png",
+      "prompt": "Use case: precise-object-edit. Image 1 is the edit target. Keep all characters, identities, anatomy, gestures, clothes, setting, objects and composition unchanged except these precise corrections: make ALL coins completely smooth blank metal disks without letters, digits, currency signs or embossed symbols. Remove any banknotes that have marks, replacing them with completely blank colored paper rectangles. Remove all lettering from wallets and motorcycle panels. Where a finger touches a phone, show its pale cream blank FRONT screen, never a rear camera surface. All phones have no text or icons. A clock must have two distinct natural hands and no digits. No extra objects or people; no writing anywhere. Preserve landscape 16:9."
+    },
+    {
+      "image": "anh/shots/canh-07-21.png",
+      "prompt": "Use case: precise-object-edit. Image 1 is the edit target. Keep all characters, identities, anatomy, gestures, clothes, setting, objects and composition unchanged except these precise corrections: make ALL coins completely smooth blank metal disks without letters, digits, currency signs or embossed symbols. Remove any banknotes that have marks, replacing them with completely blank colored paper rectangles. Remove all lettering from wallets and motorcycle panels. Where a finger touches a phone, show its pale cream blank FRONT screen, never a rear camera surface. All phones have no text or icons. A clock must have two distinct natural hands and no digits. No extra objects or people; no writing anywhere. Preserve landscape 16:9."
+    },
+    {
+      "image": "anh/shots/canh-07-24.png",
+      "prompt": "Use case: precise-object-edit. Image 1 is the edit target. Keep all characters, identities, anatomy, gestures, clothes, setting, objects and composition unchanged except these precise corrections: make ALL coins completely smooth blank metal disks without letters, digits, currency signs or embossed symbols. Remove any banknotes that have marks, replacing them with completely blank colored paper rectangles. Remove all lettering from wallets and motorcycle panels. Where a finger touches a phone, show its pale cream blank FRONT screen, never a rear camera surface. All phones have no text or icons. A clock must have two distinct natural hands and no digits. No extra objects or people; no writing anywhere. Preserve landscape 16:9."
+    },
+    {
+      "image": "anh/shots/canh-09-09.png",
+      "prompt": "Use case: precise-object-edit. Keep this exact driver, parked bike, dusk lighting and composition. Change only the phone: the finger must touch a clearly visible pale cream FRONT screen that faces the viewer, with no icons or words and no rear cameras. Remove any lettering or manufacturer badge on the motorcycle. No writing or numbers anywhere."
+    },
+    {
+      "image": "anh/shots/canh-09-10.png",
+      "prompt": "Use case: precise-object-edit. Remove the entire human rider and backpack, naturally reconstructing the EMPTY green motorcycle seat and handlebar behind him. There must be no humans, hands, faces or silhouettes anywhere. Keep the motorcycle, curved city route, sunrise/sunset atmosphere and conceptual circles of wallet, saving jar and house. Remove all model lettering and badges from the motorcycle and all digits/currency marks from money, making coins smooth blank gold disks and banknotes plain colored rectangles. No text or logos anywhere. Keep warm 2D cartoon landscape composition."
+    },
+    {
+      "image": "anh/shots/canh-08-08.png",
+      "prompt": "Use case: precise-object-edit. Keep Bac Sau, tiny green driver figurine in his hand, his gesture, table, blank contract, ledger, house and lighting exactly. Remove the entire extra young man on the right and the large helmet in front of him; reconstruct the empty wooden table and background naturally. There must be exactly one real human, Bac Sau, plus the tiny driver toy. No other people. No text, numbers or logos anywhere."
+    },
+    {
+      "image": "anh/shots/canh-10-06.png",
+      "prompt": "Use case: precise-object-edit. Keep Anh Tu in the chair, his hands and fingers, identity, clothes, room, helmet, warm light and composition. Correct only the phone: his index finger touches its clearly visible blank pale cream FRONT screen. Remove the rear cameras entirely from the visible surface. No icons or text on the front screen. No letters, logos or numbers anywhere."
+    },
+    {
+      "image": "anh/shots/canh-09-14.png",
+      "prompt": "Use case: precise-object-edit. Preserve this exact landscape illustration, all people if present, objects, poses, colors and composition. Remove ALL manufacturer writing, model names, little logos and badges from every motorcycle body panel and seat, replacing each with plain matching colored material. No letters, numbers or writing anywhere. If a clock is visible, add two clean dark clock hands meeting at its center, one short and one longer, no digits. Make any visible money completely blank with smooth coins. Change only those corrections."
+    },
+    {
+      "image": "anh/shots/canh-09-16.png",
+      "prompt": "Use case: precise-object-edit. Preserve this exact landscape illustration, all people if present, objects, poses, colors and composition. Remove ALL manufacturer writing, model names, little logos and badges from every motorcycle body panel and seat, replacing each with plain matching colored material. No letters, numbers or writing anywhere. If a clock is visible, add two clean dark clock hands meeting at its center, one short and one longer, no digits. Make any visible money completely blank with smooth coins. Change only those corrections."
+    },
+    {
+      "image": "anh/shots/canh-10-15.png",
+      "prompt": "Keep this exact seated Anh Tu and composition. Change only the visible phone surface into a blank pale cream FRONT screen with no icons or writing; his index finger touches the front glass, no rear cameras on visible surface."
+    },
+    {
+      "image": "anh/shots/canh-09-10.png",
+      "prompt": "Remove only the tiny white manufacturer lettering from the green rear motorcycle side panel below the left edge of the seat. Fill with plain matching green. Keep the empty motorcycle, city, wallet/jar/house circles unchanged. No letters anywhere."
+    },
+    {
+      "image": "anh/shots/canh-03-14.png",
+      "prompt": "Use case: precise-object-edit. Edit target image 1 only. Keep Bac Sau's identity, pose, green motorcycle, helmet, house, lighting and composition unchanged. Correct the small props on the table: remove the entire pile of banknotes; turn every coin into a completely smooth unmarked metal disk, absolutely no digits or embossed symbols. The phone he is touching must clearly show its plain pale cream FRONT screen, with no rear camera, no icons or text. Keep the five blank colored envelopes and red closed ledger. Natural hands, no new objects or people. Absolutely no letters, digits, logos or writing anywhere."
+    }
+  ],
+  "acceptedFinalPrompts": [
+    {
+      "image": "anh/canh-05.png",
+      "prompt": "Edit only the tiny manufacturer lettering or badge on the motorcycle seat and side panels: remove it completely and continue the plain worn material underneath. Preserve exactly the motorbike design, repair shop, composition, lighting and all objects. No text, letters, numbers, logos or watermarks anywhere."
+    },
+    {
+      "image": "anh/canh-09.png",
+      "prompt": "Remove the entire calculator from the lower right of the table and replace it with uninterrupted wood tabletop. Keep both men, faces, hands, blue notebook, red ledger, clock, room and warm daylight exactly unchanged. No extra objects or people. No text, letters, numbers, logos or watermarks."
+    },
+    {
+      "image": "anh/shots/canh-01-03.png",
+      "prompt": "Change only lighting and time of day to late night: dark blue night outside, warm porch and indoor lamp light on the same driver and table. Preserve driver identity, pose, face, clothing, hands, helmet, blank phone and parked bike. No new objects or people, no text or logos."
+    },
+    {
+      "image": "anh/shots/canh-01-05.png",
+      "prompt": "Change only time and lighting to late night with dark blue sky and warm streetlamp glow, preserving the same tired driver, hand on forehead, correct two hands, green jacket, helmet, parked bike and all composition. No daylight. No new objects or people, no text or logos."
+    },
+    {
+      "image": "anh/shots/canh-01-07.png",
+      "prompt": "Correct this opening-night story illustration. Remove the entire calculator and fill its space with plain wood tabletop. Change the exterior through doorway to dark night, with warm household lamp light. Preserve exactly Bac Sau's face, hands, glasses, beige checkered shirt, red ledger, iced tea and room composition. Only one man, no other people. No text or logos."
+    },
+    {
+      "image": "anh/shots/canh-01-08.png",
+      "prompt": "Use case: illustration-story. One full-bleed 16:9 flat 2D warm cartoon still. Exactly ONE person: Bac Sau from the attached reference, old Vietnamese accountant, gray side-part hair, rectangular glasses, blue pen, beige checkered shirt and brown trousers. INSIDE his modest home AT NIGHT under warm lamp light, he holds a closed red ledger against his chest with one arm and raises the other palm in a gentle stop gesture toward camera. Medium waist-up portrait, uncluttered wooden room, dark blue night visible at window. No driver, no girl, no customers, no motorbikes, no fuel station, no money, no calculator. Only this one elderly man and the red ledger. Natural hands, correct front-facing shirt. No text, letters, numbers, logos or watermarks."
+    },
+    {
+      "image": "anh/shots/canh-01-09.png",
+      "prompt": "Remove the entire calculator from the foreground, replacing it with plain wood tabletop. Make the exterior beyond doorway dark late night with warm household light inside. Preserve exactly Bac Sau's face, glasses, natural hands, blank phone in one hand, empty coin purse in the other, red ledger, coin pile and existing room composition. No extra people or objects, no text or logos."
+    },
+    {
+      "image": "anh/shots/canh-01-11.png",
+      "prompt": "Use case: illustration-story. One full-bleed 16:9 flat 2D Vietnamese cartoon still in warm cream colors. Exactly one person: Bac Sau, elderly Vietnamese accountant matching reference face, rectangular glasses, gray side-part hair, blue pen behind ear, beige checkered short-sleeve shirt. AT NIGHT inside his home, dark blue sky visible at window and warm table lamp. He separates ONE small pile of completely smooth blank gold disks from several CLOSED plain cream envelopes on a wooden desk; thoughtful gentle expression. A closed red ledger beside him. Medium three-quarter framing, correct natural two hands. No calculator, no banknotes, no receipts, no writing, no other people, no extra props. Coins have NO embossing, pictures, symbols or numbers. Envelopes and ledger entirely blank. Reference sheet specifies person identity only, do not copy calculator. No text, letters, numbers, logos or watermarks."
+    },
+    {
+      "image": "anh/shots/canh-02-02.png",
+      "prompt": "Correct only the driver's arms and helmet accessory: lower both arms naturally, with one hand holding a COMPLETE plain green helmet by its rim at his hip and the other hand relaxed at his side. Remove the loose black helmet strap and red buckle currently floating near his neck. Keep blue mask correctly under chin with ear loops. Keep same face, age, jacket, trousers, motorbike, street, framing and sunlight exactly unchanged. No new characters, no text or logos."
+    },
+    {
+      "image": "anh/shots/canh-02-07.png",
+      "prompt": "Correct only the phone the old accountant is holding. Show its FRONT face toward camera, with a completely blank pale screen, slim dark border and NO rear camera cluster; his pointing index fingertip should naturally touch the front screen. Preserve the old man's exact identity, two natural hands, glasses, blue pen, beige shirt, red ledger, room, motorbike and daytime background. Do not add props or people. No text, letters, numbers, logos or watermarks."
+    },
+    {
+      "image": "anh/shots/canh-05-09.png",
+      "prompt": "Use case: precise-object-edit. Image 1 is the edit target. Keep all characters, identities, anatomy, gestures, clothes, setting, objects and composition unchanged except these precise corrections: make ALL coins completely smooth blank metal disks without letters, digits, currency signs or embossed symbols. Remove any banknotes that have marks, replacing them with completely blank colored paper rectangles. Remove all lettering from wallets and motorcycle panels. Where a finger touches a phone, show its pale cream blank FRONT screen, never a rear camera surface. All phones have no text or icons. A clock must have two distinct natural hands and no digits. No extra objects or people; no writing anywhere. Preserve landscape 16:9."
+    },
+    {
+      "image": "anh/shots/canh-06-06.png",
+      "prompt": "Use case: precise-object-edit. Image 1 is the edit target. Keep all characters, identities, anatomy, gestures, clothes, setting, objects and composition unchanged except these precise corrections: make ALL coins completely smooth blank metal disks without letters, digits, currency signs or embossed symbols. Remove any banknotes that have marks, replacing them with completely blank colored paper rectangles. Remove all lettering from wallets and motorcycle panels. Where a finger touches a phone, show its pale cream blank FRONT screen, never a rear camera surface. All phones have no text or icons. A clock must have two distinct natural hands and no digits. No extra objects or people; no writing anywhere. Preserve landscape 16:9."
+    },
+    {
+      "image": "anh/shots/canh-07-13.png",
+      "prompt": "Use case: precise-object-edit. Image 1 is the edit target. Keep all characters, identities, anatomy, gestures, clothes, setting, objects and composition unchanged except these precise corrections: make ALL coins completely smooth blank metal disks without letters, digits, currency signs or embossed symbols. Remove any banknotes that have marks, replacing them with completely blank colored paper rectangles. Remove all lettering from wallets and motorcycle panels. Where a finger touches a phone, show its pale cream blank FRONT screen, never a rear camera surface. All phones have no text or icons. A clock must have two distinct natural hands and no digits. No extra objects or people; no writing anywhere. Preserve landscape 16:9."
+    },
+    {
+      "image": "anh/shots/canh-07-19.png",
+      "prompt": "Use case: precise-object-edit. Image 1 is the edit target. Keep all characters, identities, anatomy, gestures, clothes, setting, objects and composition unchanged except these precise corrections: make ALL coins completely smooth blank metal disks without letters, digits, currency signs or embossed symbols. Remove any banknotes that have marks, replacing them with completely blank colored paper rectangles. Remove all lettering from wallets and motorcycle panels. Where a finger touches a phone, show its pale cream blank FRONT screen, never a rear camera surface. All phones have no text or icons. A clock must have two distinct natural hands and no digits. No extra objects or people; no writing anywhere. Preserve landscape 16:9."
+    },
+    {
+      "image": "anh/shots/canh-07-20.png",
+      "prompt": "Use case: precise-object-edit. Image 1 is the edit target. Keep all characters, identities, anatomy, gestures, clothes, setting, objects and composition unchanged except these precise corrections: make ALL coins completely smooth blank metal disks without letters, digits, currency signs or embossed symbols. Remove any banknotes that have marks, replacing them with completely blank colored paper rectangles. Remove all lettering from wallets and motorcycle panels. Where a finger touches a phone, show its pale cream blank FRONT screen, never a rear camera surface. All phones have no text or icons. A clock must have two distinct natural hands and no digits. No extra objects or people; no writing anywhere. Preserve landscape 16:9."
+    },
+    {
+      "image": "anh/shots/canh-07-21.png",
+      "prompt": "Use case: precise-object-edit. Image 1 is the edit target. Keep all characters, identities, anatomy, gestures, clothes, setting, objects and composition unchanged except these precise corrections: make ALL coins completely smooth blank metal disks without letters, digits, currency signs or embossed symbols. Remove any banknotes that have marks, replacing them with completely blank colored paper rectangles. Remove all lettering from wallets and motorcycle panels. Where a finger touches a phone, show its pale cream blank FRONT screen, never a rear camera surface. All phones have no text or icons. A clock must have two distinct natural hands and no digits. No extra objects or people; no writing anywhere. Preserve landscape 16:9."
+    },
+    {
+      "image": "anh/shots/canh-07-24.png",
+      "prompt": "Use case: precise-object-edit. Image 1 is the edit target. Keep all characters, identities, anatomy, gestures, clothes, setting, objects and composition unchanged except these precise corrections: make ALL coins completely smooth blank metal disks without letters, digits, currency signs or embossed symbols. Remove any banknotes that have marks, replacing them with completely blank colored paper rectangles. Remove all lettering from wallets and motorcycle panels. Where a finger touches a phone, show its pale cream blank FRONT screen, never a rear camera surface. All phones have no text or icons. A clock must have two distinct natural hands and no digits. No extra objects or people; no writing anywhere. Preserve landscape 16:9."
+    },
+    {
+      "image": "anh/shots/canh-09-09.png",
+      "prompt": "Use case: precise-object-edit. Keep this exact driver, parked bike, dusk lighting and composition. Change only the phone: the finger must touch a clearly visible pale cream FRONT screen that faces the viewer, with no icons or words and no rear cameras. Remove any lettering or manufacturer badge on the motorcycle. No writing or numbers anywhere."
+    },
+    {
+      "image": "anh/shots/canh-09-10.png",
+      "prompt": "Remove only the tiny white manufacturer lettering from the green rear motorcycle side panel below the left edge of the seat. Fill with plain matching green. Keep the empty motorcycle, city, wallet/jar/house circles unchanged. No letters anywhere."
+    },
+    {
+      "image": "anh/shots/canh-08-08.png",
+      "prompt": "Use case: precise-object-edit. Keep Bac Sau, tiny green driver figurine in his hand, his gesture, table, blank contract, ledger, house and lighting exactly. Remove the entire extra young man on the right and the large helmet in front of him; reconstruct the empty wooden table and background naturally. There must be exactly one real human, Bac Sau, plus the tiny driver toy. No other people. No text, numbers or logos anywhere."
+    },
+    {
+      "image": "anh/shots/canh-10-06.png",
+      "prompt": "Use case: precise-object-edit. Keep Anh Tu in the chair, his hands and fingers, identity, clothes, room, helmet, warm light and composition. Correct only the phone: his index finger touches its clearly visible blank pale cream FRONT screen. Remove the rear cameras entirely from the visible surface. No icons or text on the front screen. No letters, logos or numbers anywhere."
+    },
+    {
+      "image": "anh/shots/canh-09-14.png",
+      "prompt": "Use case: precise-object-edit. Preserve this exact landscape illustration, all people if present, objects, poses, colors and composition. Remove ALL manufacturer writing, model names, little logos and badges from every motorcycle body panel and seat, replacing each with plain matching colored material. No letters, numbers or writing anywhere. If a clock is visible, add two clean dark clock hands meeting at its center, one short and one longer, no digits. Make any visible money completely blank with smooth coins. Change only those corrections."
+    },
+    {
+      "image": "anh/shots/canh-09-16.png",
+      "prompt": "Use case: precise-object-edit. Preserve this exact landscape illustration, all people if present, objects, poses, colors and composition. Remove ALL manufacturer writing, model names, little logos and badges from every motorcycle body panel and seat, replacing each with plain matching colored material. No letters, numbers or writing anywhere. If a clock is visible, add two clean dark clock hands meeting at its center, one short and one longer, no digits. Make any visible money completely blank with smooth coins. Change only those corrections."
+    },
+    {
+      "image": "anh/shots/canh-10-15.png",
+      "prompt": "Keep this exact seated Anh Tu and composition. Change only the visible phone surface into a blank pale cream FRONT screen with no icons or writing; his index finger touches the front glass, no rear cameras on visible surface."
+    },
+    {
+      "image": "anh/shots/canh-03-14.png",
+      "prompt": "Use case: precise-object-edit. Edit target image 1 only. Keep Bac Sau's identity, pose, green motorcycle, helmet, house, lighting and composition unchanged. Correct the small props on the table: remove the entire pile of banknotes; turn every coin into a completely smooth unmarked metal disk, absolutely no digits or embossed symbols. The phone he is touching must clearly show its plain pale cream FRONT screen, with no rear camera, no icons or text. Keep the five blank colored envelopes and red closed ledger. Natural hands, no new objects or people. Absolutely no letters, digits, logos or writing anywhere."
+    }
+  ]
+}

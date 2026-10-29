@@ -1,0 +1,254 @@
+{
+  "video": "08-luong-15-trieu-300-trieu",
+  "qaCompletedAt": "2026-10-24T11:30:47.117189+00:00",
+  "qaCompletedBeforeDeadlineVN": true,
+  "long": {
+    "file": "D:\\Repo\\bac-sau-so-sach\\videos\\08-luong-15-trieu-300-trieu\\08-luong-15-trieu-300-trieu.mp4",
+    "duration": 1000.5,
+    "lufs": -16.25,
+    "dBTP": -1.58,
+    "sha256": "ddcf4152adc2010a8b95bd2d45cdd2c5dc3466b39f3c08c24d4d57dcb415d814",
+    "silences": [
+      {
+        "start": 989.619021,
+        "end": 1000.5
+      }
+    ]
+  },
+  "short": {
+    "file": "D:\\Repo\\bac-sau-so-sach\\videos\\08-luong-15-trieu-300-trieu\\short\\short-08.mp4",
+    "duration": 46.9,
+    "lufs": -14.42,
+    "dBTP": -2.12,
+    "sha256": "6d27578669fba5a7036fd09404be6eff802bb9b2d1874c4b79c22c77366a7b82",
+    "silences": []
+  },
+  "visual": {
+    "passed": true,
+    "encodedLongFramesReviewed": 48,
+    "shortFramesReviewed": 8,
+    "longSha256": "ddcf4152adc2010a8b95bd2d45cdd2c5dc3466b39f3c08c24d4d57dcb415d814",
+    "shortSha256": "6d27578669fba5a7036fd09404be6eff802bb9b2d1874c4b79c22c77366a7b82",
+    "reviewedAt": "2026-10-24T11:30:47.117189+00:00",
+    "nativeQuoteAndCtaClear": true,
+    "runtimeCannotListenByEar": true
+  },
+  "assets": {
+    "shots": 163,
+    "differentShotImages": 163,
+    "baseImages": 11,
+    "newShotImages": 153,
+    "characterReference": 1,
+    "decodedSelectedPng": 165,
+    "manualReviewComplete": true,
+    "evidence": "D:/CodexTemp/bac-sau-video08/outputs/video-08-qa/shot-contact"
+  },
+  "audioReview": "Local small ASR of all10 source scenes; large-v3 of scene03 monetary shorthand and final encoded Short. Numbers manually compared. Runtime cannot listen directly; ASR is not listening by ear. No re-record.",
+  "protectedSources": {
+    "count": 168,
+    "changed": false,
+    "own08": 42,
+    "old05to07": 126
+  },
+  "credit": {
+    "before": 86182,
+    "after": 80777,
+    "usedBy08": 5405,
+    "ttsPasses": 1,
+    "ttsRequests": 10,
+    "counterSettled": true,
+    "initialCounterLaggedLastTwoScenes": true
+  },
+  "scriptCommit": "efeaad9",
+  "permissionCommit": "43cdec7",
+  "sourcesCheckedOn": "2026-10-24",
+  "calculation": "scripts/kiem_tra_video_08.py; Decimal45; own budget/rate; HALF_UP final outputs, required contribution rounded UP to1000.",
+  "uploadStatus": "private_scheduled_api_verified",
+  "studio": {
+    "endScreen": {
+      "savedAndReopened": true,
+      "targetVideoId": "PxqG898ad1o",
+      "subscribe": true,
+      "reason": "Video06 supports reference to purchasing power/savings; public eligible target.",
+      "confirmedAt": "2026-10-25T15:39:06.491326+00:00",
+      "startTimecode": "16:30:15",
+      "endTimecode": "16:40:15",
+      "durationSeconds": 10,
+      "fps": 30,
+      "elementsConfirmed": [
+        "specific_video_06",
+        "subscribe_own_channel"
+      ]
+    },
+    "aiDisclosureSentByUploader": true,
+    "aiDisclosureConfirmedInUi": true,
+    "relatedVideo": {
+      "saved": true,
+      "status": "saved_reloaded_confirmed",
+      "targetId": "s2eWXjo2kw0",
+      "savedAndReopened": true,
+      "checkedAt": "2026-10-25T15:39:06.491326+00:00"
+    },
+    "longScheduleVN": "2026-10-25 18:00",
+    "shortScheduleVN": "2026-10-26 11:30",
+    "permissionExpiresVN": "2026-10-25 23:59:59",
+    "latestUiAttempt": {
+      "attemptedAt": "2026-10-25T15:39:06.491326+00:00",
+      "windowId": 66974,
+      "status": "complete",
+      "changesSaved": true,
+      "identityVerificationNotAutomated": true,
+      "mainStudioTabKept": true,
+      "temporaryShortTabsOpened": 0,
+      "noConcurrentUserInput": true
+    },
+    "remainingFollowup": {
+      "automationId": "g-n-li-n-k-t-short-8-t-i-25-10",
+      "status": "deleted_after_completion",
+      "deletedAt": "2026-10-25T15:39:06.491326+00:00",
+      "waitingForOwnLongPublic": false,
+      "noFurtherEditsAfterPermissionExpiry": true
+    },
+    "aiDisclosureLongConfirmedInUi": true,
+    "aiDisclosureShortConfirmedInUi": true,
+    "aiDisclosureUiValue": "Yes, AI was used",
+    "aiDisclosureCheckedAt": "2026-10-25T15:39:06.491326+00:00",
+    "aiDisclosureChangedThisRun": false
+  },
+  "youtubeVerification": {
+    "videos": [
+      {
+        "kind": "video",
+        "id": "s2eWXjo2kw0",
+        "title": "Lương 15 Triệu Ở Sài Gòn: 5 Năm Có 300 Triệu Được Không?",
+        "privacy": "private",
+        "publishAt": "2026-10-25T11:00:00Z",
+        "uploadStatus": "processed",
+        "processingStatus": "succeeded",
+        "duration": "PT16M41S",
+        "definition": "hd",
+        "selfDeclaredMadeForKids": false,
+        "containsSyntheticMedia": null,
+        "metadataMatches": true,
+        "thumbnails": {
+          "default": {
+            "url": "https://i9.ytimg.com/vi/s2eWXjo2kw0/default.jpg?sqp=COSv8tYG&rs=AOn4CLADEeTGPMpUF3J8tcvgxPhqFIMOgA",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i9.ytimg.com/vi/s2eWXjo2kw0/mqdefault.jpg?sqp=COSv8tYG&rs=AOn4CLB_qydlh53jEMn11tiHl0UiUqI8Jg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i9.ytimg.com/vi/s2eWXjo2kw0/hqdefault.jpg?sqp=COSv8tYG&rs=AOn4CLCw6rCzMUgo5a6nltWJZj4SCTtmIQ",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i9.ytimg.com/vi/s2eWXjo2kw0/sddefault.jpg?sqp=COSv8tYG&rs=AOn4CLDtqdUm3jDZXZ4Ldor2dVP2mYklSQ",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i9.ytimg.com/vi/s2eWXjo2kw0/maxresdefault.jpg?sqp=COSv8tYG&rs=AOn4CLDiDMKYS5Gfxd3r5lhzvl0wbLPgZA",
+            "width": 1280,
+            "height": 720
+          }
+        }
+      },
+      {
+        "kind": "short",
+        "id": "j_ORNreZsKk",
+        "title": "Lương 15 triệu mà 5 năm vẫn thiếu 300 triệu: quên khoản nào? #shorts",
+        "privacy": "private",
+        "publishAt": "2026-10-26T04:30:00Z",
+        "uploadStatus": "processed",
+        "processingStatus": "succeeded",
+        "duration": "PT47S",
+        "definition": "hd",
+        "selfDeclaredMadeForKids": false,
+        "containsSyntheticMedia": null,
+        "metadataMatches": true,
+        "thumbnails": {
+          "default": {
+            "url": "https://i9.ytimg.com/vi/j_ORNreZsKk/default.jpg?sqp=COSv8tYG&rs=AOn4CLD0sSkK0hj_dEDjs3M1AY43npaF5g",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i9.ytimg.com/vi/j_ORNreZsKk/mqdefault.jpg?sqp=COSv8tYG&rs=AOn4CLCPBX4SIjsM2Lsz0Auu4-6uTVHAaw",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i9.ytimg.com/vi/j_ORNreZsKk/hqdefault.jpg?sqp=COSv8tYG&rs=AOn4CLC771-Bkrqy3vECBxA6S6x_MLecyw",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i9.ytimg.com/vi/j_ORNreZsKk/sddefault.jpg?sqp=COSv8tYG&rs=AOn4CLBthqPjJBZLx6EmKCWsmZvndhu_Zg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i9.ytimg.com/vi/j_ORNreZsKk/maxresdefault.jpg?sqp=COSv8tYG&rs=AOn4CLCVl0l6d-wUUPBW3aHhemO-0H6_3Q",
+            "width": 1280,
+            "height": 720
+          }
+        }
+      }
+    ],
+    "vietnameseCaptions": true,
+    "captionTracks": [
+      {
+        "id": "AUieDaZd5O1HhSXUkTMXWy_TIwg1h_o8qvDy0YhPa6ZK0bNmkvMXksrjdttkcgx9DQ",
+        "language": "vi",
+        "status": "serving"
+      }
+    ]
+  },
+  "lastUpdatedAt": "2026-10-25T15:39:06.491326+00:00",
+  "descriptionFormattingFix": {
+    "videoId": "s2eWXjo2kw0",
+    "slug": "08-luong-15-trieu-300-trieu",
+    "checkedAt": "2026-10-24T11:47:27.752885+00:00",
+    "updatedThisRun": true,
+    "formattedDescriptionConfirmed": true,
+    "whitespaceOnly": true,
+    "descriptionMatchesLocal": true,
+    "descriptionSha256": "639aa8f88c49195e6456e4a7d8877170a8a1b0879402051fdb9817218814037e",
+    "descriptionBytes": 4474,
+    "privacyUnchanged": true,
+    "scheduleUnchanged": true,
+    "otherMetadataUnchanged": true
+  },
+  "studioPostApiVerification": {
+    "checkedAt": "2026-10-25T15:37:50.892184+00:00",
+    "channelId": "UCb8J1ex5t19hvQx0lsbdB6A",
+    "videos": [
+      {
+        "id": "s2eWXjo2kw0",
+        "kind": "video",
+        "slug": "08-luong-15-trieu-300-trieu",
+        "privacy": "public",
+        "publishAt": null,
+        "metadataMatches": true,
+        "processing": "succeeded",
+        "definition": "hd"
+      },
+      {
+        "id": "j_ORNreZsKk",
+        "kind": "short",
+        "slug": "08-luong-15-trieu-300-trieu",
+        "privacy": "private",
+        "publishAt": "2026-10-26T04:30:00Z",
+        "metadataMatches": true,
+        "processing": "succeeded",
+        "definition": "hd"
+      }
+    ],
+    "note": "API confirms privacy/schedule/metadata after Studio; Related/end screens/AI use were checked in UI, not inferred from API."
+  }
+}

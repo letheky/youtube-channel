@@ -1,0 +1,28 @@
+{
+  "checked_on": "2026-10-28",
+  "catalog": "YouTube Studio Audio Library",
+  "help_url": "https://support.google.com/youtube/answer/3376882?hl=en",
+  "selected_candidate": {
+    "title": "Cutscene Crush",
+    "artist": "Blue Deer Studio",
+    "artist_url": "https://www.youtube.com/channel/UC057nsZ4cYPjwiiJSEuUnBg/",
+    "genre": "Cinematic",
+    "mood": "Inspirational",
+    "catalog_duration": "1:48",
+    "license_type": "YouTube Audio Library License",
+    "attribution_required": false,
+    "license_popup_verified": true,
+    "license_popup_text": "You can use this audio track in any of your videos, including videos that you monetize. No attribution is required.",
+    "license_evidence_in_chat_outputs": "dau-vet-thoi-dai/music-license-cutscene-crush.jpg",
+    "download_status": "blocked_by_browser_site_safety_policy_user_manual_download_requested",
+    "local_file": null,
+    "sha256": null,
+    "audition_status": "not_listened_by_agent",
+    "usage": "candidate_for_short_intro_outro_excerpts_pending_audio_file_and_QA"
+  },
+  "alternatives_catalog_only_not_auditioned": [
+    {"title": "From Here on In", "artist": "Everet Almond", "genre": "Cinematic", "mood": "Calm", "catalog_duration": "3:08", "license_label_observed": "YouTube Audio Library License"},
+    {"title": "Duty Calls", "artist": "Rod Kim", "genre": "Cinematic", "mood": "Dramatic", "catalog_duration": "1:43", "license_label_observed": "YouTube Audio Library License"}
+  ],
+  "restriction": "Do not retry the blocked download by alternate browser surfaces, raw URLs, shell network requests or other workarounds. Accept a file the user independently downloads and identifies. No raw music redistribution in deliverable package."
+}

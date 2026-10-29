@@ -1,0 +1,734 @@
+{
+ "slug": "04-tai-xe-cong-nghe",
+ "duration": 45.122,
+ "words": [
+  {
+   "word": "hôm",
+   "start": 0.06,
+   "end": 0.193,
+   "seg": 0
+  },
+  {
+   "word": "nay",
+   "start": 0.282,
+   "end": 0.46,
+   "seg": 0
+  },
+  {
+   "word": "con",
+   "start": 0.549,
+   "end": 0.727,
+   "seg": 0
+  },
+  {
+   "word": "chạy",
+   "start": 0.771,
+   "end": 0.904,
+   "seg": 0
+  },
+  {
+   "word": "được",
+   "start": 0.993,
+   "end": 1.171,
+   "seg": 0
+  },
+  {
+   "word": "hai",
+   "start": 1.26,
+   "end": 1.349,
+   "seg": 0
+  },
+  {
+   "word": "mươi",
+   "start": 1.438,
+   "end": 1.527,
+   "seg": 0
+  },
+  {
+   "word": "hai",
+   "start": 1.615,
+   "end": 1.704,
+   "seg": 0
+  },
+  {
+   "word": "cuốc,",
+   "start": 1.793,
+   "end": 2.415,
+   "seg": 0
+  },
+  {
+   "word": "khách",
+   "start": 2.46,
+   "end": 2.682,
+   "seg": 0
+  },
+  {
+   "word": "trả",
+   "start": 2.727,
+   "end": 2.86,
+   "seg": 0
+  },
+  {
+   "word": "tổng",
+   "start": 2.949,
+   "end": 3.127,
+   "seg": 0
+  },
+  {
+   "word": "cộng",
+   "start": 3.215,
+   "end": 3.393,
+   "seg": 0
+  },
+  {
+   "word": "sáu",
+   "start": 3.571,
+   "end": 3.749,
+   "seg": 0
+  },
+  {
+   "word": "trăm",
+   "start": 3.838,
+   "end": 4.015,
+   "seg": 0
+  },
+  {
+   "word": "sáu",
+   "start": 4.104,
+   "end": 4.312,
+   "seg": 0
+  },
+  {
+   "word": "chục",
+   "start": 4.371,
+   "end": 4.46,
+   "seg": 0
+  },
+  {
+   "word": "ngàn.",
+   "start": 4.549,
+   "end": 4.904,
+   "seg": 0
+  },
+  {
+   "word": "Một",
+   "start": 5.349,
+   "end": 5.527,
+   "seg": 0
+  },
+  {
+   "word": "tháng",
+   "start": 5.615,
+   "end": 5.882,
+   "seg": 0
+  },
+  {
+   "word": "chạy",
+   "start": 5.971,
+   "end": 6.149,
+   "seg": 0
+  },
+  {
+   "word": "hai",
+   "start": 6.238,
+   "end": 6.327,
+   "seg": 0
+  },
+  {
+   "word": "mươi",
+   "start": 6.415,
+   "end": 6.549,
+   "seg": 0
+  },
+  {
+   "word": "sáu",
+   "start": 6.593,
+   "end": 6.801,
+   "seg": 0
+  },
+  {
+   "word": "ngày,",
+   "start": 6.86,
+   "end": 7.26,
+   "seg": 0
+  },
+  {
+   "word": "là",
+   "start": 7.393,
+   "end": 7.482,
+   "seg": 0
+  },
+  {
+   "word": "mười",
+   "start": 7.571,
+   "end": 7.749,
+   "seg": 0
+  },
+  {
+   "word": "bảy",
+   "start": 7.838,
+   "end": 7.927,
+   "seg": 0
+  },
+  {
+   "word": "triệu",
+   "start": 8.104,
+   "end": 8.282,
+   "seg": 0
+  },
+  {
+   "word": "đó",
+   "start": 8.327,
+   "end": 8.415,
+   "seg": 0
+  },
+  {
+   "word": "Bác.",
+   "start": 8.46,
+   "end": 8.904,
+   "seg": 0
+  },
+  {
+   "word": "\"Khoan,",
+   "start": 9.592,
+   "end": 10.392,
+   "seg": 1
+  },
+  {
+   "word": "đưa",
+   "start": 10.436,
+   "end": 10.57,
+   "seg": 1
+  },
+  {
+   "word": "sổ",
+   "start": 10.658,
+   "end": 10.836,
+   "seg": 1
+  },
+  {
+   "word": "đây",
+   "start": 10.881,
+   "end": 11.014,
+   "seg": 1
+  },
+  {
+   "word": "Bác",
+   "start": 11.058,
+   "end": 11.192,
+   "seg": 1
+  },
+  {
+   "word": "coi.\"",
+   "start": 11.281,
+   "end": 11.547,
+   "seg": 1
+  },
+  {
+   "word": "Khách",
+   "start": 12.407,
+   "end": 12.585,
+   "seg": 2
+  },
+  {
+   "word": "trả",
+   "start": 12.674,
+   "end": 13.03,
+   "seg": 2
+  },
+  {
+   "word": "sáu",
+   "start": 13.207,
+   "end": 13.385,
+   "seg": 2
+  },
+  {
+   "word": "trăm",
+   "start": 13.474,
+   "end": 13.652,
+   "seg": 2
+  },
+  {
+   "word": "sáu",
+   "start": 13.83,
+   "end": 14.037,
+   "seg": 2
+  },
+  {
+   "word": "chục",
+   "start": 14.096,
+   "end": 14.185,
+   "seg": 2
+  },
+  {
+   "word": "ngàn.",
+   "start": 14.274,
+   "end": 15.252,
+   "seg": 2
+  },
+  {
+   "word": "Ứng",
+   "start": 15.296,
+   "end": 15.43,
+   "seg": 2
+  },
+  {
+   "word": "dụng",
+   "start": 15.518,
+   "end": 15.785,
+   "seg": 2
+  },
+  {
+   "word": "giữ",
+   "start": 15.874,
+   "end": 16.052,
+   "seg": 2
+  },
+  {
+   "word": "khoảng",
+   "start": 16.096,
+   "end": 16.407,
+   "seg": 2
+  },
+  {
+   "word": "hai",
+   "start": 16.585,
+   "end": 16.674,
+   "seg": 2
+  },
+  {
+   "word": "trăm",
+   "start": 16.763,
+   "end": 16.941,
+   "seg": 2
+  },
+  {
+   "word": "năm",
+   "start": 17.03,
+   "end": 17.118,
+   "seg": 2
+  },
+  {
+   "word": "chục",
+   "start": 17.207,
+   "end": 17.385,
+   "seg": 2
+  },
+  {
+   "word": "ngàn.",
+   "start": 17.474,
+   "end": 17.83,
+   "seg": 2
+  },
+  {
+   "word": "Cây",
+   "start": 18.452,
+   "end": 18.541,
+   "seg": 2
+  },
+  {
+   "word": "xăng",
+   "start": 18.718,
+   "end": 18.985,
+   "seg": 2
+  },
+  {
+   "word": "lấy",
+   "start": 19.074,
+   "end": 19.252,
+   "seg": 2
+  },
+  {
+   "word": "một",
+   "start": 19.341,
+   "end": 19.518,
+   "seg": 2
+  },
+  {
+   "word": "trăm",
+   "start": 19.607,
+   "end": 19.785,
+   "seg": 2
+  },
+  {
+   "word": "lẻ",
+   "start": 19.874,
+   "end": 19.963,
+   "seg": 2
+  },
+  {
+   "word": "tám",
+   "start": 20.141,
+   "end": 20.23,
+   "seg": 2
+  },
+  {
+   "word": "ngàn.",
+   "start": 20.318,
+   "end": 21.296,
+   "seg": 2
+  },
+  {
+   "word": "Chiếc",
+   "start": 21.341,
+   "end": 21.474,
+   "seg": 2
+  },
+  {
+   "word": "xe",
+   "start": 21.563,
+   "end": 21.741,
+   "seg": 2
+  },
+  {
+   "word": "ăn",
+   "start": 21.83,
+   "end": 22.096,
+   "seg": 2
+  },
+  {
+   "word": "ba",
+   "start": 22.141,
+   "end": 22.185,
+   "seg": 2
+  },
+  {
+   "word": "mươi",
+   "start": 22.363,
+   "end": 22.482,
+   "seg": 2
+  },
+  {
+   "word": "bảy",
+   "start": 22.541,
+   "end": 22.63,
+   "seg": 2
+  },
+  {
+   "word": "ngàn.",
+   "start": 22.718,
+   "end": 23.696,
+   "seg": 2
+  },
+  {
+   "word": "Lặt",
+   "start": 23.785,
+   "end": 23.963,
+   "seg": 2
+  },
+  {
+   "word": "vặt",
+   "start": 24.052,
+   "end": 24.318,
+   "seg": 2
+  },
+  {
+   "word": "ba",
+   "start": 24.585,
+   "end": 24.674,
+   "seg": 2
+  },
+  {
+   "word": "chục",
+   "start": 24.763,
+   "end": 24.941,
+   "seg": 2
+  },
+  {
+   "word": "ngàn.",
+   "start": 25.03,
+   "end": 25.385,
+   "seg": 2
+  },
+  {
+   "word": "Còn",
+   "start": 26.785,
+   "end": 26.963,
+   "seg": 2
+  },
+  {
+   "word": "lại:",
+   "start": 27.007,
+   "end": 27.407,
+   "seg": 2
+  },
+  {
+   "word": "khoảng",
+   "start": 27.763,
+   "end": 28.03,
+   "seg": 2
+  },
+  {
+   "word": "hai",
+   "start": 28.207,
+   "end": 28.296,
+   "seg": 2
+  },
+  {
+   "word": "trăm",
+   "start": 28.474,
+   "end": 28.652,
+   "seg": 2
+  },
+  {
+   "word": "ba",
+   "start": 28.83,
+   "end": 28.918,
+   "seg": 2
+  },
+  {
+   "word": "mươi",
+   "start": 29.007,
+   "end": 29.096,
+   "seg": 2
+  },
+  {
+   "word": "lăm",
+   "start": 29.185,
+   "end": 29.274,
+   "seg": 2
+  },
+  {
+   "word": "ngàn",
+   "start": 29.363,
+   "end": 29.496,
+   "seg": 2
+  },
+  {
+   "word": "đồng.",
+   "start": 29.541,
+   "end": 30.607,
+   "seg": 2
+  },
+  {
+   "word": "\"Vậy",
+   "start": 31.467,
+   "end": 31.645,
+   "seg": 3
+  },
+  {
+   "word": "là",
+   "start": 31.734,
+   "end": 31.823,
+   "seg": 3
+  },
+  {
+   "word": "con",
+   "start": 31.956,
+   "end": 32.089,
+   "seg": 3
+  },
+  {
+   "word": "chạy",
+   "start": 32.134,
+   "end": 32.356,
+   "seg": 3
+  },
+  {
+   "word": "mười",
+   "start": 32.445,
+   "end": 32.712,
+   "seg": 3
+  },
+  {
+   "word": "hai",
+   "start": 32.801,
+   "end": 32.889,
+   "seg": 3
+  },
+  {
+   "word": "tiếng,",
+   "start": 33.067,
+   "end": 33.867,
+   "seg": 3
+  },
+  {
+   "word": "mà",
+   "start": 33.912,
+   "end": 34.045,
+   "seg": 3
+  },
+  {
+   "word": "mỗi",
+   "start": 34.089,
+   "end": 34.312,
+   "seg": 3
+  },
+  {
+   "word": "giờ",
+   "start": 34.401,
+   "end": 34.667,
+   "seg": 3
+  },
+  {
+   "word": "còn",
+   "start": 34.712,
+   "end": 34.845,
+   "seg": 3
+  },
+  {
+   "word": "chưa",
+   "start": 35.023,
+   "end": 35.201,
+   "seg": 3
+  },
+  {
+   "word": "tới",
+   "start": 35.245,
+   "end": 35.378,
+   "seg": 3
+  },
+  {
+   "word": "hai",
+   "start": 35.467,
+   "end": 35.556,
+   "seg": 3
+  },
+  {
+   "word": "chục",
+   "start": 35.645,
+   "end": 35.823,
+   "seg": 3
+  },
+  {
+   "word": "ngàn",
+   "start": 35.912,
+   "end": 36.089,
+   "seg": 3
+  },
+  {
+   "word": "hả",
+   "start": 36.134,
+   "end": 36.267,
+   "seg": 3
+  },
+  {
+   "word": "Bác.\"",
+   "start": 36.312,
+   "end": 36.623,
+   "seg": 3
+  },
+  {
+   "word": "Màn",
+   "start": 37.483,
+   "end": 37.661,
+   "seg": 4
+  },
+  {
+   "word": "hình",
+   "start": 37.749,
+   "end": 38.016,
+   "seg": 4
+  },
+  {
+   "word": "hiện",
+   "start": 38.105,
+   "end": 38.372,
+   "seg": 4
+  },
+  {
+   "word": "doanh",
+   "start": 38.461,
+   "end": 38.638,
+   "seg": 4
+  },
+  {
+   "word": "thu,",
+   "start": 38.727,
+   "end": 39.438,
+   "seg": 4
+  },
+  {
+   "word": "cuốn",
+   "start": 39.483,
+   "end": 39.616,
+   "seg": 4
+  },
+  {
+   "word": "sổ",
+   "start": 39.705,
+   "end": 39.883,
+   "seg": 4
+  },
+  {
+   "word": "mới",
+   "start": 39.972,
+   "end": 40.238,
+   "seg": 4
+  },
+  {
+   "word": "hiện",
+   "start": 40.505,
+   "end": 40.772,
+   "seg": 4
+  },
+  {
+   "word": "thu",
+   "start": 40.861,
+   "end": 41.038,
+   "seg": 4
+  },
+  {
+   "word": "nhập.",
+   "start": 41.127,
+   "end": 41.483,
+   "seg": 4
+  },
+  {
+   "word": "Chào",
+   "start": 41.838,
+   "end": 42.016,
+   "seg": 4
+  },
+  {
+   "word": "bà",
+   "start": 42.105,
+   "end": 42.194,
+   "seg": 4
+  },
+  {
+   "word": "con",
+   "start": 42.283,
+   "end": 42.461,
+   "seg": 4
+  },
+  {
+   "word": "nghen.",
+   "start": 42.549,
+   "end": 43.172,
+   "seg": 4
+  }
+ ],
+ "segments": [
+  {
+   "scene": 1,
+   "start": 0,
+   "end": 9.032,
+   "text": "hôm nay con chạy được hai mươi hai cuốc, khách trả tổng cộng sáu trăm sáu chục ngàn. Một tháng chạy hai mươi sáu ngày, là mười bảy triệu đó Bác."
+  },
+  {
+   "scene": 1,
+   "start": 9.532,
+   "end": 11.847,
+   "text": "\"Khoan, đưa sổ đây Bác coi.\""
+  },
+  {
+   "scene": 7,
+   "start": 12.347,
+   "end": 30.907,
+   "text": "Khách trả sáu trăm sáu chục ngàn. Ứng dụng giữ khoảng hai trăm năm chục ngàn. Cây xăng lấy một trăm lẻ tám ngàn. Chiếc xe ăn ba mươi bảy ngàn. Lặt vặt ba chục ngàn. Còn lại: khoảng hai trăm ba mươi lăm ngàn đồng."
+  },
+  {
+   "scene": 10,
+   "start": 31.407,
+   "end": 36.923,
+   "text": "\"Vậy là con chạy mười hai tiếng, mà mỗi giờ còn chưa tới hai chục ngàn hả Bác.\""
+  },
+  {
+   "scene": 10,
+   "start": 37.423,
+   "end": 43.122,
+   "text": "Màn hình hiện doanh thu, cuốn sổ mới hiện thu nhập. Chào bà con nghen."
+  }
+ ]
+}

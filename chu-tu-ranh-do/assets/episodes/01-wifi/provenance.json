@@ -1,0 +1,35 @@
+{
+  "created_local_date": "2026-10-29",
+  "tool": "built-in image_gen",
+  "prompt_set": "assets/episodes/01-wifi/PROMPTS.json",
+  "script_sha256_before_tts": "0549de6b2f86ad28d6ec7d77388367cb86ca8e9e719a0b4cdc480984b7056df5",
+  "assets": [
+    {
+      "path": "assets/episodes/01-wifi/character-sheet-v1.png",
+      "origin": "C:/Users/ADMIN/.codex/generated_images/01a1822b-fc56-7712-b9a9-0dd5778ef404/exec-cf53e1da-7d90-4e3b-a46b-41d8379a0a15.png",
+      "sha256": "f0af3121b44bf3e862b5da84f967832c8093bc8567a085eb097e557dd3d1f664",
+      "width": 1254,
+      "height": 1254,
+      "png_bit_depth": 8,
+      "png_color_type": 6,
+      "generator": "built-in image_gen",
+      "reference": "assets/branding/avatar-chu-tu.png",
+      "intended_use": "illustration only, not measurements",
+      "visual_review": "accepted for draft: identity, limbs, props, no text or logos checked"
+    },
+    {
+      "path": "assets/episodes/01-wifi/apartment-v1.png",
+      "origin": "C:/Users/ADMIN/.codex/generated_images/01a1822b-fc56-7712-b9a9-0dd5778ef404/exec-4150387e-2cd5-4d4c-8453-83e9171f7bc3.png",
+      "sha256": "9c341f5be9bf44335137956dad4008aaf1e224087fd765d6df0add3cdba6716f",
+      "width": 1672,
+      "height": 941,
+      "png_bit_depth": 8,
+      "png_color_type": 2,
+      "generator": "built-in image_gen",
+      "reference": null,
+      "intended_use": "illustration only, not measurements",
+      "visual_review": "accepted for draft: identity, limbs, props, no text or logos checked"
+    }
+  ],
+  "paid_image_api_used": false
+}

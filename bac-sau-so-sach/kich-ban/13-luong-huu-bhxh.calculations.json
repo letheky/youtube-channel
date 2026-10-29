@@ -1,0 +1,33 @@
+{
+  "assumptions": "Anh Tư nam, đóng bắt buộc 10 năm 2015–2024, bình quân lương đóng 7.000.000/tháng đã quy về sức mua hôm nay (Điều73 điều chỉnh CPI). Tuổi hưởng 62. Đóng thêm tự nguyện 22% cùng mức 7 triệu, chưa trừ Nhà nước hỗ trợ; nhánh đi làm lại chỉ tính phần 8% người lao động. Nhận tới 80 tuổi = 216 tháng là giả định minh họa. Không tính lãi tiền gửi, không chiết khấu.",
+  "rounding": "Decimal50, không làm tròn giữa chuỗi.",
+  "results": {
+    "avgWage": "7000000",
+    "years": "10",
+    "lump": "140000000",
+    "ownShare": "67200000.00",
+    "employerShare": "117600000.00",
+    "fundTotal": "184800000.00",
+    "lumpOverOwn": "2.0833333333333333333333333333333333333333333333333",
+    "lumpOverFund": "0.75757575757575757575757575757575757575757575757576",
+    "pension15male": "2800000.00",
+    "pension20male": "3150000.00",
+    "pension15female": "3150000.00",
+    "pension20female": "3850000.00",
+    "lumpInMonthsOf15": "50",
+    "volMonthly": "1540000.00",
+    "vol5years": "92400000.00",
+    "vol10years": "184800000.00",
+    "compulsory5yearsOwn": "33600000.00",
+    "cost15": "232400000.00",
+    "breakEven15months": "83",
+    "cost20": "324800000.00",
+    "breakEven20months": "103.11111111111111111111111111111111111111111111111",
+    "cost15compulsory": "173600000.00",
+    "breakEven15compMonths": "62",
+    "receive15to80": "604800000.00",
+    "receive20to80": "680400000.00",
+    "net15to80": "372400000.00",
+    "net20to80": "355600000.00"
+  }
+}

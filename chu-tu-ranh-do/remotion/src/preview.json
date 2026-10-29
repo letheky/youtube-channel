@@ -1,0 +1,79 @@
+{
+  "title": "Chú Tư — thử giao diện và phụ đề",
+  "duration": 15,
+  "technicalPreview": true,
+  "captions": [
+    {
+      "text": "Chào bà con, Tư đây.",
+      "start": 0.0,
+      "end": 1.667
+    },
+    {
+      "text": "Trong nhà mình, có món xài mỗi ngày mà chưa chắc",
+      "start": 1.778,
+      "end": 5.067
+    },
+    {
+      "text": "mình đã hiểu nó.",
+      "start": 5.067,
+      "end": 6.244
+    },
+    {
+      "text": "Khoan vội mua thêm đồ mới.",
+      "start": 7.178,
+      "end": 8.911
+    },
+    {
+      "text": "Bữa nay, Tư cùng bà con coi từng chuyện một, nói",
+      "start": 9.044,
+      "end": 12.333
+    },
+    {
+      "text": "cho dễ hiểu, rồi hãy quyết định nghen.",
+      "start": 12.333,
+      "end": 14.733
+    }
+  ],
+  "shots": [
+    {
+      "id": "layout-a",
+      "from": 0,
+      "duration": 5,
+      "title": "Hai chặng kết nối khác nhau",
+      "labels": [
+        "Internet",
+        "Cục phát",
+        "Điện thoại"
+      ],
+      "body": "Khung thử bố cục · chưa minh họa lời một tập thật",
+      "note": "Không phải phép đo tốc độ hoặc quảng cáo thiết bị"
+    },
+    {
+      "id": "layout-b",
+      "from": 5,
+      "duration": 5,
+      "title": "Mỗi hình giải thích một ý",
+      "labels": [
+        "Quan sát",
+        "Khoanh vùng",
+        "Kiểm lại"
+      ],
+      "body": "Phụ đề được lấy từ mốc từ của audio, không chia đều thời gian.",
+      "note": "Bản thử dùng audio mẫu kỹ thuật đã có; không gọi TTS mới"
+    },
+    {
+      "id": "layout-c",
+      "from": 10,
+      "duration": 5,
+      "title": "Kiểm hình trước khi sản xuất tập dài",
+      "labels": [
+        "Chữ rõ",
+        "Không tràn",
+        "Đúng nhịp"
+      ],
+      "body": "Theme xanh chàm · vàng hổ phách · chữ tiếng Việt có dấu",
+      "note": "Đây chưa phải bộ cảnh/nhân vật hoàn chỉnh của video01"
+    }
+  ],
+  "audio": "demo/thu-giong-thai-son.mp3"
+}

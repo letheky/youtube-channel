@@ -1,0 +1,118 @@
+{
+  "slug": "05-quan-ca-phe-mat-bang",
+  "verifiedAt": "2026-10-21T08:12:16.107960+00:00",
+  "qaEvidenceDirectory": "D:\\CodexTemp\\bac-sau-video05\\outputs\\video-05-qa",
+  "preview": {
+    "duration": 60.0,
+    "lufs": -16.14,
+    "dBTP": -2.26,
+    "silences": [],
+    "silencePass": true,
+    "protectedSources": 42,
+    "sourceHashesMatch": true
+  },
+  "long": {
+    "duration": 961.0,
+    "lufs": -16.32,
+    "dBTP": -1.95,
+    "silences": [
+      {
+        "start": 949.997083,
+        "end": 961.0
+      }
+    ],
+    "silencePass": true,
+    "protectedSources": 42,
+    "sourceHashesMatch": true,
+    "file": "D:\\Repo\\bac-sau-so-sach\\videos\\05-quan-ca-phe-mat-bang\\05-quan-ca-phe-mat-bang.mp4",
+    "sha256": "2690cb28a21747597a552ee661f875ee8bf35f290c80cf5c54d7aa462abb6a83"
+  },
+  "short": {
+    "duration": 47.1,
+    "lufs": -14.5,
+    "dBTP": -2.19,
+    "silences": [],
+    "silencePass": true,
+    "protectedSources": 42,
+    "sourceHashesMatch": true,
+    "file": "D:\\Repo\\bac-sau-so-sach\\videos\\05-quan-ca-phe-mat-bang\\short\\short-05.mp4",
+    "sha256": "9ee6427c68c91014a84852a96d06ff65ccc0ea8377c8da4c134c9f96721760e2"
+  },
+  "visual": {
+    "passed": true,
+    "reviewedAt": "2026-10-21T07:57:48.037861+00:00",
+    "encodedLongFramesReviewed": 46,
+    "shortFramesReviewed": 8,
+    "allVideoImagesReviewed": 156,
+    "characterSheetReviewed": true,
+    "panelsKeywordsQuoteCtaOutroReviewed": true,
+    "longSha256": "2690cb28a21747597a552ee661f875ee8bf35f290c80cf5c54d7aa462abb6a83",
+    "shortSha256": "9ee6427c68c91014a84852a96d06ff65ccc0ea8377c8da4c134c9f96721760e2",
+    "imagesUnchangedDuringRender": true,
+    "audioReview": "Đối chiếu ASR đủ 10 cảnh và đo âm thanh; runtime không nghe trực tiếp bằng tai."
+  },
+  "studio": {
+    "endScreenSavedAndReopened": true,
+    "endScreenVideo": "F6tGyhhf1Fs",
+    "endScreenSubscribe": true,
+    "start": "15:51:00",
+    "end": "16:01:00",
+    "short05Related": "chờ YouTube duyệt video xác minh (in review), chưa gắn",
+    "short04Related": "in review",
+    "longAiLabelYes": true,
+    "shortAiLabelYes": true,
+    "checkedAt": "2026-10-21T08:10:51.199Z"
+  },
+  "youtube": {
+    "videos": [
+      {
+        "kind": "video",
+        "id": "YbNXzIIGxUE",
+        "title": "Quán Cà Phê Đông Khách: Bao Giờ Mới Lấy Lại Tiền Mở Quán?",
+        "privacy": "private",
+        "publishAt": "2026-10-22T11:00:00Z",
+        "uploadStatus": "processed",
+        "processingStatus": "succeeded",
+        "duration": "PT16M2S"
+      },
+      {
+        "kind": "short",
+        "id": "wxjLe0SNtlo",
+        "title": "Quán đông mà vốn chưa về: thuê 24 tháng, thu hồi cần 32? #shorts",
+        "privacy": "private",
+        "publishAt": "2026-10-23T04:30:00Z",
+        "uploadStatus": "processed",
+        "processingStatus": "succeeded",
+        "duration": "PT48S"
+      }
+    ],
+    "vietnameseCaptions": true,
+    "captionTracks": [
+      {
+        "id": "AUieDaaUM5O6Y2QMCXvqtvk7t6-tSIXqbF_SBEYnmIKpVfwymM4",
+        "language": "vi",
+        "status": "serving"
+      },
+      {
+        "id": "AUieDaa16kkzTlyVKo7VQ4r319LuxXYddCN_r0LuGth2cX2gqLQXCoMOyG1J069dIg",
+        "language": "vi",
+        "status": "serving"
+      }
+    ]
+  },
+  "video04ProtectedFilesUnchanged": 42,
+  "creditAfterTts": 96422,
+  "narrationRecordedOnce": true,
+  "imageGeneration": "image_gen tích hợp; không dùng OpenAI image API trả phí",
+  "prompts": [
+    "kich-ban/05-quan-ca-phe-mat-bang.images.json",
+    "kich-ban/05-quan-ca-phe-mat-bang.shots.json",
+    "kich-ban/05-quan-ca-phe-mat-bang.edits.json"
+  ],
+  "thumbnail": {
+    "file": "videos/05-quan-ca-phe-mat-bang/thumbnail-final.jpg",
+    "width": 1280,
+    "height": 720,
+    "sha256": "2282170a72f2e3c4d4d186a4932b27174d04be8f20ad02ff300edda727fea1f2"
+  }
+}

@@ -1,0 +1,82 @@
+[
+  {
+    "scene": 1,
+    "image": "canh-01.png",
+    "prompt": "Flat 2D cartoon, thick outlines, warm colors, 16:9. [Reference: Bác Sáu character sheet] Match attached Bac Sau and Ut character sheets exactly. Ut in her white short sleeved collared blouse, tan high waist wide trousers, brown crossbody bag and ponytail at a small Vietnamese home tea table, looking surprised at a blank smartphone while Bac Sau holds his closed red ledger. Medium two person view, morning window light. Plain props without any printed markings, blank currency-like paper not actual banknotes, no logos, no badges or lanyards. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png",
+      "assets/nhan-vat/con-ut.png"
+    ]
+  },
+  {
+    "scene": 2,
+    "image": "canh-02-v2.png",
+    "prompt": "Flat 2D cartoon, thick outlines, warm colors, 16:9. [Reference: Bác Sáu character sheet] Match attached Bac Sau and Ut character sheets exactly. Bac Sau and Ut at a Vietnamese home tea table, Bac separates two entirely blank cream sheets, Ut points at a blank phone with a puzzled expression. Three quarter waist up view, tidy interior. Plain props without any printed markings, blank currency-like paper not actual banknotes, no logos, no badges or lanyards. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png",
+      "assets/nhan-vat/con-ut.png"
+    ]
+  },
+  {
+    "scene": 3,
+    "image": "canh-03.png",
+    "prompt": "Flat 2D cartoon, thick outlines, warm colors, 16:9. Overhead still life at the same tea table: one open blank red ledger, four identical unmarked green paper rectangles next to a closed envelope, an old calculator with all keys blank. No people. Plain props without any printed markings, blank currency-like paper not actual banknotes, no logos, no badges or lanyards. No text, letters, numbers, logos or watermarks.",
+    "refs": []
+  },
+  {
+    "scene": 4,
+    "image": "canh-04-v2.png",
+    "prompt": "Flat 2D cartoon, thick outlines, warm colors, 16:9. [Reference: Bác Sáu character sheet] Match attached Bac Sau and Ut character sheets exactly. Ut and Bac Sau comparing two unmarked calendar blocks and an open blank red ledger at their tea table, warm afternoon light, side view. Calendar surfaces and phone completely blank. Plain props without any printed markings, blank currency-like paper not actual banknotes, no logos, no badges or lanyards. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png",
+      "assets/nhan-vat/con-ut.png"
+    ]
+  },
+  {
+    "scene": 5,
+    "image": "canh-05.png",
+    "prompt": "Flat 2D cartoon, thick outlines, warm colors, 16:9. [Reference: Bác Sáu character sheet] Match attached Bac Sau and Ut character sheets exactly. Ut in her modest home kitchen looking thoughtfully at a small wallet and a blank envelope, groceries and rice bowl on table; no other people. Waist up, three quarter front view, front shirt buttons and collar anatomically correct. Plain props without any printed markings, blank currency-like paper not actual banknotes, no logos, no badges or lanyards. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png",
+      "assets/nhan-vat/con-ut.png"
+    ]
+  },
+  {
+    "scene": 6,
+    "image": "canh-06.png",
+    "prompt": "Flat 2D cartoon, thick outlines, warm colors, 16:9. [Reference: Bác Sáu character sheet] Match attached Bac Sau and Ut character sheets exactly. Bac Sau and Ut examining blank loan papers at a clean community advice desk with simple bookshelves, both seated facing forward. Bac points with one open hand; Ut holds her brown bag at her side. No seals or official badges. Plain props without any printed markings, blank currency-like paper not actual banknotes, no logos, no badges or lanyards. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png",
+      "assets/nhan-vat/con-ut.png"
+    ]
+  },
+  {
+    "scene": 7,
+    "image": "canh-07.png",
+    "prompt": "Flat 2D cartoon, thick outlines, warm colors, 16:9. [Reference: Bác Sáu character sheet] Match attached Bac Sau and Ut character sheets exactly. Ut holding a blank smartphone away from her face while placing her other open palm in a calm stop gesture, Bac Sau nearby with red ledger, home doorway in warm evening light. No message symbols or lettering. Plain props without any printed markings, blank currency-like paper not actual banknotes, no logos, no badges or lanyards. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png",
+      "assets/nhan-vat/con-ut.png"
+    ]
+  },
+  {
+    "scene": 8,
+    "image": "canh-08.png",
+    "prompt": "Flat 2D cartoon, thick outlines, warm colors, 16:9. [Reference: Bác Sáu character sheet] Match attached Bac Sau and Ut character sheets exactly. Bac Sau and Ut smiling calmly at their tea table, closed blank phone set aside, blank red ledger open, her brown bag on chair. Front medium two person composition with faces above the middle. Plain props without any printed markings, blank currency-like paper not actual banknotes, no logos, no badges or lanyards. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png",
+      "assets/nhan-vat/con-ut.png"
+    ]
+  },
+  {
+    "scene": 0,
+    "image": "thumbnail-v2.png",
+    "prompt": "Flat 2D cartoon, thick outlines, warm colors, 16:9. [Reference: Bác Sáu character sheet] Match attached Bac Sau and Ut character sheets exactly. YouTube thumbnail background. Ut holds a blank smartphone with a startled but not terrified face, Bac Sau holds a blank red ledger, both entirely in the right sixty percent of frame. Left forty percent clean dark teal empty wall for native title overlay. Warm Vietnamese home, bold silhouettes, no borders. Plain props without any printed markings, blank currency-like paper not actual banknotes, no logos, no badges or lanyards. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png",
+      "assets/nhan-vat/con-ut.png"
+    ],
+    "selectedVersion": "v2",
+    "journal": "D:\\CodexTemp\\bac-sau-video11\\work\\image-base-thumbnail-v2.json"
+  }
+]

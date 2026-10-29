@@ -1,0 +1,1193 @@
+{
+ "text": "Nói nãy giờ, chắc có người nghĩ Bác ghét trả góp. Không phải vậy. Bác chỉ ghét trả góp mà không tính.\n\nCó những lúc trả góp không phần trăm là có lợi thật. Bác chỉ cho bà con ba điều kiện.\n\nĐiều kiện thứ nhất: giá trả góp bằng đúng giá trả thẳng. Không mất khoản giảm giá nào, không bị tính giá cao hơn. Muốn biết thì hỏi thẳng: \"Nếu tôi trả tiền mặt hôm nay thì giá bao nhiêu?\"\n\nĐiều kiện thứ hai: thật sự không có phí. Không phí hồ sơ, không phí thu hộ, không phí chuyển đổi, và bảo hiểm khoản vay là tự nguyện, mình có quyền bỏ chọn. Nếu đủ hai điều kiện này, thì trả góp không phần trăm thật sự là không đồng. Lúc đó, nếu mình có sẵn tiền, mình còn có lợi: tiền mình để gửi tiết kiệm vẫn sinh lãi, trong khi món đồ mình đã dùng được rồi.\n\nĐiều kiện thứ ba: món đồ đó giúp mình làm ra tiền, hoặc mình thật sự cần ngay. Cái máy tính để làm thêm, cái máy may để nhận hàng về nhà may, cái xe để đi giao hàng. Mấy món này trả góp là đầu tư. Còn cái điện thoại đời mới trong khi cái cũ vẫn chạy ngon, thì đó là mượn tiền của chính mình trong tương lai để vui hôm nay.",
+ "duration": 90.933,
+ "speed": 0.9,
+ "pause": 0.7,
+ "words": [
+  {
+   "word": "Nói",
+   "start": 0.0,
+   "end": 0.267
+  },
+  {
+   "word": "nãy",
+   "start": 0.311,
+   "end": 0.489
+  },
+  {
+   "word": "giờ,",
+   "start": 0.533,
+   "end": 1.244
+  },
+  {
+   "word": "chắc",
+   "start": 1.289,
+   "end": 1.422
+  },
+  {
+   "word": "có",
+   "start": 1.511,
+   "end": 1.6
+  },
+  {
+   "word": "người",
+   "start": 1.644,
+   "end": 1.867
+  },
+  {
+   "word": "nghĩ",
+   "start": 1.911,
+   "end": 2.222
+  },
+  {
+   "word": "Bác",
+   "start": 2.311,
+   "end": 2.578
+  },
+  {
+   "word": "ghét",
+   "start": 2.667,
+   "end": 2.844
+  },
+  {
+   "word": "trả",
+   "start": 2.933,
+   "end": 3.111
+  },
+  {
+   "word": "góp.",
+   "start": 3.2,
+   "end": 3.556
+  },
+  {
+   "word": "Không",
+   "start": 4.267,
+   "end": 4.444
+  },
+  {
+   "word": "phải",
+   "start": 4.533,
+   "end": 4.711
+  },
+  {
+   "word": "vậy.",
+   "start": 4.8,
+   "end": 5.244
+  },
+  {
+   "word": "Bác",
+   "start": 5.778,
+   "end": 5.956
+  },
+  {
+   "word": "chỉ",
+   "start": 6.0,
+   "end": 6.133
+  },
+  {
+   "word": "ghét",
+   "start": 6.222,
+   "end": 6.489
+  },
+  {
+   "word": "trả",
+   "start": 6.578,
+   "end": 6.756
+  },
+  {
+   "word": "góp",
+   "start": 6.844,
+   "end": 7.111
+  },
+  {
+   "word": "mà",
+   "start": 7.378,
+   "end": 7.556
+  },
+  {
+   "word": "không",
+   "start": 7.644,
+   "end": 7.822
+  },
+  {
+   "word": "tính.",
+   "start": 7.911,
+   "end": 8.267
+  },
+  {
+   "word": "Có",
+   "start": 9.933,
+   "end": 10.111
+  },
+  {
+   "word": "những",
+   "start": 10.156,
+   "end": 10.289
+  },
+  {
+   "word": "lúc",
+   "start": 10.378,
+   "end": 10.556
+  },
+  {
+   "word": "trả",
+   "start": 10.733,
+   "end": 10.911
+  },
+  {
+   "word": "góp",
+   "start": 11.0,
+   "end": 11.178
+  },
+  {
+   "word": "không",
+   "start": 11.267,
+   "end": 11.444
+  },
+  {
+   "word": "phần",
+   "start": 11.533,
+   "end": 11.711
+  },
+  {
+   "word": "trăm",
+   "start": 11.8,
+   "end": 12.067
+  },
+  {
+   "word": "là",
+   "start": 12.333,
+   "end": 12.511
+  },
+  {
+   "word": "có",
+   "start": 12.6,
+   "end": 12.689
+  },
+  {
+   "word": "lợi",
+   "start": 12.778,
+   "end": 12.956
+  },
+  {
+   "word": "thật.",
+   "start": 13.044,
+   "end": 13.4
+  },
+  {
+   "word": "Bác",
+   "start": 14.289,
+   "end": 14.467
+  },
+  {
+   "word": "chỉ",
+   "start": 14.556,
+   "end": 14.689
+  },
+  {
+   "word": "cho",
+   "start": 14.733,
+   "end": 14.822
+  },
+  {
+   "word": "bà",
+   "start": 14.911,
+   "end": 15.089
+  },
+  {
+   "word": "con",
+   "start": 15.178,
+   "end": 15.444
+  },
+  {
+   "word": "ba",
+   "start": 15.533,
+   "end": 15.711
+  },
+  {
+   "word": "điều",
+   "start": 15.756,
+   "end": 15.978
+  },
+  {
+   "word": "kiện.",
+   "start": 16.067,
+   "end": 16.422
+  },
+  {
+   "word": "Điều",
+   "start": 18.0,
+   "end": 18.178
+  },
+  {
+   "word": "kiện",
+   "start": 18.267,
+   "end": 18.4
+  },
+  {
+   "word": "thứ",
+   "start": 18.444,
+   "end": 18.578
+  },
+  {
+   "word": "nhất:",
+   "start": 18.622,
+   "end": 18.978
+  },
+  {
+   "word": "giá",
+   "start": 19.6,
+   "end": 19.778
+  },
+  {
+   "word": "trả",
+   "start": 19.867,
+   "end": 20.044
+  },
+  {
+   "word": "góp",
+   "start": 20.133,
+   "end": 20.4
+  },
+  {
+   "word": "bằng",
+   "start": 20.578,
+   "end": 20.844
+  },
+  {
+   "word": "đúng",
+   "start": 20.933,
+   "end": 21.2
+  },
+  {
+   "word": "giá",
+   "start": 21.289,
+   "end": 21.422
+  },
+  {
+   "word": "trả",
+   "start": 21.467,
+   "end": 21.644
+  },
+  {
+   "word": "thẳng.",
+   "start": 21.733,
+   "end": 22.178
+  },
+  {
+   "word": "Không",
+   "start": 22.711,
+   "end": 22.889
+  },
+  {
+   "word": "mất",
+   "start": 22.978,
+   "end": 23.156
+  },
+  {
+   "word": "khoản",
+   "start": 23.244,
+   "end": 23.422
+  },
+  {
+   "word": "giảm",
+   "start": 23.511,
+   "end": 23.689
+  },
+  {
+   "word": "giá",
+   "start": 23.778,
+   "end": 23.956
+  },
+  {
+   "word": "nào,",
+   "start": 24.044,
+   "end": 24.756
+  },
+  {
+   "word": "không",
+   "start": 24.844,
+   "end": 25.022
+  },
+  {
+   "word": "bị",
+   "start": 25.111,
+   "end": 25.2
+  },
+  {
+   "word": "tính",
+   "start": 25.289,
+   "end": 25.467
+  },
+  {
+   "word": "giá",
+   "start": 25.556,
+   "end": 25.733
+  },
+  {
+   "word": "cao",
+   "start": 25.822,
+   "end": 26.0
+  },
+  {
+   "word": "hơn.",
+   "start": 26.089,
+   "end": 26.444
+  },
+  {
+   "word": "Muốn",
+   "start": 27.067,
+   "end": 27.244
+  },
+  {
+   "word": "biết",
+   "start": 27.333,
+   "end": 27.6
+  },
+  {
+   "word": "thì",
+   "start": 27.689,
+   "end": 27.778
+  },
+  {
+   "word": "hỏi",
+   "start": 27.867,
+   "end": 28.044
+  },
+  {
+   "word": "thẳng:",
+   "start": 28.133,
+   "end": 28.489
+  },
+  {
+   "word": "\"Nếu",
+   "start": 29.022,
+   "end": 29.2
+  },
+  {
+   "word": "tôi",
+   "start": 29.244,
+   "end": 29.378
+  },
+  {
+   "word": "trả",
+   "start": 29.467,
+   "end": 29.6
+  },
+  {
+   "word": "tiền",
+   "start": 29.644,
+   "end": 29.822
+  },
+  {
+   "word": "mặt",
+   "start": 29.911,
+   "end": 30.0
+  },
+  {
+   "word": "hôm",
+   "start": 30.089,
+   "end": 30.178
+  },
+  {
+   "word": "nay",
+   "start": 30.267,
+   "end": 30.533
+  },
+  {
+   "word": "thì",
+   "start": 30.8,
+   "end": 30.933
+  },
+  {
+   "word": "giá",
+   "start": 30.978,
+   "end": 31.156
+  },
+  {
+   "word": "bao",
+   "start": 31.244,
+   "end": 31.333
+  },
+  {
+   "word": "nhiêu?\"",
+   "start": 31.378,
+   "end": 31.689
+  },
+  {
+   "word": "Điều",
+   "start": 33.622,
+   "end": 33.756
+  },
+  {
+   "word": "kiện",
+   "start": 33.8,
+   "end": 33.978
+  },
+  {
+   "word": "thứ",
+   "start": 34.067,
+   "end": 34.2
+  },
+  {
+   "word": "hai:",
+   "start": 34.244,
+   "end": 34.689
+  },
+  {
+   "word": "thật",
+   "start": 35.311,
+   "end": 35.578
+  },
+  {
+   "word": "sự",
+   "start": 35.667,
+   "end": 35.933
+  },
+  {
+   "word": "không",
+   "start": 36.111,
+   "end": 36.289
+  },
+  {
+   "word": "có",
+   "start": 36.378,
+   "end": 36.467
+  },
+  {
+   "word": "phí.",
+   "start": 36.556,
+   "end": 36.911
+  },
+  {
+   "word": "Không",
+   "start": 37.622,
+   "end": 37.8
+  },
+  {
+   "word": "phí",
+   "start": 37.889,
+   "end": 38.067
+  },
+  {
+   "word": "hồ",
+   "start": 38.111,
+   "end": 38.244
+  },
+  {
+   "word": "sơ,",
+   "start": 38.422,
+   "end": 39.044
+  },
+  {
+   "word": "không",
+   "start": 39.133,
+   "end": 39.311
+  },
+  {
+   "word": "phí",
+   "start": 39.4,
+   "end": 39.533
+  },
+  {
+   "word": "thu",
+   "start": 39.578,
+   "end": 39.756
+  },
+  {
+   "word": "hộ,",
+   "start": 39.844,
+   "end": 40.467
+  },
+  {
+   "word": "không",
+   "start": 40.556,
+   "end": 40.733
+  },
+  {
+   "word": "phí",
+   "start": 40.822,
+   "end": 41.0
+  },
+  {
+   "word": "chuyển",
+   "start": 41.089,
+   "end": 41.356
+  },
+  {
+   "word": "đổi,",
+   "start": 41.4,
+   "end": 42.156
+  },
+  {
+   "word": "và",
+   "start": 42.244,
+   "end": 42.333
+  },
+  {
+   "word": "bảo",
+   "start": 42.422,
+   "end": 42.6
+  },
+  {
+   "word": "hiểm",
+   "start": 42.644,
+   "end": 42.867
+  },
+  {
+   "word": "khoản",
+   "start": 42.911,
+   "end": 43.133
+  },
+  {
+   "word": "vay",
+   "start": 43.222,
+   "end": 43.489
+  },
+  {
+   "word": "là",
+   "start": 43.667,
+   "end": 43.844
+  },
+  {
+   "word": "tự",
+   "start": 44.022,
+   "end": 44.2
+  },
+  {
+   "word": "nguyện,",
+   "start": 44.289,
+   "end": 45.0
+  },
+  {
+   "word": "mình",
+   "start": 45.044,
+   "end": 45.267
+  },
+  {
+   "word": "có",
+   "start": 45.356,
+   "end": 45.444
+  },
+  {
+   "word": "quyền",
+   "start": 45.533,
+   "end": 45.711
+  },
+  {
+   "word": "bỏ",
+   "start": 45.8,
+   "end": 45.933
+  },
+  {
+   "word": "chọn.",
+   "start": 45.978,
+   "end": 46.422
+  },
+  {
+   "word": "Nếu",
+   "start": 47.4,
+   "end": 47.578
+  },
+  {
+   "word": "đủ",
+   "start": 47.622,
+   "end": 47.844
+  },
+  {
+   "word": "hai",
+   "start": 47.933,
+   "end": 48.111
+  },
+  {
+   "word": "điều",
+   "start": 48.156,
+   "end": 48.289
+  },
+  {
+   "word": "kiện",
+   "start": 48.378,
+   "end": 48.556
+  },
+  {
+   "word": "này,",
+   "start": 48.6,
+   "end": 49.178
+  },
+  {
+   "word": "thì",
+   "start": 49.222,
+   "end": 49.356
+  },
+  {
+   "word": "trả",
+   "start": 49.444,
+   "end": 49.622
+  },
+  {
+   "word": "góp",
+   "start": 49.711,
+   "end": 49.889
+  },
+  {
+   "word": "không",
+   "start": 49.978,
+   "end": 50.156
+  },
+  {
+   "word": "phần",
+   "start": 50.244,
+   "end": 50.422
+  },
+  {
+   "word": "trăm",
+   "start": 50.511,
+   "end": 50.689
+  },
+  {
+   "word": "thật",
+   "start": 51.044,
+   "end": 51.222
+  },
+  {
+   "word": "sự",
+   "start": 51.4,
+   "end": 51.667
+  },
+  {
+   "word": "là",
+   "start": 51.844,
+   "end": 52.022
+  },
+  {
+   "word": "không",
+   "start": 52.2,
+   "end": 52.378
+  },
+  {
+   "word": "đồng.",
+   "start": 52.467,
+   "end": 52.822
+  },
+  {
+   "word": "Lúc",
+   "start": 53.622,
+   "end": 53.8
+  },
+  {
+   "word": "đó,",
+   "start": 53.844,
+   "end": 54.511
+  },
+  {
+   "word": "nếu",
+   "start": 54.556,
+   "end": 54.689
+  },
+  {
+   "word": "mình",
+   "start": 54.778,
+   "end": 54.867
+  },
+  {
+   "word": "có",
+   "start": 54.956,
+   "end": 55.133
+  },
+  {
+   "word": "sẵn",
+   "start": 55.222,
+   "end": 55.4
+  },
+  {
+   "word": "tiền,",
+   "start": 55.489,
+   "end": 56.111
+  },
+  {
+   "word": "mình",
+   "start": 56.156,
+   "end": 56.289
+  },
+  {
+   "word": "còn",
+   "start": 56.378,
+   "end": 56.556
+  },
+  {
+   "word": "có",
+   "start": 56.6,
+   "end": 56.644
+  },
+  {
+   "word": "lợi:",
+   "start": 56.733,
+   "end": 57.178
+  },
+  {
+   "word": "tiền",
+   "start": 57.711,
+   "end": 57.978
+  },
+  {
+   "word": "mình",
+   "start": 58.022,
+   "end": 58.156
+  },
+  {
+   "word": "để",
+   "start": 58.244,
+   "end": 58.333
+  },
+  {
+   "word": "gửi",
+   "start": 58.422,
+   "end": 58.556
+  },
+  {
+   "word": "tiết",
+   "start": 58.6,
+   "end": 58.778
+  },
+  {
+   "word": "kiệm",
+   "start": 58.867,
+   "end": 59.133
+  },
+  {
+   "word": "vẫn",
+   "start": 59.222,
+   "end": 59.4
+  },
+  {
+   "word": "sinh",
+   "start": 59.489,
+   "end": 59.667
+  },
+  {
+   "word": "lãi,",
+   "start": 59.756,
+   "end": 60.467
+  },
+  {
+   "word": "trong",
+   "start": 60.511,
+   "end": 60.644
+  },
+  {
+   "word": "khi",
+   "start": 60.733,
+   "end": 60.822
+  },
+  {
+   "word": "món",
+   "start": 60.911,
+   "end": 61.089
+  },
+  {
+   "word": "đồ",
+   "start": 61.178,
+   "end": 61.444
+  },
+  {
+   "word": "mình",
+   "start": 61.622,
+   "end": 61.8
+  },
+  {
+   "word": "đã",
+   "start": 61.844,
+   "end": 61.978
+  },
+  {
+   "word": "dùng",
+   "start": 62.067,
+   "end": 62.244
+  },
+  {
+   "word": "được",
+   "start": 62.289,
+   "end": 62.422
+  },
+  {
+   "word": "rồi.",
+   "start": 62.511,
+   "end": 62.867
+  },
+  {
+   "word": "Điều",
+   "start": 64.711,
+   "end": 64.844
+  },
+  {
+   "word": "kiện",
+   "start": 64.889,
+   "end": 65.067
+  },
+  {
+   "word": "thứ",
+   "start": 65.156,
+   "end": 65.289
+  },
+  {
+   "word": "ba:",
+   "start": 65.333,
+   "end": 65.689
+  },
+  {
+   "word": "món",
+   "start": 66.4,
+   "end": 66.578
+  },
+  {
+   "word": "đồ",
+   "start": 66.667,
+   "end": 66.8
+  },
+  {
+   "word": "đó",
+   "start": 66.844,
+   "end": 67.111
+  },
+  {
+   "word": "giúp",
+   "start": 67.378,
+   "end": 67.556
+  },
+  {
+   "word": "mình",
+   "start": 67.644,
+   "end": 67.822
+  },
+  {
+   "word": "làm",
+   "start": 67.911,
+   "end": 68.133
+  },
+  {
+   "word": "ra",
+   "start": 68.178,
+   "end": 68.267
+  },
+  {
+   "word": "tiền,",
+   "start": 68.444,
+   "end": 69.067
+  },
+  {
+   "word": "hoặc",
+   "start": 69.156,
+   "end": 69.422
+  },
+  {
+   "word": "mình",
+   "start": 69.6,
+   "end": 69.778
+  },
+  {
+   "word": "thật",
+   "start": 69.956,
+   "end": 70.133
+  },
+  {
+   "word": "sự",
+   "start": 70.222,
+   "end": 70.4
+  },
+  {
+   "word": "cần",
+   "start": 70.578,
+   "end": 70.756
+  },
+  {
+   "word": "ngay.",
+   "start": 70.8,
+   "end": 71.111
+  },
+  {
+   "word": "Cái",
+   "start": 71.911,
+   "end": 72.089
+  },
+  {
+   "word": "máy",
+   "start": 72.133,
+   "end": 72.267
+  },
+  {
+   "word": "tính",
+   "start": 72.356,
+   "end": 72.533
+  },
+  {
+   "word": "để",
+   "start": 72.622,
+   "end": 72.756
+  },
+  {
+   "word": "làm",
+   "start": 72.8,
+   "end": 72.978
+  },
+  {
+   "word": "thêm,",
+   "start": 73.067,
+   "end": 73.867
+  },
+  {
+   "word": "cái",
+   "start": 73.897,
+   "end": 73.956
+  },
+  {
+   "word": "máy",
+   "start": 74.044,
+   "end": 74.222
+  },
+  {
+   "word": "may",
+   "start": 74.311,
+   "end": 74.578
+  },
+  {
+   "word": "để",
+   "start": 74.756,
+   "end": 74.889
+  },
+  {
+   "word": "nhận",
+   "start": 74.933,
+   "end": 75.2
+  },
+  {
+   "word": "hàng",
+   "start": 75.289,
+   "end": 75.467
+  },
+  {
+   "word": "về",
+   "start": 75.556,
+   "end": 75.689
+  },
+  {
+   "word": "nhà",
+   "start": 75.733,
+   "end": 75.867
+  },
+  {
+   "word": "may,",
+   "start": 75.911,
+   "end": 76.711
+  },
+  {
+   "word": "cái",
+   "start": 76.756,
+   "end": 76.889
+  },
+  {
+   "word": "xe",
+   "start": 76.978,
+   "end": 77.333
+  },
+  {
+   "word": "để",
+   "start": 77.511,
+   "end": 77.689
+  },
+  {
+   "word": "đi",
+   "start": 77.733,
+   "end": 77.867
+  },
+  {
+   "word": "giao",
+   "start": 77.911,
+   "end": 78.133
+  },
+  {
+   "word": "hàng.",
+   "start": 78.222,
+   "end": 78.578
+  },
+  {
+   "word": "Mấy",
+   "start": 79.111,
+   "end": 79.2
+  },
+  {
+   "word": "món",
+   "start": 79.289,
+   "end": 79.467
+  },
+  {
+   "word": "này",
+   "start": 79.556,
+   "end": 79.822
+  },
+  {
+   "word": "trả",
+   "start": 80.089,
+   "end": 80.267
+  },
+  {
+   "word": "góp",
+   "start": 80.356,
+   "end": 80.711
+  },
+  {
+   "word": "là",
+   "start": 80.8,
+   "end": 80.978
+  },
+  {
+   "word": "đầu",
+   "start": 81.067,
+   "end": 81.244
+  },
+  {
+   "word": "tư.",
+   "start": 81.333,
+   "end": 81.689
+  },
+  {
+   "word": "Còn",
+   "start": 82.4,
+   "end": 82.578
+  },
+  {
+   "word": "cái",
+   "start": 82.622,
+   "end": 82.711
+  },
+  {
+   "word": "điện",
+   "start": 82.756,
+   "end": 82.933
+  },
+  {
+   "word": "thoại",
+   "start": 83.022,
+   "end": 83.2
+  },
+  {
+   "word": "đời",
+   "start": 83.289,
+   "end": 83.467
+  },
+  {
+   "word": "mới",
+   "start": 83.556,
+   "end": 83.822
+  },
+  {
+   "word": "trong",
+   "start": 84.089,
+   "end": 84.267
+  },
+  {
+   "word": "khi",
+   "start": 84.356,
+   "end": 84.444
+  },
+  {
+   "word": "cái",
+   "start": 84.533,
+   "end": 84.711
+  },
+  {
+   "word": "cũ",
+   "start": 84.8,
+   "end": 85.067
+  },
+  {
+   "word": "vẫn",
+   "start": 85.156,
+   "end": 85.333
+  },
+  {
+   "word": "chạy",
+   "start": 85.422,
+   "end": 85.6
+  },
+  {
+   "word": "ngon,",
+   "start": 85.689,
+   "end": 86.4
+  },
+  {
+   "word": "thì",
+   "start": 86.489,
+   "end": 86.578
+  },
+  {
+   "word": "đó",
+   "start": 86.667,
+   "end": 86.933
+  },
+  {
+   "word": "là",
+   "start": 87.111,
+   "end": 87.289
+  },
+  {
+   "word": "mượn",
+   "start": 87.378,
+   "end": 87.644
+  },
+  {
+   "word": "tiền",
+   "start": 87.733,
+   "end": 87.911
+  },
+  {
+   "word": "của",
+   "start": 88.0,
+   "end": 88.089
+  },
+  {
+   "word": "chính",
+   "start": 88.178,
+   "end": 88.444
+  },
+  {
+   "word": "mình",
+   "start": 88.533,
+   "end": 88.711
+  },
+  {
+   "word": "trong",
+   "start": 88.8,
+   "end": 88.978
+  },
+  {
+   "word": "tương",
+   "start": 89.067,
+   "end": 89.244
+  },
+  {
+   "word": "lai",
+   "start": 89.289,
+   "end": 89.511
+  },
+  {
+   "word": "để",
+   "start": 89.867,
+   "end": 90.044
+  },
+  {
+   "word": "vui",
+   "start": 90.133,
+   "end": 90.311
+  },
+  {
+   "word": "hôm",
+   "start": 90.4,
+   "end": 90.578
+  },
+  {
+   "word": "nay.",
+   "start": 90.622,
+   "end": 90.933
+  }
+ ]
+}

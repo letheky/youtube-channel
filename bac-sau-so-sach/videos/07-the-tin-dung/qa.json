@@ -1,0 +1,242 @@
+{
+  "slug": "07-the-tin-dung",
+  "verifiedAt": "2026-10-23T11:45:01.153770+00:00",
+  "qaEvidenceDirectory": "D:\\CodexTemp\\bac-sau-video07\\outputs\\video-07-qa",
+  "preview": {
+    "duration": 60.0,
+    "lufs": -16.24,
+    "dBTP": -2.16,
+    "silences": [],
+    "silencePass": true,
+    "protectedSources": 42,
+    "sourceHashesMatch": true
+  },
+  "long": {
+    "duration": 925.9,
+    "lufs": -16.29,
+    "dBTP": -1.91,
+    "silences": [
+      {
+        "start": 914.898333,
+        "end": 925.9
+      }
+    ],
+    "silencePass": true,
+    "protectedSources": 42,
+    "sourceHashesMatch": true,
+    "file": "D:\\Repo\\bac-sau-so-sach\\videos\\07-the-tin-dung\\07-the-tin-dung.mp4",
+    "sha256": "7dd912c11c45f750aa0a0c9079b1e40cb6d040bd9dbc58bcf5fce488fccaac5a"
+  },
+  "short": {
+    "duration": 49.7,
+    "lufs": -14.44,
+    "dBTP": -1.8,
+    "silences": [],
+    "silencePass": true,
+    "protectedSources": 42,
+    "sourceHashesMatch": true,
+    "file": "D:\\Repo\\bac-sau-so-sach\\videos\\07-the-tin-dung\\short\\short-07.mp4",
+    "sha256": "fcad9c44b44d380fb2a9ca1a02b783ea75c8a591dee207d77ce70c77cb225dd2"
+  },
+  "visual": {
+    "passed": true,
+    "reviewedAt": "2026-10-23T11:45:01.152884+00:00",
+    "encodedLongFramesReviewed": 47,
+    "shortFramesReviewed": 8,
+    "allVideoImagesReviewed": 151,
+    "shotsUsedDistinctImages": 149,
+    "characterSheetsReviewed": true,
+    "panelsKeywordsQuoteCtaOutroReviewed": true,
+    "thumbnailReviewed": true,
+    "longSha256": "7dd912c11c45f750aa0a0c9079b1e40cb6d040bd9dbc58bcf5fce488fccaac5a",
+    "shortSha256": "fcad9c44b44d380fb2a9ca1a02b783ea75c8a591dee207d77ce70c77cb225dd2",
+    "imagesUnchangedDuringRender": true,
+    "protectedSources": 126,
+    "audioReview": "Local small ASR of all ten source scenes; large-v3 ASR of final encoded Short. Numbers manually compared. Runtime cannot listen by ear."
+  },
+  "streamDecode": {
+    "passed": true,
+    "media": [
+      {
+        "kind": "long",
+        "file": "D:\\Repo\\bac-sau-so-sach\\videos\\07-the-tin-dung\\07-the-tin-dung.mp4",
+        "sha256": "7dd912c11c45f750aa0a0c9079b1e40cb6d040bd9dbc58bcf5fce488fccaac5a",
+        "decodedFullVideoAndAudio": true,
+        "errors": []
+      },
+      {
+        "kind": "short",
+        "file": "D:\\Repo\\bac-sau-so-sach\\videos\\07-the-tin-dung\\short\\short-07.mp4",
+        "sha256": "fcad9c44b44d380fb2a9ca1a02b783ea75c8a591dee207d77ce70c77cb225dd2",
+        "decodedFullVideoAndAudio": true,
+        "errors": []
+      }
+    ]
+  },
+  "credit": {
+    "before": 91217,
+    "after": 86182,
+    "usedBy07": 5035,
+    "ttsPasses": 1
+  },
+  "sourcesCheckedOn": "2026-10-23",
+  "sourceAndRounding": "Own hypothetical contract; Decimal and HALF_UP on outputs only. Official mechanism sources and scope in locked script and metadata.",
+  "studio": {
+    "status": "end_screen_saved_reopened_other_ui_unconfirmed_permission_expired",
+    "reason": "Windows Computer Use stopped because current Brave URL could not be determined confidently; no bypass attempted.",
+    "endScreen": {
+      "savedAndReopened": true,
+      "targetVideoId": "PxqG898ad1o",
+      "subscribe": true,
+      "verifiedOnVN": "2026-10-24",
+      "startTimecode": "15:15:27",
+      "endTimecode": "15:25:27",
+      "fps": 30
+    },
+    "relatedVideo": {
+      "saved": false,
+      "status": "unconfirmed_permission_expired",
+      "followUp": "Owner action or new explicit #7 permission needed. Follow-up arrived25Oct01:03VN after #7 authority expired24Oct; no Studio actions attempted. Own long was last confirmed public24Oct.",
+      "targetId": "mkeXFEXd5sY"
+    },
+    "audioLimitation": "Runtime cannot listen by ear; ASR and AAC/MP4 measurements used.",
+    "longId": "mkeXFEXd5sY",
+    "shortId": "Z82gc7lXRts",
+    "longScheduleVN": "2026-10-24 18:00",
+    "shortScheduleVN": "2026-10-25 11:30",
+    "privateUntilScheduleConfirmedByApi": true,
+    "aiDisclosureSentByUploader": true,
+    "aiDisclosureConfirmedInUi": false,
+    "aiApiReadbackFieldAvailable": false,
+    "notMadeForKidsConfirmedByApi": true,
+    "hdLongAndShortConfirmedByApi": true,
+    "customThumbnailConfirmedByApi": true,
+    "latestUiAttempt": {
+      "attemptedAt": "2026-10-24T11:42:22.254057+00:00",
+      "windowId": 66974,
+      "status": "deferred_concurrent_user_input",
+      "message": "user input was detected in this window; call get_window_state before continuing",
+      "occurrences": 2,
+      "changesSaved": false,
+      "mainStudioTabKept": true,
+      "temporaryShortTabsOpened": 0,
+      "followupAutomation": "g-n-li-n-k-t-short-8-t-i-25-10",
+      "followupTimesVN": [
+        "2026-10-24 21:05 (#7 only)",
+        "2026-10-25 18:05 (#8 only)",
+        "2026-10-25 21:05 (#8 fallback only)"
+      ]
+    },
+    "lastKnownLongPrivacy": "public",
+    "latestFollowup": {
+      "checkedAt": "2026-10-24T18:06:54.727034+00:00",
+      "localTimeVN": "2026-10-25T01:06:54.727034+07:00",
+      "heartbeatTriggerUtc": "2026-10-24T18:03:48.235Z",
+      "intendedSlotVN": "2026-10-24 21:05",
+      "action": "skipped_expired_authority",
+      "uiAttempted": false,
+      "channelMutations": 0,
+      "relatedConfirmed": false,
+      "requiresOwnerActionOrNewPermission": true
+    }
+  },
+  "youtubeApi": {
+    "videos": [
+      {
+        "kind": "video",
+        "id": "mkeXFEXd5sY",
+        "title": "Thẻ Tín Dụng: Ngân Hàng Thật Ra Kiếm Tiền Từ Ai?",
+        "privacy": "private",
+        "publishAt": "2026-10-24T11:00:00Z",
+        "uploadStatus": "processed",
+        "processingStatus": "succeeded",
+        "duration": "PT15M26S",
+        "definition": "hd",
+        "selfDeclaredMadeForKids": false,
+        "containsSyntheticMedia": null,
+        "metadataMatches": true,
+        "thumbnails": {
+          "default": {
+            "url": "https://i9.ytimg.com/vi/mkeXFEXd5sY/default.jpg?sqp=COiT7dYG&rs=AOn4CLCGODUBr3C_U8OoFnapS5X-K9EzIA",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i9.ytimg.com/vi/mkeXFEXd5sY/mqdefault.jpg?sqp=COiT7dYG&rs=AOn4CLDn09-VkxxPLALXTjjZvnhTyRd7pw",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i9.ytimg.com/vi/mkeXFEXd5sY/hqdefault.jpg?sqp=COiT7dYG&rs=AOn4CLD0xuvkcuzxM1RPTl_oiJxdApzfpA",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i9.ytimg.com/vi/mkeXFEXd5sY/sddefault.jpg?sqp=COiT7dYG&rs=AOn4CLAGMgl_RVdZXX1Mw8waJW5vMHUgVw",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i9.ytimg.com/vi/mkeXFEXd5sY/maxresdefault.jpg?sqp=COiT7dYG&rs=AOn4CLDcQguDVylGqtQqD4SLvkm3aMTvGw",
+            "width": 1280,
+            "height": 720
+          }
+        }
+      },
+      {
+        "kind": "short",
+        "id": "Z82gc7lXRts",
+        "title": "Trả tối thiểu đúng hạn, sao thẻ vẫn tính lãi? #shorts",
+        "privacy": "private",
+        "publishAt": "2026-10-25T04:30:00Z",
+        "uploadStatus": "processed",
+        "processingStatus": "succeeded",
+        "duration": "PT50S",
+        "definition": "hd",
+        "selfDeclaredMadeForKids": false,
+        "containsSyntheticMedia": null,
+        "metadataMatches": true,
+        "thumbnails": {
+          "default": {
+            "url": "https://i9.ytimg.com/vi/Z82gc7lXRts/default.jpg?sqp=COiT7dYG&rs=AOn4CLAApu2uCNb1m3E6AtSakYNcksjBYA",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i9.ytimg.com/vi/Z82gc7lXRts/mqdefault.jpg?sqp=COiT7dYG&rs=AOn4CLDqBYvzPrU3j8yq2NXFOrU50T4Xag",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i9.ytimg.com/vi/Z82gc7lXRts/hqdefault.jpg?sqp=COiT7dYG&rs=AOn4CLB1ABpqdrwR0muTy9fhdgnSpCAr_w",
+            "width": 480,
+            "height": 360
+          }
+        }
+      }
+    ],
+    "vietnameseCaptions": true,
+    "captionTracks": [
+      {
+        "id": "AUieDabDLVZ-5laZu0l3h0RN8Qt2l5vBZKBVq2t3AaMs9Jawfn-cj-TpLNECP2uQhA",
+        "language": "vi",
+        "status": "serving"
+      }
+    ]
+  },
+  "youtubeApiVerifiedAt": "2026-10-23T11:53:11.089190+00:00",
+  "descriptionFormattingFix": {
+    "videoId": "mkeXFEXd5sY",
+    "slug": "07-the-tin-dung",
+    "checkedAt": "2026-10-24T11:47:26.483678+00:00",
+    "updatedThisRun": false,
+    "formattedDescriptionConfirmed": true,
+    "whitespaceOnly": true,
+    "descriptionMatchesLocal": true,
+    "descriptionSha256": "c10009ff0c09b86915f263e0e4bd642447e9ddf763983e5735e850c4d6160186",
+    "descriptionBytes": 3980,
+    "privacyUnchanged": true,
+    "scheduleUnchanged": true,
+    "otherMetadataUnchanged": true
+  }
+}

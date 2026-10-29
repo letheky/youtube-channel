@@ -1,0 +1,2724 @@
+{
+  "created_at": "2026-10-29T10:56:25.902333+07:00",
+  "policy": "Latest committed snapshots; no source Git history, video, audio, credentials, caches or build output.",
+  "projects": [
+    {
+      "directory": "bac-sau-so-sach",
+      "source_commit": "a5298d194f2cceaa40a1e75f2cef6efe623f56e7",
+      "source_commit_date": "2026-10-29T10:38:36+07:00",
+      "working_tree_had_uncommitted_files": true,
+      "files": [
+        {
+          "path": ".env.example",
+          "bytes": 1298,
+          "sha256": "fe596152917fecdafad889b260c56eeaf5f9f1b386a5316177dcf91aa4426878"
+        },
+        {
+          "path": ".gitignore",
+          "bytes": 371,
+          "sha256": "7f40af34051668755c0010bfa2be32943972c60ca1844b06bf90f208b6929f9e"
+        },
+        {
+          "path": "AGENTS.md",
+          "bytes": 6240,
+          "sha256": "5b64232b7933af7ea46383015432ab3d99c9aa61c770ddae8a350ccd1c70519f"
+        },
+        {
+          "path": "HANDOFF.md",
+          "bytes": 93762,
+          "sha256": "7ec9530664a188d107d4db643c83af1587bec591e3a7ccb12d94b7b1e120a927"
+        },
+        {
+          "path": "README.md",
+          "bytes": 2588,
+          "sha256": "3fb0c4b37f715448e17dc1b5230e1afc2032451bffe5971e3941ede7ab6f249e"
+        },
+        {
+          "path": "assets/kenh/anh-bia.jpg",
+          "bytes": 196195,
+          "sha256": "4ee27de1b5b7d770e041f85574643f0aec6945528c79e8eab373088e9e7bacc2"
+        },
+        {
+          "path": "assets/kenh/anh-dai-dien.png",
+          "bytes": 618693,
+          "sha256": "d0caf3ebdb54ead8e155073fc12635a833bcebf2b229402fc8194a1dcd2c507f"
+        },
+        {
+          "path": "assets/nhac-nen/.gitkeep",
+          "bytes": 0,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "path": "assets/nhan-vat/.gitkeep",
+          "bytes": 0,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "path": "assets/nhan-vat/anh-tu.png",
+          "bytes": 2065265,
+          "sha256": "1799ed1eb8e60706c7ce667bf046d4c581361900eefc71c1dfd09deb18f08fbf"
+        },
+        {
+          "path": "assets/nhan-vat/bang-nhan-vat.png",
+          "bytes": 2052949,
+          "sha256": "1597af02b5070ee239d4f32f5c7214d212d36a62c4eb8d1cc02d987ee10d6189"
+        },
+        {
+          "path": "assets/nhan-vat/chi-hai.png",
+          "bytes": 2028359,
+          "sha256": "81a8d77cee34753af7893e52899558fa9341671ce80c074c8b69ad5206e26318"
+        },
+        {
+          "path": "assets/nhan-vat/co-bay.png",
+          "bytes": 2011094,
+          "sha256": "e358c946f1f7ccf8ffb76f0d41532332cf312bb6b32e30c0f382f9b5ec30ab47"
+        },
+        {
+          "path": "assets/nhan-vat/con-ut.png",
+          "bytes": 2037656,
+          "sha256": "9338f018bbdd9b82c7ad0bf37cf5389331c4d74593f277468a163c6e4f5c2201"
+        },
+        {
+          "path": "assets/nhan-vat/ong-nam.png",
+          "bytes": 2035059,
+          "sha256": "cb9d9add732ce08629a0379dbef04ee44a80d18fe444ad59111cd3d54f2bb999"
+        },
+        {
+          "path": "assets/nhan-vat/ong-nam.prompt.json",
+          "bytes": 1718,
+          "sha256": "ba9d6c00a5fb0d2e4682f12a4e9dd3e551727327555e022ea826bfa1f1ab3b88"
+        },
+        {
+          "path": "docs/BRIEF-video-05.md",
+          "bytes": 8689,
+          "sha256": "5c5712942ad839ec166a61e3e5ace8e8e0be3efbf56b0864859fc184b547ba60"
+        },
+        {
+          "path": "docs/HANDOFF-video-01.md",
+          "bytes": 14195,
+          "sha256": "37c486a38de0edd149514173bc920aa38d8d5b1182f23a4193186284b761ca44"
+        },
+        {
+          "path": "docs/HANDOFF-video-02.md",
+          "bytes": 12533,
+          "sha256": "b34be043a05f441316e10a7fa03d085ccc926b8b028f5a11d348578ca56a8241"
+        },
+        {
+          "path": "docs/HANDOFF-video-03.md",
+          "bytes": 12165,
+          "sha256": "b90ec67a5dec0091d10ca0837e19bea20507068cd2c296510144045c8bc3f2a1"
+        },
+        {
+          "path": "docs/HANDOFF-video-04.md",
+          "bytes": 8556,
+          "sha256": "a91c66c8c832103546c3d215da844a76f840692b1e2bee7a167b120d653e2560"
+        },
+        {
+          "path": "docs/HANDOFF-video-05.md",
+          "bytes": 11230,
+          "sha256": "f23b597a50f575cbdc156a220e49c647b009138d6358acbcf478d1a9c849c0bd"
+        },
+        {
+          "path": "docs/HANDOFF-video-06.md",
+          "bytes": 13514,
+          "sha256": "1ef4ef091a71c81265e278658c172d627d2fffc5959c0e7aad3d4f05202c2093"
+        },
+        {
+          "path": "docs/HANDOFF-video-07.md",
+          "bytes": 12614,
+          "sha256": "59441e8191e4f84d5debf8bed884788e21aeae2e9b036cce13e288b61bea7d57"
+        },
+        {
+          "path": "docs/HANDOFF-video-08.md",
+          "bytes": 15375,
+          "sha256": "4c3116dcf91d9e6db7b56ea10f2b693f1cb9bcfc301421a92c54c5e1b8584597"
+        },
+        {
+          "path": "docs/HANDOFF-video-09.md",
+          "bytes": 20690,
+          "sha256": "3405984aa567d9932294cdbda3efa89f82f7a36b7304870336cf729df6f6704d"
+        },
+        {
+          "path": "docs/HANDOFF-video-10.md",
+          "bytes": 18717,
+          "sha256": "d9ee15be82542d7f318e77cda5517700f1173bae4e17b0ecf36e9bec63f2a03e"
+        },
+        {
+          "path": "docs/HANDOFF-video-11.md",
+          "bytes": 16125,
+          "sha256": "8c6455cd15f32e69abafe82ba56747089a047fe46bafb169faa683b02243c7dc"
+        },
+        {
+          "path": "docs/HANDOFF-video-13.md",
+          "bytes": 7970,
+          "sha256": "60a1881c12a9a01af524c129889ca30b27f24a8656c2977f0c83a5d09c15d0f3"
+        },
+        {
+          "path": "docs/HANDOFF-video-14.md",
+          "bytes": 468,
+          "sha256": "7bcbc865648fc1df159294492673f45eab64c34b5dacea09ba3ae26b3ea66fe5"
+        },
+        {
+          "path": "docs/KE-HOACH.md",
+          "bytes": 5900,
+          "sha256": "df8aa57553e48de3cd30e622103afb33cecb74c18add05c7d8c19f490591ab13"
+        },
+        {
+          "path": "docs/LICH-DANG.md",
+          "bytes": 45914,
+          "sha256": "e1a203a1b506f215937db24f7f9042392004779f7f936707112dcb81cf4eca98"
+        },
+        {
+          "path": "docs/QUY-TRINH.md",
+          "bytes": 20258,
+          "sha256": "797a179ae7abccb0e476638b5bc8d2b23fb62595f3788cbcb2524c33e8f918ab"
+        },
+        {
+          "path": "docs/SHOTS.md",
+          "bytes": 7054,
+          "sha256": "06d75da669f2059e691554178e13a37167cdb84aa516cd7acfc5095e7ab61dbb"
+        },
+        {
+          "path": "docs/SOAT-video-13.md",
+          "bytes": 9215,
+          "sha256": "b13a75ebaa678646a0242b007209156202d0035d0a86282e35583b44907f00e2"
+        },
+        {
+          "path": "docs/SOAT-video-14.md",
+          "bytes": 6374,
+          "sha256": "46df47ae8d0a57fe961474308c2b9c2373c78a4426e6886bc4fb2781089ab806"
+        },
+        {
+          "path": "docs/Y-TUONG.md",
+          "bytes": 6295,
+          "sha256": "18ee5e6500ed84195212f82b1bd8753826fe38fda3c90216670e9088767064a4"
+        },
+        {
+          "path": "docs/phan-tich/2026-10-26.json",
+          "bytes": 141442,
+          "sha256": "88e5ad9c562bfe56a137d8040b9ed440be8b8e5ed5960de6e8b5a14383ca3ed6"
+        },
+        {
+          "path": "docs/phan-tich/2026-10-26.md",
+          "bytes": 9354,
+          "sha256": "2257619fa5d117ba74141e60500f4543d6dd504c0461c1b99c8a21d6a2d95c83"
+        },
+        {
+          "path": "kich-ban/01-tra-sua-100-ly.md",
+          "bytes": 38831,
+          "sha256": "ff872ecc43da8f4f527b781192ad226ac594d766fff50667d9d789d480418b02"
+        },
+        {
+          "path": "kich-ban/01-tra-sua-100-ly.shots.json",
+          "bytes": 295154,
+          "sha256": "2bef75f3e7c1888413a1d7d9a17fb9329e2511dbd994c5ace01345e30a5ef162"
+        },
+        {
+          "path": "kich-ban/02-tra-gop-0-phan-tram.images.json",
+          "bytes": 12669,
+          "sha256": "949a2f6a4c5b566f1359d4ac32ede857defadcd9460e6774db1acb81f37fa799"
+        },
+        {
+          "path": "kich-ban/02-tra-gop-0-phan-tram.md",
+          "bytes": 36216,
+          "sha256": "15262c09ea68a201ba93882402e12ca534b804d740204ede13554af6f78dcac9"
+        },
+        {
+          "path": "kich-ban/02-tra-gop-0-phan-tram.shots.json",
+          "bytes": 281859,
+          "sha256": "fa7d5736f215217c5b26b5ca1b84a4be0c54dec952ddb0923247ad9ebc09034a"
+        },
+        {
+          "path": "kich-ban/03-tiem-vang-khong-lo.images.json",
+          "bytes": 14969,
+          "sha256": "2180590534280802f8cd3417fc00cc707f3aadb22c51fa06b746238531738713"
+        },
+        {
+          "path": "kich-ban/03-tiem-vang-khong-lo.md",
+          "bytes": 31059,
+          "sha256": "433ff9e1b5b9ee05b8bb065447fb555eb11c651e836bf974164c8512b53bdb2c"
+        },
+        {
+          "path": "kich-ban/03-tiem-vang-khong-lo.shots.json",
+          "bytes": 256259,
+          "sha256": "54a406d2e0bce64cf708542732016fbf563c4cce51df434eae94a528958edd3c"
+        },
+        {
+          "path": "kich-ban/04-tai-xe-cong-nghe.image-corrections.json",
+          "bytes": 30654,
+          "sha256": "9fa6951ab5de55e1a99d38eb868fa1ba46ec33c108d9f3e5144d07bdb5e87515"
+        },
+        {
+          "path": "kich-ban/04-tai-xe-cong-nghe.images.json",
+          "bytes": 13211,
+          "sha256": "13c38571e0550c47efcd2e0e2c973d128827b7dec43cec966095b13973d2548f"
+        },
+        {
+          "path": "kich-ban/04-tai-xe-cong-nghe.md",
+          "bytes": 31220,
+          "sha256": "5fcbb098b58d1d3550522c20fbd13cb7d826275aad1a2d34db6df0e90db30a9a"
+        },
+        {
+          "path": "kich-ban/04-tai-xe-cong-nghe.shots.json",
+          "bytes": 231899,
+          "sha256": "232fc3e28ea0280e98eb2b7d28b8c6fb0dc36a14136571a4c509462b71124d62"
+        },
+        {
+          "path": "kich-ban/05-quan-ca-phe-mat-bang.edits.json",
+          "bytes": 5242,
+          "sha256": "bed1f9f5d9c0448184306ac87f15f452998b36dbf518b6dd79f5f234a074cc7e"
+        },
+        {
+          "path": "kich-ban/05-quan-ca-phe-mat-bang.images.json",
+          "bytes": 13348,
+          "sha256": "d657d8f3ce8e5339452b2168e321ca2bd98279e532c30ca4df58268262e48873"
+        },
+        {
+          "path": "kich-ban/05-quan-ca-phe-mat-bang.md",
+          "bytes": 33378,
+          "sha256": "6c5a060ee0cdb0f18356909f3dbc53304c2c2c4b9381fc350353b93b3076fcbb"
+        },
+        {
+          "path": "kich-ban/05-quan-ca-phe-mat-bang.shots.json",
+          "bytes": 188558,
+          "sha256": "b94c7d717702bd9b3c7eb315465d49527d16fd5aa655dd0162d3bc36222bd1ae"
+        },
+        {
+          "path": "kich-ban/06-gui-1-ty-nghi-huu.edits.json",
+          "bytes": 13448,
+          "sha256": "8c7c3a19c61e8238e1371d3c7f771839ae64ef4d0b00c83af137073882d6b31d"
+        },
+        {
+          "path": "kich-ban/06-gui-1-ty-nghi-huu.images.json",
+          "bytes": 12934,
+          "sha256": "ca3c3486390d555d113b2b5f95b579fc12e533d612d5f6951c545ba9e967e853"
+        },
+        {
+          "path": "kich-ban/06-gui-1-ty-nghi-huu.md",
+          "bytes": 32077,
+          "sha256": "e094dfb9f2322156cda8f1756e9b09721b6781de06bffb582a4fd3ed19bbe1f9"
+        },
+        {
+          "path": "kich-ban/06-gui-1-ty-nghi-huu.shots.json",
+          "bytes": 237831,
+          "sha256": "4b6c5f8ef9678b071fa569b7e329ac97818b0397a07b9e65f198c18cfe792261"
+        },
+        {
+          "path": "kich-ban/07-the-tin-dung.extra-images.json",
+          "bytes": 77806,
+          "sha256": "f290a5a1006ba42269ac7c0b9544507570b03dc4cfedfe93d5a1c63e67adfa50"
+        },
+        {
+          "path": "kich-ban/07-the-tin-dung.extra-provenance.json",
+          "bytes": 92506,
+          "sha256": "ae39945f04957a778cd72f5182440803773e7ebccf295b152abd1aad584b2750"
+        },
+        {
+          "path": "kich-ban/07-the-tin-dung.image-provenance.json",
+          "bytes": 15909,
+          "sha256": "ec36dc231663ae83786286d07395c8a5eba36c7d70ca84b1ba914417819de673"
+        },
+        {
+          "path": "kich-ban/07-the-tin-dung.images.json",
+          "bytes": 12238,
+          "sha256": "44f76e25c0476fb89db8428c962fab7c6b56ebcc0fc726b78864dca59631bb5a"
+        },
+        {
+          "path": "kich-ban/07-the-tin-dung.md",
+          "bytes": 29995,
+          "sha256": "a833066a6be1903c7796b5cfafd9fbdd988e050cbee253ec1f32d10407ff2eae"
+        },
+        {
+          "path": "kich-ban/07-the-tin-dung.shots.json",
+          "bytes": 252296,
+          "sha256": "282e9ae7bea16bed02bcabc2638e870d6f83d50fc685a742ec638a200d61f2e1"
+        },
+        {
+          "path": "kich-ban/07-the-tin-dung.unique-images.json",
+          "bytes": 130234,
+          "sha256": "02f0a13ee6367128c2347466bf673ad2fe11f11d938743dcc2da1e106966e834"
+        },
+        {
+          "path": "kich-ban/07-the-tin-dung.unique-provenance.json",
+          "bytes": 183616,
+          "sha256": "4744f87d560af981a210e40385b84515b361269aafbc9b44e2eabf345d10c94d"
+        },
+        {
+          "path": "kich-ban/08-luong-15-trieu-300-trieu.image-provenance.json",
+          "bytes": 18472,
+          "sha256": "8ea7250c87ad1e221dbea3b891ec6ebf6995e615d1b9d4557d79efba46523e76"
+        },
+        {
+          "path": "kich-ban/08-luong-15-trieu-300-trieu.images.json",
+          "bytes": 9331,
+          "sha256": "fa7fd1837599f60f4932b565acd5a8afb2592c4e81df2bdace71acbbb63755ea"
+        },
+        {
+          "path": "kich-ban/08-luong-15-trieu-300-trieu.md",
+          "bytes": 31920,
+          "sha256": "e4969e0f3f3b926ebd92d1c843e35bfcd6e780773d5125953774096157315b94"
+        },
+        {
+          "path": "kich-ban/08-luong-15-trieu-300-trieu.shot-images.json",
+          "bytes": 234475,
+          "sha256": "da705f1389b2e6e4b1e3a74d54d3004a3a011fa70b2c3e126eef7a56dabade81"
+        },
+        {
+          "path": "kich-ban/08-luong-15-trieu-300-trieu.shot-provenance.json",
+          "bytes": 289555,
+          "sha256": "220d56b6b068eb25c57df5645f347e606a6d24d33b623b6c14cc11aa2aa6b822"
+        },
+        {
+          "path": "kich-ban/08-luong-15-trieu-300-trieu.shots.json",
+          "bytes": 258199,
+          "sha256": "65ad8af45f9ed474605ecb9fd06e0b5292932137c543117c88953e995c35c7b3"
+        },
+        {
+          "path": "kich-ban/09-mua-nha-hay-thue.calculations.json",
+          "bytes": 7338,
+          "sha256": "bebd72fec7e011bca5b5f590012cbf8d159ad6e4983b6bf92d3882a3480b93ca"
+        },
+        {
+          "path": "kich-ban/09-mua-nha-hay-thue.image-provenance.json",
+          "bytes": 26355,
+          "sha256": "3536b33c58550ced1d1be9331b7a438206ede4fc2b3127bb304248498d70059c"
+        },
+        {
+          "path": "kich-ban/09-mua-nha-hay-thue.images.json",
+          "bytes": 11610,
+          "sha256": "67d05b39933d01573c82ffa16e98abf611b6354c62223324921a1d70699ded31"
+        },
+        {
+          "path": "kich-ban/09-mua-nha-hay-thue.md",
+          "bytes": 31297,
+          "sha256": "f0fae9bbcd0097b525b5bc2b7653b1daacb245f47e235a17cc21bb61934f549b"
+        },
+        {
+          "path": "kich-ban/09-mua-nha-hay-thue.shot-images.json",
+          "bytes": 247813,
+          "sha256": "76496d48def7ed5a3c793f673dcd40e288ce4db86fcf0bc0c0d3966960a5376a"
+        },
+        {
+          "path": "kich-ban/09-mua-nha-hay-thue.shot-provenance.json",
+          "bytes": 349198,
+          "sha256": "1b9561c2a63166cac59fcd00f9ff51dfd432e6c517f462f23ce312591647de2d"
+        },
+        {
+          "path": "kich-ban/09-mua-nha-hay-thue.shots.json",
+          "bytes": 279549,
+          "sha256": "d163f6a3e9c76da939cbdffaf08256c304de3fcb452cb26c612564eea684fcee"
+        },
+        {
+          "path": "kich-ban/10-tiem-sua-xe-dau-hem.calculations.json",
+          "bytes": 3911,
+          "sha256": "7d05878913370420cd03cd3b6a7d5f8dc06ded1484171a5d1e8a7f7b6e339dd7"
+        },
+        {
+          "path": "kich-ban/10-tiem-sua-xe-dau-hem.image-provenance.json",
+          "bytes": 37693,
+          "sha256": "bcff1f138dbf6feed6d53b9e830d0b10355e7a00af9e51dd46a809f993aea71b"
+        },
+        {
+          "path": "kich-ban/10-tiem-sua-xe-dau-hem.images.json",
+          "bytes": 19702,
+          "sha256": "cb363ad6e9439cebb90059e40c60f7add1f6fc1abcdd1625f13b00329ae1c123"
+        },
+        {
+          "path": "kich-ban/10-tiem-sua-xe-dau-hem.md",
+          "bytes": 31528,
+          "sha256": "86122cc40d4c22e2ba1d41c797a7e3e3de65c11fc68580486676db01a9c0dfab"
+        },
+        {
+          "path": "kich-ban/10-tiem-sua-xe-dau-hem.shot-image-provenance.json",
+          "bytes": 343315,
+          "sha256": "0f2788e5d4881eb5aeac4843d881cef072a9f2cd0b663c528b4285e29485790f"
+        },
+        {
+          "path": "kich-ban/10-tiem-sua-xe-dau-hem.shot-images.json",
+          "bytes": 263190,
+          "sha256": "f6e5a579ba49679ddcab95e24e87d93363d140d1b03636c6c3568729d4672acf"
+        },
+        {
+          "path": "kich-ban/10-tiem-sua-xe-dau-hem.shots.json",
+          "bytes": 260869,
+          "sha256": "7a1b49538df4b38c59771010efa0c197878678789b4892e4ad4e7e603729d642"
+        },
+        {
+          "path": "kich-ban/10-tiem-sua-xe-dau-hem.sources.json",
+          "bytes": 3021,
+          "sha256": "9422ae2b55ad37c60ae6e507b44d10ed2f0a4d453cbc39ba13b11b93ff66d6bd"
+        },
+        {
+          "path": "kich-ban/11-vay-app-online.calculations.json",
+          "bytes": 1475,
+          "sha256": "4f6f43cb6ef07e66f562ac07221e12bae030f150055370bfd1ac8a315997b68b"
+        },
+        {
+          "path": "kich-ban/11-vay-app-online.images.json",
+          "bytes": 6414,
+          "sha256": "c38ae50b3067092c0db2f81998c780bb7acaa52513103f5fde5ed9b8d3e40852"
+        },
+        {
+          "path": "kich-ban/11-vay-app-online.md",
+          "bytes": 24446,
+          "sha256": "68dd1469177f5fa1e5af2f0b43055b462aa0d729e1c778f2187ba5ef4dd456fa"
+        },
+        {
+          "path": "kich-ban/11-vay-app-online.shot-image-provenance.json",
+          "bytes": 193518,
+          "sha256": "e3105fa90d4723a0d5436b056827009e162d8400e3c1dd54f7346ff70dabf091"
+        },
+        {
+          "path": "kich-ban/11-vay-app-online.shot-images.json",
+          "bytes": 147287,
+          "sha256": "3a71dba8a4047d60750e76179c773396e3ccbd4e2a89e6dfb91b69f149bfdf1e"
+        },
+        {
+          "path": "kich-ban/11-vay-app-online.shots.json",
+          "bytes": 163848,
+          "sha256": "e1bf06f11dcce131446682305d9220553943d8b551be323bca6ce8d313fdbb85"
+        },
+        {
+          "path": "kich-ban/11-vay-app-online.sources.json",
+          "bytes": 2487,
+          "sha256": "1a8e80e7e9cd691b78b1eccdf89157b75e6e7611a12e90d81e98cf05bfdb9323"
+        },
+        {
+          "path": "kich-ban/13-luong-huu-bhxh.calculations.json",
+          "bytes": 1620,
+          "sha256": "a7fc77b1e99a5aa20994a422503a97f17e607a99929deb00c578c7513a32f4eb"
+        },
+        {
+          "path": "kich-ban/13-luong-huu-bhxh.images.json",
+          "bytes": 8656,
+          "sha256": "fc77020975b28458a13ca1156bf4c85c791fe0b5747caf6f4d9bd379c2caa457"
+        },
+        {
+          "path": "kich-ban/13-luong-huu-bhxh.md",
+          "bytes": 27781,
+          "sha256": "b49735b51fb771f60d25d31e9bef458077bee41b373c41ef52349db952b570a9"
+        },
+        {
+          "path": "kich-ban/13-luong-huu-bhxh.shot-image-provenance.json",
+          "bytes": 234738,
+          "sha256": "506e8c996e524b3688b654f6f1e440c909667b11da476865e920335388d7d8a6"
+        },
+        {
+          "path": "kich-ban/13-luong-huu-bhxh.shot-images.json",
+          "bytes": 151179,
+          "sha256": "ed77b5a8cfe83fd471377d570552d1753266d3d32b67497fa184eb6f7019ad77"
+        },
+        {
+          "path": "kich-ban/13-luong-huu-bhxh.shots.json",
+          "bytes": 175349,
+          "sha256": "aee65f056fd78dc7f0584788a017072d92c262de48f869de16fa6b989fafcc44"
+        },
+        {
+          "path": "kich-ban/13-luong-huu-bhxh.sources.json",
+          "bytes": 3243,
+          "sha256": "0602d42aada95202252d8d479ada586be5b0cee6cbdcd0098302a13d042b031f"
+        },
+        {
+          "path": "kich-ban/14-xe-banh-mi.calculations.json",
+          "bytes": 1649,
+          "sha256": "ba4235731ce7c62453e0903255152abdce5c69136e9a34f2fbbd2abf43fdd841"
+        },
+        {
+          "path": "kich-ban/14-xe-banh-mi.md",
+          "bytes": 29119,
+          "sha256": "0dfde1004bfecf9127be78f16ae7fe735981b4ad3cd6ea98e94f6e35a4aa68a8"
+        },
+        {
+          "path": "kich-ban/14-xe-banh-mi.review-calculations.json",
+          "bytes": 344,
+          "sha256": "f735f84dc095df5d979eb4985036d376ad26565dcfcb47c2c260fcad9c0b28e5"
+        },
+        {
+          "path": "kich-ban/14-xe-banh-mi.sources.json",
+          "bytes": 2374,
+          "sha256": "0aebf7342897303b2d202287da46012bc1c0e09a8f326251bc82b7b40e02f959"
+        },
+        {
+          "path": "remotion/package-lock.json",
+          "bytes": 157234,
+          "sha256": "d0efde6c7b5078ee387f1cdac12f596faddd1957c048eba92bb2e35cb2de6327"
+        },
+        {
+          "path": "remotion/package.json",
+          "bytes": 642,
+          "sha256": "84052fdfa1202a3168101ec9ff651971e7e246a1c415958e71ca05efb0cee37a"
+        },
+        {
+          "path": "remotion/remotion.config.ts",
+          "bytes": 232,
+          "sha256": "1e6121372db5c1145a00f8e310592754928efb4cddedf36677425a320b551561"
+        },
+        {
+          "path": "remotion/scripts/audit-shots.mjs",
+          "bytes": 3620,
+          "sha256": "e0776b3a36b8ef98fb6fadf5e70fb33f564cf9cf4d8a02cb44508b930330674d"
+        },
+        {
+          "path": "remotion/scripts/build-short.mjs",
+          "bytes": 3280,
+          "sha256": "20e7bcb9874b98af0ead61cc924a9fea09cff16e62f440528648aa5c2ba39849"
+        },
+        {
+          "path": "remotion/scripts/build-shots.mjs",
+          "bytes": 4765,
+          "sha256": "1ec7509aa966030932ca63e4e8ea37a3d57e6d6822bdb7968f215dd7d79ca6b5"
+        },
+        {
+          "path": "remotion/scripts/build-shots.test.mjs",
+          "bytes": 1249,
+          "sha256": "bf181e3e9e586b460c9d2e93c9b702b2773d2f5ceb074c0c96dea68170e14aa8"
+        },
+        {
+          "path": "remotion/scripts/build-timeline.mjs",
+          "bytes": 4884,
+          "sha256": "040e8cc6df27360963cc042333a4605c59d3f0eecbdbd0ced9970234bb785b99"
+        },
+        {
+          "path": "remotion/scripts/ffmpeg9-compat.cjs",
+          "bytes": 1185,
+          "sha256": "25bf1b0a4219b3b1b3f55584a788a6d2807c52e18c0d64755e6b79f7c5ced573"
+        },
+        {
+          "path": "remotion/scripts/make-sfx.mjs",
+          "bytes": 1558,
+          "sha256": "8cab5e5438aca54ba7b534501923f85a013f7b10858a2bf25b53f147f6a68487"
+        },
+        {
+          "path": "remotion/scripts/shot-timeline.mjs",
+          "bytes": 1617,
+          "sha256": "dd500c8f16fdd90f376a5b44f1c095c3214c260a36c0404c38f5c0ec1f6677cd"
+        },
+        {
+          "path": "remotion/scripts/shot-timeline.test.mjs",
+          "bytes": 1820,
+          "sha256": "366342aec174d5661f26ecd7aaa712e829e086f3b967bcb87e522cb738f69c32"
+        },
+        {
+          "path": "remotion/scripts/verify-shot-frames.mjs",
+          "bytes": 2927,
+          "sha256": "1a396e0dc3bbf72b3dadb9e1ad3be1fecd139b65ff5774cf1961a1d5d5eab127"
+        },
+        {
+          "path": "remotion/src/ChannelArt.tsx",
+          "bytes": 3370,
+          "sha256": "4c82f629033886d037afb66af29387a30d0e048a9fed67b91d90fae39269acc3"
+        },
+        {
+          "path": "remotion/src/KetSo.tsx",
+          "bytes": 11641,
+          "sha256": "52b296b86afabe1ce1f739358b3ef2d8f171ddb1b613e9751a3fdf2149b4c51a"
+        },
+        {
+          "path": "remotion/src/Root.tsx",
+          "bytes": 19324,
+          "sha256": "ce1a5d4c8763b771e1408a7ef8f2199c63e1685a78674ebff5c8effe4306e83c"
+        },
+        {
+          "path": "remotion/src/data/gui-1-ty-nghi-huu.video.ts",
+          "bytes": 10715,
+          "sha256": "2070382437ba77f01f8a3e66da83aa51acaf786bbcb842d80fff06649a81fa6c"
+        },
+        {
+          "path": "remotion/src/data/luong-15-trieu-300-trieu.video.ts",
+          "bytes": 10916,
+          "sha256": "4ea7cae57b141c540c9b532f60bd270ea58a2541119280c5f9425be69b3ec1f0"
+        },
+        {
+          "path": "remotion/src/data/luong-huu-bhxh.video.ts",
+          "bytes": 7863,
+          "sha256": "1484430925ae0c18b963457216da480dcba2c7588ed48997418fe3a9aa3d7862"
+        },
+        {
+          "path": "remotion/src/data/mua-nha-hay-thue.video.ts",
+          "bytes": 12383,
+          "sha256": "2aea0ca24e01b50ab3b38ddfa9bd1ee0eeb2464340e843f3ece316d6291b992d"
+        },
+        {
+          "path": "remotion/src/data/quan-ca-phe-mat-bang.video.ts",
+          "bytes": 10405,
+          "sha256": "4bc71faba31772a3c17efa076dd9f0d6149b7e95681e1dcdd4857c75d351ef29"
+        },
+        {
+          "path": "remotion/src/data/tai-xe-cong-nghe.video.ts",
+          "bytes": 7638,
+          "sha256": "03d7ef97b11273733c02c76af86ed57992cc45e4b6cdbd936955bed12d07357a"
+        },
+        {
+          "path": "remotion/src/data/the-tin-dung.video.ts",
+          "bytes": 8271,
+          "sha256": "c97dd3b0acfeeecda52cccd261715dccc00a0d6e2ea8349e44509bfa75da856e"
+        },
+        {
+          "path": "remotion/src/data/tiem-sua-xe-dau-hem.video.ts",
+          "bytes": 11591,
+          "sha256": "38b255abc8f7d2d68f3d80277d80bf31f000b893ba37db91f9e964ab8a2c56c3"
+        },
+        {
+          "path": "remotion/src/data/tiem-vang-khong-lo.video.ts",
+          "bytes": 8456,
+          "sha256": "b758915a0def4f9f71c627eeaabd522f650af21f98e81f3075a3396b426060c0"
+        },
+        {
+          "path": "remotion/src/data/tra-gop-0-phan-tram.video.ts",
+          "bytes": 8138,
+          "sha256": "efd1004facad9b9c5f514251e5a015e64fbdc4436842d3b6c7d2ddd388cb25a5"
+        },
+        {
+          "path": "remotion/src/data/tra-sua-100-ly.ts",
+          "bytes": 994,
+          "sha256": "5e11a0db72be0d2564b5dab5dd3c7c521202589bcc5885e395ccad088019e819"
+        },
+        {
+          "path": "remotion/src/data/tra-sua-100-ly.video.ts",
+          "bytes": 11453,
+          "sha256": "f0feb71ffffe945a7a137fe06a64d25834fc47fa64f145c8f58a6c4debdfdff1"
+        },
+        {
+          "path": "remotion/src/data/vay-app-online.video.ts",
+          "bytes": 7778,
+          "sha256": "c5c2a386d665e76c47a0ff58a3700a978b79367d83ba1cdd2bf3664169af35f4"
+        },
+        {
+          "path": "remotion/src/index.ts",
+          "bytes": 113,
+          "sha256": "9add656193bc0a61896d26d3067000fcff56ef7b69270af1f8883b0e4ce65cc4"
+        },
+        {
+          "path": "remotion/src/short/BacSauFlat.tsx",
+          "bytes": 7843,
+          "sha256": "a08a1750dfe10e1818759f5e51ad2b1012c26d6b8277e700ce1f2ab3d68bf6b2"
+        },
+        {
+          "path": "remotion/src/short/Props.tsx",
+          "bytes": 7621,
+          "sha256": "77c5d235ea6707e36d9db3a511010ae7430fd22bf5348423737b6fe3ebdba895"
+        },
+        {
+          "path": "remotion/src/short/Short01.tsx",
+          "bytes": 19637,
+          "sha256": "543f997b560a76ca2030a712225e21822723c0722203d14c49792798bea2b9e0"
+        },
+        {
+          "path": "remotion/src/short/Short02.tsx",
+          "bytes": 8038,
+          "sha256": "f5020fcee6c52a943f02ebf6c4b9be4bcfaaf99d328936a629b20659e763e82e"
+        },
+        {
+          "path": "remotion/src/short/Short03.tsx",
+          "bytes": 6536,
+          "sha256": "d19a9242ddeaa4ef819fdef162212580d9d92e479d109162164756f3cd138374"
+        },
+        {
+          "path": "remotion/src/short/Short04.tsx",
+          "bytes": 6280,
+          "sha256": "2b1120735376bf52e8e0ff4726c81fe35d9905de4452a81b76e465f2b5dd5581"
+        },
+        {
+          "path": "remotion/src/short/Short05.tsx",
+          "bytes": 4636,
+          "sha256": "7b848643355e7bb22931c981b8a8eb6ef5aeeddbf8d8b8a28419405448d8e849"
+        },
+        {
+          "path": "remotion/src/short/Short06.tsx",
+          "bytes": 5430,
+          "sha256": "9bfc51a5e553a4015706a5a17a2ea18770fcf101de374d9d7908ef8e555c5d3c"
+        },
+        {
+          "path": "remotion/src/short/Short07.tsx",
+          "bytes": 4389,
+          "sha256": "4fb40b2e0b3075fb7111e50d6bc4342d5f6c6d14d38b01aedc5a20260d6c5306"
+        },
+        {
+          "path": "remotion/src/short/Short08.tsx",
+          "bytes": 4388,
+          "sha256": "4f5c8011dc8e0737b2966644a61d9df9a6c2ba56db46442f75ff5a5f000e162d"
+        },
+        {
+          "path": "remotion/src/short/Short09.tsx",
+          "bytes": 4104,
+          "sha256": "b81a48929acc90a8dc1b416745a3be5fa032caf4ab5274b869c0eccb50ecfa4d"
+        },
+        {
+          "path": "remotion/src/short/Short10.tsx",
+          "bytes": 4356,
+          "sha256": "bf534c977326a37d2370228d8a55614309d162dce940ec97c3843918cec18b5b"
+        },
+        {
+          "path": "remotion/src/short/Short11.tsx",
+          "bytes": 3802,
+          "sha256": "9cb876763b56e365a987be9f4b793078d8778be912d753b33e7f4e2b19e2193f"
+        },
+        {
+          "path": "remotion/src/short/Short13.tsx",
+          "bytes": 3865,
+          "sha256": "883967b4d87c8aba6324f1f93fd3262ba3f548fdec9c1d7d2a1d5c8e8c17afc0"
+        },
+        {
+          "path": "remotion/src/short/flat.tsx",
+          "bytes": 4648,
+          "sha256": "30b4afed5870b96888a46926a0970d36bbc8a2187e6f51c7ea64532d626f0cb8"
+        },
+        {
+          "path": "remotion/src/theme.ts",
+          "bytes": 1134,
+          "sha256": "d431b87c8e1ce540a65b315b7f2f7b2a433203da6388fa5bb0e7386e0d661b47"
+        },
+        {
+          "path": "remotion/src/video/BaiVideo.tsx",
+          "bytes": 2486,
+          "sha256": "b04421baba15688ca9e51ab7b3a4f427f5b1d929a84feedf07672349a671e8eb"
+        },
+        {
+          "path": "remotion/src/video/ChapterBar.tsx",
+          "bytes": 924,
+          "sha256": "4e20abfe795fa068f68be6add4eec70b06674b225d97e2f2ccf49e1864acb5be"
+        },
+        {
+          "path": "remotion/src/video/Overlays.tsx",
+          "bytes": 20312,
+          "sha256": "7c1a8f6c2cddff5a5d5660afa3fb8e945f01815769727c657906ca7e4528857f"
+        },
+        {
+          "path": "remotion/src/video/Scene.tsx",
+          "bytes": 6751,
+          "sha256": "d9521a2e47aba5b2593f6c3b57c09f660b677982d6811af06d652201d89dc9a2"
+        },
+        {
+          "path": "remotion/src/video/Thumbnail.tsx",
+          "bytes": 1807,
+          "sha256": "f1769a7096d04a301fbfec695c7a104771e04ef523f94a926e08d3cdfdd40fd5"
+        },
+        {
+          "path": "remotion/src/video/cues.ts",
+          "bytes": 2447,
+          "sha256": "966a115b04ea3359afcb9254fcf7a1485032028df6a8e28e57bbcd5d22e836f2"
+        },
+        {
+          "path": "remotion/src/video/types.ts",
+          "bytes": 2943,
+          "sha256": "0d193f3ee0cb2927d91d1203b3680e841ab3b793b3306b6824054bafbd398aa0"
+        },
+        {
+          "path": "remotion/tsconfig.json",
+          "bytes": 237,
+          "sha256": "f58cbd8df342152c4440228d412900792c967a6ce5160f732e7f07b2a51ab9b2"
+        },
+        {
+          "path": "scripts/cap_nhat_youtube.py",
+          "bytes": 2377,
+          "sha256": "b84499327ed9370111b29beaccd42b15af6254543e36a84b7a9a19dc045a87a5"
+        },
+        {
+          "path": "scripts/doc_binh_luan.py",
+          "bytes": 3742,
+          "sha256": "21af268626f04544db177da6f793af8bb222ccab7cb58ac321e52adf0718e419"
+        },
+        {
+          "path": "scripts/kich_ban.py",
+          "bytes": 5444,
+          "sha256": "d81ea46c253d66504a14d9b3c26dee15aef13c6eca15c6553b7727af8e06484b"
+        },
+        {
+          "path": "scripts/kiem_tra_video_04.py",
+          "bytes": 2067,
+          "sha256": "b7ee041d56bd6bbd0ed2c6c2349b72e736ab052474d7141e96e36bb0b48e889e"
+        },
+        {
+          "path": "scripts/kiem_tra_video_05.py",
+          "bytes": 3719,
+          "sha256": "23369b337f3f435449c49259c01188d0f1aa49a6419239e0a8a4fb301c415aeb"
+        },
+        {
+          "path": "scripts/kiem_tra_video_06.py",
+          "bytes": 3704,
+          "sha256": "e588eadd4f3ddc0b96876e387df1affdeaffe7a640a63d1004ab10e36df2f2ad"
+        },
+        {
+          "path": "scripts/kiem_tra_video_07.py",
+          "bytes": 2105,
+          "sha256": "38a6f459dfdc8448db3f810f609952c720306b61749c54831e0b34b51bc0f105"
+        },
+        {
+          "path": "scripts/kiem_tra_video_08.py",
+          "bytes": 2708,
+          "sha256": "8d5e8a90cc741ace13663fa2e5436842e9cb34aa2a54c05e69e262b6e26e263d"
+        },
+        {
+          "path": "scripts/kiem_tra_video_09.py",
+          "bytes": 4249,
+          "sha256": "03b1a99c42a6e6a13d7413e04ae13770ad14670d696f73382a83373ff3f0ad26"
+        },
+        {
+          "path": "scripts/kiem_tra_video_10.py",
+          "bytes": 6286,
+          "sha256": "6bf4ff7388c89b793d276909831a712c04096f075c6e14d31728f88d8b9bb14d"
+        },
+        {
+          "path": "scripts/kiem_tra_video_11.py",
+          "bytes": 2435,
+          "sha256": "6361551aed40daa393c4e6510975ced5375c456a9b40488c98342918c9dfc144"
+        },
+        {
+          "path": "scripts/kiem_tra_video_13.py",
+          "bytes": 3167,
+          "sha256": "4f0d029ac9a97988425d65655d3e5243f53a0668adb28b17dd11626fb0d25bec"
+        },
+        {
+          "path": "scripts/kiem_tra_video_14.py",
+          "bytes": 4683,
+          "sha256": "3e5128af6d7c2058e24767737b736300e10184b5ad2e26e70ceed8d49e66f49d"
+        },
+        {
+          "path": "scripts/phan_tich.py",
+          "bytes": 12384,
+          "sha256": "744ff6d87ffdf63e9f081dc15ccfcee8ff08d79d5a7a5b6759b02aee7f7ad987"
+        },
+        {
+          "path": "scripts/requirements.txt",
+          "bytes": 103,
+          "sha256": "7aaca104d18558788239afcd0e6a301a6daff5db1dfe58bc0f4a2530e9abf7aa"
+        },
+        {
+          "path": "scripts/tao_anh.py",
+          "bytes": 12497,
+          "sha256": "ca6120c7ef8254ad01aa6ee9ffbc8db0a6e824f4a0d1ea0388771d0050c2a054"
+        },
+        {
+          "path": "scripts/tao_giong.py",
+          "bytes": 16581,
+          "sha256": "97583e3340a1e039262ff6ce3536f8b5e74197bd370d5c1be6bdd82d17c16e1f"
+        },
+        {
+          "path": "scripts/test_tao_anh.py",
+          "bytes": 3225,
+          "sha256": "d2b506805363d87fd9d1cbad76a6390ec39fc6e0c195de9cdaef8be61b80d59e"
+        },
+        {
+          "path": "scripts/upload_youtube.py",
+          "bytes": 14875,
+          "sha256": "b1c69c7625fb1436f281d22d742311bfded3fd5cc5ed5bec018f3ca04d728f1d"
+        },
+        {
+          "path": "videos/.gitkeep",
+          "bytes": 0,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "path": "videos/01-tra-sua-100-ly/anh/prompts.json",
+          "bytes": 18594,
+          "sha256": "adfdd2c0836367e3f476bed75ba8d81cf1779688c6960c2ea5f3654bae8b8196"
+        },
+        {
+          "path": "videos/01-tra-sua-100-ly/anh/shots/CODEX.md",
+          "bytes": 653,
+          "sha256": "045d3f4270358a26b9e4ccce88270b486a04bac328f7238a3bcbc03c935ed09f"
+        },
+        {
+          "path": "videos/01-tra-sua-100-ly/anh/shots/audit.json",
+          "bytes": 275,
+          "sha256": "f3e9f37ed0de51223a26eb681eccb0a3ec80d0dadee8af88db2b88da46b1ab30"
+        },
+        {
+          "path": "videos/01-tra-sua-100-ly/dang-tai.md",
+          "bytes": 2191,
+          "sha256": "91702afb24ad4e56157c98409654f5e36ac6ca6b7897bc9fde9f01f41d836a0a"
+        },
+        {
+          "path": "videos/01-tra-sua-100-ly/giong/canh-01.goc.json",
+          "bytes": 17966,
+          "sha256": "11db0a7338befdebd507b298075d24334ac864e1e29406d07bdec0087dec0aea"
+        },
+        {
+          "path": "videos/01-tra-sua-100-ly/giong/canh-01.json",
+          "bytes": 18470,
+          "sha256": "929a89ce8463fab396c8ef65dc5fe7c7750bea4f5421f21fbbe5a8d6cb4ad3c3"
+        },
+        {
+          "path": "videos/01-tra-sua-100-ly/giong/canh-02.goc.json",
+          "bytes": 19818,
+          "sha256": "e6e7519b30754c041f24ed2d41c4b6cfcc5772d8c088a4b1720e83c8c4fe87cc"
+        },
+        {
+          "path": "videos/01-tra-sua-100-ly/giong/canh-02.json",
+          "bytes": 20374,
+          "sha256": "43bdbc12e3644f50c33b314f3eb9bff1661278de7b89b1ff176ddb15ac603d59"
+        },
+        {
+          "path": "videos/01-tra-sua-100-ly/giong/canh-03.goc.json",
+          "bytes": 11210,
+          "sha256": "93c2593c6b29648840be38aa82d2e584806dbda8aa29e1ce032b144599752601"
+        },
+        {
+          "path": "videos/01-tra-sua-100-ly/giong/canh-03.json",
+          "bytes": 11550,
+          "sha256": "07f930052b1e6704832f6e5a6ed30b36c71634cbc59bedcddbc1e92b9123a648"
+        },
+        {
+          "path": "videos/01-tra-sua-100-ly/giong/canh-04.goc.json",
+          "bytes": 22552,
+          "sha256": "6b6c4d719fd465451d6b5d95d35f35b7fe736ff0185c2af4732acd8107c23a47"
+        },
+        {
+          "path": "videos/01-tra-sua-100-ly/giong/canh-04.json",
+          "bytes": 23258,
+          "sha256": "9eb6c7671519ec2bff8e52d31554ad59d0ee8d04698c3ceb60609cbb63a7835f"
+        },
+        {
+          "path": "videos/01-tra-sua-100-ly/giong/canh-05.goc.json",
+          "bytes": 25993,
+          "sha256": "094ced256020c4472aa7a096cc198af1a41fa2dd61e521af48ae9627aa19c44c"
+        },
+        {
+          "path": "videos/01-tra-sua-100-ly/giong/canh-05.json",
+          "bytes": 26788,
+          "sha256": "12fb4571868a231d2d6d85e2abf6cf428c76c125c51c3a318a02042d31fa8d6f"
+        },
+        {
+          "path": "videos/01-tra-sua-100-ly/giong/canh-06.goc.json",
+          "bytes": 30167,
+          "sha256": "585ebef96fe67ca83977be1a26d8276015f7a4e49439e8ff9a0adf0a0a266ff3"
+        },
+        {
+          "path": "videos/01-tra-sua-100-ly/giong/canh-06.json",
+          "bytes": 31096,
+          "sha256": "b2a391901e1002190a28fe1f6576efccfab0a36a7c78331a5180879e3ebe2241"
+        },
+        {
+          "path": "videos/01-tra-sua-100-ly/giong/canh-07.goc.json",
+          "bytes": 27396,
+          "sha256": "a902c4b3623704689b97ea54e0a1c3dc7766960c1c643afc6fc41fde12f14c66"
+        },
+        {
+          "path": "videos/01-tra-sua-100-ly/giong/canh-07.json",
+          "bytes": 28225,
+          "sha256": "f914793881290c821da48c3b2c1e9eb698d8a140b8fb623baa19ee88429df52d"
+        },
+        {
+          "path": "videos/01-tra-sua-100-ly/giong/canh-08.goc.json",
+          "bytes": 22088,
+          "sha256": "a009606d9dae3869b8d69d99e1951bcb67880ae90fced505dcae3cf116507b4d"
+        },
+        {
+          "path": "videos/01-tra-sua-100-ly/giong/canh-08.json",
+          "bytes": 22784,
+          "sha256": "53353c9fa157bd4bf58fa8442be5726a1f70d09aa3b36860f15ca7b825b66de0"
+        },
+        {
+          "path": "videos/01-tra-sua-100-ly/giong/canh-09.goc.json",
+          "bytes": 22812,
+          "sha256": "efb2089d757cb592e17894dbe64e000a2bc07191597a84d3ed11294fe5eab133"
+        },
+        {
+          "path": "videos/01-tra-sua-100-ly/giong/canh-09.json",
+          "bytes": 23537,
+          "sha256": "f3acbed7f234961d07a10953fd43add8dc80624ef97ab9152e65bead6327c4e5"
+        },
+        {
+          "path": "videos/01-tra-sua-100-ly/giong/canh-10.goc.json",
+          "bytes": 32553,
+          "sha256": "4b6ca88eac932a710513d188ca7e62ce68c9c4d6ea4f26fb782a36d0172d86e0"
+        },
+        {
+          "path": "videos/01-tra-sua-100-ly/giong/canh-10.json",
+          "bytes": 33505,
+          "sha256": "43db3772ce24efff9a5c99900e6d2953c8488e98f61aecc2d2144bc4de0ab2fb"
+        },
+        {
+          "path": "videos/01-tra-sua-100-ly/giong/canh-11.goc.json",
+          "bytes": 31370,
+          "sha256": "d6c482bef10a0cabe63467a3b63440ef3f3ad8d52229ef73be48bfe29d734bc7"
+        },
+        {
+          "path": "videos/01-tra-sua-100-ly/giong/canh-11.json",
+          "bytes": 32294,
+          "sha256": "cab0a6af53844db78d894bbcc4131ec40aefc3091b8c6c25805543d2e3f1bdc6"
+        },
+        {
+          "path": "videos/01-tra-sua-100-ly/giong/canh-12.goc.json",
+          "bytes": 20440,
+          "sha256": "76c2d853959919ef674a2bce112590966eece9fc6cc6938498b3dc9dd885fb74"
+        },
+        {
+          "path": "videos/01-tra-sua-100-ly/giong/canh-12.json",
+          "bytes": 21090,
+          "sha256": "edd4a24d7aa5aacaaf85087ed76906787f7f80ddb46703ca676a6d449e11cb41"
+        },
+        {
+          "path": "videos/01-tra-sua-100-ly/giong/manifest.json",
+          "bytes": 1285,
+          "sha256": "da2f76046c25c4ec1ba7170685282211d6e49a075a750365d85ea943493ae722"
+        },
+        {
+          "path": "videos/01-tra-sua-100-ly/phu-de.srt",
+          "bytes": 44279,
+          "sha256": "37969d4ef1fdbc05de15d9b9dd0219b72d5a8317ec200dc7dddb696b61dc91d5"
+        },
+        {
+          "path": "videos/01-tra-sua-100-ly/short/short.json",
+          "bytes": 10138,
+          "sha256": "2746275eae83e5ad374f0e5fd84de6e542590533b77f1153141c36b09d43a647"
+        },
+        {
+          "path": "videos/01-tra-sua-100-ly/short/spec.json",
+          "bytes": 236,
+          "sha256": "2170534aa500f7b4e587e4a0316eb305bfaef9b0ba27822cc62f7622188435fe"
+        },
+        {
+          "path": "videos/01-tra-sua-100-ly/timeline.json",
+          "bytes": 229831,
+          "sha256": "7035a056cc2a95daad315e817914648ab1b8539530fcfaa677215a130fbf54d6"
+        },
+        {
+          "path": "videos/01-tra-sua-100-ly/youtube.json",
+          "bytes": 415,
+          "sha256": "31ecea344f5ad0a0c9e4b5d0720dc7189ff84fe25e16383c7a5708aeabb195f7"
+        },
+        {
+          "path": "videos/02-tra-gop-0-phan-tram/dang-tai.md",
+          "bytes": 2465,
+          "sha256": "558fbc9c673066c2a064376f4a74b45e1fd060cf77bf25d476054c9cc7d0f483"
+        },
+        {
+          "path": "videos/02-tra-gop-0-phan-tram/giong/canh-01.goc.json",
+          "bytes": 21450,
+          "sha256": "e629fe569aff70baa183d74db10ad0049931d998a718dc1e86430e20337859f6"
+        },
+        {
+          "path": "videos/02-tra-gop-0-phan-tram/giong/canh-01.json",
+          "bytes": 22029,
+          "sha256": "dba178a63e64bb7fe639ac1585866ffcca332bdea32f6db471dc49b377597de3"
+        },
+        {
+          "path": "videos/02-tra-gop-0-phan-tram/giong/canh-02.goc.json",
+          "bytes": 20173,
+          "sha256": "c33dee8194e46b85ac6acb07ac94dbe43566eef6e553e056b7d5548963077118"
+        },
+        {
+          "path": "videos/02-tra-gop-0-phan-tram/giong/canh-02.json",
+          "bytes": 20784,
+          "sha256": "12b74de85b379038ab33da792501ed621380bfa4bf3fe102aa933be8b9521bdf"
+        },
+        {
+          "path": "videos/02-tra-gop-0-phan-tram/giong/canh-03.goc.json",
+          "bytes": 26427,
+          "sha256": "fe0e9ac7ee7df19a6445b1e4f8f4dec2f21a6fd5cc910f4ac86ad9bfdb73099e"
+        },
+        {
+          "path": "videos/02-tra-gop-0-phan-tram/giong/canh-03.json",
+          "bytes": 27267,
+          "sha256": "633f597b1ac631ff0d0d6a0e4e6ffce47cba9fb8ddc26037dfa87c308f7eacca"
+        },
+        {
+          "path": "videos/02-tra-gop-0-phan-tram/giong/canh-04.goc.json",
+          "bytes": 25495,
+          "sha256": "0df278f1e6e06468131ebd8d80cecf447e4d45931f420de1b7da38b0bce3501c"
+        },
+        {
+          "path": "videos/02-tra-gop-0-phan-tram/giong/canh-04.json",
+          "bytes": 26290,
+          "sha256": "545d3f231991cf8369b8846322db043c82fdb5ea9f17be4480f041d36b6ae1bf"
+        },
+        {
+          "path": "videos/02-tra-gop-0-phan-tram/giong/canh-05.goc.json",
+          "bytes": 19997,
+          "sha256": "8d1593be291dcf3ecf480ce07bcf391546477ef1ac63cbd0f2fc3a97acd0e37b"
+        },
+        {
+          "path": "videos/02-tra-gop-0-phan-tram/giong/canh-05.json",
+          "bytes": 20574,
+          "sha256": "0001cb923cfe1fc800c641c5390307d8c7e55d2cc03b1a50611b56563c919763"
+        },
+        {
+          "path": "videos/02-tra-gop-0-phan-tram/giong/canh-06.goc.json",
+          "bytes": 22167,
+          "sha256": "34c22d9f225149d8e12de6d0447aab3926d74f72db357fa82345258beaaea9a5"
+        },
+        {
+          "path": "videos/02-tra-gop-0-phan-tram/giong/canh-06.json",
+          "bytes": 22880,
+          "sha256": "053b40ed77b6bccf7cba32feee37960027387f0fc1de32337d001aac6000682a"
+        },
+        {
+          "path": "videos/02-tra-gop-0-phan-tram/giong/canh-07.goc.json",
+          "bytes": 21443,
+          "sha256": "f7638f6f506e08740a4991a960c6697e0fc44ef12e91af5d987908c51d18e5e8"
+        },
+        {
+          "path": "videos/02-tra-gop-0-phan-tram/giong/canh-07.json",
+          "bytes": 22127,
+          "sha256": "065d80806a44cae3657e98bcf9e794ad7fd0824632b83323ae7699b57c2c7810"
+        },
+        {
+          "path": "videos/02-tra-gop-0-phan-tram/giong/canh-08.goc.json",
+          "bytes": 17577,
+          "sha256": "cf2e0f6129923a5509ce67a150e05ef67c92cc822ecda980aeeea48cfc67fc9e"
+        },
+        {
+          "path": "videos/02-tra-gop-0-phan-tram/giong/canh-08.json",
+          "bytes": 18082,
+          "sha256": "28cb1ed45a6a9e2988628fee778ce70ef1da8881dae86c376f441148385cebc2"
+        },
+        {
+          "path": "videos/02-tra-gop-0-phan-tram/giong/canh-09.goc.json",
+          "bytes": 17660,
+          "sha256": "c1d2459b523baa7dddf430ac68c963cfc33f7d30f62df37452ef2924cf0b4621"
+        },
+        {
+          "path": "videos/02-tra-gop-0-phan-tram/giong/canh-09.json",
+          "bytes": 18151,
+          "sha256": "1510feecf9a62062d2cd6452162327aea163e415a385dfcbbebd094077b980e2"
+        },
+        {
+          "path": "videos/02-tra-gop-0-phan-tram/giong/canh-10.goc.json",
+          "bytes": 19374,
+          "sha256": "4f8ae45f5530291781d6e88f4495a787671910d40fc54327e7dc2a57c4d75e08"
+        },
+        {
+          "path": "videos/02-tra-gop-0-phan-tram/giong/canh-10.json",
+          "bytes": 19967,
+          "sha256": "eeba3cbd40a27c6e768f54712e6098d662093e284ca72188f76e31254b75ee80"
+        },
+        {
+          "path": "videos/02-tra-gop-0-phan-tram/giong/canh-11.goc.json",
+          "bytes": 23195,
+          "sha256": "134c47444ee9bb182761ac963c9ce3e95b5c7d4b36fe6ff15d7dc39757c22415"
+        },
+        {
+          "path": "videos/02-tra-gop-0-phan-tram/giong/canh-11.json",
+          "bytes": 23909,
+          "sha256": "906524124da68d3404df010690ed8eb532c33d07cb3a431cbb771861c26fdcce"
+        },
+        {
+          "path": "videos/02-tra-gop-0-phan-tram/giong/manifest.json",
+          "bytes": 1366,
+          "sha256": "db2dfef2578d13881ed9a31690dab49e68cc38dcff49b5590903561e6590122d"
+        },
+        {
+          "path": "videos/02-tra-gop-0-phan-tram/phu-de.srt",
+          "bytes": 36919,
+          "sha256": "fb51a0e60a92b7fe2e78149044fa43586921f7ac77c4ee6831812f3ea92373a7"
+        },
+        {
+          "path": "videos/02-tra-gop-0-phan-tram/short/short.json",
+          "bytes": 11980,
+          "sha256": "ad850456188529f15b866d4b582d315f9218c3064762d407639774ff42db1a70"
+        },
+        {
+          "path": "videos/02-tra-gop-0-phan-tram/short/spec.json",
+          "bytes": 342,
+          "sha256": "01f367e3890cd7d3bb6233a33a8dc5f18fd1ca27471ab18395d718f4bc803a29"
+        },
+        {
+          "path": "videos/02-tra-gop-0-phan-tram/timeline.json",
+          "bytes": 191553,
+          "sha256": "b40ae6ea74bc6d9ff92d50c104c9fe0a35cdcc019aac691e7e77abd3ba6724af"
+        },
+        {
+          "path": "videos/02-tra-gop-0-phan-tram/youtube.json",
+          "bytes": 415,
+          "sha256": "a8eaf649df4b3f2d5dd49d4e6e47077f7036a97cb5c2fe395ec1601024835f4c"
+        },
+        {
+          "path": "videos/03-tiem-vang-khong-lo/dang-tai.md",
+          "bytes": 2203,
+          "sha256": "b16fc1abb66ec8a74c6bb935e19e1de203a2bc4cd0ab47e4b4ed07e4fa4c99f4"
+        },
+        {
+          "path": "videos/03-tiem-vang-khong-lo/giong/canh-01.goc.json",
+          "bytes": 20161,
+          "sha256": "e55e4fc2c944aa267a3a8a60c5d9631354f8ef8d5d803ff41d1cb634238ed7bc"
+        },
+        {
+          "path": "videos/03-tiem-vang-khong-lo/giong/canh-01.json",
+          "bytes": 20752,
+          "sha256": "2b55ef83f068e223b84613cf7af90dda76bb49fe7eb4b288cb4749a18a329623"
+        },
+        {
+          "path": "videos/03-tiem-vang-khong-lo/giong/canh-02.goc.json",
+          "bytes": 20254,
+          "sha256": "4e30b2c1dc326e8bb76bb58a5d934ea1033e26bbd2e703ed3eb226b586ee25ff"
+        },
+        {
+          "path": "videos/03-tiem-vang-khong-lo/giong/canh-02.json",
+          "bytes": 20878,
+          "sha256": "c38dd991240931a5e9bd856b2b4febd2d6ce46ca28af4b61f1ad1554a62174fc"
+        },
+        {
+          "path": "videos/03-tiem-vang-khong-lo/giong/canh-03.goc.json",
+          "bytes": 21433,
+          "sha256": "e8cda5b356d9cc6693e02901ea69539bbabf252265e1992da59c7b73ac6ab0ae"
+        },
+        {
+          "path": "videos/03-tiem-vang-khong-lo/giong/canh-03.json",
+          "bytes": 22131,
+          "sha256": "a2970790a27dc345f72b767301152b8c87fad5f74e3a8d766d83c242fdb2533a"
+        },
+        {
+          "path": "videos/03-tiem-vang-khong-lo/giong/canh-04.goc.json",
+          "bytes": 17116,
+          "sha256": "980206b1b2f6cbcb91110b383c5d67062ebe64859f21458d4379135a4f091f14"
+        },
+        {
+          "path": "videos/03-tiem-vang-khong-lo/giong/canh-04.json",
+          "bytes": 17608,
+          "sha256": "f1730d06dfacf04423daebd38f57268da23e7f8103cd851812d047e1ecd6ac23"
+        },
+        {
+          "path": "videos/03-tiem-vang-khong-lo/giong/canh-05.goc.json",
+          "bytes": 23837,
+          "sha256": "92d8e0d801c349a3509da0ecf64c4b3a9068cb5d3e9059c6d721aeae29b6fc08"
+        },
+        {
+          "path": "videos/03-tiem-vang-khong-lo/giong/canh-05.json",
+          "bytes": 24582,
+          "sha256": "5b67834d2333da9ef5211a4ade0c3c1eac511ae8bad0cdfe6e48fc76a00ba2bf"
+        },
+        {
+          "path": "videos/03-tiem-vang-khong-lo/giong/canh-06.goc.json",
+          "bytes": 24579,
+          "sha256": "cce2fe8c7dca6b95d5b9c88480fddf8821ae0a89bd9f6ff18fbf6497c05114a6"
+        },
+        {
+          "path": "videos/03-tiem-vang-khong-lo/giong/canh-06.json",
+          "bytes": 25346,
+          "sha256": "294ec934e6f95b6592e6f4cf8a29d2c7d097cfc8bce4cf7bf1e600c061cbaf65"
+        },
+        {
+          "path": "videos/03-tiem-vang-khong-lo/giong/canh-07.goc.json",
+          "bytes": 13483,
+          "sha256": "b50551198d1f405071a77d5cc692867f02e7071e5dd9fd3aa20ec399b9b83aba"
+        },
+        {
+          "path": "videos/03-tiem-vang-khong-lo/giong/canh-07.json",
+          "bytes": 13874,
+          "sha256": "1e664f9d97747e004a47518b04f9ddd3e4bfa8aceda20b45dc300bf8b8975911"
+        },
+        {
+          "path": "videos/03-tiem-vang-khong-lo/giong/canh-08.goc.json",
+          "bytes": 15498,
+          "sha256": "30d87a9f818e79280eb63a225f8aea0fc9f3477642c51b483b91f8bc7196c5e4"
+        },
+        {
+          "path": "videos/03-tiem-vang-khong-lo/giong/canh-08.json",
+          "bytes": 15945,
+          "sha256": "b9af6a890ea882670165d00edb4a499a6eb2cbb0dbb1d688ba7818e21fc9c06e"
+        },
+        {
+          "path": "videos/03-tiem-vang-khong-lo/giong/canh-09.goc.json",
+          "bytes": 15460,
+          "sha256": "e00f5d74560e8a626aec166f47ef3de36ab73e37fac152033fa6f982b05529b2"
+        },
+        {
+          "path": "videos/03-tiem-vang-khong-lo/giong/canh-09.json",
+          "bytes": 15924,
+          "sha256": "6f2974acdc4bb649b32f7f4728338407c27454164be065172599930ecad2a11d"
+        },
+        {
+          "path": "videos/03-tiem-vang-khong-lo/giong/canh-10.goc.json",
+          "bytes": 11901,
+          "sha256": "d263f6056bdb97a8c943d6d836cb5a4bc233aaf4f64e64eb14eb42d0e6fa2378"
+        },
+        {
+          "path": "videos/03-tiem-vang-khong-lo/giong/canh-10.json",
+          "bytes": 12257,
+          "sha256": "15e4fb105f21f8766d072b0825080e65e3e9b9477bde11737c1252fb9ce91b61"
+        },
+        {
+          "path": "videos/03-tiem-vang-khong-lo/giong/canh-11.goc.json",
+          "bytes": 20642,
+          "sha256": "58b51e766c1fdcdde07e30a7942a22f94708fb23b02a17834475a6d990e2d69e"
+        },
+        {
+          "path": "videos/03-tiem-vang-khong-lo/giong/canh-11.json",
+          "bytes": 21280,
+          "sha256": "b572a1432e589ab3b73b5910cbf7085167cf11afedda4a378c66c2af89d04d98"
+        },
+        {
+          "path": "videos/03-tiem-vang-khong-lo/giong/manifest.json",
+          "bytes": 1305,
+          "sha256": "4cfa8502c1281a63d19671707ccacc7d2da85eadc8fbccad2fbb383ade1911c0"
+        },
+        {
+          "path": "videos/03-tiem-vang-khong-lo/phu-de.srt",
+          "bytes": 32381,
+          "sha256": "fd12442d0150b205b9ed2913e2c93eff29ba53acd4206e205cf2fc6f264d36e3"
+        },
+        {
+          "path": "videos/03-tiem-vang-khong-lo/short/short.json",
+          "bytes": 11635,
+          "sha256": "716a58038768f022e5ebfc0d5ce6a26dfb37ced24359c366b1549bb271f7ddbb"
+        },
+        {
+          "path": "videos/03-tiem-vang-khong-lo/short/spec.json",
+          "bytes": 481,
+          "sha256": "bac685c680c4fd56bb1df9fcf38ed9bd9b5a42cb1a7424a206b2442e5ccbce26"
+        },
+        {
+          "path": "videos/03-tiem-vang-khong-lo/timeline.json",
+          "bytes": 168073,
+          "sha256": "901418bd7abacb651b69b5f8852cee585e4147c7948c3abc9ff580f1a01a8461"
+        },
+        {
+          "path": "videos/03-tiem-vang-khong-lo/youtube.json",
+          "bytes": 415,
+          "sha256": "a914eb0976d0377d7431ea02bde32e907eacfef3c6b6911341a324b3e1de53d0"
+        },
+        {
+          "path": "videos/04-tai-xe-cong-nghe/dang-tai.md",
+          "bytes": 4384,
+          "sha256": "f58c48c2f2d574188d77992edafc0842a2a04d932fb2f0c6dc750039b685bf1e"
+        },
+        {
+          "path": "videos/04-tai-xe-cong-nghe/giong/canh-01.goc.json",
+          "bytes": 18607,
+          "sha256": "7df8679a5cb5194fcfe2fa1ed30dfbf20922bf5332b9bdee85ae161ddf23a329"
+        },
+        {
+          "path": "videos/04-tai-xe-cong-nghe/giong/canh-01.json",
+          "bytes": 19127,
+          "sha256": "4a58d2ac700bc3809e694a3f584faf98b92c12b6239a68c1ef69479bec53d0ce"
+        },
+        {
+          "path": "videos/04-tai-xe-cong-nghe/giong/canh-02.goc.json",
+          "bytes": 17001,
+          "sha256": "3da89804977dfdca3c1ed3ea4f680001621834eb3f293445dabc1dc63b66053b"
+        },
+        {
+          "path": "videos/04-tai-xe-cong-nghe/giong/canh-02.json",
+          "bytes": 17497,
+          "sha256": "7bc60ba01c640a746221e4d61a6fa35fd0e2fefb2f1afeb2befd394f89b443d0"
+        },
+        {
+          "path": "videos/04-tai-xe-cong-nghe/giong/canh-03.goc.json",
+          "bytes": 23116,
+          "sha256": "3ef9117acaa9e682f935f6f35e721cd76e14734a9fec922c03f950f10bc5214e"
+        },
+        {
+          "path": "videos/04-tai-xe-cong-nghe/giong/canh-03.json",
+          "bytes": 23825,
+          "sha256": "d80023044471bb43ef7609ff91fa82b26a3efb4f0b061c791580f6b30cd1b9a4"
+        },
+        {
+          "path": "videos/04-tai-xe-cong-nghe/giong/canh-04.goc.json",
+          "bytes": 12749,
+          "sha256": "00056fb19660257d5e14b12ba005c97940088f1671ca08470bcce97dafd85ddb"
+        },
+        {
+          "path": "videos/04-tai-xe-cong-nghe/giong/canh-04.json",
+          "bytes": 13118,
+          "sha256": "ceb142ef0c62dbdc62adf8b0c98de25ee7f0d9d3c4d86aaecf68a8f09bd38b32"
+        },
+        {
+          "path": "videos/04-tai-xe-cong-nghe/giong/canh-05.goc.json",
+          "bytes": 17519,
+          "sha256": "6b13a4b717e4f07210c6f2ff666b78b3403c5e4fbeccca833fa331365c7eaf8c"
+        },
+        {
+          "path": "videos/04-tai-xe-cong-nghe/giong/canh-05.json",
+          "bytes": 18017,
+          "sha256": "8e4cebca10d1480da4516a97c9b6fe3b77143767b7f71ce3e64414c25d1f3c9a"
+        },
+        {
+          "path": "videos/04-tai-xe-cong-nghe/giong/canh-06.goc.json",
+          "bytes": 8335,
+          "sha256": "8663dab2450aca46b78c461f6d1ae798dd0090052aa83fab82bc86b101a2377d"
+        },
+        {
+          "path": "videos/04-tai-xe-cong-nghe/giong/canh-06.json",
+          "bytes": 8595,
+          "sha256": "60064a4456bd7baa78880909b9ef6fdaf63bc755c648ba194c84958d723d4306"
+        },
+        {
+          "path": "videos/04-tai-xe-cong-nghe/giong/canh-07.goc.json",
+          "bytes": 34064,
+          "sha256": "76718308e4c6c919e78cc524215bdc3045314449027a8ea9c5d0497b35d029b9"
+        },
+        {
+          "path": "videos/04-tai-xe-cong-nghe/giong/canh-07.json",
+          "bytes": 35101,
+          "sha256": "1d1a4f784d7616c169fc5093c52ce48fe94dc6bdad421c87389fb9ba163ea1cd"
+        },
+        {
+          "path": "videos/04-tai-xe-cong-nghe/giong/canh-08.goc.json",
+          "bytes": 18287,
+          "sha256": "1c1d277e6dacc83329cd7fe72b4a6348531e00175ab910d721bc2ddf3d2248d9"
+        },
+        {
+          "path": "videos/04-tai-xe-cong-nghe/giong/canh-08.json",
+          "bytes": 18808,
+          "sha256": "e8402ceee097506fdf6cd2df553a18f725a6acc284745a246277f3ca6effc41c"
+        },
+        {
+          "path": "videos/04-tai-xe-cong-nghe/giong/canh-09.goc.json",
+          "bytes": 27664,
+          "sha256": "d0df6ead9d02ba3ad98b42452def38d1cebdc82dc1552b8b6271d5acae268289"
+        },
+        {
+          "path": "videos/04-tai-xe-cong-nghe/giong/canh-09.json",
+          "bytes": 28488,
+          "sha256": "f59298139c07e2118352baa5b28872854f63b3f1e3ffbc92d90573d3e85a4599"
+        },
+        {
+          "path": "videos/04-tai-xe-cong-nghe/giong/canh-10.goc.json",
+          "bytes": 20472,
+          "sha256": "3c1b8ecf99b2f7683a24ca3ea544be63f3d34fb930121e0a7fd9d5f420e0f07b"
+        },
+        {
+          "path": "videos/04-tai-xe-cong-nghe/giong/canh-10.json",
+          "bytes": 21096,
+          "sha256": "1b01b3ef3cb22d85ca8ee4f61087392c0ccbf7304938ee9e52148a36b659755d"
+        },
+        {
+          "path": "videos/04-tai-xe-cong-nghe/giong/manifest.json",
+          "bytes": 1125,
+          "sha256": "65d5304a5574cc19513a76512d37aa27ebed09490936f304ea86824bd8f78884"
+        },
+        {
+          "path": "videos/04-tai-xe-cong-nghe/phu-de.srt",
+          "bytes": 31141,
+          "sha256": "f13f8bc0e70c6109800643a3cdfff0281f84872518c6185dc1bb6f627dd68c00"
+        },
+        {
+          "path": "videos/04-tai-xe-cong-nghe/short/short.json",
+          "bytes": 10965,
+          "sha256": "62563c96c5fc25278be624440ca8bc1026b74f1637a809f55d4ecf90d54781ad"
+        },
+        {
+          "path": "videos/04-tai-xe-cong-nghe/short/spec.json",
+          "bytes": 406,
+          "sha256": "fbea7838ec7429db52eb510ad8e01fe607c135515af69e31974f1edefc993a1c"
+        },
+        {
+          "path": "videos/04-tai-xe-cong-nghe/timeline.json",
+          "bytes": 160589,
+          "sha256": "4856467b812dc5249639cccd8156f53c619d1e5c4f63c08de1863ae5c058f505"
+        },
+        {
+          "path": "videos/04-tai-xe-cong-nghe/youtube.json",
+          "bytes": 622,
+          "sha256": "8555c7bcc7e5e95177cba8d411cec21c11ce40118eba6b1303c904c00de60ee5"
+        },
+        {
+          "path": "videos/05-quan-ca-phe-mat-bang/dang-tai.md",
+          "bytes": 7218,
+          "sha256": "487aa14fa75ff77ac046b19f02974e12cb9cef25b4a93d08ae4fc3a0f9bedd88"
+        },
+        {
+          "path": "videos/05-quan-ca-phe-mat-bang/giong/canh-01.goc.json",
+          "bytes": 17189,
+          "sha256": "42288a229d5ce2b09ef95f9697d5cc9b390791b5a33aef8b53669a404740a56f"
+        },
+        {
+          "path": "videos/05-quan-ca-phe-mat-bang/giong/canh-01.json",
+          "bytes": 17672,
+          "sha256": "5355dd97e86fa43bc888c9c4ecafddc7a638182f4f7a6517f8907b1aa4092ac1"
+        },
+        {
+          "path": "videos/05-quan-ca-phe-mat-bang/giong/canh-02.goc.json",
+          "bytes": 18505,
+          "sha256": "2d49b45e907682c764b759157815f74e36e6c7943ba40fca0aaadea369a2f37f"
+        },
+        {
+          "path": "videos/05-quan-ca-phe-mat-bang/giong/canh-02.json",
+          "bytes": 19024,
+          "sha256": "df5f5f950ac7c5593d3f788aba8b2b859b090b0764dc64c11431ed1c6de4e4c2"
+        },
+        {
+          "path": "videos/05-quan-ca-phe-mat-bang/giong/canh-03.goc.json",
+          "bytes": 18430,
+          "sha256": "9d5a34ad4e744de1cf3b7ee45db0ab4c99c17e89f4f02e8ffb2d396b5ca2dda0"
+        },
+        {
+          "path": "videos/05-quan-ca-phe-mat-bang/giong/canh-03.json",
+          "bytes": 18933,
+          "sha256": "999c56aca2141aeab9a653de4b1c2ccf965d56d7dcb6dd1989f9a00ac37446b3"
+        },
+        {
+          "path": "videos/05-quan-ca-phe-mat-bang/giong/canh-04.goc.json",
+          "bytes": 18459,
+          "sha256": "ea3d66e29ca6f313c78e6e5e40f5d58169100b108092625f644b93fe38bdd401"
+        },
+        {
+          "path": "videos/05-quan-ca-phe-mat-bang/giong/canh-04.json",
+          "bytes": 18965,
+          "sha256": "9ad37679802f2986effe1cf869d870bdda45d44f443194216c3a95929f756902"
+        },
+        {
+          "path": "videos/05-quan-ca-phe-mat-bang/giong/canh-05.goc.json",
+          "bytes": 21485,
+          "sha256": "53a6497e67191bf5533d64ffaa1e8c20a1762346164fc63a76ee00d220e8a2d7"
+        },
+        {
+          "path": "videos/05-quan-ca-phe-mat-bang/giong/canh-05.json",
+          "bytes": 22113,
+          "sha256": "dafc526ee2633d59e2d4ee3d75996bef88cbb6be9410256a9644868a5dd1b133"
+        },
+        {
+          "path": "videos/05-quan-ca-phe-mat-bang/giong/canh-06.goc.json",
+          "bytes": 19334,
+          "sha256": "a8fb0521924234b1f6acad06f600655f47aba4ecb02e9e421fb65c507ac43762"
+        },
+        {
+          "path": "videos/05-quan-ca-phe-mat-bang/giong/canh-06.json",
+          "bytes": 19874,
+          "sha256": "1c9550e5778fc0c0688bca99d5c0fada863951f49262230e76c3e6f872649a80"
+        },
+        {
+          "path": "videos/05-quan-ca-phe-mat-bang/giong/canh-07.goc.json",
+          "bytes": 19234,
+          "sha256": "cfca68e64add67071fc943e5b50a2f3f6b94908822054526ca0e5cff5a2df94a"
+        },
+        {
+          "path": "videos/05-quan-ca-phe-mat-bang/giong/canh-07.json",
+          "bytes": 19789,
+          "sha256": "9b7b872e352f4e2f7ef6d068a8399f298ecf506a1aaaa04754886a84b0930d93"
+        },
+        {
+          "path": "videos/05-quan-ca-phe-mat-bang/giong/canh-08.goc.json",
+          "bytes": 20091,
+          "sha256": "08525728d6a9288d5c151bde94aed35ba17d87e7a3f220c4218db62b8afba4aa"
+        },
+        {
+          "path": "videos/05-quan-ca-phe-mat-bang/giong/canh-08.json",
+          "bytes": 20656,
+          "sha256": "44d2f7ee454c177eba6d483805060e38e6039742f841467e2134c85b90ed1b6e"
+        },
+        {
+          "path": "videos/05-quan-ca-phe-mat-bang/giong/canh-09.goc.json",
+          "bytes": 21805,
+          "sha256": "1e106550d36d443d79e4fd04120920ab2101759625297b9fe3a5074c9ff05ea5"
+        },
+        {
+          "path": "videos/05-quan-ca-phe-mat-bang/giong/canh-09.json",
+          "bytes": 22426,
+          "sha256": "44385e432d2e167855ec25b95ac61c5660f44d5b190a22079e15e73e7ca62d00"
+        },
+        {
+          "path": "videos/05-quan-ca-phe-mat-bang/giong/canh-10.goc.json",
+          "bytes": 20585,
+          "sha256": "203218eb6ef5f9008188f10a767863c870345bdd7fb3694a1b5c0c6e8a5507bd"
+        },
+        {
+          "path": "videos/05-quan-ca-phe-mat-bang/giong/canh-10.json",
+          "bytes": 21109,
+          "sha256": "811400f1dadadbc08ec59f98f77716b54d0f279eeab75de3ef68def7b88cb175"
+        },
+        {
+          "path": "videos/05-quan-ca-phe-mat-bang/giong/manifest.json",
+          "bytes": 1247,
+          "sha256": "4ea01d483339b1f3a650e6380b8a653c33fb7155bda3dfc0e2305c168b261afb"
+        },
+        {
+          "path": "videos/05-quan-ca-phe-mat-bang/phu-de.srt",
+          "bytes": 29081,
+          "sha256": "15504938037fa23d15ceff7f866c0a9371cf9c5b4b8913f744958f678c491185"
+        },
+        {
+          "path": "videos/05-quan-ca-phe-mat-bang/qa.json",
+          "bytes": 3953,
+          "sha256": "e9196aaaca1e38f0fa3fc5e31cebcc77d501a205c13e0397b169996a9853ebf7"
+        },
+        {
+          "path": "videos/05-quan-ca-phe-mat-bang/short/short.json",
+          "bytes": 12125,
+          "sha256": "9e31b679ee8e0a20f4e5cac3ec7edbc334de06d2a18b3734c1ad647cefad05e8"
+        },
+        {
+          "path": "videos/05-quan-ca-phe-mat-bang/short/spec.json",
+          "bytes": 474,
+          "sha256": "46442bca939f0853b34a700e365404cb107132dd5d08a2f571267e4f387ee879"
+        },
+        {
+          "path": "videos/05-quan-ca-phe-mat-bang/timeline.json",
+          "bytes": 155215,
+          "sha256": "d2a25ec7ce56f954118eeeb15325b2b1c2a0bfc04d060cce198347cb54543b26"
+        },
+        {
+          "path": "videos/05-quan-ca-phe-mat-bang/youtube.json",
+          "bytes": 690,
+          "sha256": "a8c9ca96348c0f81560fdd089de9f9bd372156270f9b1a54524ffb7438489f5d"
+        },
+        {
+          "path": "videos/06-gui-1-ty-nghi-huu/dang-tai.md",
+          "bytes": 7589,
+          "sha256": "5ffe62108c95ce1ca7cafdc6fa341e32fdffa176c0c0177f447aff796e7e20c5"
+        },
+        {
+          "path": "videos/06-gui-1-ty-nghi-huu/giong/canh-01.goc.json",
+          "bytes": 17859,
+          "sha256": "45e0f5b5df82dba631e64826ccb6ad420e13a71dddd69cc42a15367a6e94cb11"
+        },
+        {
+          "path": "videos/06-gui-1-ty-nghi-huu/giong/canh-01.json",
+          "bytes": 18376,
+          "sha256": "0e17d631ab75bb8c1787fcddf64d0ac2cab7befc3787cf4f00b47306e2625097"
+        },
+        {
+          "path": "videos/06-gui-1-ty-nghi-huu/giong/canh-02.goc.json",
+          "bytes": 20054,
+          "sha256": "b3277016e5cb2babbf71a6ca237db68981d390ec335074d0cd2cac89266fa26a"
+        },
+        {
+          "path": "videos/06-gui-1-ty-nghi-huu/giong/canh-02.json",
+          "bytes": 20606,
+          "sha256": "5c7121982d395d1128eb93f1465f24cf3408f3b48d7d536233c73c0925cb07d3"
+        },
+        {
+          "path": "videos/06-gui-1-ty-nghi-huu/giong/canh-03.goc.json",
+          "bytes": 19410,
+          "sha256": "292eb77802b2f860e47a94aafac1d304955ac2c22b6a103aa84bbfb7303ace19"
+        },
+        {
+          "path": "videos/06-gui-1-ty-nghi-huu/giong/canh-03.json",
+          "bytes": 19973,
+          "sha256": "545659cba202248ea10cc4f4931494038ae6ad0acb1ff029a3ed55c2d6a7e113"
+        },
+        {
+          "path": "videos/06-gui-1-ty-nghi-huu/giong/canh-04.goc.json",
+          "bytes": 21221,
+          "sha256": "27fd516aceb7fc2d022da5196c610a0c7e01c05a0403709fcde5a17bc7df4fb3"
+        },
+        {
+          "path": "videos/06-gui-1-ty-nghi-huu/giong/canh-04.json",
+          "bytes": 21835,
+          "sha256": "becdc6d86865e96d91847b81943741d5761889e9206ff1db0c73cbce495f83d2"
+        },
+        {
+          "path": "videos/06-gui-1-ty-nghi-huu/giong/canh-05.goc.json",
+          "bytes": 21014,
+          "sha256": "fd60283aeafc572c6bbf63ade1c0438f09aa863a8f6e3304b5a87478e5edb807"
+        },
+        {
+          "path": "videos/06-gui-1-ty-nghi-huu/giong/canh-05.json",
+          "bytes": 21615,
+          "sha256": "dcef09d215fce286c4bea5ce4de2eb4c9e3f8352b2e206eaafd701ae366511c8"
+        },
+        {
+          "path": "videos/06-gui-1-ty-nghi-huu/giong/canh-06.goc.json",
+          "bytes": 20647,
+          "sha256": "8afd50bed5a6776c97f1ecc4fd9f2dc89ef387f18d214d91d38ee91f424b4d63"
+        },
+        {
+          "path": "videos/06-gui-1-ty-nghi-huu/giong/canh-06.json",
+          "bytes": 21209,
+          "sha256": "cfa42e97892d1d0675eed5848a1542dc560d56f705f1f195ae5389858c9099e2"
+        },
+        {
+          "path": "videos/06-gui-1-ty-nghi-huu/giong/canh-07.goc.json",
+          "bytes": 20421,
+          "sha256": "d46e6ead9efb19d51d0f747ffc4d6807e1f3b3fd018e96c1f8697707a272427e"
+        },
+        {
+          "path": "videos/06-gui-1-ty-nghi-huu/giong/canh-07.json",
+          "bytes": 20959,
+          "sha256": "b131169b6ada2d95428e169e95dc2ae009ef0ef64fe13529352b99f572a34722"
+        },
+        {
+          "path": "videos/06-gui-1-ty-nghi-huu/giong/canh-08.goc.json",
+          "bytes": 17738,
+          "sha256": "e926a947faeb5167c41e5251e28116a4620403bdc010430181f42db1423569c7"
+        },
+        {
+          "path": "videos/06-gui-1-ty-nghi-huu/giong/canh-08.json",
+          "bytes": 18243,
+          "sha256": "d1a672cce725bcbd1f7c6a2c5ff0737e7dab1419ae6d3714da85e10c89bc3114"
+        },
+        {
+          "path": "videos/06-gui-1-ty-nghi-huu/giong/canh-09.goc.json",
+          "bytes": 20700,
+          "sha256": "519e750f778f452ec2910824d48ffbd9a42370f350a7f08f55c70ae6de8785eb"
+        },
+        {
+          "path": "videos/06-gui-1-ty-nghi-huu/giong/canh-09.json",
+          "bytes": 21265,
+          "sha256": "87d4bebd4f1840a6b7e4e47c36529ab3dc6c96e8080b83b4d4688b963daa7119"
+        },
+        {
+          "path": "videos/06-gui-1-ty-nghi-huu/giong/canh-10.goc.json",
+          "bytes": 17360,
+          "sha256": "180e654edeed15d822c4ffa7c8989989354fee2ac120ec4f455e969c5a9e347c"
+        },
+        {
+          "path": "videos/06-gui-1-ty-nghi-huu/giong/canh-10.json",
+          "bytes": 17858,
+          "sha256": "d097168299567cb99ae12539ef375f83a9286a0d0baf385e42246715d07c4095"
+        },
+        {
+          "path": "videos/06-gui-1-ty-nghi-huu/giong/manifest.json",
+          "bytes": 1257,
+          "sha256": "2464bde81ade25f2df510c375e5e062ee94a1905dcac750be533ceaf78e72972"
+        },
+        {
+          "path": "videos/06-gui-1-ty-nghi-huu/phu-de.srt",
+          "bytes": 29486,
+          "sha256": "1e8e9984c00bcefa27572065e058d304baee0f3bd1f092a50151246e529ffbd8"
+        },
+        {
+          "path": "videos/06-gui-1-ty-nghi-huu/qa.json",
+          "bytes": 7040,
+          "sha256": "0ac92f78b523b57a3c278feb6895ade28369d8b1af34d0016d862a2ecba68e6d"
+        },
+        {
+          "path": "videos/06-gui-1-ty-nghi-huu/short/short.json",
+          "bytes": 12355,
+          "sha256": "a71859ba9729a09688ad17eb52b9767c804a1de4854c90b003df958a2fc2fdcb"
+        },
+        {
+          "path": "videos/06-gui-1-ty-nghi-huu/short/spec.json",
+          "bytes": 404,
+          "sha256": "c53d3cd5b1503ea4173342ff493731a3baef44256f63a0934600a4e885af4615"
+        },
+        {
+          "path": "videos/06-gui-1-ty-nghi-huu/timeline.json",
+          "bytes": 156163,
+          "sha256": "4b740d7abcc8b361573706841196872b9906a8a7685ff6c3c5fcfce124bf2565"
+        },
+        {
+          "path": "videos/06-gui-1-ty-nghi-huu/youtube.json",
+          "bytes": 415,
+          "sha256": "7f038d40f9935a3c84ce4d800b6770e905e7c807fd43722c52217d4219550123"
+        },
+        {
+          "path": "videos/07-the-tin-dung/dang-tai-nhap.md",
+          "bytes": 5080,
+          "sha256": "0a715f1dfce38ba0fcfe7f0cf04e78ab896ae71fb6a7e06e71f8ddc1a59355a2"
+        },
+        {
+          "path": "videos/07-the-tin-dung/dang-tai.md",
+          "bytes": 6503,
+          "sha256": "47e68c60d382cb0e942f569b2e7486f0bfa4f38cb673257ea7451a68605d6cd4"
+        },
+        {
+          "path": "videos/07-the-tin-dung/giong/canh-01.goc.json",
+          "bytes": 17266,
+          "sha256": "5d1b0971c3ddad82a3dba001cff317abfac487b1e4feb562a5e56d9313f327ef"
+        },
+        {
+          "path": "videos/07-the-tin-dung/giong/canh-01.json",
+          "bytes": 17748,
+          "sha256": "bd3acb8ea49e4f8ef173db6ccaa92493b4938962f94f735ec09db49e9c66b14d"
+        },
+        {
+          "path": "videos/07-the-tin-dung/giong/canh-02.goc.json",
+          "bytes": 18115,
+          "sha256": "04d629dc04b889eac3e9ed76f255d5161addc9ab03772e10563fd3ee46a4b658"
+        },
+        {
+          "path": "videos/07-the-tin-dung/giong/canh-02.json",
+          "bytes": 18637,
+          "sha256": "86c87e55a8b7c58a866ec15818e1c5f7e4d1fc1ba0137cd3f2e78e39681cff1e"
+        },
+        {
+          "path": "videos/07-the-tin-dung/giong/canh-03.goc.json",
+          "bytes": 18088,
+          "sha256": "680fd74e83c82dcc400e623b8985f48d792559ad9db1b621acf156ec7829d409"
+        },
+        {
+          "path": "videos/07-the-tin-dung/giong/canh-03.json",
+          "bytes": 18607,
+          "sha256": "4c7c2d6248b99da12db60b77fb945c1e64022189241f104d5052bd618cdd8654"
+        },
+        {
+          "path": "videos/07-the-tin-dung/giong/canh-04.goc.json",
+          "bytes": 18991,
+          "sha256": "88e11fbda60160c1fc8777134cc7302494b500e5f453af604f320f913fd6344d"
+        },
+        {
+          "path": "videos/07-the-tin-dung/giong/canh-04.json",
+          "bytes": 19514,
+          "sha256": "51fa6a21927ee37cb45651d98e8953e6d5093c16f7769f647df29b4e81358177"
+        },
+        {
+          "path": "videos/07-the-tin-dung/giong/canh-05.goc.json",
+          "bytes": 19009,
+          "sha256": "c19c33914f46d166b86e8f484dceed7bed1e4109b6aa91f0846d39f72709e540"
+        },
+        {
+          "path": "videos/07-the-tin-dung/giong/canh-05.json",
+          "bytes": 19526,
+          "sha256": "db1c157335a0a331c4ef47d319c24474f2c627d9dddc5f56ff4fde13896d0863"
+        },
+        {
+          "path": "videos/07-the-tin-dung/giong/canh-06.goc.json",
+          "bytes": 19022,
+          "sha256": "fe0855a2581e028926aa8cd1d265b49c66acd7144004899e269c85849cf6265b"
+        },
+        {
+          "path": "videos/07-the-tin-dung/giong/canh-06.json",
+          "bytes": 19563,
+          "sha256": "72bf69ce53041ba7d0ea6ab522ea605c392c5f5d84ef5287c14528f7608945c9"
+        },
+        {
+          "path": "videos/07-the-tin-dung/giong/canh-07.goc.json",
+          "bytes": 20432,
+          "sha256": "bbb64feae02829411a21e792d78655d6707f315f153b37906bcb2b45834f2364"
+        },
+        {
+          "path": "videos/07-the-tin-dung/giong/canh-07.json",
+          "bytes": 20993,
+          "sha256": "0a9da2e270973429b8c2a8425313d1920985dcae95959954bf13476b0d3dec06"
+        },
+        {
+          "path": "videos/07-the-tin-dung/giong/canh-08.goc.json",
+          "bytes": 18615,
+          "sha256": "bf5e3f660fb3834b61aba0a378f8905fa835c52520fec704d884face9ba69ac9"
+        },
+        {
+          "path": "videos/07-the-tin-dung/giong/canh-08.json",
+          "bytes": 19144,
+          "sha256": "8b87e258de976f3334ec6c9277be0580526cd3324d44673443f2882cde121fcc"
+        },
+        {
+          "path": "videos/07-the-tin-dung/giong/canh-09.goc.json",
+          "bytes": 19188,
+          "sha256": "ea9997897e9f32ea15158e0ad0e51ac7dec0a4845ec8fa6fa66381b5c796ff47"
+        },
+        {
+          "path": "videos/07-the-tin-dung/giong/canh-09.json",
+          "bytes": 19714,
+          "sha256": "efa0538972ae69147cc651bd2c3ecb682e5a3fb76741d272a97fbff62b15eba7"
+        },
+        {
+          "path": "videos/07-the-tin-dung/giong/canh-10.goc.json",
+          "bytes": 20303,
+          "sha256": "9bc36b76aa4522d2ed1a54277e6094cff2a731845f301b16d33e2e0611b91f3d"
+        },
+        {
+          "path": "videos/07-the-tin-dung/giong/canh-10.json",
+          "bytes": 20867,
+          "sha256": "c8d060604e1e80f088b04b279ee1f4e1b6730069c600350d1a9882d31ab48e8c"
+        },
+        {
+          "path": "videos/07-the-tin-dung/giong/manifest.json",
+          "bytes": 1286,
+          "sha256": "271fd06f41a92cf64626f68b42a43567bc5b6261b9b6ff505b5e7219d1b32980"
+        },
+        {
+          "path": "videos/07-the-tin-dung/phu-de.srt",
+          "bytes": 28647,
+          "sha256": "299764791361c27e2d8b0850aa4f1387e4352148353d01e269ff702dfa664200"
+        },
+        {
+          "path": "videos/07-the-tin-dung/preproduction.json",
+          "bytes": 10785,
+          "sha256": "0dd8847fd3a0a8135d63d540622ff19fef1430d63d618afb87585fdd5aa23a09"
+        },
+        {
+          "path": "videos/07-the-tin-dung/qa.json",
+          "bytes": 8991,
+          "sha256": "2c2427922bd249fb90f8fefdf6f308a772aa845843f1cf3f3444ede8d6cb1e67"
+        },
+        {
+          "path": "videos/07-the-tin-dung/short/short.json",
+          "bytes": 12380,
+          "sha256": "3e16c21d6debc904e380f0ad287b8929b301fa184eaa3cbaa6088e6aa578d496"
+        },
+        {
+          "path": "videos/07-the-tin-dung/short/spec.json",
+          "bytes": 475,
+          "sha256": "b9933cd9d43a55956ff3b5dd1ed97b389336f392914eab021e8bd443ab93eb08"
+        },
+        {
+          "path": "videos/07-the-tin-dung/timeline.json",
+          "bytes": 149579,
+          "sha256": "2c8f70c031866b7624c5eaa66b32323f71f0693a025b3118b275554bcf443bfa"
+        },
+        {
+          "path": "videos/07-the-tin-dung/youtube.json",
+          "bytes": 415,
+          "sha256": "d99ba03674dabc6dfe22d9c4647eac7532bd36d7e40c112c5c850cab50ec616b"
+        },
+        {
+          "path": "videos/08-luong-15-trieu-300-trieu/dang-tai-nhap.md",
+          "bytes": 5021,
+          "sha256": "27c01c35e6c5c6de9c18a6885c20882ed182e469398242a47914d5b325b9b9e1"
+        },
+        {
+          "path": "videos/08-luong-15-trieu-300-trieu/dang-tai.md",
+          "bytes": 6948,
+          "sha256": "34ebacfba9799a5f70d7386cdb562c6977347eb7233f3f69221971f4e99ef8e3"
+        },
+        {
+          "path": "videos/08-luong-15-trieu-300-trieu/giong/canh-01.goc.json",
+          "bytes": 18464,
+          "sha256": "8ed7af84cc30213c84d5375e7aab2338d1acc79d16cc6661df59d7aa2aeec07a"
+        },
+        {
+          "path": "videos/08-luong-15-trieu-300-trieu/giong/canh-01.json",
+          "bytes": 18950,
+          "sha256": "9f0e1f77126637d0463f6e64260743238f0a0315be9be1d8fea93bbe553ff6c0"
+        },
+        {
+          "path": "videos/08-luong-15-trieu-300-trieu/giong/canh-02.goc.json",
+          "bytes": 19709,
+          "sha256": "b98245bd26ece8aa568edb4b5fba12f76b35cf2e908637ca2689f665c685f9ea"
+        },
+        {
+          "path": "videos/08-luong-15-trieu-300-trieu/giong/canh-02.json",
+          "bytes": 20241,
+          "sha256": "865688d1f955dc6d788c0ea0cd97519bc7a1552cd62ae7b53c305eaa508533ae"
+        },
+        {
+          "path": "videos/08-luong-15-trieu-300-trieu/giong/canh-03.goc.json",
+          "bytes": 18474,
+          "sha256": "6f39a248c3d3af9d13af12277ca8d48ce2d538dd22d0475609a8fdea3e5ac754"
+        },
+        {
+          "path": "videos/08-luong-15-trieu-300-trieu/giong/canh-03.json",
+          "bytes": 18975,
+          "sha256": "e646a74e461fe1c12deed0325d80c710111d360b4a6d23c8dcae01fb09fa73e2"
+        },
+        {
+          "path": "videos/08-luong-15-trieu-300-trieu/giong/canh-04.goc.json",
+          "bytes": 20443,
+          "sha256": "552e05cea7ea8e4535ac2331213adf8430eab1703c916917782fb67f26b90003"
+        },
+        {
+          "path": "videos/08-luong-15-trieu-300-trieu/giong/canh-04.json",
+          "bytes": 21034,
+          "sha256": "87a0c690c99b1be6a902f869fe222bc99ebe39ff43a585d9745fc7dc12253bc8"
+        },
+        {
+          "path": "videos/08-luong-15-trieu-300-trieu/giong/canh-05.goc.json",
+          "bytes": 19644,
+          "sha256": "fc0150f3a0409b029f1e9b42bb00f2392d705783668ef6489d8e83d2a37867ba"
+        },
+        {
+          "path": "videos/08-luong-15-trieu-300-trieu/giong/canh-05.json",
+          "bytes": 20197,
+          "sha256": "f9ef1922c7be2d51598f3984e29372bbacb15f68d2277855c158197dad2aef05"
+        },
+        {
+          "path": "videos/08-luong-15-trieu-300-trieu/giong/canh-06.goc.json",
+          "bytes": 20372,
+          "sha256": "a7950e742809a65bad3a1ceb2667b9f4512611cd8ed3d4d27886652105ac1d52"
+        },
+        {
+          "path": "videos/08-luong-15-trieu-300-trieu/giong/canh-06.json",
+          "bytes": 20944,
+          "sha256": "8264ec201273c3ac03df04058b2f68caf4ff50222ede5a072e1c9519d262a2d1"
+        },
+        {
+          "path": "videos/08-luong-15-trieu-300-trieu/giong/canh-07.goc.json",
+          "bytes": 19807,
+          "sha256": "d173a53b1d1028de9ecb9773db26eb8b38edb2cc88e7b0abd43fa0da7aa92905"
+        },
+        {
+          "path": "videos/08-luong-15-trieu-300-trieu/giong/canh-07.json",
+          "bytes": 20362,
+          "sha256": "8090c442e9e482731805067df27fd019e4c15c90408f6a99c80bf71605ff90f5"
+        },
+        {
+          "path": "videos/08-luong-15-trieu-300-trieu/giong/canh-08.goc.json",
+          "bytes": 21151,
+          "sha256": "1bf1506b45dfb67fd836a78872a25a36a62823a61baa929f435b82577ab6b061"
+        },
+        {
+          "path": "videos/08-luong-15-trieu-300-trieu/giong/canh-08.json",
+          "bytes": 21738,
+          "sha256": "57fafda4ac2424ea43a80b76240f8d60b189d9c18b497fea57c63c1ecf3d3ec3"
+        },
+        {
+          "path": "videos/08-luong-15-trieu-300-trieu/giong/canh-09.goc.json",
+          "bytes": 21345,
+          "sha256": "56891f04d307b2100227762f3d7a0ca24151e247eb7550289b7609a5cced428b"
+        },
+        {
+          "path": "videos/08-luong-15-trieu-300-trieu/giong/canh-09.json",
+          "bytes": 21960,
+          "sha256": "dd8d0921591a543a2de2635e36c69511f3f6a2b0dee25c7ffd3b431c398a33f5"
+        },
+        {
+          "path": "videos/08-luong-15-trieu-300-trieu/giong/canh-10.goc.json",
+          "bytes": 21794,
+          "sha256": "5bb216f1a8a857149f61e9541987a956407207026d66f81853742068cf883955"
+        },
+        {
+          "path": "videos/08-luong-15-trieu-300-trieu/giong/canh-10.json",
+          "bytes": 22420,
+          "sha256": "33173886428ab62647f69467c72b7acf76419aee62abfbe975023a1d4c4cc714"
+        },
+        {
+          "path": "videos/08-luong-15-trieu-300-trieu/giong/manifest.json",
+          "bytes": 1290,
+          "sha256": "c2708a19834a2a35e0d50b023834ef113a98223ff6c15c5eb2c560b1f51aabfe"
+        },
+        {
+          "path": "videos/08-luong-15-trieu-300-trieu/phu-de.srt",
+          "bytes": 30508,
+          "sha256": "90f73ad32a50bb6828a51662552dc927c0a8d8e32158085d86faef8a575b4484"
+        },
+        {
+          "path": "videos/08-luong-15-trieu-300-trieu/preproduction.json",
+          "bytes": 8468,
+          "sha256": "dc156d9ab4c433f12e7ecbfca485a208ff21b9812f099c2ac49aec6250e93ae8"
+        },
+        {
+          "path": "videos/08-luong-15-trieu-300-trieu/qa.json",
+          "bytes": 9194,
+          "sha256": "3b7043f842c5deebd9b9df74904c20b2ae22be0ee8977c246c025bb0024c18da"
+        },
+        {
+          "path": "videos/08-luong-15-trieu-300-trieu/short/short.json",
+          "bytes": 12393,
+          "sha256": "b772441474aaba48feb9db5a40ec9bb066f2124b9ec9c48e9ee105719318dec1"
+        },
+        {
+          "path": "videos/08-luong-15-trieu-300-trieu/short/spec.json",
+          "bytes": 478,
+          "sha256": "b9294b2865edae0a0d82442a0f4bfb6cf3bc932e14e84bfbc6341ebb57ca8fe5"
+        },
+        {
+          "path": "videos/08-luong-15-trieu-300-trieu/timeline.json",
+          "bytes": 161402,
+          "sha256": "e7664699490816281339669f8dfb497921deef6803cbb3e287dbd196853612da"
+        },
+        {
+          "path": "videos/08-luong-15-trieu-300-trieu/youtube.json",
+          "bytes": 415,
+          "sha256": "4b847f6ec2d3331b6cd11fb092dcaedd943c5ece0f81f1cbc5a3bd9146818f14"
+        },
+        {
+          "path": "videos/09-mua-nha-hay-thue/dang-tai-nhap.md",
+          "bytes": 4822,
+          "sha256": "633e34f4bf126d67d172e544c73e140b97bdc78c7c60b7ad846ea267908cfac6"
+        },
+        {
+          "path": "videos/09-mua-nha-hay-thue/dang-tai.md",
+          "bytes": 6673,
+          "sha256": "3d5963be53582c7a37c29b284ef731a6dba9aec24f1b0c033562d04dddb6893e"
+        },
+        {
+          "path": "videos/09-mua-nha-hay-thue/phu-de.srt",
+          "bytes": 28659,
+          "sha256": "905b4ef603012f529d2d7d1d2a8a0cb3e0a5c1f7c3fbfd42c43797272a98580a"
+        },
+        {
+          "path": "videos/09-mua-nha-hay-thue/preproduction.json",
+          "bytes": 11183,
+          "sha256": "479410025f05c16e7bfec25906b2d16b1dff0e9d91f2c913e55e0b28f904cbf9"
+        },
+        {
+          "path": "videos/09-mua-nha-hay-thue/qa.json",
+          "bytes": 13503,
+          "sha256": "23cec56677ee31ab955f543cea2c268ab056f81b17031549f988db4ef641dbfb"
+        },
+        {
+          "path": "videos/09-mua-nha-hay-thue/short/short.json",
+          "bytes": 11491,
+          "sha256": "36f6982a3809c221366a11129ba2ac708f8715d27a0f614c52e855b6d36bb13c"
+        },
+        {
+          "path": "videos/09-mua-nha-hay-thue/short/spec.json",
+          "bytes": 478,
+          "sha256": "02a6173ae2538ac081a8de72acaf14e66a755ccaad59521f07285a0d84357c50"
+        },
+        {
+          "path": "videos/09-mua-nha-hay-thue/timeline.json",
+          "bytes": 342701,
+          "sha256": "6361af2cb56fe5998215150a4132b8cc8f61b2ee08ca8f5fe6fd46d6cea134d8"
+        },
+        {
+          "path": "videos/09-mua-nha-hay-thue/youtube.json",
+          "bytes": 415,
+          "sha256": "f319967f8ee0aaead6632b6a3d87ec1179b7fd20f3462ed8d6f8ba618219a42f"
+        },
+        {
+          "path": "videos/10-tiem-sua-xe-dau-hem/dang-tai.md",
+          "bytes": 6035,
+          "sha256": "1675b2427f363cf1a098e514e7d4dfbe324ba0e057d09cd100cd7da6106ee29b"
+        },
+        {
+          "path": "videos/10-tiem-sua-xe-dau-hem/metadata-draft.md",
+          "bytes": 4302,
+          "sha256": "1b4d87dd7f5b414972dce6453577b46a72761e1ccd02adfcaae3b0d3c34b06aa"
+        },
+        {
+          "path": "videos/10-tiem-sua-xe-dau-hem/phu-de.srt",
+          "bytes": 27506,
+          "sha256": "a8287060b721c9fe714227c03376ddf2a68200239a7041c3c062e6e054044cc9"
+        },
+        {
+          "path": "videos/10-tiem-sua-xe-dau-hem/preproduction.json",
+          "bytes": 12455,
+          "sha256": "58eaccfd31cf916c48b6730e44a27bc194cea54027eb562cb4e1a70ae00d4843"
+        },
+        {
+          "path": "videos/10-tiem-sua-xe-dau-hem/qa.json",
+          "bytes": 10489,
+          "sha256": "512a8ed1443ae9f67edf4c15a4433fd87b5e7122ad0925cbd7d5af6df32aac80"
+        },
+        {
+          "path": "videos/10-tiem-sua-xe-dau-hem/short/spec.json",
+          "bytes": 409,
+          "sha256": "325bba6ac12aa4c8eada6e1cae61dfd779328a24cb02eae5266927d3f612133b"
+        },
+        {
+          "path": "videos/10-tiem-sua-xe-dau-hem/timeline.json",
+          "bytes": 146258,
+          "sha256": "11d6bc8da75a66408931f06d275548790b82647c3e49af5cb596db2386c267e7"
+        },
+        {
+          "path": "videos/10-tiem-sua-xe-dau-hem/youtube.json",
+          "bytes": 877,
+          "sha256": "ea6bd14d56468a221eda9db49fb925883b0946030cf4d9c118d0323b4443ce8e"
+        },
+        {
+          "path": "videos/11-vay-app-online/dang-tai.md",
+          "bytes": 5169,
+          "sha256": "b7e976f1a07a87579e08272af97f1aa592ca4f3300378c750d218a046d98ab10"
+        },
+        {
+          "path": "videos/11-vay-app-online/phu-de.srt",
+          "bytes": 22883,
+          "sha256": "bd4f70761f6cdb6a376f980731344bfdb1d7b21c4a945e39463824780dd16688"
+        },
+        {
+          "path": "videos/11-vay-app-online/preproduction.json",
+          "bytes": 1954,
+          "sha256": "b223124462a384555a355b6635a2d40acac7ba6d702932639a4249ad74fd23b3"
+        },
+        {
+          "path": "videos/11-vay-app-online/qa.json",
+          "bytes": 8568,
+          "sha256": "9befac5cc1a0a246c572d7d9d1dfe53c82f9463dbd849473476170533757a010"
+        },
+        {
+          "path": "videos/11-vay-app-online/short/spec.json",
+          "bytes": 404,
+          "sha256": "2f0f2165859d6fc6cc9aa5d8d09869b7c5a2ae64ffd18dc15046ee892c04540a"
+        },
+        {
+          "path": "videos/11-vay-app-online/timeline.json",
+          "bytes": 119919,
+          "sha256": "a3c6916ab6834a1ecc3de57961cf8f4259fb638f92d30b402541216821a927b3"
+        },
+        {
+          "path": "videos/11-vay-app-online/youtube.json",
+          "bytes": 1494,
+          "sha256": "9df9cd31e42725857973516938c3503fea910e559a548b5c033ad7d3814de8c4"
+        },
+        {
+          "path": "videos/13-luong-huu-bhxh/dang-tai.md",
+          "bytes": 3158,
+          "sha256": "99a896bce46e047a29baff744ab2e55a4ca04069b9bdeec899ac5ef4a4d7b2af"
+        },
+        {
+          "path": "videos/13-luong-huu-bhxh/metadata-full.md",
+          "bytes": 6499,
+          "sha256": "a425867d69561f011059f2b3346b0521f0ab0bdb94ad042b1b3a6f06b1c3980d"
+        },
+        {
+          "path": "videos/13-luong-huu-bhxh/phu-de.srt",
+          "bytes": 24011,
+          "sha256": "5199b52bcc790d185f6415c4bf718bcb76174d105c6c9facfd9ece1ffd81df91"
+        },
+        {
+          "path": "videos/13-luong-huu-bhxh/preproduction.json",
+          "bytes": 1871,
+          "sha256": "d85513dc894fb019fb7986700938590d548b13ff8bc55e1815f1b990694017d9"
+        },
+        {
+          "path": "videos/13-luong-huu-bhxh/qa.json",
+          "bytes": 7723,
+          "sha256": "2c299777f0fbc34b7027293808a6d276d116e9087041d6e0c56470acbd85e327"
+        },
+        {
+          "path": "videos/13-luong-huu-bhxh/short/short.json",
+          "bytes": 12160,
+          "sha256": "1345903fcacfbe6f8f0816259804c9af07dd4241dde1e523477117b5473ae2d2"
+        },
+        {
+          "path": "videos/13-luong-huu-bhxh/short/spec.json",
+          "bytes": 338,
+          "sha256": "f916b87bf6bc74565cb3a73c421dfcb6ad39b1e6c52ecc182c03d30dda9e689d"
+        },
+        {
+          "path": "videos/13-luong-huu-bhxh/timeline.json",
+          "bytes": 125494,
+          "sha256": "9a4e6956789561a3e3edd45522fb96c537a164a8c208b65894c6fb21258a9f91"
+        },
+        {
+          "path": "videos/13-luong-huu-bhxh/youtube.json",
+          "bytes": 877,
+          "sha256": "0feb2d0a95097f02e8ca500f9cb0afc7a06d9d4b1479342a10311ef0ece5e9ee"
+        },
+        {
+          "path": "videos/14-xe-banh-mi/preproduction.json",
+          "bytes": 873,
+          "sha256": "4ff01f6785848ecdec4b437bf039f87070126816fcd2a53d25cdaec3bde2802c"
+        }
+      ],
+      "excluded_files": [],
+      "file_count": 449,
+      "total_bytes": 26983676
+    },
+    {
+      "directory": "chu-tu-ranh-do",
+      "source_commit": "6f936f4598e1fed45bec9845171b588f1e8225f9",
+      "source_commit_date": "2026-10-29T10:36:09+07:00",
+      "working_tree_had_uncommitted_files": false,
+      "files": [
+        {
+          "path": ".env.example",
+          "bytes": 643,
+          "sha256": "3dae2f5997913da1853a2d1e95b514d36914ce8ac3425fbf0acba16f783761f8"
+        },
+        {
+          "path": ".gitignore",
+          "bytes": 302,
+          "sha256": "90fd138989383ee6924a543132cdf17184abdd4802728ba1e6a393d005f01f26"
+        },
+        {
+          "path": "AGENTS.md",
+          "bytes": 3087,
+          "sha256": "2316c1374d4a62dbb4c052bd3bff56145623939c748d503ce619d4a6b7d56766"
+        },
+        {
+          "path": "HANDOFF.md",
+          "bytes": 14491,
+          "sha256": "36984961e2313655f497d97b2bb456568276aba2e5077cf95e7a0c9bf64492df"
+        },
+        {
+          "path": "README.md",
+          "bytes": 10859,
+          "sha256": "4d072dc6716b696ba36a9522f0ee6e59911aac0b50f26376c6ac887baa800b0c"
+        },
+        {
+          "path": "START-NEXT-SESSION.md",
+          "bytes": 2256,
+          "sha256": "5bbaf932ae56d939928ce9d7cecf7b0c8c842586125493f95abc0b24db40d267"
+        },
+        {
+          "path": "assets/branding/PROMPTS.md",
+          "bytes": 4810,
+          "sha256": "05d320c399a2128ce6ff72364fcdb741382a3d0210129ad8f1ec7ee561ad7de3"
+        },
+        {
+          "path": "assets/branding/provenance.json",
+          "bytes": 888,
+          "sha256": "b7d0eba7f9b37a7e0016fb4145e7341f7f03c2aeb5ec6d791a0e20d4e3063e36"
+        },
+        {
+          "path": "assets/episodes/01-wifi/PROMPTS.json",
+          "bytes": 2821,
+          "sha256": "e2cf965e416dc9925d6528b20897b33de7dad55d53da9577b6e066cfc4b3a391"
+        },
+        {
+          "path": "assets/episodes/01-wifi/provenance.json",
+          "bytes": 1574,
+          "sha256": "9ceb2df8883df1a2a9d1ab0e13ebf5bdfae846c1a94863841053ed93d1cff8ff"
+        },
+        {
+          "path": "config/automation-binding.json",
+          "bytes": 348,
+          "sha256": "f4f0d7c41c3f1784b7da3c0aa2bed99656a1947be95c646f60dfedebcb1ca94a"
+        },
+        {
+          "path": "config/channel-binding.json",
+          "bytes": 1525,
+          "sha256": "3a51d5c3925d0a7c2fe0effabd17f254550659155860188cd0d1059a8aaeb89b"
+        },
+        {
+          "path": "config/channel-profile.json",
+          "bytes": 697,
+          "sha256": "81542ede009b76ec0018ecc403c7d26f8575ea43ab93c8d6a0c8a5cde0f1ae69"
+        },
+        {
+          "path": "config/channel-seo.json",
+          "bytes": 1413,
+          "sha256": "bc847cf8306f2f9d110020d8a55124aff48acd7d2ea202697f2c88b1ea40e4bb"
+        },
+        {
+          "path": "config/episodes/01-wifi-khac-goi-mang.json",
+          "bytes": 3273,
+          "sha256": "f84f75e1937acfb16f061ce8116f186d4071a46a9a96f512f403eb8bce3f002c"
+        },
+        {
+          "path": "config/episodes/01-wifi-listening-approval.json",
+          "bytes": 1090,
+          "sha256": "dc683f25cdadce293ab909f6ee203a583afba76099d082987be4715322e163d7"
+        },
+        {
+          "path": "config/voice-approval.json",
+          "bytes": 910,
+          "sha256": "ddfbcb32728aaedc8c29c73c673864f4050b674dd050ecc3f77af775cd2b6136"
+        },
+        {
+          "path": "docs/BRAVE.md",
+          "bytes": 3387,
+          "sha256": "4d68d8c7eb3b4e5125861a22c93551a9d5d6cfefafc7a5960f7aaebb734ee895"
+        },
+        {
+          "path": "docs/KIEM-TRA.md",
+          "bytes": 2882,
+          "sha256": "f5e524c07ffe9b526d3707ecdb28b5dea98bdbcb5858660815148037047b8d78"
+        },
+        {
+          "path": "docs/LICH-VAN-HANH.md",
+          "bytes": 4972,
+          "sha256": "f65fb22b49ab5f0eb10e00acbb240746b40312a86ec376a945a5252ab2fd0846"
+        },
+        {
+          "path": "docs/QUY-TRINH.md",
+          "bytes": 18718,
+          "sha256": "48ce22e7f296c7c832bfcc55dd7ba90d4484550fd4539dc743d6f8df314d20ce"
+        },
+        {
+          "path": "docs/SEO-KENH.md",
+          "bytes": 4239,
+          "sha256": "cffa4490b860e9cdd775d20c2bac673378c0cbc7d23f6fab97b6a2f7c4707832"
+        },
+        {
+          "path": "docs/episodes/01-wifi-khac-goi-mang-shots.md",
+          "bytes": 8983,
+          "sha256": "0d0187d12b004923e54f63f8b6bb3733dffd625afd772d4f287177002235854b"
+        },
+        {
+          "path": "docs/episodes/01-wifi-khac-goi-mang-sources.md",
+          "bytes": 4700,
+          "sha256": "630fd949583406e5714136f3986672c4cb77af1031b2a19846cabb3c84ed3400"
+        },
+        {
+          "path": "docs/episodes/01-wifi-pre-tts-review-v1.md",
+          "bytes": 2622,
+          "sha256": "49b8da7becaee61076f7b2e85c5cdfe3257ca2b307f4257b861779b93b01ca29"
+        },
+        {
+          "path": "docs/history/HANDOFF-2026-10-29-before-full-listening-approved.md",
+          "bytes": 22854,
+          "sha256": "6c6687a9f52377822a6661c541c8d230d3253f8fd0272830d9cde77c1223d996"
+        },
+        {
+          "path": "docs/qa/2026-10-29-00h-preview-v1.json",
+          "bytes": 2487,
+          "sha256": "5a70790b47942057436bf811380ce22c3eea0dd373004f29164a6e4b4d738bf5"
+        },
+        {
+          "path": "docs/qa/2026-10-29-05h30-opening-v1.json",
+          "bytes": 6943,
+          "sha256": "67b61a95c610935c48ed76c5d53ed7925d1c093f385ec174a9dc23273454ebe0"
+        },
+        {
+          "path": "docs/qa/2026-10-29-episode01-full-review-v1.json",
+          "bytes": 18972,
+          "sha256": "cc53ce329c944bc9d0725e225040faac14835b9c3875ff9bd245d29914f61fbf"
+        },
+        {
+          "path": "examples/thu-giong-thai-son.words.json",
+          "bytes": 4147,
+          "sha256": "f9d24a68f3f21712e5183aad96b4c35fb2cb63f36e199a79214246a558df7b3d"
+        },
+        {
+          "path": "kich-ban/00-thu-giong.md",
+          "bytes": 480,
+          "sha256": "e39182c53e76cdbccaa64e1ce4229d255271482218c970505d5feec51895c515"
+        },
+        {
+          "path": "kich-ban/01-wifi-khac-goi-mang.md",
+          "bytes": 14229,
+          "sha256": "c6595af6108710b4b9272ffb3469f592e558b45beef41674d847a3ce33e7b576"
+        },
+        {
+          "path": "remotion/README.md",
+          "bytes": 2397,
+          "sha256": "30000bfdd26d0d3f495511d5214874513749f07fa2c4344a77f2f6e850036d39"
+        },
+        {
+          "path": "remotion/package-lock.json",
+          "bytes": 160676,
+          "sha256": "f855d54aaee64a37c7f5f9ed6892b1d908409cfd8ea6047b206163dbe2fc9967"
+        },
+        {
+          "path": "remotion/package.json",
+          "bytes": 510,
+          "sha256": "38756c6d2d4be26162011a4168021bf37fa479941c24b05960d176ad35ccb9da"
+        },
+        {
+          "path": "remotion/src/Explainer.tsx",
+          "bytes": 3788,
+          "sha256": "674801d27f3624830d1f3d8d7a5e52776b6d53420ae31c48f0cd38541801a681"
+        },
+        {
+          "path": "remotion/src/contracts.ts",
+          "bytes": 538,
+          "sha256": "5c18388868fa5900382e7d8584cb6ea3fbe63693863b45e109019d3bef0c0437"
+        },
+        {
+          "path": "remotion/src/index.tsx",
+          "bytes": 2060,
+          "sha256": "f10b376a9a509a9234bf417f7628b5815106b09783fa38623ba4b72e68d5a5e7"
+        },
+        {
+          "path": "remotion/src/preview.json",
+          "bytes": 2182,
+          "sha256": "517a5eb0768bd9bc950853239a7a8fe7a0a2dadff41cf84f83b84e4cc93e5f95"
+        },
+        {
+          "path": "remotion/src/theme.ts",
+          "bytes": 201,
+          "sha256": "3481aaefa7086e6f16e5ca49fb18b7c51ff6e060dcd571021a2cdbfa21e60500"
+        },
+        {
+          "path": "remotion/src/wifi/HouseDiagrams.tsx",
+          "bytes": 2905,
+          "sha256": "41279942381a6fd2b305873e5a492e36b4ab841239fbd538d8e8287c660ed3f4"
+        },
+        {
+          "path": "remotion/src/wifi/Thumbnail.tsx",
+          "bytes": 2004,
+          "sha256": "911c94caec5927091d8ed5c0d5e0ac4567ce71b54614d01f0a13c56ded72f6d4"
+        },
+        {
+          "path": "remotion/src/wifi/WifiEpisode.tsx",
+          "bytes": 3873,
+          "sha256": "eb11d501f7b2b58368cafef330b6ad0cadbe3848fe33b0398b1d49194ac13f99"
+        },
+        {
+          "path": "remotion/src/wifi/WifiShort.tsx",
+          "bytes": 3421,
+          "sha256": "2e574d2a7d32a2ad88787b3c01cd66e164708d1333fdf3f500a7ba27b9230606"
+        },
+        {
+          "path": "remotion/src/wifi/WifiVisual.tsx",
+          "bytes": 12939,
+          "sha256": "20aee9fbbd30831fbd8f9d4d0b1ea9c49e7bbb92adbda4361687786f5902af1e"
+        },
+        {
+          "path": "remotion/src/wifi/specs.ts",
+          "bytes": 3108,
+          "sha256": "757068f063e3b28084429e8db946c89f4ff6d1bc255681187aa93211b7c78ddd"
+        },
+        {
+          "path": "remotion/tsconfig.json",
+          "bytes": 354,
+          "sha256": "2fdb9b3db3311f49f12ec4427782bdb74f94f42c12def9093856eaedca6aec6f"
+        },
+        {
+          "path": "requirements.txt",
+          "bytes": 42,
+          "sha256": "218f346b0483f26e6a2dfb5b816d1d9d4ee225ebdc0ff1b5c1fe78f96c6f4115"
+        },
+        {
+          "path": "scripts/build_wifi_render.py",
+          "bytes": 7125,
+          "sha256": "c72c72186d3f212cb0750f42ea9137ceb01c20a1197fd08d1226500753ebdb26"
+        },
+        {
+          "path": "scripts/configure_vsp.py",
+          "bytes": 990,
+          "sha256": "f8f5927c12c8433dda732d256b8e205535bf82fe6f63c17c7903bae9950e6706"
+        },
+        {
+          "path": "scripts/hau_ky.py",
+          "bytes": 2449,
+          "sha256": "668419fb0f8f3e69c8681ddf87bc90ce2bdb4a69c398ec387cd68fdad8d4af38"
+        },
+        {
+          "path": "scripts/kich_ban.py",
+          "bytes": 5444,
+          "sha256": "d81ea46c253d66504a14d9b3c26dee15aef13c6eca15c6553b7727af8e06484b"
+        },
+        {
+          "path": "scripts/prepare_render_preview.py",
+          "bytes": 1881,
+          "sha256": "ae9e32ad527ad9201b9b84e32c16dfa0e2201d3e9ac0bd111a5569c8cf41b752"
+        },
+        {
+          "path": "scripts/tao_giong.py",
+          "bytes": 10781,
+          "sha256": "bac4566a70102fd8f21464125a25cceba284051576621ec3239d4ecdd387fbab"
+        },
+        {
+          "path": "scripts/vsp_tts.py",
+          "bytes": 12288,
+          "sha256": "16528b8bb0996671255594cae60de3360f83038adfe0752f4ae99c9347407334"
+        },
+        {
+          "path": "tests/test_alignment_context.py",
+          "bytes": 1131,
+          "sha256": "05f593770e3036c72782639ff43401ef68cc3e8f008f4af43ef8530014420810"
+        },
+        {
+          "path": "tests/test_render_timeline.py",
+          "bytes": 1891,
+          "sha256": "6a433d0248d179d75a21ce8b51c1e20f4c3cfb36f03b39309264fedb673c6399"
+        },
+        {
+          "path": "tests/test_vsp_tts.py",
+          "bytes": 7078,
+          "sha256": "56fae5bd9e88e7382381dfb05e95a727e901e85e147d7b5d723f6eaf80e011c9"
+        }
+      ],
+      "excluded_files": [],
+      "file_count": 58,
+      "total_bytes": 423658
+    },
+    {
+      "directory": "dau-vet-thoi-dai",
+      "source_commit": "79469f6703d8c3979b9dc8e960d51d6d542bfa50",
+      "source_commit_date": "2026-10-29T10:38:13+07:00",
+      "working_tree_had_uncommitted_files": false,
+      "files": [
+        {
+          "path": ".gitignore",
+          "bytes": 185,
+          "sha256": "f9b0a1c7620f6f57b143204be7364adbfe39707fc22aeb3b1cbafed1fbce58c3"
+        },
+        {
+          "path": "AGENTS.md",
+          "bytes": 4107,
+          "sha256": "05c85fa41353c60656cb10d9d9b1dcb255034ff87b81579410a735dcd0bc0c27"
+        },
+        {
+          "path": "HANDOFF.md",
+          "bytes": 16234,
+          "sha256": "6b9c66d3bca2eaffe03b7c7574f3823bb8d21de323a710600c3ecfba1edcd96d"
+        },
+        {
+          "path": "README.md",
+          "bytes": 2219,
+          "sha256": "9d9f6be361966022a7b62c610173ff141cc3adefeb4b6d2f125cf1d70aef5c08"
+        },
+        {
+          "path": "START-NEXT-SESSION.md",
+          "bytes": 3140,
+          "sha256": "ca474a8d6f2a56623d4d43b1b6687354225d6088715ba7053f0609afeb006ad8"
+        },
+        {
+          "path": "assets/branding/PROMPTS.md",
+          "bytes": 3048,
+          "sha256": "72dc0ce8c70b6964ad9709ea74c5beb1fc0577bcec51942e0895a68d7edccce3"
+        },
+        {
+          "path": "assets/branding/provenance.json",
+          "bytes": 543,
+          "sha256": "bc1ae527c309c9edd6f6ec537d19de605dfa4d6dfb0dea76c54a7821b9034c6a"
+        },
+        {
+          "path": "config/brand-audio-v1.json",
+          "bytes": 5129,
+          "sha256": "8a231cb864985c8329b722bdc215a7cf46522d08963099a62afb66197b281824"
+        },
+        {
+          "path": "config/channel-binding.json",
+          "bytes": 2098,
+          "sha256": "185042c332695b23f1df65a6beda660da9d6cafd06a13f42cb49b3fb4a1ea374"
+        },
+        {
+          "path": "config/channel-observation-2026-10-29.json",
+          "bytes": 1284,
+          "sha256": "a4c97710ff0ac4362a9c85d981bfd6ca6f17e3620782bf4d06d3ce4aeff85799"
+        },
+        {
+          "path": "config/channel-profile.json",
+          "bytes": 2006,
+          "sha256": "9458af75712098d37565b4980573f8c327097816def02386615073f9f258f87b"
+        },
+        {
+          "path": "config/music-selection.json",
+          "bytes": 1744,
+          "sha256": "f400cc1c8446d4c8dd73240d6189571b5faae14510c5bb22724a1c95d226b562"
+        },
+        {
+          "path": "docs/BRAVE.md",
+          "bytes": 2503,
+          "sha256": "466a80ea4eafcfdb1822c049aa45bbf1e811f2c4c06024aa6a8abe6e00544f6a"
+        },
+        {
+          "path": "docs/CHECKPOINT-2026-10-29.md",
+          "bytes": 4269,
+          "sha256": "d0f8ac46c7aa0e609c63c4cf686d55eccd8af25b012581f276bf73bc9942f6ff"
+        },
+        {
+          "path": "docs/INTRO-OUTRO.md",
+          "bytes": 3023,
+          "sha256": "a1a22c5607c5fc0634e96972665abc9272709943ddfda594b7e29f0062cf3934"
+        },
+        {
+          "path": "docs/QUY-TRINH.md",
+          "bytes": 7477,
+          "sha256": "f19a6a76ba3634d05ad8bb45b37c08ddbe4c5e91e181ba23fe31366fcad63230"
+        },
+        {
+          "path": "docs/handoff-media-qa-2026-10-29.json",
+          "bytes": 20205,
+          "sha256": "ccabdb2ad85dba6e2e0eb4ff0829e1981050c9faa3599b5d1c564040e07eedf7"
+        },
+        {
+          "path": "docs/history/HANDOFF-2026-10-28-before-session-handoff.md",
+          "bytes": 2283,
+          "sha256": "3648bb2babada71ebb81cb57c0d0d1df7b5b49984dda875f24c492c422ecaf51"
+        },
+        {
+          "path": "docs/history/HANDOFF-2026-10-29-before-final-channel-handoff.md",
+          "bytes": 22301,
+          "sha256": "bf52762d4f34fc422d66cd6e26ea019bfffc6c5abca04b0e72fbdecaa19eb7ab"
+        },
+        {
+          "path": "episodes/01-napoleon-code-civil/BRIEF.md",
+          "bytes": 2940,
+          "sha256": "3156de5dafc97e34c46521c70e59ee7295935871d00f99ecc399785d6d1b44be"
+        },
+        {
+          "path": "episodes/01-napoleon-code-civil/SOURCES.md",
+          "bytes": 2247,
+          "sha256": "6f873b5c91a04230a8d8c175903b01816007976673cc1d5d9ba2ee10ad73535b"
+        },
+        {
+          "path": "episodes/01-napoleon-code-civil/episode.json",
+          "bytes": 13132,
+          "sha256": "982a316ab0bcfd3df2ff88278b63e932009a2f141fad1aa3af4eb66bd1efdc99"
+        },
+        {
+          "path": "episodes/01-napoleon-code-civil/script-en.md",
+          "bytes": 2435,
+          "sha256": "9bf4ad57789048d274982facf96a62ece084b73b7c7058c4fd611551ee583d6d"
+        },
+        {
+          "path": "episodes/01-napoleon-code-civil/script-vi.md",
+          "bytes": 3286,
+          "sha256": "9bca37a9d7f93d1149024a122da9299b3cf0d395bd6df50a2041800a67b34b37"
+        },
+        {
+          "path": "scripts/build_brand_audio.py",
+          "bytes": 7107,
+          "sha256": "ec26d4f7b48c4c3d84995faad5ddfdaf2a66f87481c35a51c5ec881e76c871fe"
+        },
+        {
+          "path": "scripts/render_brand_clips.py",
+          "bytes": 3832,
+          "sha256": "add12781c5bb8058c9e6d5d4f9dc6db63edc95f80d9ea4e2a859faecdfdf29a6"
+        },
+        {
+          "path": "scripts/render_documentary_preview.py",
+          "bytes": 11478,
+          "sha256": "e8470bc0bc1e18ec20711acf5e9794b7aff51307adf81ec2798f9f6c7030adcd"
+        },
+        {
+          "path": "templates/asset-record.json",
+          "bytes": 637,
+          "sha256": "5afaeef961379132a7247426715b8b86f2844f687a1e093d3171fa6b89fb6513"
+        },
+        {
+          "path": "templates/episode-brief.md",
+          "bytes": 2281,
+          "sha256": "3f8ac389e3cef19a454ae883b7ac09a79a7b48e2067db0b15fc7aace6f0bbcfa"
+        },
+        {
+          "path": "tests/test_documentary_preview.py",
+          "bytes": 2511,
+          "sha256": "1ab7229c1231778ee47e5f7d557e125e12e2e6097f2f994ba495c9ecd6ec98f8"
+        }
+      ],
+      "excluded_files": [],
+      "file_count": 30,
+      "total_bytes": 155684
+    }
+  ]
+}

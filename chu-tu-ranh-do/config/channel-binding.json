@@ -1,0 +1,30 @@
+{
+  "channel_name": "Chú Tư Rành Đồ",
+  "handle_requested": "@ChuTuRanhDo",
+  "channel_id": "UCMDWcpFr6SZ1Nk7_ffVGTVA",
+  "channel_url": "https://www.youtube.com/channel/UCMDWcpFr6SZ1Nk7_ffVGTVA",
+  "creation_status": "created_public_page_verified",
+  "browser": "Brave",
+  "window_id_last_seen": 3999536,
+  "profile_name_verified": "Person 1",
+  "browser_extension_id_last_seen": "3",
+  "extension_instance_id_last_seen": "12199111-c4b6-4a6f-bd38-27214d7cb387",
+  "studio_tab_id_last_seen": "169036110",
+  "public_channel_tab_id_last_seen": "169036109",
+  "profile_isolation": "shared_profile_new_window_only",
+  "owner_account_verified_on_form": "bacsausosach@gmail.com",
+  "do_not_use_window_ids": [
+    66974,
+    592278
+  ],
+  "last_observed_date": "2026-10-28",
+  "timezone": "Asia/Saigon",
+  "require_channel_id_match_before_upload": true,
+  "candidate_channel_id": "UCMDWcpFr6SZ1Nk7_ffVGTVA",
+  "candidate_channel_url": "https://www.youtube.com/channel/UCMDWcpFr6SZ1Nk7_ffVGTVA",
+  "creation_confirmation": "User confirmed Create channel directly on 2026-10-28",
+  "handle_verified": "@ChuTuRanhDo",
+  "verification_evidence": "Channel URL shows heading Chú Tư Rành Đồ and @ChuTuRanhDo after refresh; page has no content. Switched account; Your channel points @ChuTuRanhDo and Your videos/Customize channel point same new Channel ID.",
+  "active_channel_context_verified": true,
+  "studio_url": "https://studio.youtube.com/channel/UCMDWcpFr6SZ1Nk7_ffVGTVA/editing/profile"
+}

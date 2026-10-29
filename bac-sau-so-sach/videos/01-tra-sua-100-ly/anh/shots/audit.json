@@ -1,0 +1,15 @@
+{
+  "slug": "01-tra-sua-100-ly",
+  "shots": 236,
+  "newImages": 226,
+  "refs": 118,
+  "keywords": 121,
+  "duration": {
+    "min": 4.533,
+    "max": 7.623000000000019,
+    "mean": 6.047266949152539
+  },
+  "imagesPresent": 236,
+  "missing": [],
+  "errors": []
+}

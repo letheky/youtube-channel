@@ -1,0 +1,370 @@
+{
+  "checkedAt": "2026-10-26T03:20:20.911826+00:00",
+  "video": "10-tiem-sua-xe-dau-hem",
+  "scenes": 10,
+  "narrationCharacters": 11114,
+  "narrationWords": 2456,
+  "estimatedCreditsCeiling": 4891,
+  "step4": {
+    "calculationChecked": true,
+    "cashReconciledIndependently": true,
+    "allTenScenesNumbersManuallyCompared": true,
+    "assumptionsSeparatedFromOfficialFacts": true,
+    "noArabicDigitsPercentSlashOrBrandsInNarration": true,
+    "noUnresolvedFactInNarration": true,
+    "sourcesCheckedOn": "2026-10-26",
+    "dryRunPassed": true,
+    "plannedCueGroupsAllFound": 24,
+    "scriptCommitBeforeTts": "132f26b"
+  },
+  "plannedCues": [
+    {
+      "scene": 1,
+      "cue": "Một ngày thu gần hai triệu",
+      "timing": "pending_real_voice"
+    },
+    {
+      "scene": 2,
+      "cue": "một triệu chín trăm tám chục ngàn",
+      "timing": "pending_real_voice"
+    },
+    {
+      "scene": 2,
+      "cue": "một triệu không trăm chín chục ngàn",
+      "timing": "pending_real_voice"
+    },
+    {
+      "scene": 2,
+      "cue": "tám trăm chín chục ngàn",
+      "timing": "pending_real_voice"
+    },
+    {
+      "scene": 3,
+      "cue": "mười tiếng hiện diện",
+      "timing": "pending_real_voice"
+    },
+    {
+      "scene": 3,
+      "cue": "mười hai tiếng hai chục phút",
+      "timing": "pending_real_voice"
+    },
+    {
+      "scene": 4,
+      "cue": "bốn chục ngàn một giờ",
+      "timing": "pending_real_voice"
+    },
+    {
+      "scene": 4,
+      "cue": "bốn trăm năm chục ngàn",
+      "timing": "pending_real_voice"
+    },
+    {
+      "scene": 5,
+      "cue": "sáu triệu hai một tháng",
+      "timing": "pending_real_voice"
+    },
+    {
+      "scene": 5,
+      "cue": "một triệu hai mỗi tháng",
+      "timing": "pending_real_voice"
+    },
+    {
+      "scene": 5,
+      "cue": "mười lăm triệu bảy trăm bốn chục ngàn",
+      "timing": "pending_real_voice"
+    },
+    {
+      "scene": 6,
+      "cue": "giữ riêng mỗi tháng một triệu",
+      "timing": "pending_real_voice"
+    },
+    {
+      "scene": 6,
+      "cue": "mười bốn triệu bảy trăm bốn chục ngàn",
+      "timing": "pending_real_voice"
+    },
+    {
+      "scene": 7,
+      "cue": "tám mươi bốn giờ",
+      "timing": "pending_real_voice"
+    },
+    {
+      "scene": 7,
+      "cue": "năm mươi bảy ngàn một giờ",
+      "timing": "pending_real_voice"
+    },
+    {
+      "scene": 7,
+      "cue": "khoảng tám mươi lăm ngàn",
+      "timing": "pending_real_voice"
+    },
+    {
+      "scene": 8,
+      "cue": "ba mươi sáu triệu ba trăm bốn chục ngàn",
+      "timing": "pending_real_voice"
+    },
+    {
+      "scene": 8,
+      "cue": "bảy triệu bảy trăm bốn chục ngàn",
+      "timing": "pending_real_voice"
+    },
+    {
+      "scene": 8,
+      "cue": "sáu triệu bảy trăm bốn chục ngàn",
+      "timing": "pending_real_voice"
+    },
+    {
+      "scene": 9,
+      "cue": "chín triệu bốn trăm ngàn",
+      "timing": "pending_real_voice"
+    },
+    {
+      "scene": 9,
+      "cue": "năm triệu ba trăm bốn chục ngàn",
+      "timing": "pending_real_voice"
+    },
+    {
+      "scene": 9,
+      "cue": "một trăm sáu mươi sáu triệu hai trăm ngàn",
+      "timing": "pending_real_voice"
+    },
+    {
+      "scene": 9,
+      "cue": "mười ba triệu tám trăm năm chục ngàn",
+      "timing": "pending_real_voice"
+    },
+    {
+      "scene": 10,
+      "cue": "Tay nghề nuôi tiệm. Sổ rõ giữ nghề.",
+      "timing": "pending_real_voice"
+    }
+  ],
+  "protectedSources": {
+    "count": 210,
+    "changed": false
+  },
+  "existingMediaMatchedQa": [
+    {
+      "file": "D:\\Repo\\bac-sau-so-sach\\videos\\08-luong-15-trieu-300-trieu\\08-luong-15-trieu-300-trieu.mp4",
+      "sha256": "ddcf4152adc2010a8b95bd2d45cdd2c5dc3466b39f3c08c24d4d57dcb415d814"
+    },
+    {
+      "file": "D:\\Repo\\bac-sau-so-sach\\videos\\08-luong-15-trieu-300-trieu\\short\\short-08.mp4",
+      "sha256": "6d27578669fba5a7036fd09404be6eff802bb9b2d1874c4b79c22c77366a7b82"
+    },
+    {
+      "file": "D:\\Repo\\bac-sau-so-sach\\videos\\09-mua-nha-hay-thue\\09-mua-nha-hay-thue.mp4",
+      "sha256": "a8bee74826ffa8f595e1e862b2a42fde7f8e93552dbfdf4adeec611acba213b5"
+    },
+    {
+      "file": "D:\\Repo\\bac-sau-so-sach\\videos\\09-mua-nha-hay-thue\\short\\short-09.mp4",
+      "sha256": "7bf4f3b053046a6867d3b3198c7cdbacd55288c93cf31c0c3647da1888c8bbca"
+    }
+  ],
+  "credit": {
+    "checkedAt": "2026-10-26T03:08:26.759744+00:00",
+    "used": 55304,
+    "limit": 131000,
+    "remaining": 75696,
+    "ttsCalls": 0
+  },
+  "ttsRequests": 10,
+  "uploads": 0,
+  "permissionGranted": true,
+  "targetLongVN": "2026-10-27 18:00",
+  "targetShortVN": "2026-10-28 11:30",
+  "targetScheduleIsTentative": true,
+  "targetQaDeadlineVN": "2026-10-27 15:00",
+  "fullShotSetExists": true,
+  "timelineExists": true,
+  "compositionExists": true,
+  "finalMp4Exists": true,
+  "youtubeIdExists": false,
+  "status": "uploaded_scheduled_api_verified",
+  "preparedAt": "2026-10-26T03:27:08.507501+00:00",
+  "scriptCommit": "132f26b",
+  "preparedCommit": "b332a57",
+  "baseImages": [
+    {
+      "scene": 2,
+      "image": "canh-02.png",
+      "sha256": "918e892a80ccc4abdd83f5ba7359eedb8a18808b7a4b7e900ec2bf41972a7f46",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "projectPath": "videos/10-tiem-sua-xe-dau-hem/anh/canh-02.png"
+    },
+    {
+      "scene": 3,
+      "image": "canh-03.png",
+      "sha256": "3c53634f935dfab97958d69b45c2709e82cd21bcfd57aad8d2934c02168092af",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "projectPath": "videos/10-tiem-sua-xe-dau-hem/anh/canh-03.png"
+    },
+    {
+      "scene": 4,
+      "image": "canh-04.png",
+      "sha256": "c58959718e0198561c82930fcdc0c5a90c786c037db2fb75430e141cf0ef5b3b",
+      "dimensions": [
+        1671,
+        941
+      ],
+      "projectPath": "videos/10-tiem-sua-xe-dau-hem/anh/canh-04.png"
+    },
+    {
+      "scene": 5,
+      "image": "canh-05.png",
+      "sha256": "3775f7e1ffed0a18d9bb9ed498bd0f5429abb9e149678a3be0f4ebfc46ad101b",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "projectPath": "videos/10-tiem-sua-xe-dau-hem/anh/canh-05.png"
+    },
+    {
+      "scene": 7,
+      "image": "canh-07.png",
+      "sha256": "66c9a90a3eb8c32fd35ab0597e975a33d3f0ca499b9dc5aa61782b4c4867f433",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "projectPath": "videos/10-tiem-sua-xe-dau-hem/anh/canh-07.png"
+    },
+    {
+      "scene": 8,
+      "image": "canh-08.png",
+      "sha256": "8e9dbea5a08b488ff2e10ed57681768e5181eeb03f29b862caff2f2403174366",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "projectPath": "videos/10-tiem-sua-xe-dau-hem/anh/canh-08.png"
+    },
+    {
+      "scene": 9,
+      "image": "canh-09.png",
+      "sha256": "794da759e6f865066b8459a33a49cf0afec6ac35ae3f3aa2c32fe58d812e9e07",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "projectPath": "videos/10-tiem-sua-xe-dau-hem/anh/canh-09.png"
+    },
+    {
+      "scene": 0,
+      "image": "thumbnail.png",
+      "sha256": "9da08c8093b895915f0a8996cf0a479d81bdecfe4e5f71cd197aa88c8778d221",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "projectPath": "videos/10-tiem-sua-xe-dau-hem/anh/thumbnail.png"
+    },
+    {
+      "scene": 1,
+      "image": "canh-01-v2.png",
+      "sha256": "24ce7a07416b31fad9ff1e84d082e9261664cef386bdd008f4f9e1130c49631c",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "projectPath": "videos/10-tiem-sua-xe-dau-hem/anh/canh-01-v2.png"
+    },
+    {
+      "scene": 6,
+      "image": "canh-06-v2.png",
+      "sha256": "19a9e258ce811c558104d4df1b6a097d810ac9448da353923c6ac5c1166a12f5",
+      "dimensions": [
+        1672,
+        940
+      ],
+      "projectPath": "videos/10-tiem-sua-xe-dau-hem/anh/canh-06-v2.png"
+    },
+    {
+      "scene": 10,
+      "image": "canh-10-v2.png",
+      "sha256": "144183eca3ae1c2a0685d84521c2f7293ababb839651b3acc477d7c7da08e9ac",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "projectPath": "videos/10-tiem-sua-xe-dau-hem/anh/canh-10-v2.png"
+    }
+  ],
+  "characterSheet": {
+    "image": "assets/nhan-vat/chu-ba-sua-xe.png",
+    "source": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-00231949-95aa-4be1-9302-0ec6ec7d0597.png",
+    "prompt": "Use case: illustration-story. Generate one NEW character reference sheet for Chu Ba, a Vietnamese neighborhood motorcycle mechanic aged 48. Use attached Bac Sau sheet ONLY as drawing-style reference, do NOT draw Bac Sau and do NOT copy his face/clothes. Chu Ba: short black crew-cut hair with a few grey strands at temples, clean-shaven square friendly face, medium tan skin, sturdy average build, plain rust-orange short-sleeved mechanic shirt with ONE charcoal-grey chest pocket, dark charcoal work trousers, closed brown work shoes. No glasses, hats, pens, bags, ID cards, necklaces or badges. Show full-body front, three-quarter and back views plus two head expressions and a separate plain steel spanner on an uncluttered warm ivory background, thick clean outlines and warm flat 2D colors consistent with attached reference. Correct body orientation and shirt pocket only on FRONT chest. Anatomically natural hands. All views same person and clothing. Absolutely no text, digits, logos, labels, watermarks. Landscape 16:9, high resolution. Save a project character-sheet bitmap.",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png"
+    ],
+    "role": "character_sheet",
+    "projectPath": "assets/nhan-vat/chu-ba-sua-xe.png",
+    "sha256": "d66b059bf6f6ece383ff71deabeb643b0220aab144ed1daecd91d42cf260fc5b",
+    "dimensions": [
+      1672,
+      941
+    ],
+    "tool": "built_in_image_gen",
+    "selected": true,
+    "manualReview": {
+      "reviewed": true,
+      "anatomyAndBodyOrientationChecked": true,
+      "clothingAndFrontPocketChecked": true,
+      "noReadableTextLogosOrIdCards": true,
+      "selectionNote": "Viewed individually at full resolution; no visible anatomy/accessory/text issue found."
+    },
+    "checkedAt": "2026-10-26T03:27:08.507501+00:00"
+  },
+  "selectedPngDecoded": 12,
+  "imagesManuallyReviewed": true,
+  "excludedDrafts": [
+    "videos/10-tiem-sua-xe-dau-hem/anh/nhap/canh-01.png",
+    "videos/10-tiem-sua-xe-dau-hem/anh/nhap/canh-06.png",
+    "videos/10-tiem-sua-xe-dau-hem/anh/nhap/canh-10.png"
+  ],
+  "sceneImageOverrides": {
+    "1": "canh-01-v2.png",
+    "6": "canh-06-v2.png",
+    "10": "canh-10-v2.png"
+  },
+  "sourceImageGenMode": "built_in",
+  "voiceLocked": true,
+  "permissionQuestionStatus": "approved_human_reply",
+  "metadataDraft": "metadata-draft.md",
+  "metadataUploadReady": false,
+  "notes": [
+    "Only base images, not a 6-second shot set. Need real voice before timing/shot list/composition.",
+    "Do not rerun base export to recreate missing canh01/06/10 canonical names. Use selected v2 mapping.",
+    "No TTS/upload for10 without direct human approval; permission09 is separate and expires26Oct.",
+    "Related09 remains pending own long public26Oct18:00, only within26Oct permission."
+  ],
+  "permissionQuestionAskedAt": "2026-10-26T10:32:00+07:00",
+  "noDuplicateQuestionWhilePending": true,
+  "permission": {
+    "humanAnswer": "cho phep den het thang",
+    "scope": "10-tiem-sua-xe-dau-hem only: one new TTS pass, edit/QA and scheduled upload",
+    "expiresAtVN": "2026-10-31T23:59:59+07:00",
+    "noOtherVideosAuthorized": true
+  },
+  "sourceHashesFile": "D:/CodexTemp/bac-sau-video10/work/video-10-source-hashes.json",
+  "render": {
+    "sessionId": 93168,
+    "rawFile": "D:/CodexTemp/bac-sau-video10/work/video10-full-raw.mp4",
+    "progressFile": "D:/CodexTemp/bac-sau-video10/work/video10-full-progress.json",
+    "durationInFrames": 27281,
+    "fps": 30,
+    "sourceCommit": "15565d7",
+    "doNotStartSecondRenderWhileActive": true
+  },
+  "qaCompletedAt": "2026-10-26T08:43:39.346489+00:00",
+  "youtubeIds": {
+    "video": "oSBKd_oq7ZA",
+    "short": "S66ZLzarIm0"
+  }
+}

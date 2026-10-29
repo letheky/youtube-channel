@@ -1,0 +1,74 @@
+[
+ {
+  "scene": 1,
+  "slug": "canh-01",
+  "title": "Mở đầu",
+  "duration": 86.889
+ },
+ {
+  "scene": 2,
+  "slug": "canh-02",
+  "title": "Giả định quán của mình",
+  "duration": 97.689
+ },
+ {
+  "scene": 3,
+  "slug": "canh-03",
+  "title": "Doanh thu",
+  "duration": 59.289
+ },
+ {
+  "scene": 4,
+  "slug": "canh-04",
+  "title": "Nguyên liệu & bao bì",
+  "duration": 122.6
+ },
+ {
+  "scene": 5,
+  "slug": "canh-05",
+  "title": "App giao hàng",
+  "duration": 128.978
+ },
+ {
+  "scene": 6,
+  "slug": "canh-06",
+  "title": "Mặt bằng & nhân viên",
+  "duration": 150.733
+ },
+ {
+  "scene": 7,
+  "slug": "canh-07",
+  "title": "Điện nước, thuế, linh tinh",
+  "duration": 141.089
+ },
+ {
+  "scene": 8,
+  "slug": "canh-08",
+  "title": "Kẻ giấu mặt: tiền vốn ban đầu",
+  "duration": 118.733
+ },
+ {
+  "scene": 9,
+  "slug": "canh-09",
+  "title": "Kết sổ",
+  "duration": 122.822
+ },
+ {
+  "scene": 10,
+  "slug": "canh-10",
+  "title": "Điểm hòa vốn",
+  "duration": 158.133
+ },
+ {
+  "scene": 11,
+  "slug": "canh-11",
+  "title": "Muốn quán sống thì phải làm gì",
+  "duration": 156.511
+ },
+ {
+  "scene": 12,
+  "slug": "canh-12",
+  "title": "Kết",
+  "duration": 109.911
+ }
+]

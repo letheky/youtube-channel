@@ -1,0 +1,12 @@
+.env
+.venv/
+work/
+videos/
+__pycache__/
+token*.json
+client_secret*.json
+assets/branding/*.png
+assets/branding/*.jpg
+assets/motion/*.mp4
+assets/audio/*.mp3
+assets/audio/*.wav

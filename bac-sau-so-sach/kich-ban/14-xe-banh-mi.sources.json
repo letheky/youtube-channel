@@ -1,0 +1,37 @@
+{
+  "checkedAt": "2026-10-29T03:36:57.464567+00:00",
+  "scriptCommit": "816069e",
+  "narrationUnmodified": true,
+  "math": "kiem_tra_video_14.py Decimal50, all assertions passed; no intermediate rounding",
+  "sources": [
+    {
+      "url": "https://laichau.gov.vn/upload/2000066/fck/ngant123/T2_26(1).pdf",
+      "verified": "28/10 previous direct PDF check;29/10 first fetch succeeded, later fetch timed out. Crosscheck T3 page2 Jan140000/Feb150000/Mar140000. Regional historical reference, not current HCMC market price."
+    },
+    {
+      "url": "https://laichau.gov.vn/upload/2000066/fck/ngant123/T3_26.pdf",
+      "verified": "29/10 direct official PDF page2 row01.016: January140000,February150000,March140000."
+    },
+    {
+      "url": "https://xaydungchinhsach.chinhphu.vn/nghi-dinh-so-141-2026-nd-cp-quy-dinh-moi-ve-chinh-sach-thue-doi-voi-ho-kinh-doanh-doanh-nghiep-119260430091642895.htm",
+      "verified": "Official government:1bn replaces500m in VAT/PIT rules,effective1Jan2026. No tax calculation above threshold in narration."
+    },
+    {
+      "url": "https://xaydungchinhsach.chinhphu.vn/nghi-dinh-so-293-2025-nd-cp-quy-dinh-muc-luong-toi-thieu-doi-voi-nguoi-lao-dong-lam-viec-theo-hop-dong-lao-dong-119251110172808433.htm",
+      "verified": "RegionI25500/hour,effective1Jan2026. Applies employees under labour contracts; narration distinguishes self-employed owner."
+    },
+    {
+      "url": "https://pgas.com.vn/",
+      "verified": "Supplier October2026: HCMC592000,Hanoi598752/12kg. Model560000 is explicitly fictional,not current supplier quote."
+    },
+    {
+      "url": "https://thuvienphapluat.vn/hoi-dap-phap-luat/gia-gas-thang-72026-cap-nhat-lien-tuc-bao-nhieu-tien-138095917.html",
+      "verified": "July2026 historical table HCMC522000/12kg;not universal current price."
+    },
+    {
+      "url": "https://techcombank.com/thong-tin/blog/gia-gas-hom-nay",
+      "verified": "Dynamicpage29Oct matchesHanoi598752 andHCMC592000. Do not label dynamic page as fixed22Oct snapshot."
+    }
+  ],
+  "assumptions": "All fictional owner,loafprice,volumes,portions,costs,waste,rain,gas560000,cartlife,hours. Only wage floor,taxthreshold,historicalporkrollreference are sourced. Cartreserve deducted once;not paidinvoice. Rain smart branch explicitly lowers leftover fillings50kto20k as well as loaves210to140."
+}

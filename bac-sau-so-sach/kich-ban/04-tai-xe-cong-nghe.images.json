@@ -1,0 +1,77 @@
+[
+  {
+    "image": "anh/canh-01.png",
+    "prompt": "Use case: illustration-story. One full-bleed 16:9 Vietnamese financial explainer still. Flat 2D cartoon, thick clean dark brown outlines, warm cream and green colors, gentle cel shading. Two distinct men matching the attached sheets: Bac Sau is the elderly accountant in beige checkered shirt, rectangular glasses, blue pen behind ear; Anh Tu is the tanned 35-year-old black-haired driver in faded plain green zip jacket, cream T-shirt, navy trousers, blue mask under chin. Do not duplicate either man. Night in a Saigon alley. Anh Tu sits on his parked basic underbone motorbike, feet resting on ground, proudly raising a blank glowing phone. Helmet rests on mirror. Bac Sau stands at his home doorway listening, concerned but welcoming. Warm lamp and empty tea table. Medium wide eye-level composition. One coherent scene, no split panels. Faces and hands clearly visible; anatomically correct limbs, wrists, collars, helmet straps and clothing orientation. No ID cards or lanyards. All screens, calculator keys, pages, tickets, banknotes, fuel pumps, signs and clocks entirely blank and unlabeled; coins smooth and unmarked. No writing-like squiggles. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png",
+      "assets/nhan-vat/anh-tu.png"
+    ]
+  },
+  {
+    "image": "anh/canh-02.png",
+    "prompt": "Use case: illustration-story. One full-bleed 16:9 Vietnamese financial explainer still. Flat 2D cartoon, thick clean dark brown outlines, warm cream and green colors, gentle cel shading. Objects-only conceptual illustration; no people, faces, bodies, hands or human silhouettes. Stylized top-down Saigon neighborhood map made of unlabeled street blocks, tiny green motorbike and winding dotted routes. Sunrise on far left blends into dark night on far right, communicating a long working day. Wide clean diorama. One coherent scene, no split panels. Faces and hands clearly visible; anatomically correct limbs, wrists, collars, helmet straps and clothing orientation. No ID cards or lanyards. All screens, calculator keys, pages, tickets, banknotes, fuel pumps, signs and clocks entirely blank and unlabeled; coins smooth and unmarked. No writing-like squiggles. No text, letters, numbers, logos or watermarks.",
+    "refs": []
+  },
+  {
+    "image": "anh/canh-03.png",
+    "prompt": "Use case: illustration-story. One full-bleed 16:9 Vietnamese financial explainer still. Flat 2D cartoon, thick clean dark brown outlines, warm cream and green colors, gentle cel shading. Exactly one Anh Tu, matching attached driver sheet: 35-year-old tanned Vietnamese man, short black hair, plain faded green zip jacket, cream T-shirt, navy trousers, blue mask correctly under chin. Helmet is plain green, without logos. Anh Tu at a wooden table watches a large blank phone divide a long baguette into a larger piece beside him and a smaller piece beside the phone. Whimsical metaphor of sharing fares. His hands rest naturally on the table. Medium composition. One coherent scene, no split panels. Faces and hands clearly visible; anatomically correct limbs, wrists, collars, helmet straps and clothing orientation. No ID cards or lanyards. All screens, calculator keys, pages, tickets, banknotes, fuel pumps, signs and clocks entirely blank and unlabeled; coins smooth and unmarked. No writing-like squiggles. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "assets/nhan-vat/anh-tu.png"
+    ]
+  },
+  {
+    "image": "anh/canh-04.png",
+    "prompt": "Use case: illustration-story. One full-bleed 16:9 Vietnamese financial explainer still. Flat 2D cartoon, thick clean dark brown outlines, warm cream and green colors, gentle cel shading. Exactly one Anh Tu, matching attached driver sheet: 35-year-old tanned Vietnamese man, short black hair, plain faded green zip jacket, cream T-shirt, navy trousers, blue mask correctly under chin. Helmet is plain green, without logos. Anh Tu stands beside a parked basic motorbike and a plain unbranded fuel pump at a small Saigon fuel station, wiping sweat from forehead with one hand. Fuel nozzle safely rests in the pump. Sunny hot afternoon. Wide composition. One coherent scene, no split panels. Faces and hands clearly visible; anatomically correct limbs, wrists, collars, helmet straps and clothing orientation. No ID cards or lanyards. All screens, calculator keys, pages, tickets, banknotes, fuel pumps, signs and clocks entirely blank and unlabeled; coins smooth and unmarked. No writing-like squiggles. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "assets/nhan-vat/anh-tu.png"
+    ]
+  },
+  {
+    "image": "anh/canh-05.png",
+    "prompt": "Use case: illustration-story. One full-bleed 16:9 Vietnamese financial explainer still. Flat 2D cartoon, thick clean dark brown outlines, warm cream and green colors, gentle cel shading. Objects-only conceptual illustration; no people, faces, bodies, hands or human silhouettes. An aging plain green motorbike on a repair stand surrounded by worn tire, oil bottle, chain, brake pads and an open toolbox. A few patches and scuffs show wear. Warm small Vietnamese repair shop, no mechanic or other people. Low three-quarter angle. One coherent scene, no split panels. Faces and hands clearly visible; anatomically correct limbs, wrists, collars, helmet straps and clothing orientation. No ID cards or lanyards. All screens, calculator keys, pages, tickets, banknotes, fuel pumps, signs and clocks entirely blank and unlabeled; coins smooth and unmarked. No writing-like squiggles. No text, letters, numbers, logos or watermarks.",
+    "refs": []
+  },
+  {
+    "image": "anh/canh-06.png",
+    "prompt": "Use case: illustration-story. One full-bleed 16:9 Vietnamese financial explainer still. Flat 2D cartoon, thick clean dark brown outlines, warm cream and green colors, gentle cel shading. Objects-only conceptual illustration; no people, faces, bodies, hands or human silhouettes. A worn crossbody bag spills simple essentials on a sidewalk curb: power bank, folded raincoat, water bottle, blank parking ticket, plain SIM card, blue masks and charging cable. Smooth blank coins beside objects. Close overhead composition. One coherent scene, no split panels. Faces and hands clearly visible; anatomically correct limbs, wrists, collars, helmet straps and clothing orientation. No ID cards or lanyards. All screens, calculator keys, pages, tickets, banknotes, fuel pumps, signs and clocks entirely blank and unlabeled; coins smooth and unmarked. No writing-like squiggles. No text, letters, numbers, logos or watermarks.",
+    "refs": []
+  },
+  {
+    "image": "anh/canh-07.png",
+    "prompt": "Use case: illustration-story. One full-bleed 16:9 Vietnamese financial explainer still. Flat 2D cartoon, thick clean dark brown outlines, warm cream and green colors, gentle cel shading. Exactly one Bac Sau, matching attached old accountant sheet: salt-and-pepper side-part hair, rectangular glasses, blue pen behind ear, beige checkered short sleeve shirt, brown trousers. Bac Sau sits at a wooden desk, closes his red ledger and gently places a motorbike key on its cover while looking sympathetically toward the viewer. Tea glass and warm table lamp in a quiet evening home. Waist-up three-quarter composition. One coherent scene, no split panels. Faces and hands clearly visible; anatomically correct limbs, wrists, collars, helmet straps and clothing orientation. No ID cards or lanyards. All screens, calculator keys, pages, tickets, banknotes, fuel pumps, signs and clocks entirely blank and unlabeled; coins smooth and unmarked. No writing-like squiggles. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png"
+    ]
+  },
+  {
+    "image": "anh/canh-08.png",
+    "prompt": "Use case: illustration-story. One full-bleed 16:9 Vietnamese financial explainer still. Flat 2D cartoon, thick clean dark brown outlines, warm cream and green colors, gentle cel shading. Exactly one Anh Tu, matching attached driver sheet: 35-year-old tanned Vietnamese man, short black hair, plain faded green zip jacket, cream T-shirt, navy trousers, blue mask correctly under chin. Helmet is plain green, without logos. Anh Tu sits alone under a shop awning during heavy rain with his parked motorbike beside him, holding a blank-screen phone with both hands. His expression is thoughtful and tired. Distant unmarked clinic building and an empty rocking chair hint at health and old age. Wide rainy composition. One coherent scene, no split panels. Faces and hands clearly visible; anatomically correct limbs, wrists, collars, helmet straps and clothing orientation. No ID cards or lanyards. All screens, calculator keys, pages, tickets, banknotes, fuel pumps, signs and clocks entirely blank and unlabeled; coins smooth and unmarked. No writing-like squiggles. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "assets/nhan-vat/anh-tu.png"
+    ]
+  },
+  {
+    "image": "anh/canh-09.png",
+    "prompt": "Use case: illustration-story. One full-bleed 16:9 Vietnamese financial explainer still. Flat 2D cartoon, thick clean dark brown outlines, warm cream and green colors, gentle cel shading. Two distinct men matching the attached sheets: Bac Sau is the elderly accountant in beige checkered shirt, rectangular glasses, blue pen behind ear; Anh Tu is the tanned 35-year-old black-haired driver in faded plain green zip jacket, cream T-shirt, navy trousers, blue mask under chin. Do not duplicate either man. Bac Sau and Anh Tu sit beside one another at a wooden table. Anh Tu writes with pen in a small blue notebook whose page is blank; Bac Sau points encouragingly at the page. A blank clock with colored morning and evening arcs hangs in background. Medium front three-quarter composition. One coherent scene, no split panels. Faces and hands clearly visible; anatomically correct limbs, wrists, collars, helmet straps and clothing orientation. No ID cards or lanyards. All screens, calculator keys, pages, tickets, banknotes, fuel pumps, signs and clocks entirely blank and unlabeled; coins smooth and unmarked. No writing-like squiggles. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png",
+      "assets/nhan-vat/anh-tu.png"
+    ]
+  },
+  {
+    "image": "anh/canh-10.png",
+    "prompt": "Use case: illustration-story. One full-bleed 16:9 Vietnamese financial explainer still. Flat 2D cartoon, thick clean dark brown outlines, warm cream and green colors, gentle cel shading. Two distinct men matching the attached sheets: Bac Sau is the elderly accountant in beige checkered shirt, rectangular glasses, blue pen behind ear; Anh Tu is the tanned 35-year-old black-haired driver in faded plain green zip jacket, cream T-shirt, navy trousers, blue mask under chin. Do not duplicate either man. Early morning Saigon alley. Anh Tu stands beside his parked motorbike, writing in a small blue notebook before starting work; a blank-screen phone is mounted correctly on handlebar. Across the alley Bac Sau waters potted plants and nods. Soft sunrise. Wide composition. One coherent scene, no split panels. Faces and hands clearly visible; anatomically correct limbs, wrists, collars, helmet straps and clothing orientation. No ID cards or lanyards. All screens, calculator keys, pages, tickets, banknotes, fuel pumps, signs and clocks entirely blank and unlabeled; coins smooth and unmarked. No writing-like squiggles. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png",
+      "assets/nhan-vat/anh-tu.png"
+    ]
+  },
+  {
+    "image": "anh/thumbnail.png",
+    "prompt": "Use case: illustration-story. One full-bleed 16:9 Vietnamese financial explainer still. Flat 2D cartoon, thick clean dark brown outlines, warm cream and green colors, gentle cel shading. Two distinct men matching the attached sheets: Bac Sau is the elderly accountant in beige checkered shirt, rectangular glasses, blue pen behind ear; Anh Tu is the tanned 35-year-old black-haired driver in faded plain green zip jacket, cream T-shirt, navy trousers, blue mask under chin. Do not duplicate either man. YouTube thumbnail background only. Anh Tu sits on his parked motorbike raising a blank bright phone, tired but proud; Bac Sau stands beside him holding red ledger with a skeptical brow. Expressive large faces on the RIGHT TWO THIRDS; LEFT THIRD simple dark green low-detail negative space reserved for later code typography. Saigon street at dusk. No typography in the image. One coherent scene, no split panels. Faces and hands clearly visible; anatomically correct limbs, wrists, collars, helmet straps and clothing orientation. No ID cards or lanyards. All screens, calculator keys, pages, tickets, banknotes, fuel pumps, signs and clocks entirely blank and unlabeled; coins smooth and unmarked. No writing-like squiggles. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png",
+      "assets/nhan-vat/anh-tu.png"
+    ]
+  }
+]

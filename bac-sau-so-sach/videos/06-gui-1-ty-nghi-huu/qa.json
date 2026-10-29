@@ -1,0 +1,187 @@
+{
+  "slug": "06-gui-1-ty-nghi-huu",
+  "verifiedAt": "2026-10-22T13:02:24.090570+00:00",
+  "qaEvidenceDirectory": "D:\\CodexTemp\\bac-sau-video06\\outputs\\video-06-qa",
+  "preview": {
+    "duration": 60.0,
+    "lufs": -16.11,
+    "dBTP": -1.55,
+    "silences": [],
+    "silencePass": true,
+    "protectedSources": 42,
+    "sourceHashesMatch": true
+  },
+  "long": {
+    "duration": 976.7,
+    "lufs": -16.23,
+    "dBTP": -1.76,
+    "silences": [
+      {
+        "start": 965.752625,
+        "end": 976.7
+      }
+    ],
+    "silencePass": true,
+    "protectedSources": 42,
+    "sourceHashesMatch": true,
+    "file": "D:\\Repo\\bac-sau-so-sach\\videos\\06-gui-1-ty-nghi-huu\\06-gui-1-ty-nghi-huu.mp4",
+    "sha256": "49442b4cdef3ed9a6322bf8c352a5f4807abae6fca14b95acadac7c6e85724f0"
+  },
+  "short": {
+    "duration": 47.9,
+    "lufs": -14.31,
+    "dBTP": -1.84,
+    "silences": [],
+    "silencePass": true,
+    "protectedSources": 42,
+    "sourceHashesMatch": true,
+    "file": "D:\\Repo\\bac-sau-so-sach\\videos\\06-gui-1-ty-nghi-huu\\short\\short-06.mp4",
+    "sha256": "98f4a7c41a83214dfac847f8fb5780fabccd76fe60eafbb0e3740c1eaa5e1757"
+  },
+  "visual": {
+    "passed": true,
+    "reviewedAt": "2026-10-22T08:57:13.016379+00:00",
+    "encodedLongFramesReviewed": 43,
+    "shortFramesReviewed": 9,
+    "allVideoImagesReviewed": 159,
+    "characterSheetReviewed": true,
+    "panelsKeywordsQuoteCtaOutroReviewed": true,
+    "longSha256": "49442b4cdef3ed9a6322bf8c352a5f4807abae6fca14b95acadac7c6e85724f0",
+    "shortSha256": "98f4a7c41a83214dfac847f8fb5780fabccd76fe60eafbb0e3740c1eaa5e1757",
+    "imagesUnchangedDuringRender": true,
+    "audioReview": "ASR small đủ10cảnh; medium và large-v3 kiểm riêng số cảnh5; đo AAC/MP4. Runtime không nghe trực tiếp bằng tai."
+  },
+  "studio": {
+    "checkedAt": "2026-10-22T13:02:23.925669+00:00",
+    "channelId": "UCb8J1ex5t19hvQx0lsbdB6A",
+    "longId": "PxqG898ad1o",
+    "shortId": "1tGVt2KctnM",
+    "aiDisclosureLong": true,
+    "aiDisclosureShort": true,
+    "madeForKids": false,
+    "longScheduleVN": "2026-10-23 18:00",
+    "shortScheduleVN": "2026-10-24 11:30",
+    "privateUntilSchedule": true,
+    "endScreen": {
+      "savedAndReopened": true,
+      "videoId": "YbNXzIIGxUE",
+      "subscribe": true,
+      "start": "16:07:00",
+      "end": "16:16:21",
+      "warning": "Warning appeared before #5 scheduled public22Oct18. Final API read22Oct20:00 confirms target #5 public; no privacy changes made.",
+      "target05PublicConfirmed": true
+    },
+    "relatedVideo": {
+      "saved": false,
+      "status": "pending_target_public",
+      "targetId": "PxqG898ad1o",
+      "reason": "Studio only lists eligible public/unlisted targets; search actual #6 ID returned No matching results while target is private.",
+      "officialHelp": "https://support.google.com/youtube/answer/14075157?hl=en",
+      "followUp": "Finish after23Oct18 when target public, check permission scope/expiry first; do not change privacy early. Daily automation remains existing, no duplicate."
+    },
+    "evidence": [
+      "long06-endscreen-saved.png",
+      "long06-endscreen-saved.txt",
+      "long06-schedule.png",
+      "long06-schedule.txt",
+      "short06-schedule.png",
+      "short06-schedule.txt",
+      "short06-related-private.png",
+      "short06-related-private.txt",
+      "long06-ai-check.txt",
+      "short06-ai-check.txt",
+      "studio06-verify-required.png",
+      "studio06-verify-required.txt",
+      "metadata-api-check.json"
+    ],
+    "audioLimitation": "Runtime cannot listen by ear; ASR and AAC/MP4 measurements used.",
+    "hdLongComplete": true,
+    "hdShortComplete": true,
+    "identityCheck": {
+      "required": true,
+      "observedOn": "Fresh page reload then opening End screen after prior save/reopen confirmation",
+      "dialog": "Verify it's you",
+      "actionTaken": "Stopped UI; did not click Next or authenticate. Owner must complete account verification before further gated Studio changes. Prior save/reopen evidence remains valid."
+    }
+  },
+  "youtube": {
+    "videos": [
+      {
+        "kind": "video",
+        "id": "PxqG898ad1o",
+        "title": "Gửi Ngân Hàng 1 Tỷ: Nghỉ Hưu Sống Bằng Tiền Lãi Được Không?",
+        "privacy": "private",
+        "publishAt": "2026-10-23T11:00:00Z",
+        "uploadStatus": "processed",
+        "processingStatus": "succeeded",
+        "duration": "PT16M17S"
+      },
+      {
+        "kind": "short",
+        "id": "1tGVt2KctnM",
+        "title": "1 tỷ tiền gửi: phần lãi được tiêu còn bao nhiêu? #shorts",
+        "privacy": "private",
+        "publishAt": "2026-10-24T04:30:00Z",
+        "uploadStatus": "processed",
+        "processingStatus": "succeeded",
+        "duration": "PT48S"
+      }
+    ],
+    "vietnameseCaptions": true,
+    "captionTracks": [
+      {
+        "id": "AUieDaaPm8DNywMpORP4dvn-oI4cpK8XkMWjBCnVUvPbpmx1rYQ",
+        "language": "vi",
+        "status": "serving"
+      },
+      {
+        "id": "AUieDabobaZsvIAF4NG68t0GO3YFLHGkopYNxgvx_fuxYWMOgFYcwHHiWT8I_3NaLQ",
+        "language": "vi",
+        "status": "serving"
+      }
+    ]
+  },
+  "video05ProtectedFilesUnchanged": 42,
+  "creditAfterTts": 91666,
+  "creditUsed": 4756,
+  "narrationRecordedOnce": true,
+  "imageGeneration": "image_gen tích hợp; không dùng OpenAI image API trả phí",
+  "prompts": [
+    "kich-ban/06-gui-1-ty-nghi-huu.images.json",
+    "kich-ban/06-gui-1-ty-nghi-huu.shots.json",
+    "kich-ban/06-gui-1-ty-nghi-huu.edits.json"
+  ],
+  "sourceCheckedAt": "2026-10-22",
+  "audioReview": "ASR đủ10cảnh, kiểm số cảnh5 bằng large-v3, đo file AAC/MP4; runtime không nghe trực tiếp bằng tai.",
+  "thumbnail": {
+    "file": "videos/06-gui-1-ty-nghi-huu/thumbnail-final.jpg",
+    "width": 1280,
+    "height": 720,
+    "sha256": "fc58f5feeaccd389e247072bcd9bfc61d42f917c731e4d17a4a4f603fb9738be"
+  },
+  "descriptionFormattingFix": {
+    "reason": "Project owner requested audit of remaining joined description text24Oct; fixed only whitespace in both #6 descriptions.",
+    "verification": [
+      {
+        "id": "PxqG898ad1o",
+        "kind": "video",
+        "checkedAt": "2026-10-24T11:52:10.882961+00:00",
+        "descriptionMatchesLocal": true,
+        "whitespaceOnly": true,
+        "privacyAndScheduleUnchanged": true,
+        "otherMetadataUnchanged": true,
+        "descriptionSha256": "5805d6fff2c21dc9526707f09e198aeb4d3cd79fa63fe4ec6da2759cc0abff71"
+      },
+      {
+        "id": "1tGVt2KctnM",
+        "kind": "short",
+        "checkedAt": "2026-10-24T11:52:14.213994+00:00",
+        "descriptionMatchesLocal": true,
+        "whitespaceOnly": true,
+        "privacyAndScheduleUnchanged": true,
+        "otherMetadataUnchanged": true,
+        "descriptionSha256": "f7de53a7a3a4454d7f6b7a25e23ff51ab347dc44eba4cf3db472780cd0a6e49f"
+      }
+    ]
+  }
+}

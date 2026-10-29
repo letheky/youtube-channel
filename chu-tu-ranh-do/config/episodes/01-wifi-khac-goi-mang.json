@@ -1,0 +1,72 @@
+{
+  "slug": "01-wifi-khac-goi-mang",
+  "channel_id": "UCMDWcpFr6SZ1Nk7_ffVGTVA",
+  "language": "vi",
+  "title": "Gói mạng nhanh, vì sao Wi-Fi trong phòng vẫn yếu?",
+  "alternate_title": "Wi-Fi phòng bên yếu: nâng gói mạng đã đúng chỗ chưa?",
+  "description": "Wi-Fi trong phòng yếu chưa chắc cần nâng gói mạng. Chú Tư giải thích hai chặng kết nối và cách khoanh vùng trước khi mua thêm thiết bị. Nguồn: https://support.google.com/googlehome/answer/6246489?hl=en",
+  "description_characters": 201,
+  "tags": [
+    "Wi-Fi trong nhà",
+    "Wi-Fi yếu",
+    "mạng chậm",
+    "vị trí router",
+    "Chú Tư Rành Đồ"
+  ],
+  "intended_audience": "Người lớn sử dụng thiết bị trong gia đình, người thuê nhà",
+  "made_for_kids_proposed": false,
+  "synthetic_content_review": "Hiện là nhân vật và minh họa hoạt hình rõ ràng; xét lại theo bản thành phẩm trước khai báo Studio, không giả cảnh thử thiết bị hoặc sự kiện thật.",
+  "source_ledger": "docs/episodes/01-wifi-khac-goi-mang-sources.md",
+  "art_provenance": "assets/episodes/01-wifi/provenance.json",
+  "thumbnail_variants": [
+    {
+      "variant": "A",
+      "file": "remotion/out/wifi-thumbnail-A-v2.png",
+      "copy": "GÓI MẠNH / PHÒNG VẪN YẾU?",
+      "default_proposed": true
+    },
+    {
+      "variant": "B",
+      "file": "remotion/out/wifi-thumbnail-B-v2.png",
+      "copy": "THÊM TIỀN MẠNG… / ĐÃ ĐÚNG CHỖ?",
+      "default_proposed": false
+    }
+  ],
+  "thumbnail_test": {
+    "status": "not_started",
+    "method_proposed": "Thumbnail only, giữ cùng tiêu đề khi Studio đủ điều kiện",
+    "winner": null
+  },
+  "numeric_thumbnail_exception": "Chủ đề chưa có số đo thật để tạo cặp A→B. Không dùng mô hình600/900/20 làm số đo ngoài ngữ cảnh; dùng câu hỏi có router và biểu cảm thay thế.",
+  "publish_at": null,
+  "video_id": null,
+  "release_ready": false,
+  "publication_experiment": {
+    "candidate_local_times": [
+      "11:30",
+      "19:30"
+    ],
+    "timezone": "Asia/Saigon",
+    "status": "hypothesis_no_channel_data"
+  },
+  "short": {
+    "status": "owner_listening_passed_release_master_pending",
+    "related_video_id": null,
+    "description": null,
+    "title": "Wi-Fi yếu: nâng gói mạng đã đúng chỗ?",
+    "review_mp4": "remotion/out/wifi-short-review-v1.mp4",
+    "review_mp4_sha256": "74f440e1241990d45e2285a3308d597e33f87b94406adfc5c18bbd1da4faa9c5",
+    "duration_seconds": 36.4,
+    "description_status": "pending_actual_long_video_url_after_upload",
+    "release_ready": false,
+    "listening_complete": true
+  },
+  "upload_status": "not_started",
+  "production_status": "owner_listening_passed_release_master_pending",
+  "review_mp4": "remotion/out/wifi-long-review-v1.mp4",
+  "review_mp4_sha256": "508b53495f183af1f4f36b7ce45f9dbbcd24bb218b44e0ca8d333f78558de4f5",
+  "full_episode_listened": true,
+  "qa_file": "docs/qa/2026-10-29-episode01-full-review-v1.json",
+  "listening_reviewed_by": "channel_owner",
+  "listening_approval_record": "config/episodes/01-wifi-listening-approval.json"
+}

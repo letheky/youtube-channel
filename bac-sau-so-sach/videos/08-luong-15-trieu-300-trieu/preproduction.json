@@ -1,0 +1,247 @@
+{
+  "scriptChars": 12284,
+  "scenes": 10,
+  "ttsDigitsOrPercent": false,
+  "brandsInNarration": false,
+  "estimatedCredit": 5405,
+  "sourcesVerifiedOn": "2026-10-24",
+  "calculation": {
+    "gross": "15000000",
+    "insurance": "1575000.000",
+    "tax": "0",
+    "net": "13425000.000",
+    "monthly": "8900000",
+    "annual": "24000000",
+    "annualMonthly": "2000000",
+    "beforeAnnual": "4525000.000",
+    "monthlySaving": "2525000.000",
+    "noInterestFiveYears": "151500000.000",
+    "savingsInterest": "18042519.152944008543672396715264001029438084",
+    "fv": "169542519.152944008543672396715264001029438084",
+    "requiredMonthly": "4467905.77245499449825515511073855019601356019",
+    "roundedRequiredMonthly": "4468000",
+    "roundedRequiredFv": "300006326.960536170365595353870811705583972023",
+    "gap": "1942905.77245499449825515511073855019601356019",
+    "monthlyLivingCeiling": "6957094.22754500550174484488926144980398643981",
+    "totalSpendingCeiling": "8957094.22754500550174484488926144980398643981",
+    "reserve": "26700000",
+    "noInterestOtherGoals": "124800000.000",
+    "reserveMonths": "11",
+    "improvedContribution": "4625000.000",
+    "improvedFv": "310548178.646481599807716766260632081093525203",
+    "delayedImprovedFv": "279758570.507842136265385999175039251730253039",
+    "naiveMonthly": "5000000",
+    "naiveFiveYears": "300000000"
+  },
+  "characterReference": "assets/nhan-vat/cau-bao.png",
+  "characterSource": "C:/Users/ADMIN/.codex/generated_images/01a144d5-caf8-7920-b0ee-6f43058e7f93/exec-118fdebb-89e3-4486-a3b7-f787b87e4e0e.png",
+  "characterSha256": "dd9461005db94b5cb25e9be4e10195939b0d2c8313035c1a131e06c8c8610cb0",
+  "status": "private_scheduled_api_verified",
+  "ttsCalls": 10,
+  "overlayCuePlan": [
+    {
+      "scene": 1,
+      "cue": "Năm năm là ba trăm triệu",
+      "type": "headline",
+      "title": "15 TRIỆU → 300 TRIỆU?"
+    },
+    {
+      "scene": 2,
+      "cue": "Phần người lao động đóng",
+      "type": "ledger",
+      "title": "LƯƠNG VỀ TÚI"
+    },
+    {
+      "scene": 3,
+      "cue": "Tiền phòng",
+      "type": "ledger",
+      "title": "NGÂN SÁCH GIẢ ĐỊNH"
+    },
+    {
+      "scene": 4,
+      "cue": "Hai chục bốn triệu chia mười hai",
+      "type": "ledger",
+      "title": "CHI TRONG NĂM"
+    },
+    {
+      "scene": 5,
+      "cue": "Giữ mức góp hai triệu",
+      "type": "comparison",
+      "title": "151,5 TRIỆU CHƯA LÃI"
+    },
+    {
+      "scene": 5,
+      "cue": "Máy tính ra cuối kỳ",
+      "type": "ledger",
+      "title": "PHÉP THỬ4,5%/12"
+    },
+    {
+      "scene": 6,
+      "cue": "Ở phương án không lãi",
+      "type": "ledger",
+      "title": "MỘT TỔNG TIỀN, HAI MỤC ĐÍCH"
+    },
+    {
+      "scene": 7,
+      "cue": "Muốn có ba trăm triệu",
+      "type": "ledger",
+      "title": "TÍNH NGƯỢC MỨC GÓP"
+    },
+    {
+      "scene": 8,
+      "cue": "Nếu cả hai thay đổi xảy ra",
+      "type": "comparison",
+      "title": "THAY THU VÀ CHI TỪ THÁNG1"
+    },
+    {
+      "scene": 8,
+      "cue": "Mười hai tháng đầu vẫn góp",
+      "type": "comparison",
+      "title": "CHỈ CẢI THIỆN TỪ THÁNG13"
+    },
+    {
+      "scene": 9,
+      "cue": "Bác gợi ý Bảo thử ba ngăn",
+      "type": "rules",
+      "title": "BA NGĂN TIỀN"
+    },
+    {
+      "scene": 10,
+      "cue": "Bác nhắc ba điều",
+      "type": "rules",
+      "title": "BA ĐIỀU NHỚ"
+    },
+    {
+      "scene": 10,
+      "cue": "Bác chốt một câu",
+      "type": "quote",
+      "title": "TIỀN ĐỂ DÀNH SAU MỘT NĂM THẬT"
+    }
+  ],
+  "shortCandidate": [
+    {
+      "scene": 1,
+      "fromPhrase": "Cậu Bảo qua nhà Bác",
+      "note": "hook, rút đủ ngắn sau có mốc chữ"
+    },
+    {
+      "scene": 4,
+      "fromPhrase": "Hai chục bốn triệu chia mười hai",
+      "note": "2triệu quỹ năm, còn2,525triệu góp"
+    },
+    {
+      "scene": 5,
+      "fromPhrase": "Giữ mức góp hai triệu",
+      "note": "151,5triệu chưa lãi; tránh ghép mất giả định"
+    },
+    {
+      "scene": 10,
+      "fromPhrase": "Tiền để dành là phần còn lại",
+      "note": "chốt; cắt từ giọng có sẵn, không thu riêng"
+    }
+  ],
+  "baseImages": [
+    {
+      "file": "D:\\Repo\\bac-sau-so-sach\\videos\\08-luong-15-trieu-300-trieu\\anh\\thumbnail.png",
+      "sha256": "12ed5a6fa5855804207bd1e61420b6b63a9d9d518d70b0dbdad813d4bfb6850a",
+      "manualReviewed": true
+    },
+    {
+      "file": "D:\\Repo\\bac-sau-so-sach\\videos\\08-luong-15-trieu-300-trieu\\anh\\canh-01-v2.png",
+      "sha256": "e7f02fd982c57b23868627964e7270a1439f3b7d6574f6e38725be7aa1a21bed",
+      "manualReviewed": true
+    },
+    {
+      "file": "D:\\Repo\\bac-sau-so-sach\\videos\\08-luong-15-trieu-300-trieu\\anh\\canh-02-v2.png",
+      "sha256": "df85c76cc3b6736451b56c7c9d480ad3764c3394e52edf271c028fd5aee26a5e",
+      "manualReviewed": true
+    },
+    {
+      "file": "D:\\Repo\\bac-sau-so-sach\\videos\\08-luong-15-trieu-300-trieu\\anh\\canh-03.png",
+      "sha256": "ccbe101d24cb4aef5ab6808eadc677b696a61280b006413c7d5c64d4168164ae",
+      "manualReviewed": true
+    },
+    {
+      "file": "D:\\Repo\\bac-sau-so-sach\\videos\\08-luong-15-trieu-300-trieu\\anh\\canh-04-v3.png",
+      "sha256": "d8cd94903f3e0b3de79d6b05beb99fb2d26ef0497f3352d2c7556ca2e740addf",
+      "manualReviewed": true
+    },
+    {
+      "file": "D:\\Repo\\bac-sau-so-sach\\videos\\08-luong-15-trieu-300-trieu\\anh\\canh-05.png",
+      "sha256": "8964a1255c1ea13d8830d7f34d6036c7a287949b5945eb27f5e8eaf8036f786b",
+      "manualReviewed": true
+    },
+    {
+      "file": "D:\\Repo\\bac-sau-so-sach\\videos\\08-luong-15-trieu-300-trieu\\anh\\canh-06.png",
+      "sha256": "d84beeec2f5ce56d5173aca75a7c01752cd6e615c4c5166054ca7d4c1f8665da",
+      "manualReviewed": true
+    },
+    {
+      "file": "D:\\Repo\\bac-sau-so-sach\\videos\\08-luong-15-trieu-300-trieu\\anh\\canh-07-v2.png",
+      "sha256": "8444697413730a02b170df3c2db62da49434ffa94926cfbba92bb32baed449a6",
+      "manualReviewed": true
+    },
+    {
+      "file": "D:\\Repo\\bac-sau-so-sach\\videos\\08-luong-15-trieu-300-trieu\\anh\\canh-08.png",
+      "sha256": "77b64fba5473ee06d85bed30437aeed9fe46791b56127d95be88e39ddadff6e3",
+      "manualReviewed": true
+    },
+    {
+      "file": "D:\\Repo\\bac-sau-so-sach\\videos\\08-luong-15-trieu-300-trieu\\anh\\canh-09.png",
+      "sha256": "44461e2be58340c52d059e2e44422fe63d692b9d992152707a35bf8258821d8b",
+      "manualReviewed": true
+    },
+    {
+      "file": "D:\\Repo\\bac-sau-so-sach\\videos\\08-luong-15-trieu-300-trieu\\anh\\canh-10.png",
+      "sha256": "ea5f7f842315e6ba7e23710329205879023b7b536e67b29492e314019588e7fe",
+      "manualReviewed": true
+    }
+  ],
+  "baseImagesCount": 11,
+  "baseImagesAreNotShotSet": true,
+  "sceneImageOverrides": {
+    "1": "anh/canh-01-v2.png",
+    "2": "anh/canh-02-v2.png",
+    "4": "anh/canh-04-v3.png",
+    "7": "anh/canh-07-v2.png"
+  },
+  "excludedDraftDirectory": "D:\\Repo\\bac-sau-so-sach\\videos\\08-luong-15-trieu-300-trieu\\anh\\nhap",
+  "draftsNeverUsedByRender": true,
+  "protectedOldSourcesUnchanged": 126,
+  "creditRead24Oct": 86182,
+  "uploads": 0,
+  "imageDecode": {
+    "expected": 12,
+    "decoded": 12,
+    "errors": []
+  },
+  "permission": {
+    "userReply": "Cho phép riêng #8 đến hết 25/10",
+    "receivedOnVN": "2026-10-24",
+    "expiresOnVN": "2026-10-25 23:59:59",
+    "scope": "08 only: one new voice, production, QA, private scheduled upload",
+    "longTargetVN": "2026-10-25 18:00",
+    "shortTargetVN": "2026-10-26 11:30",
+    "qaDeadlineVN": "2026-10-25 15:00"
+  },
+  "ttsRecordedOnce": true,
+  "actualCreditUsed": 5405,
+  "creditRemaining": 80777,
+  "protectedSources": 42,
+  "shots": 163,
+  "newShotImagesRequired": 153,
+  "creditSettled": true,
+  "creditImmediateAfterWasDelayed": true,
+  "newShotImagesGenerated": 153,
+  "shotImagesVisuallyReviewed": 163,
+  "selectedPngDecoded": 165,
+  "protectedAllSources": 168,
+  "overlayGroups": 19,
+  "shortDuration": 46.9,
+  "shortVisualFramesReviewed": 8,
+  "shortLufs": -14.42,
+  "shortDbtp": -2.12,
+  "qaFile": "qa.json",
+  "youtubeFile": "youtube.json",
+  "studioPending": true
+}

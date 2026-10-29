@@ -1,0 +1,89 @@
+[
+  {
+    "id": "base-01",
+    "scene": 1,
+    "image": "anh/canh-01.png",
+    "prompt": "Use case: object-removal inpainting. The one reference is the EDIT TARGET. Completely REMOVE THE ENTIRE CALCULATOR OBJECT from the lower right foreground, including every button, screen and all its shadows. Reconstruct clean uninterrupted natural wooden tabletop in the exact footprint where the calculator was. That place must be EMPTY TABLE, no replacement object, no keyboard, no machine, no calculator. Preserve every other object and exact people count, identity, faces, hairstyles, glasses, pen, clothing, hands, poses, helmet, teapot, ledger, lighting, warm flat2D illustration style and 16:9 framing. Preserve all blank pages and unprinted props. No text, glyphs, symbols, numbers, logos, signatures or watermarks anywhere. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "videos/13-luong-huu-bhxh/anh/nhap/base-01-v2-before-object-removal.png"
+    ],
+    "selectedVersion": "v3"
+  },
+  {
+    "id": "base-02",
+    "scene": 2,
+    "image": "anh/canh-02.png",
+    "prompt": "Use case: object-removal inpainting. The one reference is the EDIT TARGET. Completely REMOVE THE ENTIRE CALCULATOR OBJECT from the lower right foreground, including every button, screen and all its shadows. Reconstruct clean uninterrupted natural wooden tabletop in the exact footprint where the calculator was. That place must be EMPTY TABLE, no replacement object, no keyboard, no machine, no calculator. Preserve every other object and exact people count, identity, faces, hairstyles, glasses, pen, clothing, hands, poses, helmet, teapot, ledger, lighting, warm flat2D illustration style and 16:9 framing. Preserve all blank pages and unprinted props. No text, glyphs, symbols, numbers, logos, signatures or watermarks anywhere. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "videos/13-luong-huu-bhxh/anh/nhap/base-02-v2-before-object-removal.png"
+    ],
+    "selectedVersion": "v3"
+  },
+  {
+    "id": "base-03",
+    "scene": 3,
+    "image": "anh/canh-03.png",
+    "prompt": "Flat 2D cartoon, thick outlines, warm colors, 16:9. [Reference: Bác Sáu character sheet] Overhead view of the tea table: one small stack and one larger stack of plain unmarked green paper rectangles, a blank envelope beside them, Bac Sau's hand pointing his blue pen between the stacks, red ledger open with blank pages. Plain props without any printed markings, blank currency-like paper not actual banknotes, no logos. No text, letters, numbers, logos or watermarks. One complete edge-to-edge scene, no panels. Keep faces above center; lower quarter uncluttered for subtitles. Calculator has entirely blank keys and display. Blue pen only once, either behind Bac ear or in his hand. Clothing and necklines consistent with torso; no lanyard/badge.",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png"
+    ]
+  },
+  {
+    "id": "base-04",
+    "scene": 4,
+    "image": "anh/canh-04.png",
+    "prompt": "Flat 2D cartoon, thick outlines, warm colors, 16:9. [Reference: Bác Sáu character sheet] Match attached Bac Sau and Anh Tu character sheets exactly. Bac Sau standing beside a blank wooden board with two simple step-shaped ladders drawn as plain shapes, pointing with his blue pen; Anh Tu seated, helmet on his lap, listening closely. Warm living room light. Plain props without any printed markings, no logos. No text, letters, numbers, logos or watermarks. One complete edge-to-edge scene, no panels. Keep faces above center; lower quarter uncluttered for subtitles. Calculator has entirely blank keys and display. Blue pen only once, either behind Bac ear or in his hand. Clothing and necklines consistent with torso; no lanyard/badge.",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png",
+      "assets/nhan-vat/anh-tu.png"
+    ]
+  },
+  {
+    "id": "base-05",
+    "scene": 5,
+    "image": "anh/canh-05.png",
+    "prompt": "Flat 2D cartoon, thick outlines, warm colors, 16:9. [Reference: Bác Sáu character sheet] Match attached Bac Sau and Anh Tu character sheets exactly. Bac Sau tapping his old calculator with a serious face, red ledger open; Anh Tu frozen mid-sip with a glass of tea, staring at a blank wall calendar. Side view of the tea table, evening lamp light. Plain props without any printed markings, no logos. No text, letters, numbers, logos or watermarks. One complete edge-to-edge scene, no panels. Keep faces above center; lower quarter uncluttered for subtitles. Calculator has entirely blank keys and display. Blue pen only once, either behind Bac ear or in his hand. Clothing and necklines consistent with torso; no lanyard/badge.",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png",
+      "assets/nhan-vat/anh-tu.png"
+    ]
+  },
+  {
+    "id": "base-06",
+    "scene": 6,
+    "image": "anh/canh-06.png",
+    "prompt": "Flat 2D cartoon, thick outlines, warm colors, 16:9. [Reference: Bác Sáu character sheet] Match attached Bac Sau and Anh Tu character sheets exactly. Bac Sau gently sliding a plain folder into a wooden cabinet drawer; Anh Tu standing beside him nodding slowly, helmet in hand. Calm domestic scene, soft daylight. Plain props without any printed markings, no logos. No text, letters, numbers, logos or watermarks. One complete edge-to-edge scene, no panels. Keep faces above center; lower quarter uncluttered for subtitles. Calculator has entirely blank keys and display. Blue pen only once, either behind Bac ear or in his hand. Clothing and necklines consistent with torso; no lanyard/badge.",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png",
+      "assets/nhan-vat/anh-tu.png"
+    ]
+  },
+  {
+    "id": "base-07",
+    "scene": 7,
+    "image": "anh/canh-07.png",
+    "prompt": "Flat 2D cartoon, thick outlines, warm colors, 16:9. Match attached Anh Tu character sheet exactly. Anh Tu resting on his parked motorbike at the mouth of a Saigon alley at dusk, looking thoughtfully toward an elderly neighbor sitting peacefully on a plastic chair in front of his house with a glass of tea. Warm lantern light, gentle mood. Plain props without any printed markings, no logos. No text, letters, numbers, logos or watermarks. One complete edge-to-edge scene, no panels. Keep faces above center; lower quarter uncluttered for subtitles. Calculator has entirely blank keys and display. Blue pen only once, either behind Bac ear or in his hand. Clothing and necklines consistent with torso; no lanyard/badge.",
+    "refs": [
+      "assets/nhan-vat/anh-tu.png"
+    ]
+  },
+  {
+    "id": "base-08",
+    "scene": 8,
+    "image": "anh/canh-08.png",
+    "prompt": "Use case: object-removal inpainting. The one reference is the EDIT TARGET. Completely REMOVE THE ENTIRE CALCULATOR OBJECT from the lower right foreground, including every button, screen and all its shadows. Reconstruct clean uninterrupted natural wooden tabletop in the exact footprint where the calculator was. That place must be EMPTY TABLE, no replacement object, no keyboard, no machine, no calculator. Preserve every other object and exact people count, identity, faces, hairstyles, glasses, pen, clothing, hands, poses, helmet, teapot, ledger, lighting, warm flat2D illustration style and 16:9 framing. Preserve all blank pages and unprinted props. No text, glyphs, symbols, numbers, logos, signatures or watermarks anywhere. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "videos/13-luong-huu-bhxh/anh/nhap/base-08-v2-before-object-removal.png"
+    ],
+    "selectedVersion": "v3"
+  },
+  {
+    "id": "base-thumbnail",
+    "image": "anh/thumbnail.png",
+    "prompt": "Flat 2D cartoon, thick outlines, warm colors, 16:9. [Reference: Bác Sáu character sheet] Match attached Bac Sau and Anh Tu character sheets exactly. YouTube thumbnail background. Bac Sau frowning skeptically over his glasses, one hand pressing a single blank white form flat on the table, other hand on his closed red ledger; Anh Tu in his plain green jacket holding his helmet, leaning in eagerly toward the blank form. Both entirely in the right sixty percent of the frame. Left forty percent clean warm teal empty wall for native title overlay. Plain props without any printed markings, no logos, no badges. No text, letters, numbers, logos or watermarks. Strong clearly readable facial expressions: Bac skeptical raised eyebrow, Tu hopeful. Faces high in right third, extra margin left blank. No lettering or tiny glyphs on papers/calculator.",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png",
+      "assets/nhan-vat/anh-tu.png"
+    ]
+  }
+]

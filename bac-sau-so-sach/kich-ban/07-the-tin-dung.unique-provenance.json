@@ -1,0 +1,1190 @@
+[
+  {
+    "id": "canh-01-08",
+    "image": "anh/shots/canh-01-08.png",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png"
+    ],
+    "prompt": "Use case: illustration-story. Video background asset. Flat 2D cartoon, thick outlines, warm colors, 16:9 landscape. One coherent full-bleed illustration, no collage. Muted teal, cream and warm brown, gentle cel shading. Bac Sau only, an older Vietnamese accountant, rectangular glasses, beige checked shirt, brown trousers, red ledger and exactly one blue pen behind one ear. Bac Sau opens his red ledger thoughtfully, teal card on the table. Three-quarter table view. Match referenced character identities exactly. All papers, screens, receipts, cards, calendars, coins, envelopes and keypads completely blank and unlabelled. No letters, digits, written symbols, handwriting-like strokes, logos, watermark, speech balloons, graphs or text. Clocks may have plain ticks and hands only. Correct natural anatomy, wrists, collars and bag strap orientation; only two arms per person, no extra fingers or limbs. No ID badge or lanyard. Keep faces in upper half, allow clean lower space for native captions. Render one single landscape image at 1536x864 or equivalent 16:9. No text, letters, numbers, logos or watermarks. Create a fresh single instant and genuinely different camera composition from the identity reference. New wider view from the opposite side of the table, showing home surroundings. Do not include any calculator or printed banknotes. Coins must be smooth featureless circular counters. No text, letters, numbers, logos or watermarks.",
+    "original": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-093e6a3b-fcb5-4b14-bf43-1b7afacfcc5a.png",
+    "destination": "D:\\Repo\\bac-sau-so-sach\\videos\\07-the-tin-dung\\anh\\shots\\canh-01-08.png",
+    "recoveredFrom": "same-thread image_gen.generation completed event; exact prompt match",
+    "completedAt": "2026-10-23T05:56:22.242Z",
+    "sha256": "f75aaa0ec32e4dee6620b598f100301a2b74a5b06c69d5a45f4becea27f3a6cd",
+    "manualReviewed": true,
+    "review": "Identity, anatomy, body/collar/bag orientation, no readable letters/digits/logos; all 7 contact sheets inspected. Last two also inspected full size."
+  },
+  {
+    "id": "canh-01-09",
+    "image": "anh/shots/canh-01-09.png",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png"
+    ],
+    "prompt": "Use case: illustration-story. Video background asset. Flat 2D cartoon, thick outlines, warm colors, 16:9 landscape. One coherent full-bleed illustration, no collage. Muted teal, cream and warm brown, gentle cel shading. Bac Sau only, an older Vietnamese accountant, rectangular glasses, beige checked shirt, brown trousers, red ledger and exactly one blue pen behind one ear. Bac Sau compares two plain envelopes of different sizes with open palms. Intimate view of subject with props. Match referenced character identities exactly. All papers, screens, receipts, cards, calendars, coins, envelopes and keypads completely blank and unlabelled. No letters, digits, written symbols, handwriting-like strokes, logos, watermark, speech balloons, graphs or text. Clocks may have plain ticks and hands only. Correct natural anatomy, wrists, collars and bag strap orientation; only two arms per person, no extra fingers or limbs. No ID badge or lanyard. Keep faces in upper half, allow clean lower space for native captions. Render one single landscape image at 1536x864 or equivalent 16:9. No text, letters, numbers, logos or watermarks. Create a fresh single instant and genuinely different camera composition from the identity reference. New tight medium three-quarter composition with props on the left. Do not include any calculator or printed banknotes. Coins must be smooth featureless circular counters. No text, letters, numbers, logos or watermarks.",
+    "original": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-6d70d71a-1bf6-4677-ba66-be5c77ed7d34.png",
+    "destination": "D:\\Repo\\bac-sau-so-sach\\videos\\07-the-tin-dung\\anh\\shots\\canh-01-09.png",
+    "recoveredFrom": "same-thread image_gen.generation completed event; exact prompt match",
+    "completedAt": "2026-10-23T05:57:11.907Z",
+    "sha256": "8d9deaeae5802f1a79ae652af248576a698bf1fb485ecf685abbca3cdecb6542",
+    "manualReviewed": true,
+    "review": "Identity, anatomy, body/collar/bag orientation, no readable letters/digits/logos; all 7 contact sheets inspected. Last two also inspected full size."
+  },
+  {
+    "id": "canh-01-10",
+    "image": "anh/shots/canh-01-10.png",
+    "refs": [
+      "assets/nhan-vat/con-ut.png"
+    ],
+    "prompt": "Use case: illustration-story. Video background asset. Flat 2D cartoon, thick outlines, warm colors, 16:9 landscape. One coherent full-bleed illustration, no collage. Muted teal, cream and warm brown, gentle cel shading. Ut only, young Vietnamese woman, high black ponytail, white short sleeve blouse, beige trousers, brown crossbody bag, white shoes, no glasses. Exactly one single Ut in the entire picture, not two depictions. Ut holds one plain teal card, looking puzzled beside a blank statement. Depict only this one instant. Medium eye-level portrait framing. Match referenced character identities exactly. All papers, screens, receipts, cards, calendars, coins, envelopes and keypads completely blank and unlabelled. No letters, digits, written symbols, handwriting-like strokes, logos, watermark, speech balloons, graphs or text. Clocks may have plain ticks and hands only. Correct natural anatomy, wrists, collars and bag strap orientation; only two arms per person, no extra fingers or limbs. No ID badge or lanyard. Keep faces in upper half, allow clean lower space for native captions. Render one single landscape image at 1536x864 or equivalent 16:9. No text, letters, numbers, logos or watermarks. Create a fresh single instant and genuinely different camera composition from the identity reference. New straight-on medium view with a clean uncluttered foreground. Do not include any calculator or printed banknotes. Coins must be smooth featureless circular counters. No text, letters, numbers, logos or watermarks.",
+    "original": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-fafd6253-32ee-4aab-8785-eb1845ece0e7.png",
+    "destination": "D:\\Repo\\bac-sau-so-sach\\videos\\07-the-tin-dung\\anh\\shots\\canh-01-10.png",
+    "recoveredFrom": "same-thread image_gen.generation completed event; exact prompt match",
+    "completedAt": "2026-10-23T05:58:19.254Z",
+    "sha256": "af882252c119276cdf50e4050a5d2c1c2c3351febaef8405669078e5dcba64a9",
+    "manualReviewed": true,
+    "review": "Identity, anatomy, body/collar/bag orientation, no readable letters/digits/logos; all 7 contact sheets inspected. Last two also inspected full size."
+  },
+  {
+    "id": "canh-01-11",
+    "image": "anh/shots/canh-01-11.png",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png",
+      "assets/nhan-vat/con-ut.png"
+    ],
+    "prompt": "Use case: illustration-story. Video background asset. Flat 2D cartoon, thick outlines, warm colors, 16:9 landscape. One coherent full-bleed illustration, no collage. Muted teal, cream and warm brown, gentle cel shading. Exactly two people, Bac Sau is the older Vietnamese accountant with beige checked shirt, rectangular glasses, one blue pen behind one ear and red ledger; Ut is the young Vietnamese woman with high black ponytail, white short sleeve blouse, beige trousers, white shoes and brown crossbody bag. Keep identities distinct. Bac Sau explains calmly to Ut across a home tea table, red ledger between them. Wide environmental view. Match referenced character identities exactly. All papers, screens, receipts, cards, calendars, coins, envelopes and keypads completely blank and unlabelled. No letters, digits, written symbols, handwriting-like strokes, logos, watermark, speech balloons, graphs or text. Clocks may have plain ticks and hands only. Correct natural anatomy, wrists, collars and bag strap orientation; only two arms per person, no extra fingers or limbs. No ID badge or lanyard. Keep faces in upper half, allow clean lower space for native captions. Render one single landscape image at 1536x864 or equivalent 16:9. No text, letters, numbers, logos or watermarks. Create a fresh single instant and genuinely different camera composition from the identity reference. New high oblique view with subject at right and props foreground. Do not include any calculator or printed banknotes. Coins must be smooth featureless circular counters. No text, letters, numbers, logos or watermarks.",
+    "original": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-f2f5f80f-a51f-4438-81e8-52da475c14f5.png",
+    "destination": "D:\\Repo\\bac-sau-so-sach\\videos\\07-the-tin-dung\\anh\\shots\\canh-01-11.png",
+    "recoveredFrom": "same-thread image_gen.generation completed event; exact prompt match",
+    "completedAt": "2026-10-23T05:57:51.689Z",
+    "sha256": "35de4818eb7a67d0b2f3b894bbc01d35d4c3e5cb23e7999537a936f64ba5b252",
+    "manualReviewed": true,
+    "review": "Identity, anatomy, body/collar/bag orientation, no readable letters/digits/logos; all 7 contact sheets inspected. Last two also inspected full size."
+  },
+  {
+    "id": "canh-01-12",
+    "image": "anh/shots/canh-01-12.png",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png",
+      "assets/nhan-vat/con-ut.png"
+    ],
+    "prompt": "Use case: illustration-story. Video background asset. Flat 2D cartoon, thick outlines, warm colors, 16:9 landscape. One coherent full-bleed illustration, no collage. Muted teal, cream and warm brown, gentle cel shading. Exactly two people, Bac Sau is the older Vietnamese accountant with beige checked shirt, rectangular glasses, one blue pen behind one ear and red ledger; Ut is the young Vietnamese woman with high black ponytail, white short sleeve blouse, beige trousers, white shoes and brown crossbody bag. Keep identities distinct. Ut listens as Bac Sau traces a blank calendar beside the card, wider home composition. Calm frontal composition with depth. Match referenced character identities exactly. All papers, screens, receipts, cards, calendars, coins, envelopes and keypads completely blank and unlabelled. No letters, digits, written symbols, handwriting-like strokes, logos, watermark, speech balloons, graphs or text. Clocks may have plain ticks and hands only. Correct natural anatomy, wrists, collars and bag strap orientation; only two arms per person, no extra fingers or limbs. No ID badge or lanyard. Keep faces in upper half, allow clean lower space for native captions. Render one single landscape image at 1536x864 or equivalent 16:9. No text, letters, numbers, logos or watermarks. Create a fresh single instant and genuinely different camera composition from the identity reference. New low eye-level close view with subject at left, different from reference scene. Do not include any calculator or printed banknotes. Coins must be smooth featureless circular counters. No text, letters, numbers, logos or watermarks.",
+    "original": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-ae99cb8f-9b0c-4365-8aed-af5a1a1ca500.png",
+    "destination": "D:\\Repo\\bac-sau-so-sach\\videos\\07-the-tin-dung\\anh\\shots\\canh-01-12.png",
+    "recoveredFrom": "same-thread image_gen.generation completed event; exact prompt match",
+    "completedAt": "2026-10-23T05:59:17.638Z",
+    "sha256": "f20101173db4ab351bf8251c59cbd11d2fefe5d058017a32d86f6881110208fb",
+    "manualReviewed": true,
+    "review": "Identity, anatomy, body/collar/bag orientation, no readable letters/digits/logos; all 7 contact sheets inspected. Last two also inspected full size."
+  },
+  {
+    "id": "canh-01-13",
+    "image": "anh/shots/canh-01-13.png",
+    "refs": [],
+    "prompt": "Use case: illustration-story. Video background asset. Flat 2D cartoon, thick outlines, warm colors, 16:9 landscape. One coherent full-bleed illustration, no collage. Muted teal, cream and warm brown, gentle cel shading. Objects only, no people, no human faces or hands. A tiny cashback coin beside a larger payment envelope and blank statement, top-down still life. Top-down or slightly elevated close framing. Match referenced character identities exactly. All papers, screens, receipts, cards, calendars, coins, envelopes and keypads completely blank and unlabelled. No letters, digits, written symbols, handwriting-like strokes, logos, watermark, speech balloons, graphs or text. Clocks may have plain ticks and hands only. Correct natural anatomy, wrists, collars and bag strap orientation; only two arms per person, no extra fingers or limbs. No ID badge or lanyard. Keep faces in upper half, allow clean lower space for native captions. Render one single landscape image at 1536x864 or equivalent 16:9. No text, letters, numbers, logos or watermarks. Create a fresh single instant and genuinely different camera composition from the identity reference. New wider view from the opposite side of the table, showing home surroundings. Do not include any calculator or printed banknotes. Coins must be smooth featureless circular counters. No text, letters, numbers, logos or watermarks.",
+    "original": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-3599cca7-26e3-4d4e-82c0-21b267325ffc.png",
+    "destination": "D:\\Repo\\bac-sau-so-sach\\videos\\07-the-tin-dung\\anh\\shots\\canh-01-13.png",
+    "recoveredFrom": "same-thread image_gen.generation completed event; exact prompt match",
+    "completedAt": "2026-10-23T05:59:37.794Z",
+    "sha256": "c24b99de6a4a18b40ef7ce8ab6724be38b424858bbc10d9ae45c9f005a8d7d6a",
+    "manualReviewed": true,
+    "review": "Identity, anatomy, body/collar/bag orientation, no readable letters/digits/logos; all 7 contact sheets inspected. Last two also inspected full size."
+  },
+  {
+    "id": "canh-01-14",
+    "image": "anh/shots/canh-01-14.png",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png",
+      "assets/nhan-vat/con-ut.png"
+    ],
+    "prompt": "Flat 2D cartoon, thick outlines, warm colors, 16:9. Use both character references. Ut holds a plain teal card and blank statement at a Vietnamese home table, puzzled; Bac Sau calmly opens his red ledger. Three-quarter view, no lanyards. No readable text, numbers, brands or watermark. One blue pen behind his ear, two arms each. One coherent full-bleed illustration, not a collage. Cream, muted teal and warm brown palette, gentle cel shading. All papers, calendars, receipts, screens, card faces, coins and keys must be completely blank and unlabeled, no handwriting-like strokes, letters, digits, money denominations, logos, speech bubbles, diagrams or watermarks. Natural anatomy and correct orientation of collars, wrists and bag straps. No ID badges or lanyards. Match each referenced identity exactly; do not blend them. Bac Sau has rectangular glasses, beige checked shirt, brown trousers and exactly one blue pen behind his ear, and a red ledger. Ut has high black ponytail, white short sleeve blouse, beige trousers and a brown bag. No glasses or pen on Ut. No text, letters, numbers, logos or watermarks. Create a fresh single instant and genuinely different camera composition from the identity reference. New tight medium three-quarter composition with props on the left. Do not include any calculator or printed banknotes. Coins must be smooth featureless circular counters. No text, letters, numbers, logos or watermarks.",
+    "original": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-7f30734a-8e9f-4712-992a-e22dfffe97bb.png",
+    "destination": "D:\\Repo\\bac-sau-so-sach\\videos\\07-the-tin-dung\\anh\\shots\\canh-01-14.png",
+    "recoveredFrom": "same-thread image_gen.generation completed event; exact prompt match",
+    "completedAt": "2026-10-23T06:00:18.086Z",
+    "sha256": "e984cdbd6ad67c62b393d2fa83359cd92d94758a82871515d2ab68d0baca0313",
+    "manualReviewed": true,
+    "review": "Identity, anatomy, body/collar/bag orientation, no readable letters/digits/logos; all 7 contact sheets inspected. Last two also inspected full size."
+  },
+  {
+    "id": "canh-02-08",
+    "image": "anh/shots/canh-02-08.png",
+    "refs": [
+      "assets/nhan-vat/con-ut.png"
+    ],
+    "prompt": "Use case: illustration-story. Video background asset. Flat 2D cartoon, thick outlines, warm colors, 16:9 landscape. One coherent full-bleed illustration, no collage. Muted teal, cream and warm brown, gentle cel shading. Ut only, young Vietnamese woman, high black ponytail, white short sleeve blouse, beige trousers, brown crossbody bag, white shoes, no glasses. Ut studies a blank statement with a thoughtful expression, card resting flat. Three-quarter table view. Match referenced character identities exactly. All papers, screens, receipts, cards, calendars, coins, envelopes and keypads completely blank and unlabelled. No letters, digits, written symbols, handwriting-like strokes, logos, watermark, speech balloons, graphs or text. Clocks may have plain ticks and hands only. Correct natural anatomy, wrists, collars and bag strap orientation; only two arms per person, no extra fingers or limbs. No ID badge or lanyard. Keep faces in upper half, allow clean lower space for native captions. Render one single landscape image at 1536x864 or equivalent 16:9. No text, letters, numbers, logos or watermarks. Create a fresh single instant and genuinely different camera composition from the identity reference. New low eye-level close view with subject at left, different from reference scene. Do not include any calculator or printed banknotes. Coins must be smooth featureless circular counters. No text, letters, numbers, logos or watermarks.",
+    "original": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-141ffdf7-1d1c-4f77-add4-4e46eb067c62.png",
+    "destination": "D:\\Repo\\bac-sau-so-sach\\videos\\07-the-tin-dung\\anh\\shots\\canh-02-08.png",
+    "recoveredFrom": "same-thread image_gen.generation completed event; exact prompt match",
+    "completedAt": "2026-10-23T06:01:24.946Z",
+    "sha256": "73c05706de11eebc4c55b668623139220f2704569bee85d6dd6942fb2eb90869",
+    "manualReviewed": true,
+    "review": "Identity, anatomy, body/collar/bag orientation, no readable letters/digits/logos; all 7 contact sheets inspected. Last two also inspected full size."
+  },
+  {
+    "id": "canh-02-09",
+    "image": "anh/shots/canh-02-09.png",
+    "refs": [],
+    "prompt": "Use case: illustration-story. Video background asset. Flat 2D cartoon, thick outlines, warm colors, 16:9 landscape. One coherent full-bleed illustration, no collage. Muted teal, cream and warm brown, gentle cel shading. Objects only, no people, no human faces or hands. Several plain folders, a smooth teal card, and a plain unmarked clock on a wooden desk. Intimate view of subject with props. Match referenced character identities exactly. All papers, screens, receipts, cards, calendars, coins, envelopes and keypads completely blank and unlabelled. No letters, digits, written symbols, handwriting-like strokes, logos, watermark, speech balloons, graphs or text. Clocks may have plain ticks and hands only. Correct natural anatomy, wrists, collars and bag strap orientation; only two arms per person, no extra fingers or limbs. No ID badge or lanyard. Keep faces in upper half, allow clean lower space for native captions. Render one single landscape image at 1536x864 or equivalent 16:9. No text, letters, numbers, logos or watermarks. Create a fresh single instant and genuinely different camera composition from the identity reference. New wider view from the opposite side of the table, showing home surroundings. Do not include any calculator or printed banknotes. Coins must be smooth featureless circular counters. No text, letters, numbers, logos or watermarks.",
+    "original": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-140fa166-3cf7-4d54-91cd-c94fe662a778.png",
+    "destination": "D:\\Repo\\bac-sau-so-sach\\videos\\07-the-tin-dung\\anh\\shots\\canh-02-09.png",
+    "recoveredFrom": "same-thread image_gen.generation completed event; exact prompt match",
+    "completedAt": "2026-10-23T06:01:46.992Z",
+    "sha256": "eb5c3850c87a8fc935103b13f4269aead461551418b0981479064d1fd67c59a0",
+    "manualReviewed": true,
+    "review": "Identity, anatomy, body/collar/bag orientation, no readable letters/digits/logos; all 7 contact sheets inspected. Last two also inspected full size."
+  },
+  {
+    "id": "canh-02-10",
+    "image": "anh/shots/canh-02-10.png",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png"
+    ],
+    "prompt": "Use case: illustration-story. Video background asset. Flat 2D cartoon, thick outlines, warm colors, 16:9 landscape. One coherent full-bleed illustration, no collage. Muted teal, cream and warm brown, gentle cel shading. Bac Sau only, an older Vietnamese accountant, rectangular glasses, beige checked shirt, brown trousers, red ledger and exactly one blue pen behind one ear. Bac Sau compares a large blank statement sheet and a much smaller blank slip. Medium eye-level portrait framing. Match referenced character identities exactly. All papers, screens, receipts, cards, calendars, coins, envelopes and keypads completely blank and unlabelled. No letters, digits, written symbols, handwriting-like strokes, logos, watermark, speech balloons, graphs or text. Clocks may have plain ticks and hands only. Correct natural anatomy, wrists, collars and bag strap orientation; only two arms per person, no extra fingers or limbs. No ID badge or lanyard. Keep faces in upper half, allow clean lower space for native captions. Render one single landscape image at 1536x864 or equivalent 16:9. No text, letters, numbers, logos or watermarks. Create a fresh single instant and genuinely different camera composition from the identity reference. New tight medium three-quarter composition with props on the left. Do not include any calculator or printed banknotes. Coins must be smooth featureless circular counters. No text, letters, numbers, logos or watermarks.",
+    "original": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-5aa2254a-59e5-4477-8d92-5da202f35266.png",
+    "destination": "D:\\Repo\\bac-sau-so-sach\\videos\\07-the-tin-dung\\anh\\shots\\canh-02-10.png",
+    "recoveredFrom": "same-thread image_gen.generation completed event; exact prompt match",
+    "completedAt": "2026-10-23T06:03:02.301Z",
+    "sha256": "b7bc6fbb76dd65efdb87e50770d931b77a1eb97b86f859d6954797bd9334f0da",
+    "manualReviewed": true,
+    "review": "Identity, anatomy, body/collar/bag orientation, no readable letters/digits/logos; all 7 contact sheets inspected. Last two also inspected full size."
+  },
+  {
+    "id": "canh-02-11",
+    "image": "anh/shots/canh-02-11.png",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png"
+    ],
+    "prompt": "Use case: illustration-story. Video background asset. Flat 2D cartoon, thick outlines, warm colors, 16:9 landscape. One coherent full-bleed illustration, no collage. Muted teal, cream and warm brown, gentle cel shading. Bac Sau only, an older Vietnamese accountant, rectangular glasses, beige checked shirt, brown trousers, red ledger and exactly one blue pen behind one ear. Bac Sau puts a small coin tray beside a much larger debt tray, no diagram. Wide environmental view. Match referenced character identities exactly. All papers, screens, receipts, cards, calendars, coins, envelopes and keypads completely blank and unlabelled. No letters, digits, written symbols, handwriting-like strokes, logos, watermark, speech balloons, graphs or text. Clocks may have plain ticks and hands only. Correct natural anatomy, wrists, collars and bag strap orientation; only two arms per person, no extra fingers or limbs. No ID badge or lanyard. Keep faces in upper half, allow clean lower space for native captions. Render one single landscape image at 1536x864 or equivalent 16:9. No text, letters, numbers, logos or watermarks. Create a fresh single instant and genuinely different camera composition from the identity reference. New straight-on medium view with a clean uncluttered foreground. Do not include any calculator or printed banknotes. Coins must be smooth featureless circular counters. No text, letters, numbers, logos or watermarks.",
+    "original": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-86e1b3fa-6823-4060-8beb-e98cb351e82c.png",
+    "destination": "D:\\Repo\\bac-sau-so-sach\\videos\\07-the-tin-dung\\anh\\shots\\canh-02-11.png",
+    "recoveredFrom": "same-thread image_gen.generation completed event; exact prompt match",
+    "completedAt": "2026-10-23T06:02:25.202Z",
+    "sha256": "73b731c88494a8273da078c4406cb60049e8bdf2afcdd12fcbc7935fb05423d1",
+    "manualReviewed": true,
+    "review": "Identity, anatomy, body/collar/bag orientation, no readable letters/digits/logos; all 7 contact sheets inspected. Last two also inspected full size."
+  },
+  {
+    "id": "canh-02-12",
+    "image": "anh/shots/canh-02-12.png",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png",
+      "assets/nhan-vat/con-ut.png"
+    ],
+    "prompt": "Use case: illustration-story. Video background asset. Flat 2D cartoon, thick outlines, warm colors, 16:9 landscape. One coherent full-bleed illustration, no collage. Muted teal, cream and warm brown, gentle cel shading. Exactly two people, Bac Sau is the older Vietnamese accountant with beige checked shirt, rectangular glasses, one blue pen behind one ear and red ledger; Ut is the young Vietnamese woman with high black ponytail, white short sleeve blouse, beige trousers, white shoes and brown crossbody bag. Keep identities distinct. Bac Sau points gently at two separate blank pages while Ut asks a question. Calm frontal composition with depth. Match referenced character identities exactly. All papers, screens, receipts, cards, calendars, coins, envelopes and keypads completely blank and unlabelled. No letters, digits, written symbols, handwriting-like strokes, logos, watermark, speech balloons, graphs or text. Clocks may have plain ticks and hands only. Correct natural anatomy, wrists, collars and bag strap orientation; only two arms per person, no extra fingers or limbs. No ID badge or lanyard. Keep faces in upper half, allow clean lower space for native captions. Render one single landscape image at 1536x864 or equivalent 16:9. No text, letters, numbers, logos or watermarks. Create a fresh single instant and genuinely different camera composition from the identity reference. New high oblique view with subject at right and props foreground. Do not include any calculator or printed banknotes. Coins must be smooth featureless circular counters. No text, letters, numbers, logos or watermarks.",
+    "original": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-50bbd8df-54ad-41d1-9ddf-5b1eda532e8e.png",
+    "destination": "D:\\Repo\\bac-sau-so-sach\\videos\\07-the-tin-dung\\anh\\shots\\canh-02-12.png",
+    "recoveredFrom": "same-thread image_gen.generation completed event; exact prompt match",
+    "completedAt": "2026-10-23T06:04:02.905Z",
+    "sha256": "0dd68bdfba21ef07b4405c04a90d7718bb56d01c4c9573672fa6f16123973728",
+    "manualReviewed": true,
+    "review": "Identity, anatomy, body/collar/bag orientation, no readable letters/digits/logos; all 7 contact sheets inspected. Last two also inspected full size."
+  },
+  {
+    "id": "canh-02-13",
+    "image": "anh/shots/canh-02-13.png",
+    "refs": [],
+    "prompt": "Use case: illustration-story. Video background asset. Flat 2D cartoon, thick outlines, warm colors, 16:9 landscape. One coherent full-bleed illustration, no collage. Muted teal, cream and warm brown, gentle cel shading. Objects only, no people, no human faces or hands. Large coin pile beside a small minimum-payment tray, top-down still life. Top-down or slightly elevated close framing. Match referenced character identities exactly. All papers, screens, receipts, cards, calendars, coins, envelopes and keypads completely blank and unlabelled. No letters, digits, written symbols, handwriting-like strokes, logos, watermark, speech balloons, graphs or text. Clocks may have plain ticks and hands only. Correct natural anatomy, wrists, collars and bag strap orientation; only two arms per person, no extra fingers or limbs. No ID badge or lanyard. Keep faces in upper half, allow clean lower space for native captions. Render one single landscape image at 1536x864 or equivalent 16:9. No text, letters, numbers, logos or watermarks. Create a fresh single instant and genuinely different camera composition from the identity reference. New low eye-level close view with subject at left, different from reference scene. Do not include any calculator or printed banknotes. Coins must be smooth featureless circular counters. No text, letters, numbers, logos or watermarks.",
+    "original": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-5be82d15-2756-4b58-8c45-fae25aeba277.png",
+    "destination": "D:\\Repo\\bac-sau-so-sach\\videos\\07-the-tin-dung\\anh\\shots\\canh-02-13.png",
+    "recoveredFrom": "same-thread image_gen.generation completed event; exact prompt match",
+    "completedAt": "2026-10-23T06:04:29.203Z",
+    "sha256": "f54ff9989241a0a9254fc5463dc904b5bc99b7c77982b25bd139d578b45d4506",
+    "manualReviewed": true,
+    "review": "Identity, anatomy, body/collar/bag orientation, no readable letters/digits/logos; all 7 contact sheets inspected. Last two also inspected full size."
+  },
+  {
+    "id": "canh-02-14",
+    "image": "anh/shots/canh-02-14.png",
+    "refs": [],
+    "prompt": "Flat 2D cartoon, thick outlines, warm colors, 16:9. Top-down wooden desk: one large blank statement beside a smaller blank slip, plain teal card, unmarked calendar and closed envelope. No hands or people. Separated shapes, soft afternoon light. No text, numbers, logos or watermark. One coherent full-bleed illustration, not a collage. Cream, muted teal and warm brown palette, gentle cel shading. All papers, calendars, receipts, screens, card faces, coins and keys must be completely blank and unlabeled, no handwriting-like strokes, letters, digits, money denominations, logos, speech bubbles, diagrams or watermarks. Natural anatomy and correct orientation of collars, wrists and bag straps. No ID badges or lanyards. Match each referenced identity exactly; do not blend them. Objects only, no human bodies, faces, arms or hands. No text, letters, numbers, logos or watermarks. Create a fresh single instant and genuinely different camera composition from the identity reference. New wider view from the opposite side of the table, showing home surroundings. Do not include any calculator or printed banknotes. Coins must be smooth featureless circular counters. No text, letters, numbers, logos or watermarks.",
+    "original": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-9470271a-23cb-491c-8e3f-3b0c9bc2b329.png",
+    "destination": "D:\\Repo\\bac-sau-so-sach\\videos\\07-the-tin-dung\\anh\\shots\\canh-02-14.png",
+    "recoveredFrom": "same-thread image_gen.generation completed event; exact prompt match",
+    "completedAt": "2026-10-23T06:04:48.296Z",
+    "sha256": "bd98088f1c2c80ce79ae419c33bcd1143187026cadf2ef2c108679f3e211ac17",
+    "manualReviewed": true,
+    "review": "Identity, anatomy, body/collar/bag orientation, no readable letters/digits/logos; all 7 contact sheets inspected. Last two also inspected full size."
+  },
+  {
+    "id": "canh-03-08",
+    "image": "anh/shots/canh-03-08.png",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png"
+    ],
+    "prompt": "Use case: illustration-story. Video background asset. Flat 2D cartoon, thick outlines, warm colors, 16:9 landscape. One coherent full-bleed illustration, no collage. Muted teal, cream and warm brown, gentle cel shading. Bac Sau only, an older Vietnamese accountant, rectangular glasses, beige checked shirt, brown trousers, red ledger and exactly one blue pen behind one ear. Bac Sau stretches a long blank strip of calendar pages across a wooden table. Three-quarter table view. Match referenced character identities exactly. All papers, screens, receipts, cards, calendars, coins, envelopes and keypads completely blank and unlabelled. No letters, digits, written symbols, handwriting-like strokes, logos, watermark, speech balloons, graphs or text. Clocks may have plain ticks and hands only. Correct natural anatomy, wrists, collars and bag strap orientation; only two arms per person, no extra fingers or limbs. No ID badge or lanyard. Keep faces in upper half, allow clean lower space for native captions. Render one single landscape image at 1536x864 or equivalent 16:9. No text, letters, numbers, logos or watermarks. Create a fresh single instant and genuinely different camera composition from the identity reference. New high oblique view with subject at right and props foreground. Do not include any calculator or printed banknotes. Coins must be smooth featureless circular counters. No text, letters, numbers, logos or watermarks.",
+    "original": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-664d1891-ebef-4ed7-8cc9-43179d273133.png",
+    "destination": "D:\\Repo\\bac-sau-so-sach\\videos\\07-the-tin-dung\\anh\\shots\\canh-03-08.png",
+    "recoveredFrom": "same-thread image_gen.generation completed event; exact prompt match",
+    "completedAt": "2026-10-23T05:58:32.023Z",
+    "sha256": "902510fb5bf2b4984714c977c79f0649ee9ce2211f12b10552b43db9ce195c8d",
+    "manualReviewed": true,
+    "review": "Identity, anatomy, body/collar/bag orientation, no readable letters/digits/logos; all 7 contact sheets inspected. Last two also inspected full size."
+  },
+  {
+    "id": "canh-03-09",
+    "image": "anh/shots/canh-03-09.png",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png"
+    ],
+    "prompt": "Use case: illustration-story. Video background asset. Flat 2D cartoon, thick outlines, warm colors, 16:9 landscape. One coherent full-bleed illustration, no collage. Muted teal, cream and warm brown, gentle cel shading. Bac Sau only, an older Vietnamese accountant, rectangular glasses, beige checked shirt, brown trousers, red ledger and exactly one blue pen behind one ear. Bac Sau studies a completely blank phone screen and an open red ledger. Intimate view of subject with props. Match referenced character identities exactly. All papers, screens, receipts, cards, calendars, coins, envelopes and keypads completely blank and unlabelled. No letters, digits, written symbols, handwriting-like strokes, logos, watermark, speech balloons, graphs or text. Clocks may have plain ticks and hands only. Correct natural anatomy, wrists, collars and bag strap orientation; only two arms per person, no extra fingers or limbs. No ID badge or lanyard. Keep faces in upper half, allow clean lower space for native captions. Render one single landscape image at 1536x864 or equivalent 16:9. No text, letters, numbers, logos or watermarks. Create a fresh single instant and genuinely different camera composition from the identity reference. New low eye-level close view with subject at left, different from reference scene. Do not include any calculator or printed banknotes. Coins must be smooth featureless circular counters. No text, letters, numbers, logos or watermarks.",
+    "original": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-4853d10a-f9c4-42ea-ae58-ca3a0887333e.png",
+    "destination": "D:\\Repo\\bac-sau-so-sach\\videos\\07-the-tin-dung\\anh\\shots\\canh-03-09.png",
+    "recoveredFrom": "same-thread image_gen.generation completed event; exact prompt match",
+    "completedAt": "2026-10-23T05:59:43.620Z",
+    "sha256": "ae9f8c16b1f61c919887e32ab0c79c2247058c959bd129b12f6d581e43cd4dc0",
+    "manualReviewed": true,
+    "review": "Identity, anatomy, body/collar/bag orientation, no readable letters/digits/logos; all 7 contact sheets inspected. Last two also inspected full size."
+  },
+  {
+    "id": "canh-03-10",
+    "image": "anh/shots/canh-03-10.png",
+    "refs": [
+      "assets/nhan-vat/con-ut.png"
+    ],
+    "prompt": "Use case: illustration-story. Video background asset. Flat 2D cartoon, thick outlines, warm colors, 16:9 landscape. One coherent full-bleed illustration, no collage. Muted teal, cream and warm brown, gentle cel shading. Ut only, young Vietnamese woman, high black ponytail, white short sleeve blouse, beige trousers, brown crossbody bag, white shoes, no glasses. Ut compares a blank calendar and a plain clock with ticks and hands only. Medium eye-level portrait framing. Match referenced character identities exactly. All papers, screens, receipts, cards, calendars, coins, envelopes and keypads completely blank and unlabelled. No letters, digits, written symbols, handwriting-like strokes, logos, watermark, speech balloons, graphs or text. Clocks may have plain ticks and hands only. Correct natural anatomy, wrists, collars and bag strap orientation; only two arms per person, no extra fingers or limbs. No ID badge or lanyard. Keep faces in upper half, allow clean lower space for native captions. Render one single landscape image at 1536x864 or equivalent 16:9. No text, letters, numbers, logos or watermarks. Create a fresh single instant and genuinely different camera composition from the identity reference. New wider view from the opposite side of the table, showing home surroundings. Do not include any calculator or printed banknotes. Coins must be smooth featureless circular counters. No text, letters, numbers, logos or watermarks.",
+    "original": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-7cb5aeb8-294a-479a-b136-9cc00437be92.png",
+    "destination": "D:\\Repo\\bac-sau-so-sach\\videos\\07-the-tin-dung\\anh\\shots\\canh-03-10.png",
+    "recoveredFrom": "same-thread image_gen.generation completed event; exact prompt match",
+    "completedAt": "2026-10-23T06:00:45.491Z",
+    "sha256": "8ba4b32aff6e8c38b68bcab5154a8e8bf57f492a0bc759b6ddb4511baa04e341",
+    "manualReviewed": true,
+    "review": "Identity, anatomy, body/collar/bag orientation, no readable letters/digits/logos; all 7 contact sheets inspected. Last two also inspected full size."
+  },
+  {
+    "id": "canh-03-11",
+    "image": "anh/shots/canh-03-11.png",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png",
+      "assets/nhan-vat/con-ut.png"
+    ],
+    "prompt": "Use case: illustration-story. Video background asset. Flat 2D cartoon, thick outlines, warm colors, 16:9 landscape. One coherent full-bleed illustration, no collage. Muted teal, cream and warm brown, gentle cel shading. Exactly two people, Bac Sau is the older Vietnamese accountant with beige checked shirt, rectangular glasses, one blue pen behind one ear and red ledger; Ut is the young Vietnamese woman with high black ponytail, white short sleeve blouse, beige trousers, white shoes and brown crossbody bag. Keep identities distinct. Bac Sau and Ut compare purchase and repayment envelopes next to a clock. Wide environmental view. Match referenced character identities exactly. All papers, screens, receipts, cards, calendars, coins, envelopes and keypads completely blank and unlabelled. No letters, digits, written symbols, handwriting-like strokes, logos, watermark, speech balloons, graphs or text. Clocks may have plain ticks and hands only. Correct natural anatomy, wrists, collars and bag strap orientation; only two arms per person, no extra fingers or limbs. No ID badge or lanyard. Keep faces in upper half, allow clean lower space for native captions. Render one single landscape image at 1536x864 or equivalent 16:9. No text, letters, numbers, logos or watermarks. Create a fresh single instant and genuinely different camera composition from the identity reference. New tight medium three-quarter composition with props on the left. Do not include any calculator or printed banknotes. Coins must be smooth featureless circular counters. No text, letters, numbers, logos or watermarks.",
+    "original": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-3ba51521-aad2-43fb-b1e7-5061a9c22341.png",
+    "destination": "D:\\Repo\\bac-sau-so-sach\\videos\\07-the-tin-dung\\anh\\shots\\canh-03-11.png",
+    "recoveredFrom": "same-thread image_gen.generation completed event; exact prompt match",
+    "completedAt": "2026-10-23T06:00:28.511Z",
+    "sha256": "401afad3dd197da6b37461e826244c1e12461d83dce998a78d13d9b52d020dd2",
+    "manualReviewed": true,
+    "review": "Identity, anatomy, body/collar/bag orientation, no readable letters/digits/logos; all 7 contact sheets inspected. Last two also inspected full size."
+  },
+  {
+    "id": "canh-03-12",
+    "image": "anh/shots/canh-03-12.png",
+    "refs": [],
+    "prompt": "Use case: illustration-story. Video background asset. Flat 2D cartoon, thick outlines, warm colors, 16:9 landscape. One coherent full-bleed illustration, no collage. Muted teal, cream and warm brown, gentle cel shading. Objects only, no people, no human faces or hands. Plain teal card, closed envelope, smooth coins and blank calendar in late afternoon light. Calm frontal composition with depth. Match referenced character identities exactly. All papers, screens, receipts, cards, calendars, coins, envelopes and keypads completely blank and unlabelled. No letters, digits, written symbols, handwriting-like strokes, logos, watermark, speech balloons, graphs or text. Clocks may have plain ticks and hands only. Correct natural anatomy, wrists, collars and bag strap orientation; only two arms per person, no extra fingers or limbs. No ID badge or lanyard. Keep faces in upper half, allow clean lower space for native captions. Render one single landscape image at 1536x864 or equivalent 16:9. No text, letters, numbers, logos or watermarks. Create a fresh single instant and genuinely different camera composition from the identity reference. New straight-on medium view with a clean uncluttered foreground. Do not include any calculator or printed banknotes. Coins must be smooth featureless circular counters. No text, letters, numbers, logos or watermarks.",
+    "original": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-8d43aa8c-ade2-401d-a8f0-ccbdf67b6d95.png",
+    "destination": "D:\\Repo\\bac-sau-so-sach\\videos\\07-the-tin-dung\\anh\\shots\\canh-03-12.png",
+    "recoveredFrom": "same-thread image_gen.generation completed event; exact prompt match",
+    "completedAt": "2026-10-23T06:01:00.077Z",
+    "sha256": "3040c68342ea0a30fe648fba299b74356a74e0ff72053475be589dc9f5d84b28",
+    "manualReviewed": true,
+    "review": "Identity, anatomy, body/collar/bag orientation, no readable letters/digits/logos; all 7 contact sheets inspected. Last two also inspected full size."
+  },
+  {
+    "id": "canh-03-13",
+    "image": "anh/shots/canh-03-13.png",
+    "refs": [],
+    "prompt": "Use case: illustration-story. Video background asset. Flat 2D cartoon, thick outlines, warm colors, 16:9 landscape. One coherent full-bleed illustration, no collage. Muted teal, cream and warm brown, gentle cel shading. Objects only, no people, no human faces or hands. Long and short trails of blank calendar pages leading to a plain envelope, no arrows or diagrams. Top-down or slightly elevated close framing. Match referenced character identities exactly. All papers, screens, receipts, cards, calendars, coins, envelopes and keypads completely blank and unlabelled. No letters, digits, written symbols, handwriting-like strokes, logos, watermark, speech balloons, graphs or text. Clocks may have plain ticks and hands only. Correct natural anatomy, wrists, collars and bag strap orientation; only two arms per person, no extra fingers or limbs. No ID badge or lanyard. Keep faces in upper half, allow clean lower space for native captions. Render one single landscape image at 1536x864 or equivalent 16:9. No text, letters, numbers, logos or watermarks. Create a fresh single instant and genuinely different camera composition from the identity reference. New high oblique view with subject at right and props foreground. Do not include any calculator or printed banknotes. Coins must be smooth featureless circular counters. No text, letters, numbers, logos or watermarks.",
+    "original": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-9c2eca45-4fd7-47bd-8b2e-1cb3dcdcd426.png",
+    "destination": "D:\\Repo\\bac-sau-so-sach\\videos\\07-the-tin-dung\\anh\\shots\\canh-03-13.png",
+    "recoveredFrom": "same-thread image_gen.generation completed event; exact prompt match",
+    "completedAt": "2026-10-23T06:01:28.434Z",
+    "sha256": "bc521e43e7a7a939b4c527b82fad29d508640ae0677849ca2905f7d439cf00bf",
+    "manualReviewed": true,
+    "review": "Identity, anatomy, body/collar/bag orientation, no readable letters/digits/logos; all 7 contact sheets inspected. Last two also inspected full size."
+  },
+  {
+    "id": "canh-03-14",
+    "image": "anh/shots/canh-03-14.png",
+    "refs": [
+      "assets/nhan-vat/con-ut.png"
+    ],
+    "prompt": "Flat 2D cartoon, thick outlines, warm colors, 16:9. Reference Ut only. Ut near a sunny window compares a blank calendar and three small clocks without numerals. Brown crossbody bag at her side, no lanyard, thoughtful expression, spacious composition. No readable text, digits, logos or watermark. One coherent full-bleed illustration, not a collage. Cream, muted teal and warm brown palette, gentle cel shading. All papers, calendars, receipts, screens, card faces, coins and keys must be completely blank and unlabeled, no handwriting-like strokes, letters, digits, money denominations, logos, speech bubbles, diagrams or watermarks. Natural anatomy and correct orientation of collars, wrists and bag straps. No ID badges or lanyards. Match each referenced identity exactly; do not blend them. Ut has high black ponytail, white short sleeve blouse, beige trousers and a brown bag. No glasses or pen on Ut. Exactly one person: Ut only. No older accountant. No text, letters, numbers, logos or watermarks. Create a fresh single instant and genuinely different camera composition from the identity reference. New low eye-level close view with subject at left, different from reference scene. Do not include any calculator or printed banknotes. Coins must be smooth featureless circular counters. No text, letters, numbers, logos or watermarks.",
+    "original": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-a837350d-da99-4a3f-8b77-4eb3b25482d4.png",
+    "destination": "D:\\Repo\\bac-sau-so-sach\\videos\\07-the-tin-dung\\anh\\shots\\canh-03-14.png",
+    "recoveredFrom": "same-thread image_gen.generation completed event; exact prompt match",
+    "completedAt": "2026-10-23T06:01:53.058Z",
+    "sha256": "80236aaeadc1b407e766f56c41ecd81ce182aba229a415ce4718e38b9380053d",
+    "manualReviewed": true,
+    "review": "Identity, anatomy, body/collar/bag orientation, no readable letters/digits/logos; all 7 contact sheets inspected. Last two also inspected full size."
+  },
+  {
+    "id": "canh-04-08",
+    "image": "anh/shots/canh-04-08.png",
+    "refs": [],
+    "prompt": "Use case: illustration-story. Video background asset. Flat 2D cartoon, thick outlines, warm colors, 16:9 landscape. One coherent full-bleed illustration, no collage. Muted teal, cream and warm brown, gentle cel shading. Objects only, no people, no human faces or hands. Two coin rows and a plain clock with ticks and hands, overhead close-up. Three-quarter table view. Match referenced character identities exactly. All papers, screens, receipts, cards, calendars, coins, envelopes and keypads completely blank and unlabelled. No letters, digits, written symbols, handwriting-like strokes, logos, watermark, speech balloons, graphs or text. Clocks may have plain ticks and hands only. Correct natural anatomy, wrists, collars and bag strap orientation; only two arms per person, no extra fingers or limbs. No ID badge or lanyard. Keep faces in upper half, allow clean lower space for native captions. Render one single landscape image at 1536x864 or equivalent 16:9. No text, letters, numbers, logos or watermarks. Create a fresh single instant and genuinely different camera composition from the identity reference. New straight-on medium view with a clean uncluttered foreground. Do not include any calculator or printed banknotes. Coins must be smooth featureless circular counters. No text, letters, numbers, logos or watermarks.",
+    "original": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-5de9c6ad-2933-4165-805f-010826d87b64.png",
+    "destination": "D:\\Repo\\bac-sau-so-sach\\videos\\07-the-tin-dung\\anh\\shots\\canh-04-08.png",
+    "recoveredFrom": "same-thread image_gen.generation completed event; exact prompt match",
+    "completedAt": "2026-10-23T06:02:13.826Z",
+    "sha256": "ec4d03a345e878dda92d69eaf71ff6572ba0f6e67142360e23234c997547888b",
+    "manualReviewed": true,
+    "review": "Identity, anatomy, body/collar/bag orientation, no readable letters/digits/logos; all 7 contact sheets inspected. Last two also inspected full size."
+  },
+  {
+    "id": "canh-04-09",
+    "image": "anh/shots/canh-04-09.png",
+    "refs": [
+      "assets/nhan-vat/con-ut.png"
+    ],
+    "prompt": "Use case: illustration-story. Video background asset. Flat 2D cartoon, thick outlines, warm colors, 16:9 landscape. One coherent full-bleed illustration, no collage. Muted teal, cream and warm brown, gentle cel shading. Ut only, young Vietnamese woman, high black ponytail, white short sleeve blouse, beige trousers, brown crossbody bag, white shoes, no glasses. Ut looks carefully at a smaller remaining pile beside a blank calendar. Intimate view of subject with props. Match referenced character identities exactly. All papers, screens, receipts, cards, calendars, coins, envelopes and keypads completely blank and unlabelled. No letters, digits, written symbols, handwriting-like strokes, logos, watermark, speech balloons, graphs or text. Clocks may have plain ticks and hands only. Correct natural anatomy, wrists, collars and bag strap orientation; only two arms per person, no extra fingers or limbs. No ID badge or lanyard. Keep faces in upper half, allow clean lower space for native captions. Render one single landscape image at 1536x864 or equivalent 16:9. No text, letters, numbers, logos or watermarks. Create a fresh single instant and genuinely different camera composition from the identity reference. New high oblique view with subject at right and props foreground. Do not include any calculator or printed banknotes. Coins must be smooth featureless circular counters. No text, letters, numbers, logos or watermarks.",
+    "original": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-d03b4715-29d6-43c0-b459-14ce9442d64a.png",
+    "destination": "D:\\Repo\\bac-sau-so-sach\\videos\\07-the-tin-dung\\anh\\shots\\canh-04-09.png",
+    "recoveredFrom": "same-thread image_gen.generation completed event; exact prompt match",
+    "completedAt": "2026-10-23T06:01:14.351Z",
+    "sha256": "fab60e7ca871078266469ef38c403ae18455feb6bc78b59eacb5394f00f7a186",
+    "manualReviewed": true,
+    "review": "Identity, anatomy, body/collar/bag orientation, no readable letters/digits/logos; all 7 contact sheets inspected. Last two also inspected full size."
+  },
+  {
+    "id": "canh-04-10",
+    "image": "anh/shots/canh-04-10.png",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png"
+    ],
+    "prompt": "Use case: illustration-story. Video background asset. Flat 2D cartoon, thick outlines, warm colors, 16:9 landscape. One coherent full-bleed illustration, no collage. Muted teal, cream and warm brown, gentle cel shading. Bac Sau only, an older Vietnamese accountant, rectangular glasses, beige checked shirt, brown trousers, red ledger and exactly one blue pen behind one ear. Bac Sau separates smooth gold counters into two clearly separated rows on a table. Medium eye-level portrait framing. Match referenced character identities exactly. All papers, screens, receipts, cards, calendars, coins, envelopes and keypads completely blank and unlabelled. No letters, digits, written symbols, handwriting-like strokes, logos, watermark, speech balloons, graphs or text. Clocks may have plain ticks and hands only. Correct natural anatomy, wrists, collars and bag strap orientation; only two arms per person, no extra fingers or limbs. No ID badge or lanyard. Keep faces in upper half, allow clean lower space for native captions. Render one single landscape image at 1536x864 or equivalent 16:9. No text, letters, numbers, logos or watermarks. Create a fresh single instant and genuinely different camera composition from the identity reference. New low eye-level close view with subject at left, different from reference scene. Do not include any calculator or printed banknotes. Coins must be smooth featureless circular counters. No text, letters, numbers, logos or watermarks.",
+    "original": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-0d65335d-9401-41f5-8272-26d68afc17ab.png",
+    "destination": "D:\\Repo\\bac-sau-so-sach\\videos\\07-the-tin-dung\\anh\\shots\\canh-04-10.png",
+    "recoveredFrom": "same-thread image_gen.generation completed event; exact prompt match",
+    "completedAt": "2026-10-23T06:01:41.852Z",
+    "sha256": "4179ff834671b582478b5c7d3ee5439329cd8f410d9e6d7c4f28f76bd38431bf",
+    "manualReviewed": true,
+    "review": "Identity, anatomy, body/collar/bag orientation, no readable letters/digits/logos; all 7 contact sheets inspected. Last two also inspected full size."
+  },
+  {
+    "id": "canh-04-11",
+    "image": "anh/shots/canh-04-11.png",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png"
+    ],
+    "prompt": "Use case: illustration-story. Video background asset. Flat 2D cartoon, thick outlines, warm colors, 16:9 landscape. One coherent full-bleed illustration, no collage. Muted teal, cream and warm brown, gentle cel shading. Bac Sau only, an older Vietnamese accountant, rectangular glasses, beige checked shirt, brown trousers, red ledger and exactly one blue pen behind one ear. Bac Sau moves a single smooth coin out of a large pile into a repayment tray. Wide environmental view. Match referenced character identities exactly. All papers, screens, receipts, cards, calendars, coins, envelopes and keypads completely blank and unlabelled. No letters, digits, written symbols, handwriting-like strokes, logos, watermark, speech balloons, graphs or text. Clocks may have plain ticks and hands only. Correct natural anatomy, wrists, collars and bag strap orientation; only two arms per person, no extra fingers or limbs. No ID badge or lanyard. Keep faces in upper half, allow clean lower space for native captions. Render one single landscape image at 1536x864 or equivalent 16:9. No text, letters, numbers, logos or watermarks. Create a fresh single instant and genuinely different camera composition from the identity reference. New wider view from the opposite side of the table, showing home surroundings. Do not include any calculator or printed banknotes. Coins must be smooth featureless circular counters. No text, letters, numbers, logos or watermarks.",
+    "original": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-108618ec-5520-404b-a2ac-a45b865eb95e.png",
+    "destination": "D:\\Repo\\bac-sau-so-sach\\videos\\07-the-tin-dung\\anh\\shots\\canh-04-11.png",
+    "recoveredFrom": "same-thread image_gen.generation completed event; exact prompt match",
+    "completedAt": "2026-10-23T06:02:20.764Z",
+    "sha256": "6648f4bccda87507dfe1a458971f78c7fcdd3bca398e042d393d9fdef66c2763",
+    "manualReviewed": true,
+    "review": "Identity, anatomy, body/collar/bag orientation, no readable letters/digits/logos; all 7 contact sheets inspected. Last two also inspected full size."
+  },
+  {
+    "id": "canh-04-12",
+    "image": "anh/shots/canh-04-12.png",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png"
+    ],
+    "prompt": "Use case: illustration-story. Video background asset. Flat 2D cartoon, thick outlines, warm colors, 16:9 landscape. One coherent full-bleed illustration, no collage. Muted teal, cream and warm brown, gentle cel shading. Bac Sau only, an older Vietnamese accountant, rectangular glasses, beige checked shirt, brown trousers, red ledger and exactly one blue pen behind one ear. Bac Sau brings two small interest trays together beside his red ledger, careful oblique view. Calm frontal composition with depth. Match referenced character identities exactly. All papers, screens, receipts, cards, calendars, coins, envelopes and keypads completely blank and unlabelled. No letters, digits, written symbols, handwriting-like strokes, logos, watermark, speech balloons, graphs or text. Clocks may have plain ticks and hands only. Correct natural anatomy, wrists, collars and bag strap orientation; only two arms per person, no extra fingers or limbs. No ID badge or lanyard. Keep faces in upper half, allow clean lower space for native captions. Render one single landscape image at 1536x864 or equivalent 16:9. No text, letters, numbers, logos or watermarks. Create a fresh single instant and genuinely different camera composition from the identity reference. New tight medium three-quarter composition with props on the left. Do not include any calculator or printed banknotes. Coins must be smooth featureless circular counters. No text, letters, numbers, logos or watermarks.",
+    "original": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-a4a5be49-90b8-457d-9f1a-cb55f73be2fb.png",
+    "destination": "D:\\Repo\\bac-sau-so-sach\\videos\\07-the-tin-dung\\anh\\shots\\canh-04-12.png",
+    "recoveredFrom": "same-thread image_gen.generation completed event; exact prompt match",
+    "completedAt": "2026-10-23T06:02:57.806Z",
+    "sha256": "ef9c2fb8570fa0931ee6601b90ea832ba3451c9ab12e858d2467760c4f1ad916",
+    "manualReviewed": true,
+    "review": "Identity, anatomy, body/collar/bag orientation, no readable letters/digits/logos; all 7 contact sheets inspected. Last two also inspected full size."
+  },
+  {
+    "id": "canh-04-13",
+    "image": "anh/shots/canh-04-13.png",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png",
+      "assets/nhan-vat/con-ut.png"
+    ],
+    "prompt": "Use case: illustration-story. Video background asset. Flat 2D cartoon, thick outlines, warm colors, 16:9 landscape. One coherent full-bleed illustration, no collage. Muted teal, cream and warm brown, gentle cel shading. Exactly two people, Bac Sau is the older Vietnamese accountant with beige checked shirt, rectangular glasses, one blue pen behind one ear and red ledger; Ut is the young Vietnamese woman with high black ponytail, white short sleeve blouse, beige trousers, white shoes and brown crossbody bag. Keep identities distinct. Bac Sau explains the first coin row to Ut seated opposite him, both hands natural. Top-down or slightly elevated close framing. Match referenced character identities exactly. All papers, screens, receipts, cards, calendars, coins, envelopes and keypads completely blank and unlabelled. No letters, digits, written symbols, handwriting-like strokes, logos, watermark, speech balloons, graphs or text. Clocks may have plain ticks and hands only. Correct natural anatomy, wrists, collars and bag strap orientation; only two arms per person, no extra fingers or limbs. No ID badge or lanyard. Keep faces in upper half, allow clean lower space for native captions. Render one single landscape image at 1536x864 or equivalent 16:9. No text, letters, numbers, logos or watermarks. Create a fresh single instant and genuinely different camera composition from the identity reference. New straight-on medium view with a clean uncluttered foreground. Do not include any calculator or printed banknotes. Coins must be smooth featureless circular counters. No text, letters, numbers, logos or watermarks.",
+    "original": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-20bd7bb3-75b7-45a4-9a8f-602ec0fc03f3.png",
+    "destination": "D:\\Repo\\bac-sau-so-sach\\videos\\07-the-tin-dung\\anh\\shots\\canh-04-13.png",
+    "recoveredFrom": "same-thread image_gen.generation completed event; exact prompt match",
+    "completedAt": "2026-10-23T06:03:39.882Z",
+    "sha256": "c48d5f6868a9dee004f22e9d3d7798d0b555bbbe2b86edc7f78e01752c5a3006",
+    "manualReviewed": true,
+    "review": "Identity, anatomy, body/collar/bag orientation, no readable letters/digits/logos; all 7 contact sheets inspected. Last two also inspected full size."
+  },
+  {
+    "id": "canh-04-14",
+    "image": "anh/shots/canh-04-14.png",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png"
+    ],
+    "prompt": "Flat 2D cartoon, thick outlines, warm colors, 16:9. Reference Bac Sau only. Three-quarter view, he arranges plain coin stacks in two separated rows on a table beside his red ledger and a plain clock. One hand moves one coin, other visibly rests on ledger. No writing, digits, calculator labels, logos or watermark. One coherent full-bleed illustration, not a collage. Cream, muted teal and warm brown palette, gentle cel shading. All papers, calendars, receipts, screens, card faces, coins and keys must be completely blank and unlabeled, no handwriting-like strokes, letters, digits, money denominations, logos, speech bubbles, diagrams or watermarks. Natural anatomy and correct orientation of collars, wrists and bag straps. No ID badges or lanyards. Match each referenced identity exactly; do not blend them. Bac Sau has rectangular glasses, beige checked shirt, brown trousers and exactly one blue pen behind his ear, and a red ledger. Exactly one person: Bac Sau only. No young woman. No text, letters, numbers, logos or watermarks. Create a fresh single instant and genuinely different camera composition from the identity reference. New high oblique view with subject at right and props foreground. Do not include any calculator or printed banknotes. Coins must be smooth featureless circular counters. No text, letters, numbers, logos or watermarks.",
+    "original": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-53456f50-40a2-469d-bc00-96f9fc59d6d2.png",
+    "destination": "D:\\Repo\\bac-sau-so-sach\\videos\\07-the-tin-dung\\anh\\shots\\canh-04-14.png",
+    "recoveredFrom": "same-thread image_gen.generation completed event; exact prompt match",
+    "completedAt": "2026-10-23T06:04:18.889Z",
+    "sha256": "f4650508c209515e4746e20762b6f09142b32d458bbc1b0c02f38d926bafec3a",
+    "manualReviewed": true,
+    "review": "Identity, anatomy, body/collar/bag orientation, no readable letters/digits/logos; all 7 contact sheets inspected. Last two also inspected full size."
+  },
+  {
+    "id": "canh-04-15",
+    "image": "anh/shots/canh-04-15.png",
+    "refs": [
+      "assets/nhan-vat/con-ut.png"
+    ],
+    "prompt": "Use case: illustration-story. Video background asset. Flat 2D cartoon, thick outlines, warm colors, 16:9 landscape. One coherent full-bleed illustration, no collage. Muted teal, cream and warm brown, gentle cel shading. Ut only, young Vietnamese woman, high black ponytail, white short sleeve blouse, beige trousers, brown crossbody bag, white shoes, no glasses. Ut looks carefully at a smaller remaining pile beside a blank calendar. Intimate view of subject with props. Match referenced character identities exactly. All papers, screens, receipts, cards, calendars, coins, envelopes and keypads completely blank and unlabelled. No letters, digits, written symbols, handwriting-like strokes, logos, watermark, speech balloons, graphs or text. Clocks may have plain ticks and hands only. Correct natural anatomy, wrists, collars and bag strap orientation; only two arms per person, no extra fingers or limbs. No ID badge or lanyard. Keep faces in upper half, allow clean lower space for native captions. Render one single landscape image at 1536x864 or equivalent 16:9. No text, letters, numbers, logos or watermarks. Create a fresh single instant and genuinely different camera composition from the identity reference. New low eye-level close view with subject at left, different from reference scene. Do not include any calculator or printed banknotes. Coins must be smooth featureless circular counters. No text, letters, numbers, logos or watermarks.",
+    "original": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-cc0791e8-b9f2-43ba-9423-8bfe562b1f83.png",
+    "destination": "D:\\Repo\\bac-sau-so-sach\\videos\\07-the-tin-dung\\anh\\shots\\canh-04-15.png",
+    "recoveredFrom": "same-thread image_gen.generation completed event; exact prompt match",
+    "completedAt": "2026-10-23T06:04:42.848Z",
+    "sha256": "fe1b2647bddd5758168a1a2365593d59d90bd77789b3dd2096960c7f74b2c0ea",
+    "manualReviewed": true,
+    "review": "Identity, anatomy, body/collar/bag orientation, no readable letters/digits/logos; all 7 contact sheets inspected. Last two also inspected full size."
+  },
+  {
+    "id": "canh-05-08",
+    "image": "anh/shots/canh-05-08.png",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png"
+    ],
+    "prompt": "Use case: illustration-story. Video background asset. Flat 2D cartoon, thick outlines, warm colors, 16:9 landscape. One coherent full-bleed illustration, no collage. Muted teal, cream and warm brown, gentle cel shading. Bac Sau only, an older Vietnamese accountant, rectangular glasses, beige checked shirt, brown trousers, red ledger and exactly one blue pen behind one ear. Bac Sau separates an already-paid envelope from a remaining debt envelope. Three-quarter table view. Match referenced character identities exactly. All papers, screens, receipts, cards, calendars, coins, envelopes and keypads completely blank and unlabelled. No letters, digits, written symbols, handwriting-like strokes, logos, watermark, speech balloons, graphs or text. Clocks may have plain ticks and hands only. Correct natural anatomy, wrists, collars and bag strap orientation; only two arms per person, no extra fingers or limbs. No ID badge or lanyard. Keep faces in upper half, allow clean lower space for native captions. Render one single landscape image at 1536x864 or equivalent 16:9. No text, letters, numbers, logos or watermarks. Create a fresh single instant and genuinely different camera composition from the identity reference. New straight-on medium view with a clean uncluttered foreground. Do not include any calculator or printed banknotes. Coins must be smooth featureless circular counters. No text, letters, numbers, logos or watermarks.",
+    "original": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-cad33571-694d-4edc-921d-0ffcd0cdeb16.png",
+    "destination": "D:\\Repo\\bac-sau-so-sach\\videos\\07-the-tin-dung\\anh\\shots\\canh-05-08.png",
+    "recoveredFrom": "same-thread image_gen.generation completed event; exact prompt match",
+    "completedAt": "2026-10-23T06:05:22.330Z",
+    "sha256": "7e1e166a1035d4b1b1c5ee59d9964a29dd0d91c6de125beab3e76c2ba7893ef3",
+    "manualReviewed": true,
+    "review": "Identity, anatomy, body/collar/bag orientation, no readable letters/digits/logos; all 7 contact sheets inspected. Last two also inspected full size."
+  },
+  {
+    "id": "canh-05-09",
+    "image": "anh/shots/canh-05-09.png",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png"
+    ],
+    "prompt": "Use case: illustration-story. Video background asset. Flat 2D cartoon, thick outlines, warm colors, 16:9 landscape. One coherent full-bleed illustration, no collage. Muted teal, cream and warm brown, gentle cel shading. Bac Sau only, an older Vietnamese accountant, rectangular glasses, beige checked shirt, brown trousers, red ledger and exactly one blue pen behind one ear. Bac Sau places a tiny reward coin next to a blank statement, sober expression. Intimate view of subject with props. Match referenced character identities exactly. All papers, screens, receipts, cards, calendars, coins, envelopes and keypads completely blank and unlabelled. No letters, digits, written symbols, handwriting-like strokes, logos, watermark, speech balloons, graphs or text. Clocks may have plain ticks and hands only. Correct natural anatomy, wrists, collars and bag strap orientation; only two arms per person, no extra fingers or limbs. No ID badge or lanyard. Keep faces in upper half, allow clean lower space for native captions. Render one single landscape image at 1536x864 or equivalent 16:9. No text, letters, numbers, logos or watermarks. Create a fresh single instant and genuinely different camera composition from the identity reference. New high oblique view with subject at right and props foreground. Do not include any calculator or printed banknotes. Coins must be smooth featureless circular counters. No text, letters, numbers, logos or watermarks.",
+    "original": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-49d7ab00-2ae9-4e32-9228-31e7d133c51a.png",
+    "destination": "D:\\Repo\\bac-sau-so-sach\\videos\\07-the-tin-dung\\anh\\shots\\canh-05-09.png",
+    "recoveredFrom": "same-thread image_gen.generation completed event; exact prompt match",
+    "completedAt": "2026-10-23T06:05:59.544Z",
+    "sha256": "0d497cd3066e02343b46a76113bd897a47554f3c82d56ed048b55c688e30a720",
+    "manualReviewed": true,
+    "review": "Identity, anatomy, body/collar/bag orientation, no readable letters/digits/logos; all 7 contact sheets inspected. Last two also inspected full size."
+  },
+  {
+    "id": "canh-05-10",
+    "image": "anh/shots/canh-05-10.png",
+    "refs": [
+      "assets/nhan-vat/con-ut.png"
+    ],
+    "prompt": "Use case: illustration-story. Video background asset. Flat 2D cartoon, thick outlines, warm colors, 16:9 landscape. One coherent full-bleed illustration, no collage. Muted teal, cream and warm brown, gentle cel shading. Ut only, young Vietnamese woman, high black ponytail, white short sleeve blouse, beige trousers, brown crossbody bag, white shoes, no glasses. Ut compares a small reward coin with a much larger pile of smooth coins, surprised. Medium eye-level portrait framing. Match referenced character identities exactly. All papers, screens, receipts, cards, calendars, coins, envelopes and keypads completely blank and unlabelled. No letters, digits, written symbols, handwriting-like strokes, logos, watermark, speech balloons, graphs or text. Clocks may have plain ticks and hands only. Correct natural anatomy, wrists, collars and bag strap orientation; only two arms per person, no extra fingers or limbs. No ID badge or lanyard. Keep faces in upper half, allow clean lower space for native captions. Render one single landscape image at 1536x864 or equivalent 16:9. No text, letters, numbers, logos or watermarks. Create a fresh single instant and genuinely different camera composition from the identity reference. New low eye-level close view with subject at left, different from reference scene. Do not include any calculator or printed banknotes. Coins must be smooth featureless circular counters. No text, letters, numbers, logos or watermarks.",
+    "original": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-4f0b61f8-76b9-4c66-981a-87ef956c863d.png",
+    "destination": "D:\\Repo\\bac-sau-so-sach\\videos\\07-the-tin-dung\\anh\\shots\\canh-05-10.png",
+    "recoveredFrom": "same-thread image_gen.generation completed event; exact prompt match",
+    "completedAt": "2026-10-23T06:06:39.372Z",
+    "sha256": "045a15a52191dc57d1975eaeafff40f14b7940563e846d9ffcbde7fc13725e3f",
+    "manualReviewed": true,
+    "review": "Identity, anatomy, body/collar/bag orientation, no readable letters/digits/logos; all 7 contact sheets inspected. Last two also inspected full size."
+  },
+  {
+    "id": "canh-05-11",
+    "image": "anh/shots/canh-05-11.png",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png",
+      "assets/nhan-vat/con-ut.png"
+    ],
+    "prompt": "Use case: illustration-story. Video background asset. Flat 2D cartoon, thick outlines, warm colors, 16:9 landscape. One coherent full-bleed illustration, no collage. Muted teal, cream and warm brown, gentle cel shading. Exactly two people, Bac Sau is the older Vietnamese accountant with beige checked shirt, rectangular glasses, one blue pen behind one ear and red ledger; Ut is the young Vietnamese woman with high black ponytail, white short sleeve blouse, beige trousers, white shoes and brown crossbody bag. Keep identities distinct. Bac Sau and Ut compare a tiny reward tray with the much larger interest tray. Wide environmental view. Match referenced character identities exactly. All papers, screens, receipts, cards, calendars, coins, envelopes and keypads completely blank and unlabelled. No letters, digits, written symbols, handwriting-like strokes, logos, watermark, speech balloons, graphs or text. Clocks may have plain ticks and hands only. Correct natural anatomy, wrists, collars and bag strap orientation; only two arms per person, no extra fingers or limbs. No ID badge or lanyard. Keep faces in upper half, allow clean lower space for native captions. Render one single landscape image at 1536x864 or equivalent 16:9. No text, letters, numbers, logos or watermarks. Create a fresh single instant and genuinely different camera composition from the identity reference. New wider view from the opposite side of the table, showing home surroundings. Do not include any calculator or printed banknotes. Coins must be smooth featureless circular counters. No text, letters, numbers, logos or watermarks.",
+    "original": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-91660075-fa6c-4126-8413-f57b9ceb9e04.png",
+    "destination": "D:\\Repo\\bac-sau-so-sach\\videos\\07-the-tin-dung\\anh\\shots\\canh-05-11.png",
+    "recoveredFrom": "same-thread image_gen.generation completed event; exact prompt match",
+    "completedAt": "2026-10-23T06:07:20.024Z",
+    "sha256": "6edade00f3c74cea272ec86c237507e1db664b94148104d61801a3cef49682ff",
+    "manualReviewed": true,
+    "review": "Identity, anatomy, body/collar/bag orientation, no readable letters/digits/logos; all 7 contact sheets inspected. Last two also inspected full size."
+  },
+  {
+    "id": "canh-05-12",
+    "image": "anh/shots/canh-05-12.png",
+    "refs": [
+      "assets/nhan-vat/con-ut.png"
+    ],
+    "prompt": "Use case: illustration-story. Video background asset. Flat 2D cartoon, thick outlines, warm colors, 16:9 landscape. One coherent full-bleed illustration, no collage. Muted teal, cream and warm brown, gentle cel shading. Ut only, young Vietnamese woman, high black ponytail, white short sleeve blouse, beige trousers, brown crossbody bag, white shoes, no glasses. Ut puts the reward coin aside and studies the large debt pile thoughtfully. Calm frontal composition with depth. Match referenced character identities exactly. All papers, screens, receipts, cards, calendars, coins, envelopes and keypads completely blank and unlabelled. No letters, digits, written symbols, handwriting-like strokes, logos, watermark, speech balloons, graphs or text. Clocks may have plain ticks and hands only. Correct natural anatomy, wrists, collars and bag strap orientation; only two arms per person, no extra fingers or limbs. No ID badge or lanyard. Keep faces in upper half, allow clean lower space for native captions. Render one single landscape image at 1536x864 or equivalent 16:9. No text, letters, numbers, logos or watermarks. Create a fresh single instant and genuinely different camera composition from the identity reference. New tight medium three-quarter composition with props on the left. Do not include any calculator or printed banknotes. Coins must be smooth featureless circular counters. No text, letters, numbers, logos or watermarks.",
+    "original": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-4bbef585-5820-40ac-a5cc-45347b0a0abf.png",
+    "destination": "D:\\Repo\\bac-sau-so-sach\\videos\\07-the-tin-dung\\anh\\shots\\canh-05-12.png",
+    "recoveredFrom": "same-thread image_gen.generation completed event; exact prompt match",
+    "completedAt": "2026-10-23T06:04:13.033Z",
+    "sha256": "448e1cf2881c405b6774b670faa495867d18a0d268be2004a7f47af7ba316169",
+    "manualReviewed": true,
+    "review": "Identity, anatomy, body/collar/bag orientation, no readable letters/digits/logos; all 7 contact sheets inspected. Last two also inspected full size."
+  },
+  {
+    "id": "canh-05-13",
+    "image": "anh/shots/canh-05-13.png",
+    "refs": [],
+    "prompt": "Use case: illustration-story. Video background asset. Flat 2D cartoon, thick outlines, warm colors, 16:9 landscape. One coherent full-bleed illustration, no collage. Muted teal, cream and warm brown, gentle cel shading. Objects only, no people, no human faces or hands. One plain envelope set aside from a large debt tray and smaller interest tray, top-down. Top-down or slightly elevated close framing. Match referenced character identities exactly. All papers, screens, receipts, cards, calendars, coins, envelopes and keypads completely blank and unlabelled. No letters, digits, written symbols, handwriting-like strokes, logos, watermark, speech balloons, graphs or text. Clocks may have plain ticks and hands only. Correct natural anatomy, wrists, collars and bag strap orientation; only two arms per person, no extra fingers or limbs. No ID badge or lanyard. Keep faces in upper half, allow clean lower space for native captions. Render one single landscape image at 1536x864 or equivalent 16:9. No text, letters, numbers, logos or watermarks. Create a fresh single instant and genuinely different camera composition from the identity reference. New straight-on medium view with a clean uncluttered foreground. Do not include any calculator or printed banknotes. Coins must be smooth featureless circular counters. No text, letters, numbers, logos or watermarks.",
+    "original": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-0e2b2c39-aa71-491d-8b90-7d3b75956080.png",
+    "destination": "D:\\Repo\\bac-sau-so-sach\\videos\\07-the-tin-dung\\anh\\shots\\canh-05-13.png",
+    "recoveredFrom": "same-thread image_gen.generation completed event; exact prompt match",
+    "completedAt": "2026-10-23T06:04:45.654Z",
+    "sha256": "a86c2aa235fa51e6595303771df46da77594d9408b67e8c46d8dc6ee951d8737",
+    "manualReviewed": true,
+    "review": "Identity, anatomy, body/collar/bag orientation, no readable letters/digits/logos; all 7 contact sheets inspected. Last two also inspected full size."
+  },
+  {
+    "id": "canh-05-14",
+    "image": "anh/shots/canh-05-14.png",
+    "refs": [
+      "assets/nhan-vat/con-ut.png"
+    ],
+    "prompt": "Flat 2D cartoon, thick outlines, warm colors, 16:9. Reference Ut only. Ut points at one small plain coin beside a much larger pile of unmarked coins and blank statement envelope on a home table, realizing a mismatch. Teal card flat on table, natural hands. No readable text, numbers, logos or watermark. One coherent full-bleed illustration, not a collage. Cream, muted teal and warm brown palette, gentle cel shading. All papers, calendars, receipts, screens, card faces, coins and keys must be completely blank and unlabeled, no handwriting-like strokes, letters, digits, money denominations, logos, speech bubbles, diagrams or watermarks. Natural anatomy and correct orientation of collars, wrists and bag straps. No ID badges or lanyards. Match each referenced identity exactly; do not blend them. Ut has high black ponytail, white short sleeve blouse, beige trousers and a brown bag. No glasses or pen on Ut. Exactly one person: Ut only. No older accountant. No text, letters, numbers, logos or watermarks. Create a fresh single instant and genuinely different camera composition from the identity reference. New high oblique view with subject at right and props foreground. Do not include any calculator or printed banknotes. Coins must be smooth featureless circular counters. No text, letters, numbers, logos or watermarks.",
+    "original": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-94f184bf-d6f4-42cc-a8d1-a745fc3f2e7f.png",
+    "destination": "D:\\Repo\\bac-sau-so-sach\\videos\\07-the-tin-dung\\anh\\shots\\canh-05-14.png",
+    "recoveredFrom": "same-thread image_gen.generation completed event; exact prompt match",
+    "completedAt": "2026-10-23T06:04:05.333Z",
+    "sha256": "30c999219d1a4f0127c31ee42f52a779dceb76d919a080d5a8769db750d9da04",
+    "manualReviewed": true,
+    "review": "Identity, anatomy, body/collar/bag orientation, no readable letters/digits/logos; all 7 contact sheets inspected. Last two also inspected full size."
+  },
+  {
+    "id": "canh-05-15",
+    "image": "anh/shots/canh-05-15.png",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png"
+    ],
+    "prompt": "Use case: illustration-story. Video background asset. Flat 2D cartoon, thick outlines, warm colors, 16:9 landscape. One coherent full-bleed illustration, no collage. Muted teal, cream and warm brown, gentle cel shading. Bac Sau only, an older Vietnamese accountant, rectangular glasses, beige checked shirt, brown trousers, red ledger and exactly one blue pen behind one ear. Bac Sau places a tiny reward coin next to a blank statement, sober expression. Intimate view of subject with props. Match referenced character identities exactly. All papers, screens, receipts, cards, calendars, coins, envelopes and keypads completely blank and unlabelled. No letters, digits, written symbols, handwriting-like strokes, logos, watermark, speech balloons, graphs or text. Clocks may have plain ticks and hands only. Correct natural anatomy, wrists, collars and bag strap orientation; only two arms per person, no extra fingers or limbs. No ID badge or lanyard. Keep faces in upper half, allow clean lower space for native captions. Render one single landscape image at 1536x864 or equivalent 16:9. No text, letters, numbers, logos or watermarks. Create a fresh single instant and genuinely different camera composition from the identity reference. New low eye-level close view with subject at left, different from reference scene. Do not include any calculator or printed banknotes. Coins must be smooth featureless circular counters. No text, letters, numbers, logos or watermarks.",
+    "original": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-734d2ca4-090f-4b36-b3eb-2d26f65a910f.png",
+    "destination": "D:\\Repo\\bac-sau-so-sach\\videos\\07-the-tin-dung\\anh\\shots\\canh-05-15.png",
+    "recoveredFrom": "same-thread image_gen.generation completed event; exact prompt match",
+    "completedAt": "2026-10-23T06:04:28.529Z",
+    "sha256": "2f3a7c2d26171a7d5d5e39d843e615ed714e75079a44c67bfb1cc5560ea6c99c",
+    "manualReviewed": true,
+    "review": "Identity, anatomy, body/collar/bag orientation, no readable letters/digits/logos; all 7 contact sheets inspected. Last two also inspected full size."
+  },
+  {
+    "id": "canh-06-08",
+    "image": "anh/shots/canh-06-08.png",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png"
+    ],
+    "prompt": "Use case: illustration-story. Video background asset. Flat 2D cartoon, thick outlines, warm colors, 16:9 landscape. One coherent full-bleed illustration, no collage. Muted teal, cream and warm brown, gentle cel shading. Bac Sau only, an older Vietnamese accountant, rectangular glasses, beige checked shirt, brown trousers, red ledger and exactly one blue pen behind one ear. Bac Sau compares two debt trays with slightly different remaining coin amounts. Three-quarter table view. Match referenced character identities exactly. All papers, screens, receipts, cards, calendars, coins, envelopes and keypads completely blank and unlabelled. No letters, digits, written symbols, handwriting-like strokes, logos, watermark, speech balloons, graphs or text. Clocks may have plain ticks and hands only. Correct natural anatomy, wrists, collars and bag strap orientation; only two arms per person, no extra fingers or limbs. No ID badge or lanyard. Keep faces in upper half, allow clean lower space for native captions. Render one single landscape image at 1536x864 or equivalent 16:9. No text, letters, numbers, logos or watermarks. Create a fresh single instant and genuinely different camera composition from the identity reference. New straight-on medium view with a clean uncluttered foreground. Do not include any calculator or printed banknotes. Coins must be smooth featureless circular counters. No text, letters, numbers, logos or watermarks.",
+    "original": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-40988d4a-e644-405c-8647-5c19ee29ac10.png",
+    "destination": "D:\\Repo\\bac-sau-so-sach\\videos\\07-the-tin-dung\\anh\\shots\\canh-06-08.png",
+    "recoveredFrom": "same-thread image_gen.generation completed event; exact prompt match",
+    "completedAt": "2026-10-23T06:05:06.527Z",
+    "sha256": "643e7d747ce1cb7c639e3d7d764bc3217701b31a1248ad406c09ddfc4ea6a54a",
+    "manualReviewed": true,
+    "review": "Identity, anatomy, body/collar/bag orientation, no readable letters/digits/logos; all 7 contact sheets inspected. Last two also inspected full size."
+  },
+  {
+    "id": "canh-06-09",
+    "image": "anh/shots/canh-06-09.png",
+    "refs": [
+      "assets/nhan-vat/con-ut.png"
+    ],
+    "prompt": "Use case: illustration-story. Video background asset. Flat 2D cartoon, thick outlines, warm colors, 16:9 landscape. One coherent full-bleed illustration, no collage. Muted teal, cream and warm brown, gentle cel shading. Ut only, young Vietnamese woman, high black ponytail, white short sleeve blouse, beige trousers, brown crossbody bag, white shoes, no glasses. Ut closes her wallet carefully beside a grocery basket and plain statement. Intimate view of subject with props. Match referenced character identities exactly. All papers, screens, receipts, cards, calendars, coins, envelopes and keypads completely blank and unlabelled. No letters, digits, written symbols, handwriting-like strokes, logos, watermark, speech balloons, graphs or text. Clocks may have plain ticks and hands only. Correct natural anatomy, wrists, collars and bag strap orientation; only two arms per person, no extra fingers or limbs. No ID badge or lanyard. Keep faces in upper half, allow clean lower space for native captions. Render one single landscape image at 1536x864 or equivalent 16:9. No text, letters, numbers, logos or watermarks. Create a fresh single instant and genuinely different camera composition from the identity reference. New high oblique view with subject at right and props foreground. Do not include any calculator or printed banknotes. Coins must be smooth featureless circular counters. No text, letters, numbers, logos or watermarks.",
+    "original": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-27ab20cd-e7f5-463b-a558-f84e7dab255c.png",
+    "destination": "D:\\Repo\\bac-sau-so-sach\\videos\\07-the-tin-dung\\anh\\shots\\canh-06-09.png",
+    "recoveredFrom": "same-thread image_gen.generation completed event; exact prompt match",
+    "completedAt": "2026-10-23T06:05:49.336Z",
+    "sha256": "8683e331a94bcb4c84186370086f191cadf7ad682939c1ba3641982fd1b337b3",
+    "manualReviewed": true,
+    "review": "Identity, anatomy, body/collar/bag orientation, no readable letters/digits/logos; all 7 contact sheets inspected. Last two also inspected full size."
+  },
+  {
+    "id": "canh-06-10",
+    "image": "anh/shots/canh-06-10.png",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png",
+      "assets/nhan-vat/con-ut.png"
+    ],
+    "prompt": "Use case: illustration-story. Video background asset. Flat 2D cartoon, thick outlines, warm colors, 16:9 landscape. One coherent full-bleed illustration, no collage. Muted teal, cream and warm brown, gentle cel shading. Exactly two people, Bac Sau is the older Vietnamese accountant with beige checked shirt, rectangular glasses, one blue pen behind one ear and red ledger; Ut is the young Vietnamese woman with high black ponytail, white short sleeve blouse, beige trousers, white shoes and brown crossbody bag. Keep identities distinct. Ut asks Bac Sau about two different payment envelopes on a home table. Medium eye-level portrait framing. Match referenced character identities exactly. All papers, screens, receipts, cards, calendars, coins, envelopes and keypads completely blank and unlabelled. No letters, digits, written symbols, handwriting-like strokes, logos, watermark, speech balloons, graphs or text. Clocks may have plain ticks and hands only. Correct natural anatomy, wrists, collars and bag strap orientation; only two arms per person, no extra fingers or limbs. No ID badge or lanyard. Keep faces in upper half, allow clean lower space for native captions. Render one single landscape image at 1536x864 or equivalent 16:9. No text, letters, numbers, logos or watermarks. Create a fresh single instant and genuinely different camera composition from the identity reference. New low eye-level close view with subject at left, different from reference scene. Do not include any calculator or printed banknotes. Coins must be smooth featureless circular counters. No text, letters, numbers, logos or watermarks.",
+    "original": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-5c1d1a96-a4b5-4c42-bfc2-5a2207b8f5b4.png",
+    "destination": "D:\\Repo\\bac-sau-so-sach\\videos\\07-the-tin-dung\\anh\\shots\\canh-06-10.png",
+    "recoveredFrom": "same-thread image_gen.generation completed event; exact prompt match",
+    "completedAt": "2026-10-23T06:06:30.502Z",
+    "sha256": "023230291eb31cf8d535bfed1b55282c316f7d6b523f7a5f669d45662c14bbd3",
+    "manualReviewed": true,
+    "review": "Identity, anatomy, body/collar/bag orientation, no readable letters/digits/logos; all 7 contact sheets inspected. Last two also inspected full size."
+  },
+  {
+    "id": "canh-06-11",
+    "image": "anh/shots/canh-06-11.png",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png"
+    ],
+    "prompt": "Use case: illustration-story. Video background asset. Flat 2D cartoon, thick outlines, warm colors, 16:9 landscape. One coherent full-bleed illustration, no collage. Muted teal, cream and warm brown, gentle cel shading. Bac Sau only, an older Vietnamese accountant, rectangular glasses, beige checked shirt, brown trousers, red ledger and exactly one blue pen behind one ear. Bac Sau sets a fully paid empty debt tray beside a closed plain envelope. Wide environmental view. Match referenced character identities exactly. All papers, screens, receipts, cards, calendars, coins, envelopes and keypads completely blank and unlabelled. No letters, digits, written symbols, handwriting-like strokes, logos, watermark, speech balloons, graphs or text. Clocks may have plain ticks and hands only. Correct natural anatomy, wrists, collars and bag strap orientation; only two arms per person, no extra fingers or limbs. No ID badge or lanyard. Keep faces in upper half, allow clean lower space for native captions. Render one single landscape image at 1536x864 or equivalent 16:9. No text, letters, numbers, logos or watermarks. Create a fresh single instant and genuinely different camera composition from the identity reference. New wider view from the opposite side of the table, showing home surroundings. Do not include any calculator or printed banknotes. Coins must be smooth featureless circular counters. No text, letters, numbers, logos or watermarks.",
+    "original": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-19496dac-da8a-415b-b92b-f41cd1e6cb6e.png",
+    "destination": "D:\\Repo\\bac-sau-so-sach\\videos\\07-the-tin-dung\\anh\\shots\\canh-06-11.png",
+    "recoveredFrom": "same-thread image_gen.generation completed event; exact prompt match",
+    "completedAt": "2026-10-23T06:05:12.176Z",
+    "sha256": "375f18a2a4c75a23c2569a71295c27a35f590deb019471af0275a6e293fc547d",
+    "manualReviewed": true,
+    "review": "Identity, anatomy, body/collar/bag orientation, no readable letters/digits/logos; all 7 contact sheets inspected. Last two also inspected full size."
+  },
+  {
+    "id": "canh-06-12",
+    "image": "anh/shots/canh-06-12.png",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png",
+      "assets/nhan-vat/con-ut.png"
+    ],
+    "prompt": "Use case: illustration-story. Video background asset. Flat 2D cartoon, thick outlines, warm colors, 16:9 landscape. One coherent full-bleed illustration, no collage. Muted teal, cream and warm brown, gentle cel shading. Exactly two people, Bac Sau is the older Vietnamese accountant with beige checked shirt, rectangular glasses, one blue pen behind one ear and red ledger; Ut is the young Vietnamese woman with high black ponytail, white short sleeve blouse, beige trousers, white shoes and brown crossbody bag. Keep identities distinct. Bac Sau and Ut consider a blank phone screen and red ledger, calm practical discussion. Calm frontal composition with depth. Match referenced character identities exactly. All papers, screens, receipts, cards, calendars, coins, envelopes and keypads completely blank and unlabelled. No letters, digits, written symbols, handwriting-like strokes, logos, watermark, speech balloons, graphs or text. Clocks may have plain ticks and hands only. Correct natural anatomy, wrists, collars and bag strap orientation; only two arms per person, no extra fingers or limbs. No ID badge or lanyard. Keep faces in upper half, allow clean lower space for native captions. Render one single landscape image at 1536x864 or equivalent 16:9. No text, letters, numbers, logos or watermarks. Create a fresh single instant and genuinely different camera composition from the identity reference. New tight medium three-quarter composition with props on the left. Do not include any calculator or printed banknotes. Coins must be smooth featureless circular counters. No text, letters, numbers, logos or watermarks.",
+    "original": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-bb26825c-cfac-4d2d-94ba-4def430b29e8.png",
+    "destination": "D:\\Repo\\bac-sau-so-sach\\videos\\07-the-tin-dung\\anh\\shots\\canh-06-12.png",
+    "recoveredFrom": "same-thread image_gen.generation completed event; exact prompt match",
+    "completedAt": "2026-10-23T06:05:54.891Z",
+    "sha256": "a741a20ba2542445c9cf78b65b266a2eef97f6ecc3145aa5b03a651d6a2aac45",
+    "manualReviewed": true,
+    "review": "Identity, anatomy, body/collar/bag orientation, no readable letters/digits/logos; all 7 contact sheets inspected. Last two also inspected full size."
+  },
+  {
+    "id": "canh-06-13",
+    "image": "anh/shots/canh-06-13.png",
+    "refs": [],
+    "prompt": "Use case: illustration-story. Video background asset. Flat 2D cartoon, thick outlines, warm colors, 16:9 landscape. One coherent full-bleed illustration, no collage. Muted teal, cream and warm brown, gentle cel shading. Objects only, no people, no human faces or hands. Two very similar small interest trays beside two repayment envelopes, overhead still life. Top-down or slightly elevated close framing. Match referenced character identities exactly. All papers, screens, receipts, cards, calendars, coins, envelopes and keypads completely blank and unlabelled. No letters, digits, written symbols, handwriting-like strokes, logos, watermark, speech balloons, graphs or text. Clocks may have plain ticks and hands only. Correct natural anatomy, wrists, collars and bag strap orientation; only two arms per person, no extra fingers or limbs. No ID badge or lanyard. Keep faces in upper half, allow clean lower space for native captions. Render one single landscape image at 1536x864 or equivalent 16:9. No text, letters, numbers, logos or watermarks. Create a fresh single instant and genuinely different camera composition from the identity reference. New straight-on medium view with a clean uncluttered foreground. Do not include any calculator or printed banknotes. Coins must be smooth featureless circular counters. No text, letters, numbers, logos or watermarks.",
+    "original": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-719a1586-e292-4a01-8622-c53199dc779d.png",
+    "destination": "D:\\Repo\\bac-sau-so-sach\\videos\\07-the-tin-dung\\anh\\shots\\canh-06-13.png",
+    "recoveredFrom": "same-thread image_gen.generation completed event; exact prompt match",
+    "completedAt": "2026-10-23T06:06:18.876Z",
+    "sha256": "333966ae5bff1a8b58cfb01bd80766b041f6820019ae0931d9244467ca606e38",
+    "manualReviewed": true,
+    "review": "Identity, anatomy, body/collar/bag orientation, no readable letters/digits/logos; all 7 contact sheets inspected. Last two also inspected full size."
+  },
+  {
+    "id": "canh-06-14",
+    "image": "anh/shots/canh-06-14.png",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png",
+      "assets/nhan-vat/con-ut.png"
+    ],
+    "prompt": "Flat 2D cartoon, thick outlines, warm colors, 16:9. Use both references. Bac Sau and Ut compare two plain envelopes placed apart on a desk. He gestures with an open palm; she holds a blank paper. Red ledger centered, natural hands, no text, numbers, brands or watermark. One coherent full-bleed illustration, not a collage. Cream, muted teal and warm brown palette, gentle cel shading. All papers, calendars, receipts, screens, card faces, coins and keys must be completely blank and unlabeled, no handwriting-like strokes, letters, digits, money denominations, logos, speech bubbles, diagrams or watermarks. Natural anatomy and correct orientation of collars, wrists and bag straps. No ID badges or lanyards. Match each referenced identity exactly; do not blend them. Bac Sau has rectangular glasses, beige checked shirt, brown trousers and exactly one blue pen behind his ear, and a red ledger. Ut has high black ponytail, white short sleeve blouse, beige trousers and a brown bag. No glasses or pen on Ut. No text, letters, numbers, logos or watermarks. Create a fresh single instant and genuinely different camera composition from the identity reference. New high oblique view with subject at right and props foreground. Do not include any calculator or printed banknotes. Coins must be smooth featureless circular counters. No text, letters, numbers, logos or watermarks.",
+    "original": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-0370d15e-ac93-4907-a601-eb0e8dbf086d.png",
+    "destination": "D:\\Repo\\bac-sau-so-sach\\videos\\07-the-tin-dung\\anh\\shots\\canh-06-14.png",
+    "recoveredFrom": "same-thread image_gen.generation completed event; exact prompt match",
+    "completedAt": "2026-10-23T06:07:31.553Z",
+    "sha256": "aca6f151c9c3a87f931e700023619220dca5279d93ee3622b874546df4c7c4a0",
+    "manualReviewed": true,
+    "review": "Identity, anatomy, body/collar/bag orientation, no readable letters/digits/logos; all 7 contact sheets inspected. Last two also inspected full size."
+  },
+  {
+    "id": "canh-06-15",
+    "image": "anh/shots/canh-06-15.png",
+    "refs": [
+      "assets/nhan-vat/con-ut.png"
+    ],
+    "prompt": "Use case: illustration-story. Video background asset. Flat 2D cartoon, thick outlines, warm colors, 16:9 landscape. One coherent full-bleed illustration, no collage. Muted teal, cream and warm brown, gentle cel shading. Ut only, young Vietnamese woman, high black ponytail, white short sleeve blouse, beige trousers, brown crossbody bag, white shoes, no glasses. Ut closes her wallet carefully beside a grocery basket and plain statement. Intimate view of subject with props. Match referenced character identities exactly. All papers, screens, receipts, cards, calendars, coins, envelopes and keypads completely blank and unlabelled. No letters, digits, written symbols, handwriting-like strokes, logos, watermark, speech balloons, graphs or text. Clocks may have plain ticks and hands only. Correct natural anatomy, wrists, collars and bag strap orientation; only two arms per person, no extra fingers or limbs. No ID badge or lanyard. Keep faces in upper half, allow clean lower space for native captions. Render one single landscape image at 1536x864 or equivalent 16:9. No text, letters, numbers, logos or watermarks. Create a fresh single instant and genuinely different camera composition from the identity reference. New low eye-level close view with subject at left, different from reference scene. Do not include any calculator or printed banknotes. Coins must be smooth featureless circular counters. No text, letters, numbers, logos or watermarks.",
+    "original": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-09b2228a-9b28-41ae-a9fa-4d4722186296.png",
+    "destination": "D:\\Repo\\bac-sau-so-sach\\videos\\07-the-tin-dung\\anh\\shots\\canh-06-15.png",
+    "recoveredFrom": "same-thread image_gen.generation completed event; exact prompt match",
+    "completedAt": "2026-10-23T06:08:13.305Z",
+    "sha256": "d2a94e87d0fd267999ac28650265f90269a83ec318486facbc257f9ceab4a1cd",
+    "manualReviewed": true,
+    "review": "Identity, anatomy, body/collar/bag orientation, no readable letters/digits/logos; all 7 contact sheets inspected. Last two also inspected full size."
+  },
+  {
+    "id": "canh-06-16",
+    "image": "anh/shots/canh-06-16.png",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png"
+    ],
+    "prompt": "Use case: illustration-story. Video background asset. Flat 2D cartoon, thick outlines, warm colors, 16:9 landscape. One coherent full-bleed illustration, no collage. Muted teal, cream and warm brown, gentle cel shading. Bac Sau only, an older Vietnamese accountant, rectangular glasses, beige checked shirt, brown trousers, red ledger and exactly one blue pen behind one ear. Bac Sau compares two debt trays with slightly different remaining coin amounts. Three-quarter table view. Match referenced character identities exactly. All papers, screens, receipts, cards, calendars, coins, envelopes and keypads completely blank and unlabelled. No letters, digits, written symbols, handwriting-like strokes, logos, watermark, speech balloons, graphs or text. Clocks may have plain ticks and hands only. Correct natural anatomy, wrists, collars and bag strap orientation; only two arms per person, no extra fingers or limbs. No ID badge or lanyard. Keep faces in upper half, allow clean lower space for native captions. Render one single landscape image at 1536x864 or equivalent 16:9. No text, letters, numbers, logos or watermarks. Create a fresh single instant and genuinely different camera composition from the identity reference. New wider view from the opposite side of the table, showing home surroundings. Do not include any calculator or printed banknotes. Coins must be smooth featureless circular counters. No text, letters, numbers, logos or watermarks.",
+    "original": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-eb4bc8b2-b01e-472b-b4f8-e9e454d0bd87.png",
+    "destination": "D:\\Repo\\bac-sau-so-sach\\videos\\07-the-tin-dung\\anh\\shots\\canh-06-16.png",
+    "recoveredFrom": "same-thread image_gen.generation completed event; exact prompt match",
+    "completedAt": "2026-10-23T06:06:22.107Z",
+    "sha256": "133b0ff44f24f31c3d397ab3b897e3c7ee13fc74dd74e3c0a76162073d6c52a7",
+    "manualReviewed": true,
+    "review": "Identity, anatomy, body/collar/bag orientation, no readable letters/digits/logos; all 7 contact sheets inspected. Last two also inspected full size."
+  },
+  {
+    "id": "canh-07-08",
+    "image": "anh/shots/canh-07-08.png",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png"
+    ],
+    "prompt": "Use case: illustration-story. Video background asset. Flat 2D cartoon, thick outlines, warm colors, 16:9 landscape. One coherent full-bleed illustration, no collage. Muted teal, cream and warm brown, gentle cel shading. Bac Sau only, an older Vietnamese accountant, rectangular glasses, beige checked shirt, brown trousers, red ledger and exactly one blue pen behind one ear. Bac Sau compares three unlabelled service trays at a quiet shop checkout. Three-quarter table view. Match referenced character identities exactly. All papers, screens, receipts, cards, calendars, coins, envelopes and keypads completely blank and unlabelled. No letters, digits, written symbols, handwriting-like strokes, logos, watermark, speech balloons, graphs or text. Clocks may have plain ticks and hands only. Correct natural anatomy, wrists, collars and bag strap orientation; only two arms per person, no extra fingers or limbs. No ID badge or lanyard. Keep faces in upper half, allow clean lower space for native captions. Render one single landscape image at 1536x864 or equivalent 16:9. No text, letters, numbers, logos or watermarks. Create a fresh single instant and genuinely different camera composition from the identity reference. New high oblique view with subject at right and props foreground. Do not include any calculator or printed banknotes. Coins must be smooth featureless circular counters. No text, letters, numbers, logos or watermarks.",
+    "original": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-83595245-3942-4ec2-9d6d-39af97d5a283.png",
+    "destination": "D:\\Repo\\bac-sau-so-sach\\videos\\07-the-tin-dung\\anh\\shots\\canh-07-08.png",
+    "recoveredFrom": "same-thread image_gen.generation completed event; exact prompt match",
+    "completedAt": "2026-10-23T06:06:54.149Z",
+    "sha256": "cba7f9d9ccfd243ffc5967e71cbbbaa0826bb74751a4589b2ba7093de6f464bd",
+    "manualReviewed": true,
+    "review": "Identity, anatomy, body/collar/bag orientation, no readable letters/digits/logos; all 7 contact sheets inspected. Last two also inspected full size."
+  },
+  {
+    "id": "canh-07-09",
+    "image": "anh/shots/canh-07-09.png",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png"
+    ],
+    "prompt": "Use case: illustration-story. Video background asset. Flat 2D cartoon, thick outlines, warm colors, 16:9 landscape. One coherent full-bleed illustration, no collage. Muted teal, cream and warm brown, gentle cel shading. Bac Sau only, an older Vietnamese accountant, rectangular glasses, beige checked shirt, brown trousers, red ledger and exactly one blue pen behind one ear. Bac Sau examines a fee tray beside separate cost envelopes, red ledger open. Intimate view of subject with props. Match referenced character identities exactly. All papers, screens, receipts, cards, calendars, coins, envelopes and keypads completely blank and unlabelled. No letters, digits, written symbols, handwriting-like strokes, logos, watermark, speech balloons, graphs or text. Clocks may have plain ticks and hands only. Correct natural anatomy, wrists, collars and bag strap orientation; only two arms per person, no extra fingers or limbs. No ID badge or lanyard. Keep faces in upper half, allow clean lower space for native captions. Render one single landscape image at 1536x864 or equivalent 16:9. No text, letters, numbers, logos or watermarks. Create a fresh single instant and genuinely different camera composition from the identity reference. New low eye-level close view with subject at left, different from reference scene. Do not include any calculator or printed banknotes. Coins must be smooth featureless circular counters. No text, letters, numbers, logos or watermarks.",
+    "original": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-e06d3efe-119b-410a-9b3c-f22e00098f37.png",
+    "destination": "D:\\Repo\\bac-sau-so-sach\\videos\\07-the-tin-dung\\anh\\shots\\canh-07-09.png",
+    "recoveredFrom": "same-thread image_gen.generation completed event; exact prompt match",
+    "completedAt": "2026-10-23T06:08:03.947Z",
+    "sha256": "3b8591d7d5eb5955b7144e3a0ec81253d022700e56f59e13f17220e7e3a1ccdb",
+    "manualReviewed": true,
+    "review": "Identity, anatomy, body/collar/bag orientation, no readable letters/digits/logos; all 7 contact sheets inspected. Last two also inspected full size."
+  },
+  {
+    "id": "canh-07-10",
+    "image": "anh/shots/canh-07-10.png",
+    "refs": [],
+    "prompt": "Use case: illustration-story. Video background asset. Flat 2D cartoon, thick outlines, warm colors, 16:9 landscape. One coherent full-bleed illustration, no collage. Muted teal, cream and warm brown, gentle cel shading. Objects only, no people, no human faces or hands. A generic payment terminal with blank screen, smooth teal card and three separate coin trays at a shop counter. Medium eye-level portrait framing. Match referenced character identities exactly. All papers, screens, receipts, cards, calendars, coins, envelopes and keypads completely blank and unlabelled. No letters, digits, written symbols, handwriting-like strokes, logos, watermark, speech balloons, graphs or text. Clocks may have plain ticks and hands only. Correct natural anatomy, wrists, collars and bag strap orientation; only two arms per person, no extra fingers or limbs. No ID badge or lanyard. Keep faces in upper half, allow clean lower space for native captions. Render one single landscape image at 1536x864 or equivalent 16:9. No text, letters, numbers, logos or watermarks. Create a fresh single instant and genuinely different camera composition from the identity reference. New wider view from the opposite side of the table, showing home surroundings. Do not include any calculator or printed banknotes. Coins must be smooth featureless circular counters. No text, letters, numbers, logos or watermarks.",
+    "original": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-8eaaaccd-042b-4529-8707-823bf74dda38.png",
+    "destination": "D:\\Repo\\bac-sau-so-sach\\videos\\07-the-tin-dung\\anh\\shots\\canh-07-10.png",
+    "recoveredFrom": "same-thread image_gen.generation completed event; exact prompt match",
+    "completedAt": "2026-10-23T06:08:27.521Z",
+    "sha256": "0a5e53b744e42894323e68f6d442b680c57ea50b1a643945fd41d53f5f4f98ab",
+    "manualReviewed": true,
+    "review": "Identity, anatomy, body/collar/bag orientation, no readable letters/digits/logos; all 7 contact sheets inspected. Last two also inspected full size."
+  },
+  {
+    "id": "canh-07-11",
+    "image": "anh/shots/canh-07-11.png",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png",
+      "assets/nhan-vat/con-ut.png"
+    ],
+    "prompt": "Use case: illustration-story. Video background asset. Flat 2D cartoon, thick outlines, warm colors, 16:9 landscape. One coherent full-bleed illustration, no collage. Muted teal, cream and warm brown, gentle cel shading. Exactly two people, Bac Sau is the older Vietnamese accountant with beige checked shirt, rectangular glasses, one blue pen behind one ear and red ledger; Ut is the young Vietnamese woman with high black ponytail, white short sleeve blouse, beige trousers, white shoes and brown crossbody bag. Keep identities distinct. Bac Sau and Ut observe a plain checkout terminal and several distinct fee trays. Wide environmental view. Match referenced character identities exactly. All papers, screens, receipts, cards, calendars, coins, envelopes and keypads completely blank and unlabelled. No letters, digits, written symbols, handwriting-like strokes, logos, watermark, speech balloons, graphs or text. Clocks may have plain ticks and hands only. Correct natural anatomy, wrists, collars and bag strap orientation; only two arms per person, no extra fingers or limbs. No ID badge or lanyard. Keep faces in upper half, allow clean lower space for native captions. Render one single landscape image at 1536x864 or equivalent 16:9. No text, letters, numbers, logos or watermarks. Create a fresh single instant and genuinely different camera composition from the identity reference. New tight medium three-quarter composition with props on the left. Do not include any calculator or printed banknotes. Coins must be smooth featureless circular counters. No text, letters, numbers, logos or watermarks.",
+    "original": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-15436566-26b2-4555-8aff-8cb6ec6efe83.png",
+    "destination": "D:\\Repo\\bac-sau-so-sach\\videos\\07-the-tin-dung\\anh\\shots\\canh-07-11.png",
+    "recoveredFrom": "same-thread image_gen.generation completed event; exact prompt match",
+    "completedAt": "2026-10-23T06:09:10.403Z",
+    "sha256": "9789b7271d18c31b21173ce558ba5d0c25ae75dff5009c17693c01c7666df03e",
+    "manualReviewed": true,
+    "review": "Identity, anatomy, body/collar/bag orientation, no readable letters/digits/logos; all 7 contact sheets inspected. Last two also inspected full size."
+  },
+  {
+    "id": "canh-07-12",
+    "image": "anh/shots/canh-07-12.png",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png"
+    ],
+    "prompt": "Use case: illustration-story. Video background asset. Flat 2D cartoon, thick outlines, warm colors, 16:9 landscape. One coherent full-bleed illustration, no collage. Muted teal, cream and warm brown, gentle cel shading. Bac Sau only, an older Vietnamese accountant, rectangular glasses, beige checked shirt, brown trousers, red ledger and exactly one blue pen behind one ear. Bac Sau closes a blank business folder thoughtfully, plain checkout counter in background. Calm frontal composition with depth. Match referenced character identities exactly. All papers, screens, receipts, cards, calendars, coins, envelopes and keypads completely blank and unlabelled. No letters, digits, written symbols, handwriting-like strokes, logos, watermark, speech balloons, graphs or text. Clocks may have plain ticks and hands only. Correct natural anatomy, wrists, collars and bag strap orientation; only two arms per person, no extra fingers or limbs. No ID badge or lanyard. Keep faces in upper half, allow clean lower space for native captions. Render one single landscape image at 1536x864 or equivalent 16:9. No text, letters, numbers, logos or watermarks. Create a fresh single instant and genuinely different camera composition from the identity reference. New straight-on medium view with a clean uncluttered foreground. Do not include any calculator or printed banknotes. Coins must be smooth featureless circular counters. No text, letters, numbers, logos or watermarks.",
+    "original": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-b3c3c76c-1f3b-4b73-9558-f8878e805c77.png",
+    "destination": "D:\\Repo\\bac-sau-so-sach\\videos\\07-the-tin-dung\\anh\\shots\\canh-07-12.png",
+    "recoveredFrom": "same-thread image_gen.generation completed event; exact prompt match",
+    "completedAt": "2026-10-23T06:09:49.917Z",
+    "sha256": "4e375c6a49f0dd5732051b789f2df286ca58d534a6a3148b7abc15b65f898ddc",
+    "manualReviewed": true,
+    "review": "Identity, anatomy, body/collar/bag orientation, no readable letters/digits/logos; all 7 contact sheets inspected. Last two also inspected full size."
+  },
+  {
+    "id": "canh-07-13",
+    "image": "anh/shots/canh-07-13.png",
+    "refs": [],
+    "prompt": "Use case: illustration-story. Video background asset. Flat 2D cartoon, thick outlines, warm colors, 16:9 landscape. One coherent full-bleed illustration, no collage. Muted teal, cream and warm brown, gentle cel shading. Objects only, no people, no human faces or hands. A large sale-payment tray beside a small fee tray and a shopping bag, no written labels. Top-down or slightly elevated close framing. Match referenced character identities exactly. All papers, screens, receipts, cards, calendars, coins, envelopes and keypads completely blank and unlabelled. No letters, digits, written symbols, handwriting-like strokes, logos, watermark, speech balloons, graphs or text. Clocks may have plain ticks and hands only. Correct natural anatomy, wrists, collars and bag strap orientation; only two arms per person, no extra fingers or limbs. No ID badge or lanyard. Keep faces in upper half, allow clean lower space for native captions. Render one single landscape image at 1536x864 or equivalent 16:9. No text, letters, numbers, logos or watermarks. Create a fresh single instant and genuinely different camera composition from the identity reference. New high oblique view with subject at right and props foreground. Do not include any calculator or printed banknotes. Coins must be smooth featureless circular counters. No text, letters, numbers, logos or watermarks.",
+    "original": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-fba2c030-4cd2-415e-9909-ae1837455e63.png",
+    "destination": "D:\\Repo\\bac-sau-so-sach\\videos\\07-the-tin-dung\\anh\\shots\\canh-07-13.png",
+    "recoveredFrom": "same-thread image_gen.generation completed event; exact prompt match",
+    "completedAt": "2026-10-23T06:10:12.040Z",
+    "sha256": "d09b43fbc46d132b405ad9c6553c8c7965ad80962b2ff6dd379bc27e7b436fd1",
+    "manualReviewed": true,
+    "review": "Identity, anatomy, body/collar/bag orientation, no readable letters/digits/logos; all 7 contact sheets inspected. Last two also inspected full size."
+  },
+  {
+    "id": "canh-07-14",
+    "image": "anh/shots/canh-07-14.png",
+    "refs": [],
+    "prompt": "Flat 2D cartoon, thick outlines, warm colors, 16:9. Shop checkout still life, generic POS terminal with blank screen and unlabeled keys, plain teal card, three separate trays of unmarked coins, blank receipt and shopping bag. No people or hands, no text, digits, logos or watermark. One coherent full-bleed illustration, not a collage. Cream, muted teal and warm brown palette, gentle cel shading. All papers, calendars, receipts, screens, card faces, coins and keys must be completely blank and unlabeled, no handwriting-like strokes, letters, digits, money denominations, logos, speech bubbles, diagrams or watermarks. Natural anatomy and correct orientation of collars, wrists and bag straps. No ID badges or lanyards. Match each referenced identity exactly; do not blend them. Objects only, no human bodies, faces, arms or hands. No text, letters, numbers, logos or watermarks. Create a fresh single instant and genuinely different camera composition from the identity reference. New low eye-level close view with subject at left, different from reference scene. Do not include any calculator or printed banknotes. Coins must be smooth featureless circular counters. No text, letters, numbers, logos or watermarks.",
+    "original": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-d9b2d4cb-304a-41ca-acf7-592619949656.png",
+    "destination": "D:\\Repo\\bac-sau-so-sach\\videos\\07-the-tin-dung\\anh\\shots\\canh-07-14.png",
+    "recoveredFrom": "same-thread image_gen.generation completed event; exact prompt match",
+    "completedAt": "2026-10-23T06:10:47.150Z",
+    "sha256": "6a65f7dec834511f942c080baed8c9c6ccfbe61b6f3e27c5a376492b72155775",
+    "manualReviewed": true,
+    "review": "Identity, anatomy, body/collar/bag orientation, no readable letters/digits/logos; all 7 contact sheets inspected. Last two also inspected full size."
+  },
+  {
+    "id": "canh-07-15",
+    "image": "anh/shots/canh-07-15.png",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png"
+    ],
+    "prompt": "Use case: illustration-story. Video background asset. Flat 2D cartoon, thick outlines, warm colors, 16:9 landscape. One coherent full-bleed illustration, no collage. Muted teal, cream and warm brown, gentle cel shading. Bac Sau only, an older Vietnamese accountant, rectangular glasses, beige checked shirt, brown trousers, red ledger and exactly one blue pen behind one ear. Bac Sau examines a fee tray beside separate cost envelopes, red ledger open. Intimate view of subject with props. Match referenced character identities exactly. All papers, screens, receipts, cards, calendars, coins, envelopes and keypads completely blank and unlabelled. No letters, digits, written symbols, handwriting-like strokes, logos, watermark, speech balloons, graphs or text. Clocks may have plain ticks and hands only. Correct natural anatomy, wrists, collars and bag strap orientation; only two arms per person, no extra fingers or limbs. No ID badge or lanyard. Keep faces in upper half, allow clean lower space for native captions. Render one single landscape image at 1536x864 or equivalent 16:9. No text, letters, numbers, logos or watermarks. Create a fresh single instant and genuinely different camera composition from the identity reference. New wider view from the opposite side of the table, showing home surroundings. Do not include any calculator or printed banknotes. Coins must be smooth featureless circular counters. No text, letters, numbers, logos or watermarks.",
+    "original": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-1675541f-6de8-4f81-9bd8-9595a023a8eb.png",
+    "destination": "D:\\Repo\\bac-sau-so-sach\\videos\\07-the-tin-dung\\anh\\shots\\canh-07-15.png",
+    "recoveredFrom": "same-thread image_gen.generation completed event; exact prompt match",
+    "completedAt": "2026-10-23T06:12:03.504Z",
+    "sha256": "fa6881d63cb47a5f5c6c745359b7dd5fee7d718357d03e51a5a02f543db95c21",
+    "manualReviewed": true,
+    "review": "Identity, anatomy, body/collar/bag orientation, no readable letters/digits/logos; all 7 contact sheets inspected. Last two also inspected full size."
+  },
+  {
+    "id": "canh-08-08",
+    "image": "anh/shots/canh-08-08.png",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png"
+    ],
+    "prompt": "Use case: illustration-story. Video background asset. Flat 2D cartoon, thick outlines, warm colors, 16:9 landscape. One coherent full-bleed illustration, no collage. Muted teal, cream and warm brown, gentle cel shading. Bac Sau only, an older Vietnamese accountant, rectangular glasses, beige checked shirt, brown trousers, red ledger and exactly one blue pen behind one ear. Bac Sau starts a separate fresh blank page and puts a cash envelope away from the purchase card. Three-quarter table view. Match referenced character identities exactly. All papers, screens, receipts, cards, calendars, coins, envelopes and keypads completely blank and unlabelled. No letters, digits, written symbols, handwriting-like strokes, logos, watermark, speech balloons, graphs or text. Clocks may have plain ticks and hands only. Correct natural anatomy, wrists, collars and bag strap orientation; only two arms per person, no extra fingers or limbs. No ID badge or lanyard. Keep faces in upper half, allow clean lower space for native captions. Render one single landscape image at 1536x864 or equivalent 16:9. No text, letters, numbers, logos or watermarks. Create a fresh single instant and genuinely different camera composition from the identity reference. New high oblique view with subject at right and props foreground. Do not include any calculator or printed banknotes. Coins must be smooth featureless circular counters. No text, letters, numbers, logos or watermarks.",
+    "original": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-0b69af85-6c96-47f8-86f9-985391ad4ec9.png",
+    "destination": "D:\\Repo\\bac-sau-so-sach\\videos\\07-the-tin-dung\\anh\\shots\\canh-08-08.png",
+    "recoveredFrom": "same-thread image_gen.generation completed event; exact prompt match",
+    "completedAt": "2026-10-23T06:12:41.191Z",
+    "sha256": "4782519134710d57b783bf07f3f42d528aa02644b94d8b33827613da64f22a54",
+    "manualReviewed": true,
+    "review": "Identity, anatomy, body/collar/bag orientation, no readable letters/digits/logos; all 7 contact sheets inspected. Last two also inspected full size."
+  },
+  {
+    "id": "canh-08-09",
+    "image": "anh/shots/canh-08-09.png",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png"
+    ],
+    "prompt": "Use case: illustration-story. Video background asset. Flat 2D cartoon, thick outlines, warm colors, 16:9 landscape. One coherent full-bleed illustration, no collage. Muted teal, cream and warm brown, gentle cel shading. Bac Sau only, an older Vietnamese accountant, rectangular glasses, beige checked shirt, brown trousers, red ledger and exactly one blue pen behind one ear. Bac Sau combines separate fee and interest trays next to an open cash envelope. Intimate view of subject with props. Match referenced character identities exactly. All papers, screens, receipts, cards, calendars, coins, envelopes and keypads completely blank and unlabelled. No letters, digits, written symbols, handwriting-like strokes, logos, watermark, speech balloons, graphs or text. Clocks may have plain ticks and hands only. Correct natural anatomy, wrists, collars and bag strap orientation; only two arms per person, no extra fingers or limbs. No ID badge or lanyard. Keep faces in upper half, allow clean lower space for native captions. Render one single landscape image at 1536x864 or equivalent 16:9. No text, letters, numbers, logos or watermarks. Create a fresh single instant and genuinely different camera composition from the identity reference. New low eye-level close view with subject at left, different from reference scene. Do not include any calculator or printed banknotes. Coins must be smooth featureless circular counters. No text, letters, numbers, logos or watermarks.",
+    "original": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-dd27b90e-a778-455e-a16f-d6541508e1c6.png",
+    "destination": "D:\\Repo\\bac-sau-so-sach\\videos\\07-the-tin-dung\\anh\\shots\\canh-08-09.png",
+    "recoveredFrom": "same-thread image_gen.generation completed event; exact prompt match",
+    "completedAt": "2026-10-23T06:13:30.680Z",
+    "sha256": "53d1bc5bb048bf81584257a5ea84bb4cc1bf983a429668912a7cc9b96b481355",
+    "manualReviewed": true,
+    "review": "Identity, anatomy, body/collar/bag orientation, no readable letters/digits/logos; all 7 contact sheets inspected. Last two also inspected full size."
+  },
+  {
+    "id": "canh-08-10",
+    "image": "anh/shots/canh-08-10.png",
+    "refs": [
+      "assets/nhan-vat/con-ut.png"
+    ],
+    "prompt": "Use case: illustration-story. Video background asset. Flat 2D cartoon, thick outlines, warm colors, 16:9 landscape. One coherent full-bleed illustration, no collage. Muted teal, cream and warm brown, gentle cel shading. Ut only, young Vietnamese woman, high black ponytail, white short sleeve blouse, beige trousers, brown crossbody bag, white shoes, no glasses. Ut stands beside a generic unbranded cash machine, holding a plain envelope cautiously, front three-quarter torso. Medium eye-level portrait framing. Match referenced character identities exactly. All papers, screens, receipts, cards, calendars, coins, envelopes and keypads completely blank and unlabelled. No letters, digits, written symbols, handwriting-like strokes, logos, watermark, speech balloons, graphs or text. Clocks may have plain ticks and hands only. Correct natural anatomy, wrists, collars and bag strap orientation; only two arms per person, no extra fingers or limbs. No ID badge or lanyard. Keep faces in upper half, allow clean lower space for native captions. Render one single landscape image at 1536x864 or equivalent 16:9. No text, letters, numbers, logos or watermarks. Create a fresh single instant and genuinely different camera composition from the identity reference. New wider view from the opposite side of the table, showing home surroundings. Do not include any calculator or printed banknotes. Coins must be smooth featureless circular counters. No text, letters, numbers, logos or watermarks.",
+    "original": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-b941ceef-4d7c-4827-86e7-18accaf28669.png",
+    "destination": "D:\\Repo\\bac-sau-so-sach\\videos\\07-the-tin-dung\\anh\\shots\\canh-08-10.png",
+    "recoveredFrom": "same-thread image_gen.generation completed event; exact prompt match",
+    "completedAt": "2026-10-23T06:14:13.230Z",
+    "sha256": "517ad17fb57454aa50733a4c5dfe0e0d4f5eb6c84436756e82c1b3e1e08df343",
+    "manualReviewed": true,
+    "review": "Identity, anatomy, body/collar/bag orientation, no readable letters/digits/logos; all 7 contact sheets inspected. Last two also inspected full size."
+  },
+  {
+    "id": "canh-08-11",
+    "image": "anh/shots/canh-08-11.png",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png",
+      "assets/nhan-vat/con-ut.png"
+    ],
+    "prompt": "Use case: illustration-story. Video background asset. Flat 2D cartoon, thick outlines, warm colors, 16:9 landscape. One coherent full-bleed illustration, no collage. Muted teal, cream and warm brown, gentle cel shading. Exactly two people, Bac Sau is the older Vietnamese accountant with beige checked shirt, rectangular glasses, one blue pen behind one ear and red ledger; Ut is the young Vietnamese woman with high black ponytail, white short sleeve blouse, beige trousers, white shoes and brown crossbody bag. Keep identities distinct. Bac Sau shows Ut a separate cash envelope and two small cost trays at home. Wide environmental view. Match referenced character identities exactly. All papers, screens, receipts, cards, calendars, coins, envelopes and keypads completely blank and unlabelled. No letters, digits, written symbols, handwriting-like strokes, logos, watermark, speech balloons, graphs or text. Clocks may have plain ticks and hands only. Correct natural anatomy, wrists, collars and bag strap orientation; only two arms per person, no extra fingers or limbs. No ID badge or lanyard. Keep faces in upper half, allow clean lower space for native captions. Render one single landscape image at 1536x864 or equivalent 16:9. No text, letters, numbers, logos or watermarks. Create a fresh single instant and genuinely different camera composition from the identity reference. New tight medium three-quarter composition with props on the left. Do not include any calculator or printed banknotes. Coins must be smooth featureless circular counters. No text, letters, numbers, logos or watermarks.",
+    "original": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-32e10978-fb5c-43f4-9fd7-ea8d6e86b413.png",
+    "destination": "D:\\Repo\\bac-sau-so-sach\\videos\\07-the-tin-dung\\anh\\shots\\canh-08-11.png",
+    "recoveredFrom": "same-thread image_gen.generation completed event; exact prompt match",
+    "completedAt": "2026-10-23T06:14:55.543Z",
+    "sha256": "96b03fc4df8d60c68a916d995878c0e11367fda3c8cdec783cc034bb68e3fac4",
+    "manualReviewed": true,
+    "review": "Identity, anatomy, body/collar/bag orientation, no readable letters/digits/logos; all 7 contact sheets inspected. Last two also inspected full size."
+  },
+  {
+    "id": "canh-08-12",
+    "image": "anh/shots/canh-08-12.png",
+    "refs": [
+      "assets/nhan-vat/con-ut.png"
+    ],
+    "prompt": "Use case: illustration-story. Video background asset. Flat 2D cartoon, thick outlines, warm colors, 16:9 landscape. One coherent full-bleed illustration, no collage. Muted teal, cream and warm brown, gentle cel shading. Ut only, young Vietnamese woman, high black ponytail, white short sleeve blouse, beige trousers, brown crossbody bag, white shoes, no glasses. Ut reads completely blank card terms thoughtfully, closed wallet beside her. Calm frontal composition with depth. Match referenced character identities exactly. All papers, screens, receipts, cards, calendars, coins, envelopes and keypads completely blank and unlabelled. No letters, digits, written symbols, handwriting-like strokes, logos, watermark, speech balloons, graphs or text. Clocks may have plain ticks and hands only. Correct natural anatomy, wrists, collars and bag strap orientation; only two arms per person, no extra fingers or limbs. No ID badge or lanyard. Keep faces in upper half, allow clean lower space for native captions. Render one single landscape image at 1536x864 or equivalent 16:9. No text, letters, numbers, logos or watermarks. Create a fresh single instant and genuinely different camera composition from the identity reference. New straight-on medium view with a clean uncluttered foreground. Do not include any calculator or printed banknotes. Coins must be smooth featureless circular counters. No text, letters, numbers, logos or watermarks.",
+    "original": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-40883f25-715d-4adc-b32e-b2f1bf15d1e9.png",
+    "destination": "D:\\Repo\\bac-sau-so-sach\\videos\\07-the-tin-dung\\anh\\shots\\canh-08-12.png",
+    "recoveredFrom": "same-thread image_gen.generation completed event; exact prompt match",
+    "completedAt": "2026-10-23T06:09:13.101Z",
+    "sha256": "54facf2b4b4b39ab638b74b7e15c2f3b3605ea9a43ea2f1a138ec39a3c292ebf",
+    "manualReviewed": true,
+    "review": "Identity, anatomy, body/collar/bag orientation, no readable letters/digits/logos; all 7 contact sheets inspected. Last two also inspected full size."
+  },
+  {
+    "id": "canh-08-13",
+    "image": "anh/shots/canh-08-13.png",
+    "refs": [],
+    "prompt": "Use case: illustration-story. Video background asset. Flat 2D cartoon, thick outlines, warm colors, 16:9 landscape. One coherent full-bleed illustration, no collage. Muted teal, cream and warm brown, gentle cel shading. Objects only, no people, no human faces or hands. Plain cash envelope, small fee tray and plain clock with ticks and hands, no banknote printing. Top-down or slightly elevated close framing. Match referenced character identities exactly. All papers, screens, receipts, cards, calendars, coins, envelopes and keypads completely blank and unlabelled. No letters, digits, written symbols, handwriting-like strokes, logos, watermark, speech balloons, graphs or text. Clocks may have plain ticks and hands only. Correct natural anatomy, wrists, collars and bag strap orientation; only two arms per person, no extra fingers or limbs. No ID badge or lanyard. Keep faces in upper half, allow clean lower space for native captions. Render one single landscape image at 1536x864 or equivalent 16:9. No text, letters, numbers, logos or watermarks. Create a fresh single instant and genuinely different camera composition from the identity reference. New high oblique view with subject at right and props foreground. Do not include any calculator or printed banknotes. Coins must be smooth featureless circular counters. No text, letters, numbers, logos or watermarks.",
+    "original": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-d5114a41-e735-4dd9-b28d-2a2e8a87b058.png",
+    "destination": "D:\\Repo\\bac-sau-so-sach\\videos\\07-the-tin-dung\\anh\\shots\\canh-08-13.png",
+    "recoveredFrom": "same-thread image_gen.generation completed event; exact prompt match",
+    "completedAt": "2026-10-23T06:09:37.590Z",
+    "sha256": "a2f7844ca4c7459c608f94146879027eb15a2baa520769fb0ba50b036a4dfd0e",
+    "manualReviewed": true,
+    "review": "Identity, anatomy, body/collar/bag orientation, no readable letters/digits/logos; all 7 contact sheets inspected. Last two also inspected full size."
+  },
+  {
+    "id": "canh-08-14",
+    "image": "anh/shots/canh-08-14.png",
+    "refs": [
+      "assets/nhan-vat/con-ut.png"
+    ],
+    "prompt": "Flat 2D cartoon, thick outlines, warm colors, 16:9. Reference Ut only. Ut beside a generic unbranded cash machine in a quiet lobby, holding a plain envelope, cautious. Front three-quarter torso, blouse collar and brown bag strap follow body naturally. Blank ATM screen and unlabeled keypad. No text, numbers, logos, badges or watermark. One coherent full-bleed illustration, not a collage. Cream, muted teal and warm brown palette, gentle cel shading. All papers, calendars, receipts, screens, card faces, coins and keys must be completely blank and unlabeled, no handwriting-like strokes, letters, digits, money denominations, logos, speech bubbles, diagrams or watermarks. Natural anatomy and correct orientation of collars, wrists and bag straps. No ID badges or lanyards. Match each referenced identity exactly; do not blend them. Ut has high black ponytail, white short sleeve blouse, beige trousers and a brown bag. No glasses or pen on Ut. Exactly one person: Ut only. No older accountant. No text, letters, numbers, logos or watermarks. Create a fresh single instant and genuinely different camera composition from the identity reference. New low eye-level close view with subject at left, different from reference scene. Do not include any calculator or printed banknotes. Coins must be smooth featureless circular counters. No text, letters, numbers, logos or watermarks.",
+    "original": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-46e2bf2b-66c3-416d-ac6c-0f4ed4abc999.png",
+    "destination": "D:\\Repo\\bac-sau-so-sach\\videos\\07-the-tin-dung\\anh\\shots\\canh-08-14.png",
+    "recoveredFrom": "same-thread image_gen.generation completed event; exact prompt match",
+    "completedAt": "2026-10-23T06:10:17.223Z",
+    "sha256": "4954b12b63ab5e3d1347cc0cced5327fe47d3adb3ab364de9e80229383f09f88",
+    "manualReviewed": true,
+    "review": "Identity, anatomy, body/collar/bag orientation, no readable letters/digits/logos; all 7 contact sheets inspected. Last two also inspected full size."
+  },
+  {
+    "id": "canh-09-06",
+    "image": "anh/shots/canh-09-06.png",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png"
+    ],
+    "prompt": "Use case: illustration-story. Video background asset. Flat 2D cartoon, thick outlines, warm colors, 16:9 landscape. One coherent full-bleed illustration, no collage. Muted teal, cream and warm brown, gentle cel shading. Bac Sau only, an older Vietnamese accountant, rectangular glasses, beige checked shirt, brown trousers, red ledger and exactly one blue pen behind one ear. Bac Sau gestures gently toward four separate completely blank papers beside a closed phone. Intimate view of subject with props. Match referenced character identities exactly. All papers, screens, receipts, cards, calendars, coins, envelopes and keypads completely blank and unlabelled. No letters, digits, written symbols, handwriting-like strokes, logos, watermark, speech balloons, graphs or text. Clocks may have plain ticks and hands only. Correct natural anatomy, wrists, collars and bag strap orientation; only two arms per person, no extra fingers or limbs. No ID badge or lanyard. Keep faces in upper half, allow clean lower space for native captions. Render one single landscape image at 1536x864 or equivalent 16:9. No text, letters, numbers, logos or watermarks. Create a fresh single instant and genuinely different camera composition from the identity reference. New wider view from the opposite side of the table, showing home surroundings. Do not include any calculator or printed banknotes. Coins must be smooth featureless circular counters. No text, letters, numbers, logos or watermarks.",
+    "original": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-814fd6bf-5981-41f6-9bf3-422c13a02599.png",
+    "destination": "D:\\Repo\\bac-sau-so-sach\\videos\\07-the-tin-dung\\anh\\shots\\canh-09-06.png",
+    "recoveredFrom": "same-thread image_gen.generation completed event; exact prompt match",
+    "completedAt": "2026-10-23T06:09:48.487Z",
+    "sha256": "678bd942ed7d3b7a4544059198584e17100c56c9551d2c0cd8aad3f72a129d84",
+    "manualReviewed": true,
+    "review": "Identity, anatomy, body/collar/bag orientation, no readable letters/digits/logos; all 7 contact sheets inspected. Last two also inspected full size."
+  },
+  {
+    "id": "canh-09-08",
+    "image": "anh/shots/canh-09-08.png",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png"
+    ],
+    "prompt": "Use case: illustration-story. Video background asset. Flat 2D cartoon, thick outlines, warm colors, 16:9 landscape. One coherent full-bleed illustration, no collage. Muted teal, cream and warm brown, gentle cel shading. Bac Sau only, an older Vietnamese accountant, rectangular glasses, beige checked shirt, brown trousers, red ledger and exactly one blue pen behind one ear. Bac Sau gestures gently toward four separate completely blank papers beside a closed phone. Intimate view of subject with props. Match referenced character identities exactly. All papers, screens, receipts, cards, calendars, coins, envelopes and keypads completely blank and unlabelled. No letters, digits, written symbols, handwriting-like strokes, logos, watermark, speech balloons, graphs or text. Clocks may have plain ticks and hands only. Correct natural anatomy, wrists, collars and bag strap orientation; only two arms per person, no extra fingers or limbs. No ID badge or lanyard. Keep faces in upper half, allow clean lower space for native captions. Render one single landscape image at 1536x864 or equivalent 16:9. No text, letters, numbers, logos or watermarks. Create a fresh single instant and genuinely different camera composition from the identity reference. New straight-on medium view with a clean uncluttered foreground. Do not include any calculator or printed banknotes. Coins must be smooth featureless circular counters. No text, letters, numbers, logos or watermarks.",
+    "original": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-9853d541-64d2-4422-8715-7562bd16d697.png",
+    "destination": "D:\\Repo\\bac-sau-so-sach\\videos\\07-the-tin-dung\\anh\\shots\\canh-09-08.png",
+    "recoveredFrom": "same-thread image_gen.generation completed event; exact prompt match",
+    "completedAt": "2026-10-23T06:10:28.726Z",
+    "sha256": "7c92a55e366a7bc8a915b1fc1c6580643a00369ea29f0ab91a630d8f532df09f",
+    "manualReviewed": true,
+    "review": "Identity, anatomy, body/collar/bag orientation, no readable letters/digits/logos; all 7 contact sheets inspected. Last two also inspected full size."
+  },
+  {
+    "id": "canh-09-09",
+    "image": "anh/shots/canh-09-09.png",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png"
+    ],
+    "prompt": "Use case: illustration-story. Video background asset. Flat 2D cartoon, thick outlines, warm colors, 16:9 landscape. One coherent full-bleed illustration, no collage. Muted teal, cream and warm brown, gentle cel shading. Bac Sau only, an older Vietnamese accountant, rectangular glasses, beige checked shirt, brown trousers, red ledger and exactly one blue pen behind one ear. Bac Sau gestures gently toward four separate completely blank papers beside a closed phone. Intimate view of subject with props. Match referenced character identities exactly. All papers, screens, receipts, cards, calendars, coins, envelopes and keypads completely blank and unlabelled. No letters, digits, written symbols, handwriting-like strokes, logos, watermark, speech balloons, graphs or text. Clocks may have plain ticks and hands only. Correct natural anatomy, wrists, collars and bag strap orientation; only two arms per person, no extra fingers or limbs. No ID badge or lanyard. Keep faces in upper half, allow clean lower space for native captions. Render one single landscape image at 1536x864 or equivalent 16:9. No text, letters, numbers, logos or watermarks. Create a fresh single instant and genuinely different camera composition from the identity reference. New high oblique view with subject at right and props foreground. Do not include any calculator or printed banknotes. Coins must be smooth featureless circular counters. No text, letters, numbers, logos or watermarks.",
+    "original": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-f7e8efdc-ec5b-4d61-afad-79283a33f801.png",
+    "destination": "D:\\Repo\\bac-sau-so-sach\\videos\\07-the-tin-dung\\anh\\shots\\canh-09-09.png",
+    "recoveredFrom": "same-thread image_gen.generation completed event; exact prompt match",
+    "completedAt": "2026-10-23T06:11:41.439Z",
+    "sha256": "21f5b485c092c04009dc2a6a3642f941290d46659a2cb36101b1848e636ba08c",
+    "manualReviewed": true,
+    "review": "Identity, anatomy, body/collar/bag orientation, no readable letters/digits/logos; all 7 contact sheets inspected. Last two also inspected full size."
+  },
+  {
+    "id": "canh-09-10",
+    "image": "anh/shots/canh-09-10.png",
+    "refs": [
+      "assets/nhan-vat/con-ut.png"
+    ],
+    "prompt": "Use case: illustration-story. Video background asset. Flat 2D cartoon, thick outlines, warm colors, 16:9 landscape. One coherent full-bleed illustration, no collage. Muted teal, cream and warm brown, gentle cel shading. Ut only, young Vietnamese woman, high black ponytail, white short sleeve blouse, beige trousers, brown crossbody bag, white shoes, no glasses. Ut holds a phone with a completely blank teal screen, statement on the table. Medium eye-level portrait framing. Match referenced character identities exactly. All papers, screens, receipts, cards, calendars, coins, envelopes and keypads completely blank and unlabelled. No letters, digits, written symbols, handwriting-like strokes, logos, watermark, speech balloons, graphs or text. Clocks may have plain ticks and hands only. Correct natural anatomy, wrists, collars and bag strap orientation; only two arms per person, no extra fingers or limbs. No ID badge or lanyard. Keep faces in upper half, allow clean lower space for native captions. Render one single landscape image at 1536x864 or equivalent 16:9. No text, letters, numbers, logos or watermarks. Create a fresh single instant and genuinely different camera composition from the identity reference. New low eye-level close view with subject at left, different from reference scene. Do not include any calculator or printed banknotes. Coins must be smooth featureless circular counters. No text, letters, numbers, logos or watermarks.",
+    "original": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-5f80eda8-7e88-4781-80fd-ffb8bc43ec39.png",
+    "destination": "D:\\Repo\\bac-sau-so-sach\\videos\\07-the-tin-dung\\anh\\shots\\canh-09-10.png",
+    "recoveredFrom": "same-thread image_gen.generation completed event; exact prompt match",
+    "completedAt": "2026-10-23T06:10:29.327Z",
+    "sha256": "96b1c8937edbe61fc1d8b584c1b880a51d3f97ac313295abdcdb5fabcc4864cc",
+    "manualReviewed": true,
+    "review": "Identity, anatomy, body/collar/bag orientation, no readable letters/digits/logos; all 7 contact sheets inspected. Last two also inspected full size."
+  },
+  {
+    "id": "canh-09-11",
+    "image": "anh/shots/canh-09-11.png",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png",
+      "assets/nhan-vat/con-ut.png"
+    ],
+    "prompt": "Use case: illustration-story. Video background asset. Flat 2D cartoon, thick outlines, warm colors, 16:9 landscape. One coherent full-bleed illustration, no collage. Muted teal, cream and warm brown, gentle cel shading. Exactly two people, Bac Sau is the older Vietnamese accountant with beige checked shirt, rectangular glasses, one blue pen behind one ear and red ledger; Ut is the young Vietnamese woman with high black ponytail, white short sleeve blouse, beige trousers, white shoes and brown crossbody bag. Keep identities distinct. Bac Sau and Ut review a blank statement and a calendar at the home table. Wide environmental view. Match referenced character identities exactly. All papers, screens, receipts, cards, calendars, coins, envelopes and keypads completely blank and unlabelled. No letters, digits, written symbols, handwriting-like strokes, logos, watermark, speech balloons, graphs or text. Clocks may have plain ticks and hands only. Correct natural anatomy, wrists, collars and bag strap orientation; only two arms per person, no extra fingers or limbs. No ID badge or lanyard. Keep faces in upper half, allow clean lower space for native captions. Render one single landscape image at 1536x864 or equivalent 16:9. No text, letters, numbers, logos or watermarks. Create a fresh single instant and genuinely different camera composition from the identity reference. New wider view from the opposite side of the table, showing home surroundings. Do not include any calculator or printed banknotes. Coins must be smooth featureless circular counters. No text, letters, numbers, logos or watermarks.",
+    "original": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-d8d8d1b9-0e5e-4744-ac61-cc32719df63d.png",
+    "destination": "D:\\Repo\\bac-sau-so-sach\\videos\\07-the-tin-dung\\anh\\shots\\canh-09-11.png",
+    "recoveredFrom": "same-thread image_gen.generation completed event; exact prompt match",
+    "completedAt": "2026-10-23T06:11:29.336Z",
+    "sha256": "97ae5f5028205c9a2723db33dadc13b73bffc3a598668a687cb34610c9785728",
+    "manualReviewed": true,
+    "review": "Identity, anatomy, body/collar/bag orientation, no readable letters/digits/logos; all 7 contact sheets inspected. Last two also inspected full size."
+  },
+  {
+    "id": "canh-09-12",
+    "image": "anh/shots/canh-09-12.png",
+    "refs": [
+      "assets/nhan-vat/con-ut.png"
+    ],
+    "prompt": "Use case: illustration-story. Video background asset. Flat 2D cartoon, thick outlines, warm colors, 16:9 landscape. One coherent full-bleed illustration, no collage. Muted teal, cream and warm brown, gentle cel shading. Ut only, young Vietnamese woman, high black ponytail, white short sleeve blouse, beige trousers, brown crossbody bag, white shoes, no glasses. Ut puts her phone safely away and holds a blank statement, calm careful expression. Calm frontal composition with depth. Match referenced character identities exactly. All papers, screens, receipts, cards, calendars, coins, envelopes and keypads completely blank and unlabelled. No letters, digits, written symbols, handwriting-like strokes, logos, watermark, speech balloons, graphs or text. Clocks may have plain ticks and hands only. Correct natural anatomy, wrists, collars and bag strap orientation; only two arms per person, no extra fingers or limbs. No ID badge or lanyard. Keep faces in upper half, allow clean lower space for native captions. Render one single landscape image at 1536x864 or equivalent 16:9. No text, letters, numbers, logos or watermarks. Create a fresh single instant and genuinely different camera composition from the identity reference. New tight medium three-quarter composition with props on the left. Do not include any calculator or printed banknotes. Coins must be smooth featureless circular counters. No text, letters, numbers, logos or watermarks.",
+    "original": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-4f509e16-0aa2-4d2e-92e5-3f2c707224ec.png",
+    "destination": "D:\\Repo\\bac-sau-so-sach\\videos\\07-the-tin-dung\\anh\\shots\\canh-09-12.png",
+    "recoveredFrom": "same-thread image_gen.generation completed event; exact prompt match",
+    "completedAt": "2026-10-23T06:12:13.961Z",
+    "sha256": "2eb02ffbf822bd01fe2d41a0c949a919c1d4a7b561f940cbacdbe6554c388ca3",
+    "manualReviewed": true,
+    "review": "Identity, anatomy, body/collar/bag orientation, no readable letters/digits/logos; all 7 contact sheets inspected. Last two also inspected full size."
+  },
+  {
+    "id": "canh-09-13",
+    "image": "anh/shots/canh-09-13.png",
+    "refs": [],
+    "prompt": "Use case: illustration-story. Video background asset. Flat 2D cartoon, thick outlines, warm colors, 16:9 landscape. One coherent full-bleed illustration, no collage. Muted teal, cream and warm brown, gentle cel shading. Objects only, no people, no human faces or hands. Blank phone screen beside separate bank-account coin tray and debt tray, overhead. Top-down or slightly elevated close framing. Match referenced character identities exactly. All papers, screens, receipts, cards, calendars, coins, envelopes and keypads completely blank and unlabelled. No letters, digits, written symbols, handwriting-like strokes, logos, watermark, speech balloons, graphs or text. Clocks may have plain ticks and hands only. Correct natural anatomy, wrists, collars and bag strap orientation; only two arms per person, no extra fingers or limbs. No ID badge or lanyard. Keep faces in upper half, allow clean lower space for native captions. Render one single landscape image at 1536x864 or equivalent 16:9. No text, letters, numbers, logos or watermarks. Create a fresh single instant and genuinely different camera composition from the identity reference. New straight-on medium view with a clean uncluttered foreground. Do not include any calculator or printed banknotes. Coins must be smooth featureless circular counters. No text, letters, numbers, logos or watermarks.",
+    "original": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-21d07a05-4274-4feb-bd89-db0131bcad9f.png",
+    "destination": "D:\\Repo\\bac-sau-so-sach\\videos\\07-the-tin-dung\\anh\\shots\\canh-09-13.png",
+    "recoveredFrom": "same-thread image_gen.generation completed event; exact prompt match",
+    "completedAt": "2026-10-23T06:12:36.584Z",
+    "sha256": "8cfe53e6f30bf6ff348ab26fa9166eba0cd6a444d1d2e4dccbb91a9e0edb6975",
+    "manualReviewed": true,
+    "review": "Identity, anatomy, body/collar/bag orientation, no readable letters/digits/logos; all 7 contact sheets inspected. Last two also inspected full size."
+  },
+  {
+    "id": "canh-09-14",
+    "image": "anh/shots/canh-09-14.png",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png",
+      "assets/nhan-vat/con-ut.png"
+    ],
+    "prompt": "Flat 2D cartoon, thick outlines, warm colors, 16:9. Use both references. Bac Sau points at two distinct envelopes while Ut compares a blank phone screen with blank statement paper. Natural visible hands, red ledger and teal card apart on desk. No text, digits, logos or watermark. One coherent full-bleed illustration, not a collage. Cream, muted teal and warm brown palette, gentle cel shading. All papers, calendars, receipts, screens, card faces, coins and keys must be completely blank and unlabeled, no handwriting-like strokes, letters, digits, money denominations, logos, speech bubbles, diagrams or watermarks. Natural anatomy and correct orientation of collars, wrists and bag straps. No ID badges or lanyards. Match each referenced identity exactly; do not blend them. Bac Sau has rectangular glasses, beige checked shirt, brown trousers and exactly one blue pen behind his ear, and a red ledger. Ut has high black ponytail, white short sleeve blouse, beige trousers and a brown bag. No glasses or pen on Ut. No text, letters, numbers, logos or watermarks. Create a fresh single instant and genuinely different camera composition from the identity reference. New high oblique view with subject at right and props foreground. Do not include any calculator or printed banknotes. Coins must be smooth featureless circular counters. No text, letters, numbers, logos or watermarks.",
+    "original": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-acf0aa03-6ec4-46fb-a2d4-af180c410d53.png",
+    "destination": "D:\\Repo\\bac-sau-so-sach\\videos\\07-the-tin-dung\\anh\\shots\\canh-09-14.png",
+    "recoveredFrom": "same-thread image_gen.generation completed event; exact prompt match",
+    "completedAt": "2026-10-23T06:11:51.485Z",
+    "sha256": "495095a15641b15aa0d2837459118e0af98f5a8133b95822b1257a6672295d46",
+    "manualReviewed": true,
+    "review": "Identity, anatomy, body/collar/bag orientation, no readable letters/digits/logos; all 7 contact sheets inspected. Last two also inspected full size."
+  },
+  {
+    "id": "canh-09-15",
+    "image": "anh/shots/canh-09-15.png",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png"
+    ],
+    "prompt": "Use case: illustration-story. Video background asset. Flat 2D cartoon, thick outlines, warm colors, 16:9 landscape. One coherent full-bleed illustration, no collage. Muted teal, cream and warm brown, gentle cel shading. Bac Sau only, an older Vietnamese accountant, rectangular glasses, beige checked shirt, brown trousers, red ledger and exactly one blue pen behind one ear. Bac Sau gestures gently toward four separate completely blank papers beside a closed phone. Intimate view of subject with props. Match referenced character identities exactly. All papers, screens, receipts, cards, calendars, coins, envelopes and keypads completely blank and unlabelled. No letters, digits, written symbols, handwriting-like strokes, logos, watermark, speech balloons, graphs or text. Clocks may have plain ticks and hands only. Correct natural anatomy, wrists, collars and bag strap orientation; only two arms per person, no extra fingers or limbs. No ID badge or lanyard. Keep faces in upper half, allow clean lower space for native captions. Render one single landscape image at 1536x864 or equivalent 16:9. No text, letters, numbers, logos or watermarks. Create a fresh single instant and genuinely different camera composition from the identity reference. New low eye-level close view with subject at left, different from reference scene. Do not include any calculator or printed banknotes. Coins must be smooth featureless circular counters. No text, letters, numbers, logos or watermarks.",
+    "original": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-855b6c4e-dee6-4c49-a7c3-b3e2c4902936.png",
+    "destination": "D:\\Repo\\bac-sau-so-sach\\videos\\07-the-tin-dung\\anh\\shots\\canh-09-15.png",
+    "recoveredFrom": "same-thread image_gen.generation completed event; exact prompt match",
+    "completedAt": "2026-10-23T06:12:29.978Z",
+    "sha256": "33318e28d729cdc0cf67167f947450990e9f35d2c7da780001726dc681f2c485",
+    "manualReviewed": true,
+    "review": "Identity, anatomy, body/collar/bag orientation, no readable letters/digits/logos; all 7 contact sheets inspected. Last two also inspected full size."
+  },
+  {
+    "id": "canh-10-08",
+    "image": "anh/shots/canh-10-08.png",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png"
+    ],
+    "prompt": "Use case: illustration-story. Video background asset. Flat 2D cartoon, thick outlines, warm colors, 16:9 landscape. One coherent full-bleed illustration, no collage. Muted teal, cream and warm brown, gentle cel shading. Bac Sau only, an older Vietnamese accountant, rectangular glasses, beige checked shirt, brown trousers, red ledger and exactly one blue pen behind one ear. Bac Sau calmly recalls the lesson with three plain blank envelopes on a home table. Three-quarter table view. Match referenced character identities exactly. All papers, screens, receipts, cards, calendars, coins, envelopes and keypads completely blank and unlabelled. No letters, digits, written symbols, handwriting-like strokes, logos, watermark, speech balloons, graphs or text. Clocks may have plain ticks and hands only. Correct natural anatomy, wrists, collars and bag strap orientation; only two arms per person, no extra fingers or limbs. No ID badge or lanyard. Keep faces in upper half, allow clean lower space for native captions. Render one single landscape image at 1536x864 or equivalent 16:9. No text, letters, numbers, logos or watermarks. Create a fresh single instant and genuinely different camera composition from the identity reference. New straight-on medium view with a clean uncluttered foreground. Do not include any calculator or printed banknotes. Coins must be smooth featureless circular counters. No text, letters, numbers, logos or watermarks.",
+    "original": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-849d6420-acc3-4e63-b59b-47455f0277e4.png",
+    "destination": "D:\\Repo\\bac-sau-so-sach\\videos\\07-the-tin-dung\\anh\\shots\\canh-10-08.png",
+    "recoveredFrom": "same-thread image_gen.generation completed event; exact prompt match",
+    "completedAt": "2026-10-23T06:13:38.203Z",
+    "sha256": "ef36758232d091e557e300bba9c8744dba8edd8b5a366ea199542d58e3175b71",
+    "manualReviewed": true,
+    "review": "Identity, anatomy, body/collar/bag orientation, no readable letters/digits/logos; all 7 contact sheets inspected. Last two also inspected full size."
+  },
+  {
+    "id": "canh-10-09",
+    "image": "anh/shots/canh-10-09.png",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png",
+      "assets/nhan-vat/con-ut.png"
+    ],
+    "prompt": "Use case: illustration-story. Video background asset. Flat 2D cartoon, thick outlines, warm colors, 16:9 landscape. One coherent full-bleed illustration, no collage. Muted teal, cream and warm brown, gentle cel shading. Exactly two people, Bac Sau is the older Vietnamese accountant with beige checked shirt, rectangular glasses, one blue pen behind one ear and red ledger; Ut is the young Vietnamese woman with high black ponytail, white short sleeve blouse, beige trousers, white shoes and brown crossbody bag. Keep identities distinct. Bac Sau and Ut review a plain statement together, faces in upper half and clean space beneath. Intimate view of subject with props. Match referenced character identities exactly. All papers, screens, receipts, cards, calendars, coins, envelopes and keypads completely blank and unlabelled. No letters, digits, written symbols, handwriting-like strokes, logos, watermark, speech balloons, graphs or text. Clocks may have plain ticks and hands only. Correct natural anatomy, wrists, collars and bag strap orientation; only two arms per person, no extra fingers or limbs. No ID badge or lanyard. Keep faces in upper half, allow clean lower space for native captions. Render one single landscape image at 1536x864 or equivalent 16:9. No text, letters, numbers, logos or watermarks. Create a fresh single instant and genuinely different camera composition from the identity reference. New high oblique view with subject at right and props foreground. Do not include any calculator or printed banknotes. Coins must be smooth featureless circular counters. No text, letters, numbers, logos or watermarks.",
+    "original": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-8a10097b-1f8c-47f8-8b93-fd287e5c22d8.png",
+    "destination": "D:\\Repo\\bac-sau-so-sach\\videos\\07-the-tin-dung\\anh\\shots\\canh-10-09.png",
+    "recoveredFrom": "same-thread image_gen.generation completed event; exact prompt match",
+    "completedAt": "2026-10-23T06:14:15.764Z",
+    "sha256": "936ab79216c5698be5db3ed25a092c34c0582f11b591564a7703b09d61dd25a7",
+    "manualReviewed": true,
+    "review": "Identity, anatomy, body/collar/bag orientation, no readable letters/digits/logos; all 7 contact sheets inspected. Last two also inspected full size."
+  },
+  {
+    "id": "canh-10-10",
+    "image": "anh/shots/canh-10-10.png",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png",
+      "assets/nhan-vat/con-ut.png"
+    ],
+    "prompt": "Use case: illustration-story. Video background asset. Flat 2D cartoon, thick outlines, warm colors, 16:9 landscape. One coherent full-bleed illustration, no collage. Muted teal, cream and warm brown, gentle cel shading. Exactly two people, Bac Sau is the older Vietnamese accountant with beige checked shirt, rectangular glasses, one blue pen behind one ear and red ledger; Ut is the young Vietnamese woman with high black ponytail, white short sleeve blouse, beige trousers, white shoes and brown crossbody bag. Keep identities distinct. Ut puts her smooth teal card into a brown wallet while Bac Sau closes his red ledger. Medium eye-level portrait framing. Match referenced character identities exactly. All papers, screens, receipts, cards, calendars, coins, envelopes and keypads completely blank and unlabelled. No letters, digits, written symbols, handwriting-like strokes, logos, watermark, speech balloons, graphs or text. Clocks may have plain ticks and hands only. Correct natural anatomy, wrists, collars and bag strap orientation; only two arms per person, no extra fingers or limbs. No ID badge or lanyard. Keep faces in upper half, allow clean lower space for native captions. Render one single landscape image at 1536x864 or equivalent 16:9. No text, letters, numbers, logos or watermarks. Create a fresh single instant and genuinely different camera composition from the identity reference. New low eye-level close view with subject at left, different from reference scene. Do not include any calculator or printed banknotes. Coins must be smooth featureless circular counters. No text, letters, numbers, logos or watermarks.",
+    "original": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-6d9c4034-fe12-47f1-88b7-8e9940226d9b.png",
+    "destination": "D:\\Repo\\bac-sau-so-sach\\videos\\07-the-tin-dung\\anh\\shots\\canh-10-10.png",
+    "recoveredFrom": "same-thread image_gen.generation completed event; exact prompt match",
+    "completedAt": "2026-10-23T06:14:59.889Z",
+    "sha256": "aec05f4cac39dc5a69e3b52c4d1195b198c648a705ad81d3515e17dd0948b154",
+    "manualReviewed": true,
+    "review": "Identity, anatomy, body/collar/bag orientation, no readable letters/digits/logos; all 7 contact sheets inspected. Last two also inspected full size."
+  },
+  {
+    "id": "canh-10-11",
+    "image": "anh/shots/canh-10-11.png",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png"
+    ],
+    "prompt": "Use case: illustration-story. Video background asset. Flat 2D cartoon, thick outlines, warm colors, 16:9 landscape. One coherent full-bleed illustration, no collage. Muted teal, cream and warm brown, gentle cel shading. Bac Sau only, an older Vietnamese accountant, rectangular glasses, beige checked shirt, brown trousers, red ledger and exactly one blue pen behind one ear. Bac Sau smiles toward viewer, red ledger held against his chest, welcoming home background. Wide environmental view. Match referenced character identities exactly. All papers, screens, receipts, cards, calendars, coins, envelopes and keypads completely blank and unlabelled. No letters, digits, written symbols, handwriting-like strokes, logos, watermark, speech balloons, graphs or text. Clocks may have plain ticks and hands only. Correct natural anatomy, wrists, collars and bag strap orientation; only two arms per person, no extra fingers or limbs. No ID badge or lanyard. Keep faces in upper half, allow clean lower space for native captions. Render one single landscape image at 1536x864 or equivalent 16:9. No text, letters, numbers, logos or watermarks. Create a fresh single instant and genuinely different camera composition from the identity reference. New wider view from the opposite side of the table, showing home surroundings. Do not include any calculator or printed banknotes. Coins must be smooth featureless circular counters. No text, letters, numbers, logos or watermarks.",
+    "original": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-18144e1b-56e8-436a-a94e-154816732e13.png",
+    "destination": "D:\\Repo\\bac-sau-so-sach\\videos\\07-the-tin-dung\\anh\\shots\\canh-10-11.png",
+    "recoveredFrom": "same-thread image_gen.generation completed event; exact prompt match",
+    "completedAt": "2026-10-23T06:12:34.669Z",
+    "sha256": "60baf5014a7cde5b57c41b74e5b13d6172396e33a7ea95772e21732a06bff734",
+    "manualReviewed": true,
+    "review": "Identity, anatomy, body/collar/bag orientation, no readable letters/digits/logos; all 7 contact sheets inspected. Last two also inspected full size."
+  },
+  {
+    "id": "canh-10-12",
+    "image": "anh/shots/canh-10-12.png",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png",
+      "assets/nhan-vat/con-ut.png"
+    ],
+    "prompt": "Use case: illustration-story. Video background asset. Flat 2D cartoon, thick outlines, warm colors, 16:9 landscape. One coherent full-bleed illustration, no collage. Muted teal, cream and warm brown, gentle cel shading. Exactly two people, Bac Sau is the older Vietnamese accountant with beige checked shirt, rectangular glasses, one blue pen behind one ear and red ledger; Ut is the young Vietnamese woman with high black ponytail, white short sleeve blouse, beige trousers, white shoes and brown crossbody bag. Keep identities distinct. Bac Sau and Ut smile calmly at the home tea table, her card safely in wallet, his ledger closed, faces upper half. Calm frontal composition with depth. Match referenced character identities exactly. All papers, screens, receipts, cards, calendars, coins, envelopes and keypads completely blank and unlabelled. No letters, digits, written symbols, handwriting-like strokes, logos, watermark, speech balloons, graphs or text. Clocks may have plain ticks and hands only. Correct natural anatomy, wrists, collars and bag strap orientation; only two arms per person, no extra fingers or limbs. No ID badge or lanyard. Keep faces in upper half, allow clean lower space for native captions. Render one single landscape image at 1536x864 or equivalent 16:9. No text, letters, numbers, logos or watermarks. Create a fresh single instant and genuinely different camera composition from the identity reference. New tight medium three-quarter composition with props on the left. Do not include any calculator or printed banknotes. Coins must be smooth featureless circular counters. No text, letters, numbers, logos or watermarks.",
+    "original": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-863d079c-7c32-4623-8f4c-aa11d021d628.png",
+    "destination": "D:\\Repo\\bac-sau-so-sach\\videos\\07-the-tin-dung\\anh\\shots\\canh-10-12.png",
+    "recoveredFrom": "same-thread image_gen.generation completed event; exact prompt match",
+    "completedAt": "2026-10-23T06:13:17.073Z",
+    "sha256": "4548b2e295303f2747cc210e2fb11a6c986f1001c61cee5bc8d4d2554a6c1867",
+    "manualReviewed": true,
+    "review": "Identity, anatomy, body/collar/bag orientation, no readable letters/digits/logos; all 7 contact sheets inspected. Last two also inspected full size."
+  },
+  {
+    "id": "canh-10-13",
+    "image": "anh/shots/canh-10-13.png",
+    "refs": [
+      "assets/nhan-vat/con-ut.png"
+    ],
+    "prompt": "Use case: illustration-story. Video background asset. Flat 2D cartoon, thick outlines, warm colors, 16:9 landscape. One coherent full-bleed illustration, no collage. Muted teal, cream and warm brown, gentle cel shading. Ut only, young Vietnamese woman, high black ponytail, white short sleeve blouse, beige trousers, brown crossbody bag, white shoes, no glasses. Ut considers her grocery basket and closed wallet, realistic household-budget mood. Top-down or slightly elevated close framing. Match referenced character identities exactly. All papers, screens, receipts, cards, calendars, coins, envelopes and keypads completely blank and unlabelled. No letters, digits, written symbols, handwriting-like strokes, logos, watermark, speech balloons, graphs or text. Clocks may have plain ticks and hands only. Correct natural anatomy, wrists, collars and bag strap orientation; only two arms per person, no extra fingers or limbs. No ID badge or lanyard. Keep faces in upper half, allow clean lower space for native captions. Render one single landscape image at 1536x864 or equivalent 16:9. No text, letters, numbers, logos or watermarks. Create a fresh single instant and genuinely different camera composition from the identity reference. New straight-on medium view with a clean uncluttered foreground. Do not include any calculator or printed banknotes. Coins must be smooth featureless circular counters. No text, letters, numbers, logos or watermarks.",
+    "original": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-50abd817-d40d-4b82-a01d-dcf28189f3af.png",
+    "destination": "D:\\Repo\\bac-sau-so-sach\\videos\\07-the-tin-dung\\anh\\shots\\canh-10-13.png",
+    "recoveredFrom": "same-thread image_gen.generation completed event; exact prompt match",
+    "completedAt": "2026-10-23T06:13:59.861Z",
+    "sha256": "de68f877ee2df95661d0e197b1208909d6db4af109f47271b77fae27ee50b888",
+    "manualReviewed": true,
+    "review": "Identity, anatomy, body/collar/bag orientation, no readable letters/digits/logos; all 7 contact sheets inspected. Last two also inspected full size."
+  },
+  {
+    "id": "canh-10-14",
+    "image": "anh/shots/canh-10-14.png",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png",
+      "assets/nhan-vat/con-ut.png"
+    ],
+    "prompt": "Flat 2D cartoon, thick outlines, warm colors, 16:9. Use both references. At a home table Ut puts a plain teal card into her brown wallet while Bac Sau closes his red ledger. Friendly resolved expressions, faces in upper half, clean space below for captions. One blue pen behind his ear. No text, numbers, logos, watermark or extra limbs. One coherent full-bleed illustration, not a collage. Cream, muted teal and warm brown palette, gentle cel shading. All papers, calendars, receipts, screens, card faces, coins and keys must be completely blank and unlabeled, no handwriting-like strokes, letters, digits, money denominations, logos, speech bubbles, diagrams or watermarks. Natural anatomy and correct orientation of collars, wrists and bag straps. No ID badges or lanyards. Match each referenced identity exactly; do not blend them. Bac Sau has rectangular glasses, beige checked shirt, brown trousers and exactly one blue pen behind his ear, and a red ledger. Ut has high black ponytail, white short sleeve blouse, beige trousers and a brown bag. No glasses or pen on Ut. No text, letters, numbers, logos or watermarks. Create a fresh single instant and genuinely different camera composition from the identity reference. New high oblique view with subject at right and props foreground. Do not include any calculator or printed banknotes. Coins must be smooth featureless circular counters. No text, letters, numbers, logos or watermarks.",
+    "original": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-e77db5be-99aa-4604-995e-cd0fd73c58db.png",
+    "destination": "D:\\Repo\\bac-sau-so-sach\\videos\\07-the-tin-dung\\anh\\shots\\canh-10-14.png",
+    "recoveredFrom": "same-thread image_gen.generation completed event; exact prompt match",
+    "completedAt": "2026-10-23T06:14:43.793Z",
+    "sha256": "2a9b01004c31838005fe35c5a5199e8c30d5eef94b5cc4eb45025606cfa75c35",
+    "manualReviewed": true,
+    "review": "Identity, anatomy, body/collar/bag orientation, no readable letters/digits/logos; all 7 contact sheets inspected. Last two also inspected full size."
+  },
+  {
+    "id": "canh-10-15",
+    "image": "anh/shots/canh-10-15.png",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png",
+      "assets/nhan-vat/con-ut.png"
+    ],
+    "prompt": "Use case: illustration-story. Video background asset. Flat 2D cartoon, thick outlines, warm colors, 16:9 landscape. One coherent full-bleed illustration, no collage. Muted teal, cream and warm brown, gentle cel shading. Exactly two people, Bac Sau is the older Vietnamese accountant with beige checked shirt, rectangular glasses, one blue pen behind one ear and red ledger; Ut is the young Vietnamese woman with high black ponytail, white short sleeve blouse, beige trousers, white shoes and brown crossbody bag. Keep identities distinct. Bac Sau and Ut review a plain statement together, faces in upper half and clean space beneath. Intimate view of subject with props. Match referenced character identities exactly. All papers, screens, receipts, cards, calendars, coins, envelopes and keypads completely blank and unlabelled. No letters, digits, written symbols, handwriting-like strokes, logos, watermark, speech balloons, graphs or text. Clocks may have plain ticks and hands only. Correct natural anatomy, wrists, collars and bag strap orientation; only two arms per person, no extra fingers or limbs. No ID badge or lanyard. Keep faces in upper half, allow clean lower space for native captions. Render one single landscape image at 1536x864 or equivalent 16:9. No text, letters, numbers, logos or watermarks. Create a fresh single instant and genuinely different camera composition from the identity reference. New low eye-level close view with subject at left, different from reference scene. Do not include any calculator or printed banknotes. Coins must be smooth featureless circular counters. No text, letters, numbers, logos or watermarks.",
+    "original": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-86a0b773-ce45-46a4-9f54-306553a32bf1.png",
+    "destination": "D:\\Repo\\bac-sau-so-sach\\videos\\07-the-tin-dung\\anh\\shots\\canh-10-15.png",
+    "recoveredFrom": "same-thread image_gen.generation completed event; exact prompt match",
+    "completedAt": "2026-10-23T06:15:56.021Z",
+    "sha256": "47d265fd9da8f78974737bd98cd9f6ec9ec7d43111c076d316aa4082207b6a97",
+    "manualReviewed": true,
+    "review": "Identity, anatomy, body/collar/bag orientation, no readable letters/digits/logos; all 7 contact sheets inspected. Last two also inspected full size."
+  },
+  {
+    "id": "canh-10-16",
+    "image": "anh/shots/canh-10-16.png",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png"
+    ],
+    "prompt": "Use case: illustration-story. Video background asset. Flat 2D cartoon, thick outlines, warm colors, 16:9 landscape. One coherent full-bleed illustration, no collage. Muted teal, cream and warm brown, gentle cel shading. Bac Sau only, an older Vietnamese accountant, rectangular glasses, beige checked shirt, brown trousers, red ledger and exactly one blue pen behind one ear. Bac Sau calmly recalls the lesson with three plain blank envelopes on a home table. Three-quarter table view. Match referenced character identities exactly. All papers, screens, receipts, cards, calendars, coins, envelopes and keypads completely blank and unlabelled. No letters, digits, written symbols, handwriting-like strokes, logos, watermark, speech balloons, graphs or text. Clocks may have plain ticks and hands only. Correct natural anatomy, wrists, collars and bag strap orientation; only two arms per person, no extra fingers or limbs. No ID badge or lanyard. Keep faces in upper half, allow clean lower space for native captions. Render one single landscape image at 1536x864 or equivalent 16:9. No text, letters, numbers, logos or watermarks. Create a fresh single instant and genuinely different camera composition from the identity reference. New wider view from the opposite side of the table, showing home surroundings. Do not include any calculator or printed banknotes. Coins must be smooth featureless circular counters. No text, letters, numbers, logos or watermarks.",
+    "original": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-d48d5ae5-ca61-461a-b5ed-7f346e1b97f8.png",
+    "destination": "D:/Repo/bac-sau-so-sach/videos/07-the-tin-dung/anh/shots/canh-10-16.png",
+    "manualReviewed": true,
+    "sha256": "39436fe60a635ceaafdafd5695b0e6af2cd4b56a99f3f5b877c5c025c6b5f307",
+    "review": "Identity, anatomy, body/collar/bag orientation, no readable letters/digits/logos; all 7 contact sheets inspected. Last two also inspected full size."
+  },
+  {
+    "id": "canh-10-17",
+    "image": "anh/shots/canh-10-17.png",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png",
+      "assets/nhan-vat/con-ut.png"
+    ],
+    "prompt": "Use case: illustration-story. Video background asset. Flat 2D cartoon, thick outlines, warm colors, 16:9 landscape. One coherent full-bleed illustration, no collage. Muted teal, cream and warm brown, gentle cel shading. Exactly two people, Bac Sau is the older Vietnamese accountant with beige checked shirt, rectangular glasses, one blue pen behind one ear and red ledger; Ut is the young Vietnamese woman with high black ponytail, white short sleeve blouse, beige trousers, white shoes and brown crossbody bag. Keep identities distinct. Bac Sau and Ut smile calmly at the home tea table, her card safely in wallet, his ledger closed, faces upper half. Calm frontal composition with depth. Match referenced character identities exactly. All papers, screens, receipts, cards, calendars, coins, envelopes and keypads completely blank and unlabelled. No letters, digits, written symbols, handwriting-like strokes, logos, watermark, speech balloons, graphs or text. Clocks may have plain ticks and hands only. Correct natural anatomy, wrists, collars and bag strap orientation; only two arms per person, no extra fingers or limbs. No ID badge or lanyard. Keep faces in upper half, allow clean lower space for native captions. Render one single landscape image at 1536x864 or equivalent 16:9. No text, letters, numbers, logos or watermarks. Create a fresh single instant and genuinely different camera composition from the identity reference. New tight medium three-quarter composition with props on the left. Do not include any calculator or printed banknotes. Coins must be smooth featureless circular counters. No text, letters, numbers, logos or watermarks.",
+    "original": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-3ddb1d7f-439a-4863-8b57-da269d171626.png",
+    "destination": "D:/Repo/bac-sau-so-sach/videos/07-the-tin-dung/anh/shots/canh-10-17.png",
+    "manualReviewed": true,
+    "sha256": "da08ea823dd077776cbb1b7997f7b06a078267fe47c44b4c43b3ccc1c56d2667",
+    "review": "Identity, anatomy, body/collar/bag orientation, no readable letters/digits/logos; all 7 contact sheets inspected. Last two also inspected full size."
+  }
+]

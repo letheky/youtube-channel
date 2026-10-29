@@ -1,0 +1,2148 @@
+{
+  "slug": "11-vay-app-online",
+  "selectedShotCount": 119,
+  "allBuiltInImageGen": true,
+  "shots": [
+    {
+      "id": "canh-01-01",
+      "scene": 1,
+      "image": "11-vay-app-online/anh/canh-01.png",
+      "generationId": "base-01",
+      "prompt": "Flat 2D cartoon, thick outlines, warm colors, 16:9. [Reference: Bác Sáu character sheet] Match attached Bac Sau and Ut character sheets exactly. Ut in her white short sleeved collared blouse, tan high waist wide trousers, brown crossbody bag and ponytail at a small Vietnamese home tea table, looking surprised at a blank smartphone while Bac Sau holds his closed red ledger. Medium two person view, morning window light. Plain props without any printed markings, blank currency-like paper not actual banknotes, no logos, no badges or lanyards. No text, letters, numbers, logos or watermarks.",
+      "refs": [
+        "assets/nhan-vat/bang-nhan-vat.png",
+        "assets/nhan-vat/con-ut.png"
+      ],
+      "inputReferenceArchivedAt": null,
+      "source": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-a57b58bb-b16a-4c94-ad55-ce19d30c9c3d.png",
+      "sha256": "30c086fade2d35de69b3419289a84f74d745f7cfb6fb01529df433ee818ccdd2",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "tool": "built_in_image_gen"
+    },
+    {
+      "id": "canh-01-02",
+      "scene": 1,
+      "image": "11-vay-app-online/anh/shots/canh-01-02.png",
+      "generationId": "canh-01-02",
+      "prompt": "Flat 2D cartoon, thick outlines, warm colors, 16:9. Use case: illustration-story. One fresh full-bleed landscape scene in the same warm Vietnamese home story; not a collage or a character sheet. Exactly one person: Bac Sau, older Vietnamese man, grey side-part hair, rectangular glasses, beige plaid short sleeve shirt, brown trousers, blue pen behind ear and red ledger. Ut pauses holding a completely blank phone at a home tea table. Elevated diagonal wide composition. People notice the object arrangement described, calm and thoughtful, no panic. Reference sheets are identity and drawing-style guides only. Natural anatomy, hands each belong to their own person, chest and shirt collar face the torso direction. Faces in upper half and uncluttered bottom quarter for native subtitles. Screens completely blank, all paper entirely blank, smooth plain tokens and green rectangles instead of printed banknotes. No calculator keys, clocks with tickmarks, calendar grids, official stamps, bank emblems, signatures, labels, badges or necklaces. All porcelain plain without floral glyphs. No text, letters, numbers, logos or watermarks.",
+      "refs": [
+        "assets/nhan-vat/bang-nhan-vat.png"
+      ],
+      "inputReferenceArchivedAt": null,
+      "source": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-282c4bf6-07b2-48a3-9b30-eb2f59000e0c.png",
+      "sha256": "40e08ac8b80d43bbb8e305c5f644f7d8633ee64b9330535906da78ed96a43307",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "tool": "built_in_image_gen"
+    },
+    {
+      "id": "canh-01-03",
+      "scene": 1,
+      "image": "11-vay-app-online/anh/shots/canh-01-03.png",
+      "generationId": "canh-01-03",
+      "prompt": "Flat 2D cartoon, thick outlines, warm colors, 16:9. Use case: illustration-story. One fresh full-bleed landscape scene in the same warm Vietnamese home story; not a collage or a character sheet. Exactly two people: Bac Sau older man grey side-part hair, rectangular glasses, beige plaid short sleeve shirt, brown trousers, blue pen behind ear; and Ut young woman black high ponytail, white short sleeve collared blouse, tan trousers, brown crossbody bag, white sneakers. Their clothing and faces never swapped. Bac gently opens his blank red ledger near a blank phone. Close waist-up composition with clear separate hands. People notice the object arrangement described, calm and thoughtful, no panic. Reference sheets are identity and drawing-style guides only. Natural anatomy, hands each belong to their own person, chest and shirt collar face the torso direction. Faces in upper half and uncluttered bottom quarter for native subtitles. Screens completely blank, all paper entirely blank, smooth plain tokens and green rectangles instead of printed banknotes. No calculator keys, clocks with tickmarks, calendar grids, official stamps, bank emblems, signatures, labels, badges or necklaces. All porcelain plain without floral glyphs. No text, letters, numbers, logos or watermarks.",
+      "refs": [
+        "assets/nhan-vat/bang-nhan-vat.png",
+        "assets/nhan-vat/con-ut.png"
+      ],
+      "inputReferenceArchivedAt": null,
+      "source": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-3e65077a-4960-4560-9b2f-10a44a9667d9.png",
+      "sha256": "ef0f922badeb1db87f5122f3ad2d04d3033c643aa9815d06b6a6b5b795ee11c1",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "tool": "built_in_image_gen"
+    },
+    {
+      "id": "canh-01-04",
+      "scene": 1,
+      "image": "11-vay-app-online/anh/shots/canh-01-04.png",
+      "generationId": "canh-01-04",
+      "prompt": "Flat 2D cartoon, thick outlines, warm colors, 16:9. Use case: illustration-story. One fresh full-bleed landscape scene in the same warm Vietnamese home story; not a collage or a character sheet. Objects only: no people, hands, arms, bodies or faces. A closed wallet and two completely blank receipts on a tea table. Wide environmental view from the opposite side of the room. Reference sheets are identity and drawing-style guides only. Natural anatomy, hands each belong to their own person, chest and shirt collar face the torso direction. Faces in upper half and uncluttered bottom quarter for native subtitles. Screens completely blank, all paper entirely blank, smooth plain tokens and green rectangles instead of printed banknotes. No calculator keys, clocks with tickmarks, calendar grids, official stamps, bank emblems, signatures, labels, badges or necklaces. All porcelain plain without floral glyphs. No text, letters, numbers, logos or watermarks.",
+      "refs": [],
+      "inputReferenceArchivedAt": null,
+      "source": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-7c1eff7f-323b-434b-9507-073e523689d2.png",
+      "sha256": "e87d87afb7a64489409592aa9d4b2968a545e23479aefdcdc0f6fc7cc45d7b75",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "tool": "built_in_image_gen"
+    },
+    {
+      "id": "canh-01-05",
+      "scene": 1,
+      "image": "11-vay-app-online/anh/shots/canh-01-05.png",
+      "generationId": "canh-01-05",
+      "prompt": "Flat 2D cartoon, thick outlines, warm colors, 16:9. Use case: illustration-story. One fresh full-bleed landscape scene in the same warm Vietnamese home story; not a collage or a character sheet. Exactly one person: Bac Sau, older Vietnamese man, grey side-part hair, rectangular glasses, beige plaid short sleeve shirt, brown trousers, blue pen behind ear and red ledger. A closed wallet and two completely blank receipts on a tea table. Side view with foreground table edge and deep background. People notice the object arrangement described, calm and thoughtful, no panic. Reference sheets are identity and drawing-style guides only. Natural anatomy, hands each belong to their own person, chest and shirt collar face the torso direction. Faces in upper half and uncluttered bottom quarter for native subtitles. Screens completely blank, all paper entirely blank, smooth plain tokens and green rectangles instead of printed banknotes. No calculator keys, clocks with tickmarks, calendar grids, official stamps, bank emblems, signatures, labels, badges or necklaces. All porcelain plain without floral glyphs. No text, letters, numbers, logos or watermarks.",
+      "refs": [
+        "assets/nhan-vat/bang-nhan-vat.png"
+      ],
+      "inputReferenceArchivedAt": null,
+      "source": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-5b872ba6-843f-44d0-bdb3-9812d7b771f6.png",
+      "sha256": "ec125ff1eb440033c98388288a7ca972ee0da273cf09ea69d028bc0932cbea37",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "tool": "built_in_image_gen"
+    },
+    {
+      "id": "canh-01-06",
+      "scene": 1,
+      "image": "11-vay-app-online/anh/shots/canh-01-06-v2.png",
+      "generationId": "canh-01-06-v2",
+      "prompt": "Edit the first provided image only. Replace the unrelated young man in the green shirt with Bac Sau from the second reference: elderly Vietnamese man, grey side-part hair, rectangular dark glasses, beige plaid short sleeve shirt, brown trousers and a small blue pen clearly behind his visible ear. Keep his seated pose pointing to the entirely blank wall calendar, with anatomically correct hands. Keep Ut on the left exactly as in the first image and third character reference: black high ponytail, white short sleeve collared blouse, tan trousers and brown crossbody bag. Keep the room, camera view, table, plain props and lighting. Exactly two people: Bac Sau and Ut. All calendar pages and papers entirely blank. No text, letters, numbers, logos or watermarks.",
+      "refs": [
+        "D:/Repo/bac-sau-so-sach/videos/11-vay-app-online/anh/shots/canh-01-06.png",
+        "D:/Repo/bac-sau-so-sach/assets/nhan-vat/bang-nhan-vat.png",
+        "D:/Repo/bac-sau-so-sach/assets/nhan-vat/con-ut.png"
+      ],
+      "inputReferenceArchivedAt": null,
+      "source": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-7fb9541c-e351-4224-acd2-f1c2c7604999.png",
+      "sha256": "87cb8b20b51b2279b9b9731e6e7fd1b9f4639c568aa03000ae02dcce30689814",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "tool": "built_in_image_gen"
+    },
+    {
+      "id": "canh-02-01",
+      "scene": 2,
+      "image": "11-vay-app-online/anh/canh-02-v2.png",
+      "generationId": "base-02-v2",
+      "prompt": "Edit only the provided illustration. Add Bac Sau's small blue pen tucked naturally behind his visible ear, matching the reference identity. Preserve the two people, poses, hands, blank papers, blank phone, clothing, faces, composition and lighting exactly. All paper and screen stays completely blank. No text, letters, numbers, logos or watermarks.",
+      "refs": [
+        "D:/Repo/bac-sau-so-sach/videos/11-vay-app-online/anh/canh-02.png"
+      ],
+      "inputReferenceArchivedAt": null,
+      "source": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-d17c2bab-bcd0-4689-b9cf-4ee28e20d514.png",
+      "sha256": "267bd796d631d2f09d9bfca00f662c02e73fca9f4eed0c11774e4d519af9aec4",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "tool": "built_in_image_gen"
+    },
+    {
+      "id": "canh-02-02",
+      "scene": 2,
+      "image": "11-vay-app-online/anh/shots/canh-02-02.png",
+      "generationId": "canh-02-02",
+      "prompt": "Flat 2D cartoon, thick outlines, warm colors, 16:9. Use case: illustration-story. One fresh full-bleed landscape scene in the same warm Vietnamese home story; not a collage or a character sheet. Exactly one person: Bac Sau, older Vietnamese man, grey side-part hair, rectangular glasses, beige plaid short sleeve shirt, brown trousers, blue pen behind ear and red ledger. Blank papers separated into two piles at a home tea table. Elevated diagonal wide composition. People notice the object arrangement described, calm and thoughtful, no panic. Reference sheets are identity and drawing-style guides only. Natural anatomy, hands each belong to their own person, chest and shirt collar face the torso direction. Faces in upper half and uncluttered bottom quarter for native subtitles. Screens completely blank, all paper entirely blank, smooth plain tokens and green rectangles instead of printed banknotes. No calculator keys, clocks with tickmarks, calendar grids, official stamps, bank emblems, signatures, labels, badges or necklaces. All porcelain plain without floral glyphs. No text, letters, numbers, logos or watermarks.",
+      "refs": [
+        "assets/nhan-vat/bang-nhan-vat.png"
+      ],
+      "inputReferenceArchivedAt": null,
+      "source": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-b626298f-5086-4bf2-ba0a-14c19e30f55e.png",
+      "sha256": "f8f5171eea848c53fdeada767ff8521889c29ece2d7abbd1eb8d9d4142f470ea",
+      "dimensions": [
+        1671,
+        941
+      ],
+      "tool": "built_in_image_gen"
+    },
+    {
+      "id": "canh-02-03",
+      "scene": 2,
+      "image": "11-vay-app-online/anh/shots/canh-02-03.png",
+      "generationId": "canh-02-03",
+      "prompt": "Flat 2D cartoon, thick outlines, warm colors, 16:9. Use case: illustration-story. One fresh full-bleed landscape scene in the same warm Vietnamese home story; not a collage or a character sheet. Exactly two people: Bac Sau older man grey side-part hair, rectangular glasses, beige plaid short sleeve shirt, brown trousers, blue pen behind ear; and Ut young woman black high ponytail, white short sleeve collared blouse, tan trousers, brown crossbody bag, white sneakers. Their clothing and faces never swapped. Blank papers separated into two piles at a home tea table. Close waist-up composition with clear separate hands. People notice the object arrangement described, calm and thoughtful, no panic. Reference sheets are identity and drawing-style guides only. Natural anatomy, hands each belong to their own person, chest and shirt collar face the torso direction. Faces in upper half and uncluttered bottom quarter for native subtitles. Screens completely blank, all paper entirely blank, smooth plain tokens and green rectangles instead of printed banknotes. No calculator keys, clocks with tickmarks, calendar grids, official stamps, bank emblems, signatures, labels, badges or necklaces. All porcelain plain without floral glyphs. No text, letters, numbers, logos or watermarks.",
+      "refs": [
+        "assets/nhan-vat/bang-nhan-vat.png",
+        "assets/nhan-vat/con-ut.png"
+      ],
+      "inputReferenceArchivedAt": null,
+      "source": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-a2f3568d-e37f-4867-b213-43702ffa48ca.png",
+      "sha256": "39b814f8b92c60e8355b146afe5c6905555eac27ceed69ee9b6d962f37bb3bbc",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "tool": "built_in_image_gen"
+    },
+    {
+      "id": "canh-02-04",
+      "scene": 2,
+      "image": "11-vay-app-online/anh/shots/canh-02-04.png",
+      "generationId": "canh-02-04",
+      "prompt": "Flat 2D cartoon, thick outlines, warm colors, 16:9. Use case: illustration-story. One fresh full-bleed landscape scene in the same warm Vietnamese home story; not a collage or a character sheet. Objects only: no people, hands, arms, bodies or faces. Blank papers separated into two piles at a home tea table. Wide environmental view from the opposite side of the room. Reference sheets are identity and drawing-style guides only. Natural anatomy, hands each belong to their own person, chest and shirt collar face the torso direction. Faces in upper half and uncluttered bottom quarter for native subtitles. Screens completely blank, all paper entirely blank, smooth plain tokens and green rectangles instead of printed banknotes. No calculator keys, clocks with tickmarks, calendar grids, official stamps, bank emblems, signatures, labels, badges or necklaces. All porcelain plain without floral glyphs. No text, letters, numbers, logos or watermarks.",
+      "refs": [],
+      "inputReferenceArchivedAt": null,
+      "source": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-f0aa646a-b4ee-4c0f-9837-10b47aacf153.png",
+      "sha256": "8cdcb0119781e7206f7e279e882e7e803e622120b69935597d3936971d4e4246",
+      "dimensions": [
+        1672,
+        940
+      ],
+      "tool": "built_in_image_gen"
+    },
+    {
+      "id": "canh-02-05",
+      "scene": 2,
+      "image": "11-vay-app-online/anh/shots/canh-02-05.png",
+      "generationId": "canh-02-05",
+      "prompt": "Flat 2D cartoon, thick outlines, warm colors, 16:9. Use case: illustration-story. One fresh full-bleed landscape scene in the same warm Vietnamese home story; not a collage or a character sheet. Exactly one person: Bac Sau, older Vietnamese man, grey side-part hair, rectangular glasses, beige plaid short sleeve shirt, brown trousers, blue pen behind ear and red ledger. Blank papers separated into two piles at a home tea table. Side view with foreground table edge and deep background. People notice the object arrangement described, calm and thoughtful, no panic. Reference sheets are identity and drawing-style guides only. Natural anatomy, hands each belong to their own person, chest and shirt collar face the torso direction. Faces in upper half and uncluttered bottom quarter for native subtitles. Screens completely blank, all paper entirely blank, smooth plain tokens and green rectangles instead of printed banknotes. No calculator keys, clocks with tickmarks, calendar grids, official stamps, bank emblems, signatures, labels, badges or necklaces. All porcelain plain without floral glyphs. No text, letters, numbers, logos or watermarks.",
+      "refs": [
+        "assets/nhan-vat/bang-nhan-vat.png"
+      ],
+      "inputReferenceArchivedAt": null,
+      "source": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-05e2bb37-298e-4466-a48c-9c81924d83f0.png",
+      "sha256": "0fbc06b23202badc42b6b86da231c441eeef2494504091397645f580917473cf",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "tool": "built_in_image_gen"
+    },
+    {
+      "id": "canh-02-06",
+      "scene": 2,
+      "image": "11-vay-app-online/anh/shots/canh-02-06.png",
+      "generationId": "canh-02-06",
+      "prompt": "Flat 2D cartoon, thick outlines, warm colors, 16:9. Use case: illustration-story. One fresh full-bleed landscape scene in the same warm Vietnamese home story; not a collage or a character sheet. Exactly one person: Ut, young Vietnamese woman, black high ponytail, white SHORT SLEEVE collared button blouse, high waist tan wide trousers, brown crossbody bag, white lace-up sneakers. No glasses, lanyard or badge. A small plain envelope placed away from an open blank wallet. Balanced frontal medium view. People notice the object arrangement described, calm and thoughtful, no panic. Reference sheets are identity and drawing-style guides only. Natural anatomy, hands each belong to their own person, chest and shirt collar face the torso direction. Faces in upper half and uncluttered bottom quarter for native subtitles. Screens completely blank, all paper entirely blank, smooth plain tokens and green rectangles instead of printed banknotes. No calculator keys, clocks with tickmarks, calendar grids, official stamps, bank emblems, signatures, labels, badges or necklaces. All porcelain plain without floral glyphs. No text, letters, numbers, logos or watermarks.",
+      "refs": [
+        "assets/nhan-vat/con-ut.png"
+      ],
+      "inputReferenceArchivedAt": null,
+      "source": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-949f5f9d-c2e4-4803-982f-ad7f12c07392.png",
+      "sha256": "b8b0ae1ec666005b50dcc630b9443ed3e2fef884823e5c615b1b1360ad54de7c",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "tool": "built_in_image_gen"
+    },
+    {
+      "id": "canh-02-07",
+      "scene": 2,
+      "image": "11-vay-app-online/anh/shots/canh-02-07.png",
+      "generationId": "canh-02-07",
+      "prompt": "Flat 2D cartoon, thick outlines, warm colors, 16:9. Use case: illustration-story. One fresh full-bleed landscape scene in the same warm Vietnamese home story; not a collage or a character sheet. Exactly two people: Bac Sau older man grey side-part hair, rectangular glasses, beige plaid short sleeve shirt, brown trousers, blue pen behind ear; and Ut young woman black high ponytail, white short sleeve collared blouse, tan trousers, brown crossbody bag, white sneakers. Their clothing and faces never swapped. A small plain envelope placed away from an open blank wallet. Overhead oblique view towards the table, anatomically natural. People notice the object arrangement described, calm and thoughtful, no panic. Reference sheets are identity and drawing-style guides only. Natural anatomy, hands each belong to their own person, chest and shirt collar face the torso direction. Faces in upper half and uncluttered bottom quarter for native subtitles. Screens completely blank, all paper entirely blank, smooth plain tokens and green rectangles instead of printed banknotes. No calculator keys, clocks with tickmarks, calendar grids, official stamps, bank emblems, signatures, labels, badges or necklaces. All porcelain plain without floral glyphs. No text, letters, numbers, logos or watermarks.",
+      "refs": [
+        "assets/nhan-vat/bang-nhan-vat.png",
+        "assets/nhan-vat/con-ut.png"
+      ],
+      "inputReferenceArchivedAt": null,
+      "source": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-281f97c9-1b7f-4daf-a554-daf3036af7ff.png",
+      "sha256": "0c6dcb6591bda464d7fe6a129d1062a1a560520962a15791fcba5ef5e119794a",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "tool": "built_in_image_gen"
+    },
+    {
+      "id": "canh-02-08",
+      "scene": 2,
+      "image": "11-vay-app-online/anh/shots/canh-02-08.png",
+      "generationId": "canh-02-08",
+      "prompt": "Flat 2D cartoon, thick outlines, warm colors, 16:9. Use case: illustration-story. One fresh full-bleed landscape scene in the same warm Vietnamese home story; not a collage or a character sheet. Objects only: no people, hands, arms, bodies or faces. A small plain envelope placed away from an open blank wallet. View through the home doorway. Reference sheets are identity and drawing-style guides only. Natural anatomy, hands each belong to their own person, chest and shirt collar face the torso direction. Faces in upper half and uncluttered bottom quarter for native subtitles. Screens completely blank, all paper entirely blank, smooth plain tokens and green rectangles instead of printed banknotes. No calculator keys, clocks with tickmarks, calendar grids, official stamps, bank emblems, signatures, labels, badges or necklaces. All porcelain plain without floral glyphs. No text, letters, numbers, logos or watermarks.",
+      "refs": [],
+      "inputReferenceArchivedAt": null,
+      "source": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-e157f2f6-326d-4990-990f-f364b670d564.png",
+      "sha256": "a6933794edd982f3eae3c7f3a9fa8f4087026dbbe9661c46251ceb07012ac7fb",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "tool": "built_in_image_gen"
+    },
+    {
+      "id": "canh-02-09",
+      "scene": 2,
+      "image": "11-vay-app-online/anh/shots/canh-02-09.png",
+      "generationId": "canh-02-09",
+      "prompt": "Flat 2D cartoon, thick outlines, warm colors, 16:9. Use case: illustration-story. One fresh full-bleed landscape scene in the same warm Vietnamese home story; not a collage or a character sheet. Exactly one person: Ut, young Vietnamese woman, black high ponytail, white SHORT SLEEVE collared button blouse, high waist tan wide trousers, brown crossbody bag, white lace-up sneakers. No glasses, lanyard or badge. A small plain envelope placed away from an open blank wallet. Medium eye-level front three-quarter composition. People notice the object arrangement described, calm and thoughtful, no panic. Reference sheets are identity and drawing-style guides only. Natural anatomy, hands each belong to their own person, chest and shirt collar face the torso direction. Faces in upper half and uncluttered bottom quarter for native subtitles. Screens completely blank, all paper entirely blank, smooth plain tokens and green rectangles instead of printed banknotes. No calculator keys, clocks with tickmarks, calendar grids, official stamps, bank emblems, signatures, labels, badges or necklaces. All porcelain plain without floral glyphs. No text, letters, numbers, logos or watermarks.",
+      "refs": [
+        "assets/nhan-vat/con-ut.png"
+      ],
+      "inputReferenceArchivedAt": null,
+      "source": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-b0ff22c4-9f7c-4788-a429-b721163c45b1.png",
+      "sha256": "3548878fa4984a782a1be6e79574f8db91c83222772dc8626d10ede12ee13afa",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "tool": "built_in_image_gen"
+    },
+    {
+      "id": "canh-02-10",
+      "scene": 2,
+      "image": "11-vay-app-online/anh/shots/canh-02-10.png",
+      "generationId": "canh-02-10",
+      "prompt": "Flat 2D cartoon, thick outlines, warm colors, 16:9. Use case: illustration-story. One fresh full-bleed landscape scene in the same warm Vietnamese home story; not a collage or a character sheet. Exactly one person: Bac Sau, older Vietnamese man, grey side-part hair, rectangular glasses, beige plaid short sleeve shirt, brown trousers, blue pen behind ear and red ledger. An empty hand and an unmarked phone on the tea table. Elevated diagonal wide composition. People notice the object arrangement described, calm and thoughtful, no panic. Reference sheets are identity and drawing-style guides only. Natural anatomy, hands each belong to their own person, chest and shirt collar face the torso direction. Faces in upper half and uncluttered bottom quarter for native subtitles. Screens completely blank, all paper entirely blank, smooth plain tokens and green rectangles instead of printed banknotes. No calculator keys, clocks with tickmarks, calendar grids, official stamps, bank emblems, signatures, labels, badges or necklaces. All porcelain plain without floral glyphs. No text, letters, numbers, logos or watermarks.",
+      "refs": [
+        "assets/nhan-vat/bang-nhan-vat.png"
+      ],
+      "inputReferenceArchivedAt": null,
+      "source": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-50d34f60-6f25-42f6-b5d6-ae9164d89b7d.png",
+      "sha256": "fa29126f2f67005f6463ce10248165ca696eda553118352086ca7de1c08335a3",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "tool": "built_in_image_gen"
+    },
+    {
+      "id": "canh-02-11",
+      "scene": 2,
+      "image": "11-vay-app-online/anh/shots/canh-02-11.png",
+      "generationId": "canh-02-11",
+      "prompt": "Flat 2D cartoon, thick outlines, warm colors, 16:9. Use case: illustration-story. A fresh full-bleed landscape illustration, not a collage or character sheet. Exactly two people, Bac Sau, elderly Vietnamese man with grey side-part hair, rectangular dark glasses, beige plaid short sleeve shirt, brown trousers and a small blue pen clearly visible behind his ear and Ut, young Vietnamese woman with black high ponytail, white short sleeve collared blouse, tan high waist wide trousers and brown crossbody bag. Both calmly study the objects on the table, hands resting naturally. No other people. On the table: a phone placed face down next to blank papers. Modest warm Vietnamese home, wooden furniture, plain potted plants, soft daylight; high oblique view toward table. Use character references only for identity and drawing style. Natural anatomy; each hand belongs to its own person. Faces in upper half and clean lower quarter for native subtitles. Screens and all paper completely blank, no printed currency. No calculators, marked clocks, grids, seals, badges, necklaces or official emblems. Plain porcelain without markings. No text, letters, numbers, logos or watermarks.",
+      "refs": [
+        "assets/nhan-vat/bang-nhan-vat.png",
+        "assets/nhan-vat/con-ut.png"
+      ],
+      "inputReferenceArchivedAt": null,
+      "source": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-0c951967-4b7b-4176-8ed0-3b698fb766e4.png",
+      "sha256": "8e2ecad2e1cfc5da33568ae22ff6e68d7f214ea09b0c58a05eebcc2624b00ba3",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "tool": "built_in_image_gen"
+    },
+    {
+      "id": "canh-02-12",
+      "scene": 2,
+      "image": "11-vay-app-online/anh/shots/canh-02-12.png",
+      "generationId": "canh-02-12",
+      "prompt": "Flat 2D cartoon, thick outlines, warm colors, 16:9. Use case: illustration-story. A fresh full-bleed landscape illustration, not a collage or character sheet. Object-only still life, no people or body parts. On the table: one blank receipt separated from four unprinted green paper rectangles. Modest warm Vietnamese home, wooden furniture, plain potted plants, soft daylight; view through home doorway. Use character references only for identity and drawing style. Natural anatomy; each hand belongs to its own person. Faces in upper half and clean lower quarter for native subtitles. Screens and all paper completely blank, no printed currency. No calculators, marked clocks, grids, seals, badges, necklaces or official emblems. Plain porcelain without markings. No text, letters, numbers, logos or watermarks.",
+      "refs": [],
+      "inputReferenceArchivedAt": null,
+      "source": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-f9d0f679-aef8-4023-82e4-67b6c36c9c0f.png",
+      "sha256": "e30d9fc9bd82c90ad6ffdd874252fb7544b3a9aba7bbda15ebf07ecc29c3dd07",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "tool": "built_in_image_gen"
+    },
+    {
+      "id": "canh-02-13",
+      "scene": 2,
+      "image": "11-vay-app-online/anh/shots/canh-02-13.png",
+      "generationId": "canh-02-13",
+      "prompt": "Flat 2D cartoon, thick outlines, warm colors, 16:9. Use case: illustration-story. A fresh full-bleed landscape illustration, not a collage or character sheet. Exactly one person, Bac Sau, elderly Vietnamese man with grey side-part hair, rectangular dark glasses, beige plaid short sleeve shirt, brown trousers and a small blue pen clearly visible behind his ear. He calmly studies the objects on the table, hands resting naturally. No other people. On the table: two separate stacks of entirely blank papers and a red ledger. Modest warm Vietnamese home, wooden furniture, plain potted plants, soft daylight; medium eye-level front three-quarter view. Use character references only for identity and drawing style. Natural anatomy; each hand belongs to its own person. Faces in upper half and clean lower quarter for native subtitles. Screens and all paper completely blank, no printed currency. No calculators, marked clocks, grids, seals, badges, necklaces or official emblems. Plain porcelain without markings. No text, letters, numbers, logos or watermarks.",
+      "refs": [
+        "assets/nhan-vat/bang-nhan-vat.png"
+      ],
+      "inputReferenceArchivedAt": null,
+      "source": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-f91dd2fb-5018-4746-96ac-adddebbb8258.png",
+      "sha256": "0c043036553deac4aa218c1502508a51036c48101b151177b73c2bcd934c5878",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "tool": "built_in_image_gen"
+    },
+    {
+      "id": "canh-02-14",
+      "scene": 2,
+      "image": "11-vay-app-online/anh/shots/canh-02-14.png",
+      "generationId": "canh-02-14",
+      "prompt": "Flat 2D cartoon, thick outlines, warm colors, 16:9. Use case: illustration-story. A fresh full-bleed landscape illustration, not a collage or character sheet. Exactly one person, Ut, young Vietnamese woman with black high ponytail, white short sleeve collared blouse, tan high waist wide trousers and brown crossbody bag. She calmly studies the objects on the table, hands resting naturally. No other people. On the table: a closed plain envelope and an open blank wallet. Modest warm Vietnamese home, wooden furniture, plain potted plants, soft daylight; elevated diagonal wide view. Use character references only for identity and drawing style. Natural anatomy; each hand belongs to its own person. Faces in upper half and clean lower quarter for native subtitles. Screens and all paper completely blank, no printed currency. No calculators, marked clocks, grids, seals, badges, necklaces or official emblems. Plain porcelain without markings. No text, letters, numbers, logos or watermarks.",
+      "refs": [
+        "assets/nhan-vat/con-ut.png"
+      ],
+      "inputReferenceArchivedAt": null,
+      "source": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-3b2383d0-7125-4a1d-97fa-bdf3c27ec527.png",
+      "sha256": "ce8d58df92ec20429dff1db98b2951dd344eff5bd77db1a2870cc1b3ef7d7e20",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "tool": "built_in_image_gen"
+    },
+    {
+      "id": "canh-02-15",
+      "scene": 2,
+      "image": "11-vay-app-online/anh/shots/canh-02-15.png",
+      "generationId": "canh-02-15",
+      "prompt": "Flat 2D cartoon, thick outlines, warm colors, 16:9. Use case: illustration-story. A fresh full-bleed landscape illustration, not a collage or character sheet. Exactly two people, Bac Sau, elderly Vietnamese man with grey side-part hair, rectangular dark glasses, beige plaid short sleeve shirt, brown trousers and a small blue pen clearly visible behind his ear and Ut, young Vietnamese woman with black high ponytail, white short sleeve collared blouse, tan high waist wide trousers and brown crossbody bag. Both calmly study the objects on the table, hands resting naturally. No other people. On the table: a phone placed face down next to blank papers. Modest warm Vietnamese home, wooden furniture, plain potted plants, soft daylight; close waist-up view with clear separate hands. Use character references only for identity and drawing style. Natural anatomy; each hand belongs to its own person. Faces in upper half and clean lower quarter for native subtitles. Screens and all paper completely blank, no printed currency. No calculators, marked clocks, grids, seals, badges, necklaces or official emblems. Plain porcelain without markings. No text, letters, numbers, logos or watermarks.",
+      "refs": [
+        "assets/nhan-vat/bang-nhan-vat.png",
+        "assets/nhan-vat/con-ut.png"
+      ],
+      "inputReferenceArchivedAt": null,
+      "source": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-cbba123d-e8e2-4ddf-9adf-f4bcd26bedba.png",
+      "sha256": "fcf009c31671ff8d2ab3585ba97da9b9a2b4d1301514298ac93bf9b5ff2cd59e",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "tool": "built_in_image_gen"
+    },
+    {
+      "id": "canh-02-16",
+      "scene": 2,
+      "image": "11-vay-app-online/anh/shots/canh-02-16.png",
+      "generationId": "canh-02-16",
+      "prompt": "Flat 2D cartoon, thick outlines, warm colors, 16:9. Use case: illustration-story. A fresh full-bleed landscape illustration, not a collage or character sheet. Object-only still life, no people or body parts. On the table: one blank receipt separated from four unprinted green paper rectangles. Modest warm Vietnamese home, wooden furniture, plain potted plants, soft daylight; wide environmental view from opposite side. Use character references only for identity and drawing style. Natural anatomy; each hand belongs to its own person. Faces in upper half and clean lower quarter for native subtitles. Screens and all paper completely blank, no printed currency. No calculators, marked clocks, grids, seals, badges, necklaces or official emblems. Plain porcelain without markings. No text, letters, numbers, logos or watermarks.",
+      "refs": [],
+      "inputReferenceArchivedAt": null,
+      "source": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-a1843f67-e797-4610-8062-c9847fd299e7.png",
+      "sha256": "aeed62c6bc0009431a3fd822f3a40dd747dbc497d21b9fab0962af29ba5bc62a",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "tool": "built_in_image_gen"
+    },
+    {
+      "id": "canh-02-17",
+      "scene": 2,
+      "image": "11-vay-app-online/anh/shots/canh-02-17.png",
+      "generationId": "canh-02-17",
+      "prompt": "Flat 2D cartoon, thick outlines, warm colors, 16:9. Use case: illustration-story. A fresh full-bleed landscape illustration, not a collage or character sheet. Exactly one person, Ut, young Vietnamese woman with black high ponytail, white short sleeve collared blouse, tan high waist wide trousers and brown crossbody bag. She calmly studies the objects on the table, hands resting naturally. No other people. On the table: two separate stacks of entirely blank papers and a red ledger. Modest warm Vietnamese home, wooden furniture, plain potted plants, soft daylight; side view with table edge and deep background. Use character references only for identity and drawing style. Natural anatomy; each hand belongs to its own person. Faces in upper half and clean lower quarter for native subtitles. Screens and all paper completely blank, no printed currency. No calculators, marked clocks, grids, seals, badges, necklaces or official emblems. Plain porcelain without markings. No text, letters, numbers, logos or watermarks.",
+      "refs": [
+        "assets/nhan-vat/con-ut.png"
+      ],
+      "inputReferenceArchivedAt": null,
+      "source": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-c1cb32d9-e643-4539-a592-cfe0e7d1b7ef.png",
+      "sha256": "18c21977bdd9d4ae0cf515314079a859faaf6731aa8a2603f5235a49d9fccf88",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "tool": "built_in_image_gen"
+    },
+    {
+      "id": "canh-02-18",
+      "scene": 2,
+      "image": "11-vay-app-online/anh/shots/canh-02-18.png",
+      "generationId": "canh-02-18",
+      "prompt": "Flat 2D cartoon, thick outlines, warm colors, 16:9. Use case: illustration-story. A fresh full-bleed landscape illustration, not a collage or character sheet. Exactly one person, Bac Sau, elderly Vietnamese man with grey side-part hair, rectangular dark glasses, beige plaid short sleeve shirt, brown trousers and a small blue pen clearly visible behind his ear. He calmly studies the objects on the table, hands resting naturally. No other people. On the table: a closed plain envelope and an open blank wallet. Modest warm Vietnamese home, wooden furniture, plain potted plants, soft daylight; balanced frontal medium view. Use character references only for identity and drawing style. Natural anatomy; each hand belongs to its own person. Faces in upper half and clean lower quarter for native subtitles. Screens and all paper completely blank, no printed currency. No calculators, marked clocks, grids, seals, badges, necklaces or official emblems. Plain porcelain without markings. No text, letters, numbers, logos or watermarks.",
+      "refs": [
+        "assets/nhan-vat/bang-nhan-vat.png"
+      ],
+      "inputReferenceArchivedAt": null,
+      "source": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-20cac274-f280-41be-a1c3-d91f8c2e2aa0.png",
+      "sha256": "8febd1313b2e0e99e12ca1fda80d712b3b38dae543a8590c6d3f265851792749",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "tool": "built_in_image_gen"
+    },
+    {
+      "id": "canh-03-01",
+      "scene": 3,
+      "image": "11-vay-app-online/anh/canh-03.png",
+      "generationId": "base-03",
+      "prompt": "Flat 2D cartoon, thick outlines, warm colors, 16:9. Overhead still life at the same tea table: one open blank red ledger, four identical unmarked green paper rectangles next to a closed envelope, an old calculator with all keys blank. No people. Plain props without any printed markings, blank currency-like paper not actual banknotes, no logos, no badges or lanyards. No text, letters, numbers, logos or watermarks.",
+      "refs": [],
+      "inputReferenceArchivedAt": null,
+      "source": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-e50bb64d-0527-4ab3-a983-e8ec2815e9fb.png",
+      "sha256": "687d82bfc71d37c195629fa86dc5052a858e17ca0d947a0fbd49e68d6d991774",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "tool": "built_in_image_gen"
+    },
+    {
+      "id": "canh-03-02",
+      "scene": 3,
+      "image": "11-vay-app-online/anh/shots/canh-03-02.png",
+      "generationId": "canh-03-02",
+      "prompt": "Flat 2D cartoon, thick outlines, warm colors, 16:9. Use case: illustration-story. A fresh full-bleed landscape illustration, not a collage or character sheet. Exactly one person, Bac Sau, elderly Vietnamese man with grey side-part hair, rectangular dark glasses, beige plaid short sleeve shirt, brown trousers and a small blue pen clearly visible behind his ear. He calmly studies the objects on the table, hands resting naturally. No other people. On the table: an open blank red ledger beside unprinted green rectangles. Modest warm Vietnamese home, wooden furniture, plain potted plants, soft daylight; high oblique view toward table. Use character references only for identity and drawing style. Natural anatomy; each hand belongs to its own person. Faces in upper half and clean lower quarter for native subtitles. Screens and all paper completely blank, no printed currency. No calculators, marked clocks, grids, seals, badges, necklaces or official emblems. Plain porcelain without markings. No text, letters, numbers, logos or watermarks.",
+      "refs": [
+        "assets/nhan-vat/bang-nhan-vat.png"
+      ],
+      "inputReferenceArchivedAt": null,
+      "source": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-f3c6a5fb-6355-49d8-97b6-ff283c71778f.png",
+      "sha256": "9972b8fea6e9d3690de911485308ededc9d080bd217d9accef1ad20d9d3354a5",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "tool": "built_in_image_gen"
+    },
+    {
+      "id": "canh-03-03",
+      "scene": 3,
+      "image": "11-vay-app-online/anh/shots/canh-03-03.png",
+      "generationId": "canh-03-03",
+      "prompt": "Flat 2D cartoon, thick outlines, warm colors, 16:9. Use case: illustration-story. A fresh full-bleed landscape illustration, not a collage or character sheet. Exactly two people, Bac Sau, elderly Vietnamese man with grey side-part hair, rectangular dark glasses, beige plaid short sleeve shirt, brown trousers and a small blue pen clearly visible behind his ear and Ut, young Vietnamese woman with black high ponytail, white short sleeve collared blouse, tan high waist wide trousers and brown crossbody bag. Both calmly study the objects on the table, hands resting naturally. No other people. On the table: one tiny smooth coin separated from a blank cream envelope. Modest warm Vietnamese home, wooden furniture, plain potted plants, soft daylight; view through home doorway. Use character references only for identity and drawing style. Natural anatomy; each hand belongs to its own person. Faces in upper half and clean lower quarter for native subtitles. Screens and all paper completely blank, no printed currency. No calculators, marked clocks, grids, seals, badges, necklaces or official emblems. Plain porcelain without markings. No text, letters, numbers, logos or watermarks.",
+      "refs": [
+        "assets/nhan-vat/bang-nhan-vat.png",
+        "assets/nhan-vat/con-ut.png"
+      ],
+      "inputReferenceArchivedAt": null,
+      "source": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-ef764d92-e35c-4a3e-a4c2-00b2b4e1f997.png",
+      "sha256": "6611ef6e02c09654f80a6b68aced5c9b597c401a5bbf0db246cf244049b29612",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "tool": "built_in_image_gen"
+    },
+    {
+      "id": "canh-03-04",
+      "scene": 3,
+      "image": "11-vay-app-online/anh/shots/canh-03-04.png",
+      "generationId": "canh-03-04",
+      "prompt": "Flat 2D cartoon, thick outlines, warm colors, 16:9. Use case: illustration-story. A fresh full-bleed landscape illustration, not a collage or character sheet. Object-only still life, no people or body parts. On the table: an open blank wallet beside two separate plain envelopes. Modest warm Vietnamese home, wooden furniture, plain potted plants, soft daylight; medium eye-level front three-quarter view. Use character references only for identity and drawing style. Natural anatomy; each hand belongs to its own person. Faces in upper half and clean lower quarter for native subtitles. Screens and all paper completely blank, no printed currency. No calculators, marked clocks, grids, seals, badges, necklaces or official emblems. Plain porcelain without markings. No text, letters, numbers, logos or watermarks.",
+      "refs": [],
+      "inputReferenceArchivedAt": null,
+      "source": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-952c671d-07e8-43f2-a66f-8298e81aacab.png",
+      "sha256": "ac6e5853369a99963af9f2cc7a64c93abc779e1175671ee061d652d5e86b8600",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "tool": "built_in_image_gen"
+    },
+    {
+      "id": "canh-03-05",
+      "scene": 3,
+      "image": "11-vay-app-online/anh/shots/canh-03-05.png",
+      "generationId": "canh-03-05",
+      "prompt": "Flat 2D cartoon, thick outlines, warm colors, 16:9. Use case: illustration-story. A fresh full-bleed landscape illustration, not a collage or character sheet. Exactly one person, Bac Sau, elderly Vietnamese man with grey side-part hair, rectangular dark glasses, beige plaid short sleeve shirt, brown trousers and a small blue pen clearly visible behind his ear. He calmly studies the objects on the table, hands resting naturally. No other people. On the table: a shallow tray of smooth plain wooden tokens and a separate closed pouch. Modest warm Vietnamese home, wooden furniture, plain potted plants, soft daylight; elevated diagonal wide view. Use character references only for identity and drawing style. Natural anatomy; each hand belongs to its own person. Faces in upper half and clean lower quarter for native subtitles. Screens and all paper completely blank, no printed currency. No calculators, marked clocks, grids, seals, badges, necklaces or official emblems. Plain porcelain without markings. No text, letters, numbers, logos or watermarks.",
+      "refs": [
+        "assets/nhan-vat/bang-nhan-vat.png"
+      ],
+      "inputReferenceArchivedAt": null,
+      "source": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-77579531-02b5-42c6-b42b-30fe92310def.png",
+      "sha256": "b0a09b884a3ca01cfe502945bd50b9ceadcbe5a5f33dd74a1a75871043713603",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "tool": "built_in_image_gen"
+    },
+    {
+      "id": "canh-03-06",
+      "scene": 3,
+      "image": "11-vay-app-online/anh/shots/canh-03-06.png",
+      "generationId": "canh-03-06",
+      "prompt": "Flat 2D cartoon, thick outlines, warm colors, 16:9. Use case: illustration-story. A fresh full-bleed landscape illustration, not a collage or character sheet. Exactly one person, Ut, young Vietnamese woman with black high ponytail, white short sleeve collared blouse, tan high waist wide trousers and brown crossbody bag. She calmly studies the objects on the table, hands resting naturally. No other people. On the table: an open blank red ledger beside unprinted green rectangles. Modest warm Vietnamese home, wooden furniture, plain potted plants, soft daylight; close waist-up view with clear separate hands. Use character references only for identity and drawing style. Natural anatomy; each hand belongs to its own person. Faces in upper half and clean lower quarter for native subtitles. Screens and all paper completely blank, no printed currency. No calculators, marked clocks, grids, seals, badges, necklaces or official emblems. Plain porcelain without markings. No text, letters, numbers, logos or watermarks.",
+      "refs": [
+        "assets/nhan-vat/con-ut.png"
+      ],
+      "inputReferenceArchivedAt": null,
+      "source": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-6e2aa877-899e-4e27-bfe0-aaefd49c0d6d.png",
+      "sha256": "da001529304ea16aeff219519141d7456ed434c22a00b3309ad842d1989d18cb",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "tool": "built_in_image_gen"
+    },
+    {
+      "id": "canh-03-07",
+      "scene": 3,
+      "image": "11-vay-app-online/anh/shots/canh-03-07.png",
+      "generationId": "canh-03-07",
+      "prompt": "Flat 2D cartoon, thick outlines, warm colors, 16:9. Use case: illustration-story. A fresh full-bleed landscape illustration, not a collage or character sheet. Exactly two people, Bac Sau, elderly Vietnamese man with grey side-part hair, rectangular dark glasses, beige plaid short sleeve shirt, brown trousers and a small blue pen clearly visible behind his ear and Ut, young Vietnamese woman with black high ponytail, white short sleeve collared blouse, tan high waist wide trousers and brown crossbody bag. Both calmly study the objects on the table, hands resting naturally. No other people. On the table: one tiny smooth coin separated from a blank cream envelope. Modest warm Vietnamese home, wooden furniture, plain potted plants, soft daylight; wide environmental view from opposite side. Use character references only for identity and drawing style. Natural anatomy; each hand belongs to its own person. Faces in upper half and clean lower quarter for native subtitles. Screens and all paper completely blank, no printed currency. No calculators, marked clocks, grids, seals, badges, necklaces or official emblems. Plain porcelain without markings. No text, letters, numbers, logos or watermarks.",
+      "refs": [
+        "assets/nhan-vat/bang-nhan-vat.png",
+        "assets/nhan-vat/con-ut.png"
+      ],
+      "inputReferenceArchivedAt": null,
+      "source": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-507eb462-6770-4d1f-96d3-401b07f1ba02.png",
+      "sha256": "f27231164b024c888be7ce93d1dbfb0969b0f2f1d2886ec6744973f9f5b586cf",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "tool": "built_in_image_gen"
+    },
+    {
+      "id": "canh-03-08",
+      "scene": 3,
+      "image": "11-vay-app-online/anh/shots/canh-03-08.png",
+      "generationId": "canh-03-08",
+      "prompt": "Flat 2D cartoon, thick outlines, warm colors, 16:9. Use case: illustration-story. A fresh full-bleed landscape illustration, not a collage or character sheet. Object-only still life, no people or body parts. On the table: an open blank wallet beside two separate plain envelopes. Modest warm Vietnamese home, wooden furniture, plain potted plants, soft daylight; side view with table edge and deep background. Use character references only for identity and drawing style. Natural anatomy; each hand belongs to its own person. Faces in upper half and clean lower quarter for native subtitles. Screens and all paper completely blank, no printed currency. No calculators, marked clocks, grids, seals, badges, necklaces or official emblems. Plain porcelain without markings. No text, letters, numbers, logos or watermarks.",
+      "refs": [],
+      "inputReferenceArchivedAt": null,
+      "source": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-46f47f12-b710-4262-a5d4-7fe69371a2b1.png",
+      "sha256": "1a12673c581cf50e182d510e764985c97e6bee9d34b8dd130f477bfa56afee12",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "tool": "built_in_image_gen"
+    },
+    {
+      "id": "canh-03-09",
+      "scene": 3,
+      "image": "11-vay-app-online/anh/shots/canh-03-09.png",
+      "generationId": "canh-03-09",
+      "prompt": "Flat 2D cartoon, thick outlines, warm colors, 16:9. Use case: illustration-story. A fresh full-bleed landscape illustration, not a collage or character sheet. Exactly one person, Ut, young Vietnamese woman with black high ponytail, white short sleeve collared blouse, tan high waist wide trousers and brown crossbody bag. She calmly studies the objects on the table, hands resting naturally. No other people. On the table: a shallow tray of smooth plain wooden tokens and a separate closed pouch. Modest warm Vietnamese home, wooden furniture, plain potted plants, soft daylight; balanced frontal medium view. Use character references only for identity and drawing style. Natural anatomy; each hand belongs to its own person. Faces in upper half and clean lower quarter for native subtitles. Screens and all paper completely blank, no printed currency. No calculators, marked clocks, grids, seals, badges, necklaces or official emblems. Plain porcelain without markings. No text, letters, numbers, logos or watermarks.",
+      "refs": [
+        "assets/nhan-vat/con-ut.png"
+      ],
+      "inputReferenceArchivedAt": null,
+      "source": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-9ae60d29-6be9-4d22-bcdc-6c07c2603d36.png",
+      "sha256": "d6c8ad071475bdf27d98461b3a80f4ce244520c7fecfae7d77741daf150b699d",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "tool": "built_in_image_gen"
+    },
+    {
+      "id": "canh-03-10",
+      "scene": 3,
+      "image": "11-vay-app-online/anh/shots/canh-03-10.png",
+      "generationId": "canh-03-10",
+      "prompt": "Flat 2D cartoon, thick outlines, warm colors, 16:9. Use case: illustration-story. A fresh full-bleed landscape illustration, not a collage or character sheet. Exactly one person, Bac Sau, elderly Vietnamese man with grey side-part hair, rectangular dark glasses, beige plaid short sleeve shirt, brown trousers and a small blue pen clearly visible behind his ear. He calmly studies the objects on the table, hands resting naturally. No other people. On the table: an open blank red ledger beside unprinted green rectangles. Modest warm Vietnamese home, wooden furniture, plain potted plants, soft daylight; high oblique view toward table. Use character references only for identity and drawing style. Natural anatomy; each hand belongs to its own person. Faces in upper half and clean lower quarter for native subtitles. Screens and all paper completely blank, no printed currency. No calculators, marked clocks, grids, seals, badges, necklaces or official emblems. Plain porcelain without markings. No text, letters, numbers, logos or watermarks.",
+      "refs": [
+        "assets/nhan-vat/bang-nhan-vat.png"
+      ],
+      "inputReferenceArchivedAt": null,
+      "source": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-9327265c-449d-45b9-a518-e927d7d2d052.png",
+      "sha256": "5045625fed49d24ffcced4c1c386933e8d08936d0c0671f76e62f999fa767ebf",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "tool": "built_in_image_gen"
+    },
+    {
+      "id": "canh-03-11",
+      "scene": 3,
+      "image": "11-vay-app-online/anh/shots/canh-03-11.png",
+      "generationId": "canh-03-11",
+      "prompt": "Flat 2D cartoon, thick outlines, warm colors, 16:9. Use case: illustration-story. A fresh full-bleed landscape illustration, not a collage or character sheet. Exactly two people, Bac Sau, elderly Vietnamese man with grey side-part hair, rectangular dark glasses, beige plaid short sleeve shirt, brown trousers and a small blue pen clearly visible behind his ear and Ut, young Vietnamese woman with black high ponytail, white short sleeve collared blouse, tan high waist wide trousers and brown crossbody bag. Both calmly study the objects on the table, hands resting naturally. No other people. On the table: one tiny smooth coin separated from a blank cream envelope. Modest warm Vietnamese home, wooden furniture, plain potted plants, soft daylight; view through home doorway. Use character references only for identity and drawing style. Natural anatomy; each hand belongs to its own person. Faces in upper half and clean lower quarter for native subtitles. Screens and all paper completely blank, no printed currency. No calculators, marked clocks, grids, seals, badges, necklaces or official emblems. Plain porcelain without markings. No text, letters, numbers, logos or watermarks.",
+      "refs": [
+        "assets/nhan-vat/bang-nhan-vat.png",
+        "assets/nhan-vat/con-ut.png"
+      ],
+      "inputReferenceArchivedAt": null,
+      "source": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-d8e2ceca-aca3-4fda-9000-3994a7db8697.png",
+      "sha256": "84a70459f9c283043f57ea9187bead6b7bcc3ff425ac662848e121ee9dd9c7b4",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "tool": "built_in_image_gen"
+    },
+    {
+      "id": "canh-03-12",
+      "scene": 3,
+      "image": "11-vay-app-online/anh/shots/canh-03-12.png",
+      "generationId": "canh-03-12",
+      "prompt": "Flat 2D cartoon, thick outlines, warm colors, 16:9. Use case: illustration-story. A fresh full-bleed landscape illustration, not a collage or character sheet. Object-only still life, no people or body parts. On the table: an open blank wallet beside two separate plain envelopes. Modest warm Vietnamese home, wooden furniture, plain potted plants, soft daylight; medium eye-level front three-quarter view. Use character references only for identity and drawing style. Natural anatomy; each hand belongs to its own person. Faces in upper half and clean lower quarter for native subtitles. Screens and all paper completely blank, no printed currency. No calculators, marked clocks, grids, seals, badges, necklaces or official emblems. Plain porcelain without markings. No text, letters, numbers, logos or watermarks.",
+      "refs": [],
+      "inputReferenceArchivedAt": null,
+      "source": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-9b17739d-b1ab-4381-a87d-2b0c5db2dc5b.png",
+      "sha256": "4217e874c6226a4446ff83b1bc76b2f07beab3920b868204f4a4731f045f6dbf",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "tool": "built_in_image_gen"
+    },
+    {
+      "id": "canh-04-01",
+      "scene": 4,
+      "image": "11-vay-app-online/anh/canh-04-v2.png",
+      "generationId": "base-04-v2",
+      "prompt": "Edit only the provided illustration. Remove the entire calculator in the foreground and naturally restore the wood tabletop beneath it. Preserve Bac Sau and Ut, all their poses and hands, blank calendars, blank ledger, clothing, blue pen, faces, composition and lighting. Absolutely no calculator, markings or writing. No text, letters, numbers, logos or watermarks.",
+      "refs": [
+        "D:/Repo/bac-sau-so-sach/videos/11-vay-app-online/anh/canh-04.png"
+      ],
+      "inputReferenceArchivedAt": null,
+      "source": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-ce31f569-7ec7-48e1-a2a8-f83a996e2612.png",
+      "sha256": "7dc624f70db473f5b368c2ced1d26b63f50ae091f1da97d2872eacbcba0097cc",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "tool": "built_in_image_gen"
+    },
+    {
+      "id": "canh-04-02",
+      "scene": 4,
+      "image": "11-vay-app-online/anh/shots/canh-04-02.png",
+      "generationId": "canh-04-02",
+      "prompt": "Flat 2D cartoon, thick outlines, warm colors, 16:9. Use case: illustration-story. A fresh full-bleed landscape illustration, not a collage or character sheet. Exactly one person, Bac Sau, elderly Vietnamese man with grey side-part hair, rectangular dark glasses, beige plaid short sleeve shirt, brown trousers and a small blue pen clearly visible behind his ear. He calmly studies the objects on the table, hands resting naturally. No other people. On the table: an entirely blank calendar page turned halfway beside neat blank papers. Modest warm Vietnamese home, wooden furniture, plain potted plants, soft daylight; elevated diagonal wide view. Use character references only for identity and drawing style. Natural anatomy; each hand belongs to its own person. Faces in upper half and clean lower quarter for native subtitles. Screens and all paper completely blank, no printed currency. No calculators, marked clocks, grids, seals, badges, necklaces or official emblems. Plain porcelain without markings. No text, letters, numbers, logos or watermarks.",
+      "refs": [
+        "assets/nhan-vat/bang-nhan-vat.png"
+      ],
+      "inputReferenceArchivedAt": null,
+      "source": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-c2531583-8129-401a-a44c-e972333fd0bf.png",
+      "sha256": "18fbbee3c089d48a6b9ca9922d1605ada37745714efcfce709972b18a0228b9f",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "tool": "built_in_image_gen"
+    },
+    {
+      "id": "canh-04-03",
+      "scene": 4,
+      "image": "11-vay-app-online/anh/shots/canh-04-03.png",
+      "generationId": "canh-04-03",
+      "prompt": "Flat 2D cartoon, thick outlines, warm colors, 16:9. Use case: illustration-story. A fresh full-bleed landscape illustration, not a collage or character sheet. Exactly two people, Bac Sau, elderly Vietnamese man with grey side-part hair, rectangular dark glasses, beige plaid short sleeve shirt, brown trousers and a small blue pen clearly visible behind his ear and Ut, young Vietnamese woman with black high ponytail, white short sleeve collared blouse, tan high waist wide trousers and brown crossbody bag. Both calmly study the objects on the table, hands resting naturally. No other people. On the table: a closed blank envelope and a single smooth token. Modest warm Vietnamese home, wooden furniture, plain potted plants, soft daylight; close waist-up view with clear separate hands. Use character references only for identity and drawing style. Natural anatomy; each hand belongs to its own person. Faces in upper half and clean lower quarter for native subtitles. Screens and all paper completely blank, no printed currency. No calculators, marked clocks, grids, seals, badges, necklaces or official emblems. Plain porcelain without markings. No text, letters, numbers, logos or watermarks.",
+      "refs": [
+        "assets/nhan-vat/bang-nhan-vat.png",
+        "assets/nhan-vat/con-ut.png"
+      ],
+      "inputReferenceArchivedAt": null,
+      "source": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-6ca80bf7-2951-45aa-85d2-b3afe22b1a24.png",
+      "sha256": "16077c10840f198eb358a1baed574703a7a38b5530b4eaf841ff0517a302baba",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "tool": "built_in_image_gen"
+    },
+    {
+      "id": "canh-04-04",
+      "scene": 4,
+      "image": "11-vay-app-online/anh/shots/canh-04-04.png",
+      "generationId": "canh-04-04",
+      "prompt": "Flat 2D cartoon, thick outlines, warm colors, 16:9. Use case: illustration-story. A fresh full-bleed landscape illustration, not a collage or character sheet. Object-only still life, no people or body parts. On the table: a face-down phone and an open blank notebook. Modest warm Vietnamese home, wooden furniture, plain potted plants, soft daylight; wide environmental view from opposite side. Use character references only for identity and drawing style. Natural anatomy; each hand belongs to its own person. Faces in upper half and clean lower quarter for native subtitles. Screens and all paper completely blank, no printed currency. No calculators, marked clocks, grids, seals, badges, necklaces or official emblems. Plain porcelain without markings. No text, letters, numbers, logos or watermarks.",
+      "refs": [],
+      "inputReferenceArchivedAt": null,
+      "source": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-f813503e-4cd4-43bc-8194-d3d01018dcaf.png",
+      "sha256": "c9df8023ff1483b8b35873450a660754390f0c9237315aad954d795a0b63af3f",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "tool": "built_in_image_gen"
+    },
+    {
+      "id": "canh-04-05",
+      "scene": 4,
+      "image": "11-vay-app-online/anh/shots/canh-04-05.png",
+      "generationId": "canh-04-05",
+      "prompt": "Flat 2D cartoon, thick outlines, warm colors, 16:9. Use case: illustration-story. A fresh full-bleed landscape illustration, not a collage or character sheet. Exactly one person, Bac Sau, elderly Vietnamese man with grey side-part hair, rectangular dark glasses, beige plaid short sleeve shirt, brown trousers and a small blue pen clearly visible behind his ear. He calmly studies the objects on the table, hands resting naturally. No other people. On the table: two entirely blank calendar blocks and blank papers. Modest warm Vietnamese home, wooden furniture, plain potted plants, soft daylight; side view with table edge and deep background. Use character references only for identity and drawing style. Natural anatomy; each hand belongs to its own person. Faces in upper half and clean lower quarter for native subtitles. Screens and all paper completely blank, no printed currency. No calculators, marked clocks, grids, seals, badges, necklaces or official emblems. Plain porcelain without markings. No text, letters, numbers, logos or watermarks.",
+      "refs": [
+        "assets/nhan-vat/bang-nhan-vat.png"
+      ],
+      "inputReferenceArchivedAt": null,
+      "source": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-5b23da50-bfef-412e-984f-ca062473b43e.png",
+      "sha256": "621d3fed17eec34a8f9d7b4c627603176e55f02178d6e78c6f0bbb71194f4bd8",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "tool": "built_in_image_gen"
+    },
+    {
+      "id": "canh-04-06",
+      "scene": 4,
+      "image": "11-vay-app-online/anh/shots/canh-04-06.png",
+      "generationId": "canh-04-06",
+      "prompt": "Flat 2D cartoon, thick outlines, warm colors, 16:9. Use case: illustration-story. A fresh full-bleed landscape illustration, not a collage or character sheet. Exactly one person, Ut, young Vietnamese woman with black high ponytail, white short sleeve collared blouse, tan high waist wide trousers and brown crossbody bag. She calmly studies the objects on the table, hands resting naturally. No other people. On the table: an entirely blank calendar page turned halfway beside neat blank papers. Modest warm Vietnamese home, wooden furniture, plain potted plants, soft daylight; balanced frontal medium view. Use character references only for identity and drawing style. Natural anatomy; each hand belongs to its own person. Faces in upper half and clean lower quarter for native subtitles. Screens and all paper completely blank, no printed currency. No calculators, marked clocks, grids, seals, badges, necklaces or official emblems. Plain porcelain without markings. No text, letters, numbers, logos or watermarks.",
+      "refs": [
+        "assets/nhan-vat/con-ut.png"
+      ],
+      "inputReferenceArchivedAt": null,
+      "source": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-9fb9652e-be2e-4b6d-8172-8aefac55bcd0.png",
+      "sha256": "993b0d1b3119a098549a69cba82af8cb7fef6de13b756359c8af711b0c497dda",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "tool": "built_in_image_gen"
+    },
+    {
+      "id": "canh-04-07",
+      "scene": 4,
+      "image": "11-vay-app-online/anh/shots/canh-04-07.png",
+      "generationId": "canh-04-07",
+      "prompt": "Flat 2D cartoon, thick outlines, warm colors, 16:9. Use case: illustration-story. A fresh full-bleed landscape illustration, not a collage or character sheet. Exactly two people, Bac Sau, elderly Vietnamese man with grey side-part hair, rectangular dark glasses, beige plaid short sleeve shirt, brown trousers and a small blue pen clearly visible behind his ear and Ut, young Vietnamese woman with black high ponytail, white short sleeve collared blouse, tan high waist wide trousers and brown crossbody bag. Both calmly study the objects on the table, hands resting naturally. No other people. On the table: a closed blank envelope and a single smooth token. Modest warm Vietnamese home, wooden furniture, plain potted plants, soft daylight; high oblique view toward table. Use character references only for identity and drawing style. Natural anatomy; each hand belongs to its own person. Faces in upper half and clean lower quarter for native subtitles. Screens and all paper completely blank, no printed currency. No calculators, marked clocks, grids, seals, badges, necklaces or official emblems. Plain porcelain without markings. No text, letters, numbers, logos or watermarks.",
+      "refs": [
+        "assets/nhan-vat/bang-nhan-vat.png",
+        "assets/nhan-vat/con-ut.png"
+      ],
+      "inputReferenceArchivedAt": null,
+      "source": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-59c72d13-8692-444b-8272-87bad7a76bb8.png",
+      "sha256": "2c914c5ae54929618de19b201c4e856735f1150c68be67662b19825a70c464f7",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "tool": "built_in_image_gen"
+    },
+    {
+      "id": "canh-04-08",
+      "scene": 4,
+      "image": "11-vay-app-online/anh/shots/canh-04-08.png",
+      "generationId": "canh-04-08",
+      "prompt": "Flat 2D cartoon, thick outlines, warm colors, 16:9. Use case: illustration-story. A fresh full-bleed landscape illustration, not a collage or character sheet. Object-only still life, no people or body parts. On the table: a face-down phone and an open blank notebook. Modest warm Vietnamese home, wooden furniture, plain potted plants, soft daylight; view through home doorway. Use character references only for identity and drawing style. Natural anatomy; each hand belongs to its own person. Faces in upper half and clean lower quarter for native subtitles. Screens and all paper completely blank, no printed currency. No calculators, marked clocks, grids, seals, badges, necklaces or official emblems. Plain porcelain without markings. No text, letters, numbers, logos or watermarks.",
+      "refs": [],
+      "inputReferenceArchivedAt": null,
+      "source": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-1dc1dd4b-93c0-487d-8224-5a787fde21c1.png",
+      "sha256": "aa1ed5fdd0d44088ef93cb99f97dffef2971fa68322a583fd745078801fd907c",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "tool": "built_in_image_gen"
+    },
+    {
+      "id": "canh-04-09",
+      "scene": 4,
+      "image": "11-vay-app-online/anh/shots/canh-04-09.png",
+      "generationId": "canh-04-09",
+      "prompt": "Flat 2D cartoon, thick outlines, warm colors, 16:9. Use case: illustration-story. A fresh full-bleed landscape illustration, not a collage or character sheet. Exactly one person, Ut, young Vietnamese woman with black high ponytail, white short sleeve collared blouse, tan high waist wide trousers and brown crossbody bag. She calmly studies the objects on the table, hands resting naturally. No other people. On the table: two entirely blank calendar blocks and blank papers. Modest warm Vietnamese home, wooden furniture, plain potted plants, soft daylight; medium eye-level front three-quarter view. Use character references only for identity and drawing style. Natural anatomy; each hand belongs to its own person. Faces in upper half and clean lower quarter for native subtitles. Screens and all paper completely blank, no printed currency. No calculators, marked clocks, grids, seals, badges, necklaces or official emblems. Plain porcelain without markings. No text, letters, numbers, logos or watermarks.",
+      "refs": [
+        "assets/nhan-vat/con-ut.png"
+      ],
+      "inputReferenceArchivedAt": null,
+      "source": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-5ea76abd-4d11-49c4-a4c1-a1ff97bc9d32.png",
+      "sha256": "7d9981e318bef2178afcef5bd2da23b255a4543a6d9b90749d6ab30ad9015e09",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "tool": "built_in_image_gen"
+    },
+    {
+      "id": "canh-04-10",
+      "scene": 4,
+      "image": "11-vay-app-online/anh/shots/canh-04-10.png",
+      "generationId": "canh-04-10",
+      "prompt": "Flat 2D cartoon, thick outlines, warm colors, 16:9. Use case: illustration-story. A fresh full-bleed landscape illustration, not a collage or character sheet. Exactly one person, Bac Sau, elderly Vietnamese man with grey side-part hair, rectangular dark glasses, beige plaid short sleeve shirt, brown trousers and a small blue pen clearly visible behind his ear. He calmly studies the objects on the table, hands resting naturally. No other people. On the table: an entirely blank calendar page turned halfway beside neat blank papers. Modest warm Vietnamese home, wooden furniture, plain potted plants, soft daylight; elevated diagonal wide view. Use character references only for identity and drawing style. Natural anatomy; each hand belongs to its own person. Faces in upper half and clean lower quarter for native subtitles. Screens and all paper completely blank, no printed currency. No calculators, marked clocks, grids, seals, badges, necklaces or official emblems. Plain porcelain without markings. No text, letters, numbers, logos or watermarks.",
+      "refs": [
+        "assets/nhan-vat/bang-nhan-vat.png"
+      ],
+      "inputReferenceArchivedAt": null,
+      "source": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-e6d2836b-6567-4520-a7fc-4b2bff384197.png",
+      "sha256": "bb7d2e158840e5e2382b000d9a501992d439d3db9470b0420653ef2cfa81b9ca",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "tool": "built_in_image_gen"
+    },
+    {
+      "id": "canh-04-11",
+      "scene": 4,
+      "image": "11-vay-app-online/anh/shots/canh-04-11.png",
+      "generationId": "canh-04-11",
+      "prompt": "Flat 2D cartoon, thick outlines, warm colors, 16:9. Use case: illustration-story. A fresh full-bleed landscape illustration, not a collage or character sheet. Exactly two people, Bac Sau, elderly Vietnamese man with grey side-part hair, rectangular dark glasses, beige plaid short sleeve shirt, brown trousers and a small blue pen clearly visible behind his ear and Ut, young Vietnamese woman with black high ponytail, white short sleeve collared blouse, tan high waist wide trousers and brown crossbody bag. Both calmly study the objects on the table, hands resting naturally. No other people. On the table: a closed blank envelope and a single smooth token. Modest warm Vietnamese home, wooden furniture, plain potted plants, soft daylight; close waist-up view with clear separate hands. Use character references only for identity and drawing style. Natural anatomy; each hand belongs to its own person. Faces in upper half and clean lower quarter for native subtitles. Screens and all paper completely blank, no printed currency. No calculators, marked clocks, grids, seals, badges, necklaces or official emblems. Plain porcelain without markings. No text, letters, numbers, logos or watermarks.",
+      "refs": [
+        "assets/nhan-vat/bang-nhan-vat.png",
+        "assets/nhan-vat/con-ut.png"
+      ],
+      "inputReferenceArchivedAt": null,
+      "source": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-098525bc-4a78-4178-8698-770d54d97456.png",
+      "sha256": "9f958b4740a93d03280593620ba6c8b54b0a2ef3e8c169ccb04304acd31d96a0",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "tool": "built_in_image_gen"
+    },
+    {
+      "id": "canh-04-12",
+      "scene": 4,
+      "image": "11-vay-app-online/anh/shots/canh-04-12.png",
+      "generationId": "canh-04-12",
+      "prompt": "Flat 2D cartoon, thick outlines, warm colors, 16:9. Use case: illustration-story. A fresh full-bleed landscape illustration, not a collage or character sheet. Object-only still life, no people or body parts. On the table: a face-down phone and an open blank notebook. Modest warm Vietnamese home, wooden furniture, plain potted plants, soft daylight; wide environmental view from opposite side. Use character references only for identity and drawing style. Natural anatomy; each hand belongs to its own person. Faces in upper half and clean lower quarter for native subtitles. Screens and all paper completely blank, no printed currency. No calculators, marked clocks, grids, seals, badges, necklaces or official emblems. Plain porcelain without markings. No text, letters, numbers, logos or watermarks.",
+      "refs": [],
+      "inputReferenceArchivedAt": null,
+      "source": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-d7c56d2a-76fb-4eb9-859d-7d066b6c8e73.png",
+      "sha256": "57718f76f9f266493c585cf531bef1c26e0eb0b68db80cdbec6d1e08fb96ac1d",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "tool": "built_in_image_gen"
+    },
+    {
+      "id": "canh-04-13",
+      "scene": 4,
+      "image": "11-vay-app-online/anh/shots/canh-04-13.png",
+      "generationId": "canh-04-13",
+      "prompt": "Flat 2D cartoon, thick outlines, warm colors, 16:9. Use case: illustration-story. A fresh full-bleed landscape illustration, not a collage or character sheet. Exactly one person, Bac Sau, elderly Vietnamese man with grey side-part hair, rectangular dark glasses, beige plaid short sleeve shirt, brown trousers and a small blue pen clearly visible behind his ear. He calmly studies the objects on the table, hands resting naturally. No other people. On the table: two entirely blank calendar blocks and blank papers. Modest warm Vietnamese home, wooden furniture, plain potted plants, soft daylight; side view with table edge and deep background. Use character references only for identity and drawing style. Natural anatomy; each hand belongs to its own person. Faces in upper half and clean lower quarter for native subtitles. Screens and all paper completely blank, no printed currency. No calculators, marked clocks, grids, seals, badges, necklaces or official emblems. Plain porcelain without markings. No text, letters, numbers, logos or watermarks.",
+      "refs": [
+        "assets/nhan-vat/bang-nhan-vat.png"
+      ],
+      "inputReferenceArchivedAt": null,
+      "source": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-d9237598-17ac-4d6d-8f96-cf381a8de1a5.png",
+      "sha256": "2717c1dffd41845db30a52085d5b2bbb98e0bc943c3a457f17ef705e67382ebb",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "tool": "built_in_image_gen"
+    },
+    {
+      "id": "canh-04-14",
+      "scene": 4,
+      "image": "11-vay-app-online/anh/shots/canh-04-14.png",
+      "generationId": "canh-04-14",
+      "prompt": "Flat 2D cartoon, thick outlines, warm colors, 16:9. Use case: illustration-story. A fresh full-bleed landscape illustration, not a collage or character sheet. Exactly one person, Ut, young Vietnamese woman with black high ponytail, white short sleeve collared blouse, tan high waist wide trousers and brown crossbody bag. She calmly studies the objects on the table, hands resting naturally. No other people. On the table: an entirely blank calendar page turned halfway beside neat blank papers. Modest warm Vietnamese home, wooden furniture, plain potted plants, soft daylight; balanced frontal medium view. Use character references only for identity and drawing style. Natural anatomy; each hand belongs to its own person. Faces in upper half and clean lower quarter for native subtitles. Screens and all paper completely blank, no printed currency. No calculators, marked clocks, grids, seals, badges, necklaces or official emblems. Plain porcelain without markings. No text, letters, numbers, logos or watermarks.",
+      "refs": [
+        "assets/nhan-vat/con-ut.png"
+      ],
+      "inputReferenceArchivedAt": null,
+      "source": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-88b1e1c4-dd88-4c0f-b787-08e250590387.png",
+      "sha256": "8be80d3cd56c6a0798570ec6c8caae5782267b21b4e1376d9260a9217504c0df",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "tool": "built_in_image_gen"
+    },
+    {
+      "id": "canh-04-15",
+      "scene": 4,
+      "image": "11-vay-app-online/anh/shots/canh-04-15.png",
+      "generationId": "canh-04-15",
+      "prompt": "Flat 2D cartoon, thick outlines, warm colors, 16:9. Use case: illustration-story. A fresh full-bleed landscape illustration, not a collage or character sheet. Exactly two people, Bac Sau, elderly Vietnamese man with grey side-part hair, rectangular dark glasses, beige plaid short sleeve shirt, brown trousers and a small blue pen clearly visible behind his ear and Ut, young Vietnamese woman with black high ponytail, white short sleeve collared blouse, tan high waist wide trousers and brown crossbody bag. Both calmly study the objects on the table, hands resting naturally. No other people. On the table: a closed blank envelope and a single smooth token. Modest warm Vietnamese home, wooden furniture, plain potted plants, soft daylight; high oblique view toward table. Use character references only for identity and drawing style. Natural anatomy; each hand belongs to its own person. Faces in upper half and clean lower quarter for native subtitles. Screens and all paper completely blank, no printed currency. No calculators, marked clocks, grids, seals, badges, necklaces or official emblems. Plain porcelain without markings. No text, letters, numbers, logos or watermarks.",
+      "refs": [
+        "assets/nhan-vat/bang-nhan-vat.png",
+        "assets/nhan-vat/con-ut.png"
+      ],
+      "inputReferenceArchivedAt": null,
+      "source": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-8fcd0b05-aa8c-40b9-9049-46477a671a21.png",
+      "sha256": "342ba1090477815f72d48defe9cd07ea7791ec2c8720a808e98b2308a409ca1b",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "tool": "built_in_image_gen"
+    },
+    {
+      "id": "canh-04-16",
+      "scene": 4,
+      "image": "11-vay-app-online/anh/shots/canh-04-16.png",
+      "generationId": "canh-04-16",
+      "prompt": "Flat 2D cartoon, thick outlines, warm colors, 16:9. Use case: illustration-story. A fresh full-bleed landscape illustration, not a collage or character sheet. Object-only still life, no people or body parts. On the table: a face-down phone and an open blank notebook. Modest warm Vietnamese home, wooden furniture, plain potted plants, soft daylight; view through home doorway. Use character references only for identity and drawing style. Natural anatomy; each hand belongs to its own person. Faces in upper half and clean lower quarter for native subtitles. Screens and all paper completely blank, no printed currency. No calculators, marked clocks, grids, seals, badges, necklaces or official emblems. Plain porcelain without markings. No text, letters, numbers, logos or watermarks.",
+      "refs": [],
+      "inputReferenceArchivedAt": null,
+      "source": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-d3135a45-3835-43e0-8145-b3a344ede6ec.png",
+      "sha256": "5521b2cac91be87b7bd56035610e98c0ea5fb0df19c9c22e96ea74a868521d75",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "tool": "built_in_image_gen"
+    },
+    {
+      "id": "canh-04-17",
+      "scene": 4,
+      "image": "11-vay-app-online/anh/shots/canh-04-17.png",
+      "generationId": "canh-04-17",
+      "prompt": "Flat 2D cartoon, thick outlines, warm colors, 16:9. Use case: illustration-story. A fresh full-bleed landscape illustration, not a collage or character sheet. Exactly one person, Ut, young Vietnamese woman with black high ponytail, white short sleeve collared blouse, tan high waist wide trousers and brown crossbody bag. She calmly studies the objects on the table, hands resting naturally. No other people. On the table: two entirely blank calendar blocks and blank papers. Modest warm Vietnamese home, wooden furniture, plain potted plants, soft daylight; medium eye-level front three-quarter view. Use character references only for identity and drawing style. Natural anatomy; each hand belongs to its own person. Faces in upper half and clean lower quarter for native subtitles. Screens and all paper completely blank, no printed currency. No calculators, marked clocks, grids, seals, badges, necklaces or official emblems. Plain porcelain without markings. No text, letters, numbers, logos or watermarks.",
+      "refs": [
+        "assets/nhan-vat/con-ut.png"
+      ],
+      "inputReferenceArchivedAt": null,
+      "source": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-51436bf7-c7ff-4a81-9259-2a4c128d0d5f.png",
+      "sha256": "afa6625a3385b97451105dae5a754f7b77bbf6a4163a95b71326ccdc2d937ffc",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "tool": "built_in_image_gen"
+    },
+    {
+      "id": "canh-05-01",
+      "scene": 5,
+      "image": "11-vay-app-online/anh/canh-05.png",
+      "generationId": "base-05",
+      "prompt": "Flat 2D cartoon, thick outlines, warm colors, 16:9. [Reference: Bác Sáu character sheet] Match attached Bac Sau and Ut character sheets exactly. Ut in her modest home kitchen looking thoughtfully at a small wallet and a blank envelope, groceries and rice bowl on table; no other people. Waist up, three quarter front view, front shirt buttons and collar anatomically correct. Plain props without any printed markings, blank currency-like paper not actual banknotes, no logos, no badges or lanyards. No text, letters, numbers, logos or watermarks.",
+      "refs": [
+        "assets/nhan-vat/bang-nhan-vat.png",
+        "assets/nhan-vat/con-ut.png"
+      ],
+      "inputReferenceArchivedAt": null,
+      "source": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-1d441fca-f335-45fb-b8d4-c14f57e7c246.png",
+      "sha256": "86170a9851bf0060cb3dd5db3a830d39a7e2635b3eff5a6578578a19c40d2110",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "tool": "built_in_image_gen"
+    },
+    {
+      "id": "canh-05-02",
+      "scene": 5,
+      "image": "11-vay-app-online/anh/shots/canh-05-02.png",
+      "generationId": "canh-05-02",
+      "prompt": "Flat 2D cartoon, thick outlines, warm colors, 16:9. Use case: illustration-story. A fresh full-bleed landscape illustration, not a collage or character sheet. Exactly one person, Bac Sau, elderly Vietnamese man with grey side-part hair, rectangular dark glasses, beige plaid short sleeve shirt, brown trousers and a small blue pen clearly visible behind his ear. He calmly studies the objects on the table, hands resting naturally. No other people. On the table: two blank calendar blocks separated by a closed plain envelope. Modest warm Vietnamese home, wooden furniture, plain potted plants, soft daylight; elevated diagonal wide view. Use character references only for identity and drawing style. Natural anatomy; each hand belongs to its own person. Faces in upper half and clean lower quarter for native subtitles. Screens and all paper completely blank, no printed currency. No calculators, marked clocks, grids, seals, badges, necklaces or official emblems. Plain porcelain without markings. No text, letters, numbers, logos or watermarks.",
+      "refs": [
+        "assets/nhan-vat/bang-nhan-vat.png"
+      ],
+      "inputReferenceArchivedAt": null,
+      "source": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-9637b970-e3bd-4647-a7c6-a711413c4585.png",
+      "sha256": "e10feffe2dff063c708b10b844ce5a62c3186a2534cd21ff789363c18bd28588",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "tool": "built_in_image_gen"
+    },
+    {
+      "id": "canh-05-03",
+      "scene": 5,
+      "image": "11-vay-app-online/anh/shots/canh-05-03.png",
+      "generationId": "canh-05-03",
+      "prompt": "Flat 2D cartoon, thick outlines, warm colors, 16:9. Use case: illustration-story. A fresh full-bleed landscape illustration, not a collage or character sheet. Exactly two people, Bac Sau, elderly Vietnamese man with grey side-part hair, rectangular dark glasses, beige plaid short sleeve shirt, brown trousers and a small blue pen clearly visible behind his ear and Ut, young Vietnamese woman with black high ponytail, white short sleeve collared blouse, tan high waist wide trousers and brown crossbody bag. Both calmly study the objects on the table, hands resting naturally. No other people. On the table: an almost empty plain cash tray beside household groceries. Modest warm Vietnamese home, wooden furniture, plain potted plants, soft daylight; close waist-up view with clear separate hands. Use character references only for identity and drawing style. Natural anatomy; each hand belongs to its own person. Faces in upper half and clean lower quarter for native subtitles. Screens and all paper completely blank, no printed currency. No calculators, marked clocks, grids, seals, badges, necklaces or official emblems. Plain porcelain without markings. No text, letters, numbers, logos or watermarks.",
+      "refs": [
+        "assets/nhan-vat/bang-nhan-vat.png",
+        "assets/nhan-vat/con-ut.png"
+      ],
+      "inputReferenceArchivedAt": null,
+      "source": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-01bff2e9-d9b2-4b93-90ad-e7c1fdace675.png",
+      "sha256": "a31f2c26a9ae706dae53e2f70077287905391cab819002c6a2766a0a5ac7f63c",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "tool": "built_in_image_gen"
+    },
+    {
+      "id": "canh-05-04",
+      "scene": 5,
+      "image": "11-vay-app-online/anh/shots/canh-05-04.png",
+      "generationId": "canh-05-04",
+      "prompt": "Flat 2D cartoon, thick outlines, warm colors, 16:9. Use case: illustration-story. A fresh full-bleed landscape illustration, not a collage or character sheet. Object-only still life, no people or body parts. On the table: two phones placed face down and an open blank red ledger. Modest warm Vietnamese home, wooden furniture, plain potted plants, soft daylight; wide environmental view from opposite side. Use character references only for identity and drawing style. Natural anatomy; each hand belongs to its own person. Faces in upper half and clean lower quarter for native subtitles. Screens and all paper completely blank, no printed currency. No calculators, marked clocks, grids, seals, badges, necklaces or official emblems. Plain porcelain without markings. No text, letters, numbers, logos or watermarks.",
+      "refs": [],
+      "inputReferenceArchivedAt": null,
+      "source": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-51a311ee-f3eb-4503-99f4-4b7a65f31f58.png",
+      "sha256": "eecb8f7790f738b7785e734f18b094d1639cf82db8295238f8b1bd131b8ef323",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "tool": "built_in_image_gen"
+    },
+    {
+      "id": "canh-05-05",
+      "scene": 5,
+      "image": "11-vay-app-online/anh/shots/canh-05-05.png",
+      "generationId": "canh-05-05",
+      "prompt": "Flat 2D cartoon, thick outlines, warm colors, 16:9. Use case: illustration-story. A fresh full-bleed landscape illustration, not a collage or character sheet. Exactly one person, Bac Sau, elderly Vietnamese man with grey side-part hair, rectangular dark glasses, beige plaid short sleeve shirt, brown trousers and a small blue pen clearly visible behind his ear. He calmly studies the objects on the table, hands resting naturally. No other people. On the table: a plain wallet, an unmarked rice bowl and household groceries. Modest warm Vietnamese home, wooden furniture, plain potted plants, soft daylight; side view with table edge and deep background. Use character references only for identity and drawing style. Natural anatomy; each hand belongs to its own person. Faces in upper half and clean lower quarter for native subtitles. Screens and all paper completely blank, no printed currency. No calculators, marked clocks, grids, seals, badges, necklaces or official emblems. Plain porcelain without markings. No text, letters, numbers, logos or watermarks.",
+      "refs": [
+        "assets/nhan-vat/bang-nhan-vat.png"
+      ],
+      "inputReferenceArchivedAt": null,
+      "source": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-3f9076ed-f43e-42f5-a328-fcdb5d3667f7.png",
+      "sha256": "eb057057e10a2c7da807dc37613d4d1a0fc21c39a3af41c47c062710171e32fe",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "tool": "built_in_image_gen"
+    },
+    {
+      "id": "canh-05-06",
+      "scene": 5,
+      "image": "11-vay-app-online/anh/shots/canh-05-06.png",
+      "generationId": "canh-05-06",
+      "prompt": "Flat 2D cartoon, thick outlines, warm colors, 16:9. Use case: illustration-story. A fresh full-bleed landscape illustration, not a collage or character sheet. Exactly one person, Ut, young Vietnamese woman with black high ponytail, white short sleeve collared blouse, tan high waist wide trousers and brown crossbody bag. She calmly studies the objects on the table, hands resting naturally. No other people. On the table: two blank calendar blocks separated by a closed plain envelope. Modest warm Vietnamese home, wooden furniture, plain potted plants, soft daylight; balanced frontal medium view. Use character references only for identity and drawing style. Natural anatomy; each hand belongs to its own person. Faces in upper half and clean lower quarter for native subtitles. Screens and all paper completely blank, no printed currency. No calculators, marked clocks, grids, seals, badges, necklaces or official emblems. Plain porcelain without markings. No text, letters, numbers, logos or watermarks.",
+      "refs": [
+        "assets/nhan-vat/con-ut.png"
+      ],
+      "inputReferenceArchivedAt": null,
+      "source": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-f51a194c-27a2-40f2-814c-83bc18d80477.png",
+      "sha256": "fea42cb10f89df6b154202a7d2cd1ce56158d5bc48433247e76e9f43242909cf",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "tool": "built_in_image_gen"
+    },
+    {
+      "id": "canh-05-07",
+      "scene": 5,
+      "image": "11-vay-app-online/anh/shots/canh-05-07.png",
+      "generationId": "canh-05-07",
+      "prompt": "Flat 2D cartoon, thick outlines, warm colors, 16:9. Use case: illustration-story. A fresh full-bleed landscape illustration, not a collage or character sheet. Exactly two people, Bac Sau, elderly Vietnamese man with grey side-part hair, rectangular dark glasses, beige plaid short sleeve shirt, brown trousers and a small blue pen clearly visible behind his ear and Ut, young Vietnamese woman with black high ponytail, white short sleeve collared blouse, tan high waist wide trousers and brown crossbody bag. Both calmly study the objects on the table, hands resting naturally. No other people. On the table: an almost empty plain cash tray beside household groceries. Modest warm Vietnamese home, wooden furniture, plain potted plants, soft daylight; high oblique view toward table. Use character references only for identity and drawing style. Natural anatomy; each hand belongs to its own person. Faces in upper half and clean lower quarter for native subtitles. Screens and all paper completely blank, no printed currency. No calculators, marked clocks, grids, seals, badges, necklaces or official emblems. Plain porcelain without markings. No text, letters, numbers, logos or watermarks.",
+      "refs": [
+        "assets/nhan-vat/bang-nhan-vat.png",
+        "assets/nhan-vat/con-ut.png"
+      ],
+      "inputReferenceArchivedAt": null,
+      "source": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-4e2c3066-1a20-415f-8c52-1baa4fd80caa.png",
+      "sha256": "8d3ad1075818ce2bcbbc6fcf8cf12979318ef9d4dd61d96fd13d3551a77b6d28",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "tool": "built_in_image_gen"
+    },
+    {
+      "id": "canh-05-08",
+      "scene": 5,
+      "image": "11-vay-app-online/anh/shots/canh-05-08.png",
+      "generationId": "canh-05-08",
+      "prompt": "Flat 2D cartoon, thick outlines, warm colors, 16:9. Use case: illustration-story. A fresh full-bleed landscape illustration, not a collage or character sheet. Object-only still life, no people or body parts. On the table: two phones placed face down and an open blank red ledger. Modest warm Vietnamese home, wooden furniture, plain potted plants, soft daylight; view through home doorway. Use character references only for identity and drawing style. Natural anatomy; each hand belongs to its own person. Faces in upper half and clean lower quarter for native subtitles. Screens and all paper completely blank, no printed currency. No calculators, marked clocks, grids, seals, badges, necklaces or official emblems. Plain porcelain without markings. No text, letters, numbers, logos or watermarks.",
+      "refs": [],
+      "inputReferenceArchivedAt": null,
+      "source": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-0221a22b-329c-403b-8443-71ba0d8c121e.png",
+      "sha256": "d2457e5126dca9826726fc973d59645f40061a1b69c305ec982093957a20acbe",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "tool": "built_in_image_gen"
+    },
+    {
+      "id": "canh-05-09",
+      "scene": 5,
+      "image": "11-vay-app-online/anh/shots/canh-05-09.png",
+      "generationId": "canh-05-09",
+      "prompt": "Flat 2D cartoon, thick outlines, warm colors, 16:9. Use case: illustration-story. A fresh full-bleed landscape illustration, not a collage or character sheet. Exactly one person, Ut, young Vietnamese woman with black high ponytail, white short sleeve collared blouse, tan high waist wide trousers and brown crossbody bag. She calmly studies the objects on the table, hands resting naturally. No other people. On the table: a plain wallet, an unmarked rice bowl and household groceries. Modest warm Vietnamese home, wooden furniture, plain potted plants, soft daylight; medium eye-level front three-quarter view. Use character references only for identity and drawing style. Natural anatomy; each hand belongs to its own person. Faces in upper half and clean lower quarter for native subtitles. Screens and all paper completely blank, no printed currency. No calculators, marked clocks, grids, seals, badges, necklaces or official emblems. Plain porcelain without markings. No text, letters, numbers, logos or watermarks.",
+      "refs": [
+        "assets/nhan-vat/con-ut.png"
+      ],
+      "inputReferenceArchivedAt": null,
+      "source": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-a5e7a9b2-b9f1-4105-bae4-f7e73f567b03.png",
+      "sha256": "1c55fe1c13db3e94636a7f9aa3c21b9b4357023ec73cbd7ffb8ae12de35e26f4",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "tool": "built_in_image_gen"
+    },
+    {
+      "id": "canh-05-10",
+      "scene": 5,
+      "image": "11-vay-app-online/anh/shots/canh-05-10.png",
+      "generationId": "canh-05-10",
+      "prompt": "Flat 2D cartoon, thick outlines, warm colors, 16:9. Use case: illustration-story. A fresh full-bleed landscape illustration, not a collage or character sheet. Exactly one person, Bac Sau, elderly Vietnamese man with grey side-part hair, rectangular dark glasses, beige plaid short sleeve shirt, brown trousers and a small blue pen clearly visible behind his ear. He calmly studies the objects on the table, hands resting naturally. No other people. On the table: two blank calendar blocks separated by a closed plain envelope. Modest warm Vietnamese home, wooden furniture, plain potted plants, soft daylight; elevated diagonal wide view. Use character references only for identity and drawing style. Natural anatomy; each hand belongs to its own person. Faces in upper half and clean lower quarter for native subtitles. Screens and all paper completely blank, no printed currency. No calculators, marked clocks, grids, seals, badges, necklaces or official emblems. Plain porcelain without markings. No text, letters, numbers, logos or watermarks.",
+      "refs": [
+        "assets/nhan-vat/bang-nhan-vat.png"
+      ],
+      "inputReferenceArchivedAt": null,
+      "source": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-468f2009-e8e5-4926-9c34-2cfd8c3919aa.png",
+      "sha256": "1053e019d613454d07a27381d3d8f8302f225d2cd3514267d06be902fe046d4f",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "tool": "built_in_image_gen"
+    },
+    {
+      "id": "canh-05-11",
+      "scene": 5,
+      "image": "11-vay-app-online/anh/shots/canh-05-11.png",
+      "generationId": "canh-05-11",
+      "prompt": "Flat 2D cartoon, thick outlines, warm colors, 16:9. Use case: illustration-story. A fresh full-bleed landscape illustration, not a collage or character sheet. Exactly two people, Bac Sau, elderly Vietnamese man with grey side-part hair, rectangular dark glasses, beige plaid short sleeve shirt, brown trousers and a small blue pen clearly visible behind his ear and Ut, young Vietnamese woman with black high ponytail, white short sleeve collared blouse, tan high waist wide trousers and brown crossbody bag. Both calmly study the objects on the table, hands resting naturally. No other people. On the table: an almost empty plain cash tray beside household groceries. Modest warm Vietnamese home, wooden furniture, plain potted plants, soft daylight; close waist-up view with clear separate hands. Use character references only for identity and drawing style. Natural anatomy; each hand belongs to its own person. Faces in upper half and clean lower quarter for native subtitles. Screens and all paper completely blank, no printed currency. No calculators, marked clocks, grids, seals, badges, necklaces or official emblems. Plain porcelain without markings. No text, letters, numbers, logos or watermarks.",
+      "refs": [
+        "assets/nhan-vat/bang-nhan-vat.png",
+        "assets/nhan-vat/con-ut.png"
+      ],
+      "inputReferenceArchivedAt": null,
+      "source": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-c8e47891-f632-47e0-952e-d35dc4b6f43f.png",
+      "sha256": "ccf105bc721e68494a4d7a6660358a1a2541d201c77c788dead4f894d91df1a5",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "tool": "built_in_image_gen"
+    },
+    {
+      "id": "canh-05-12",
+      "scene": 5,
+      "image": "11-vay-app-online/anh/shots/canh-05-12.png",
+      "generationId": "canh-05-12",
+      "prompt": "Flat 2D cartoon, thick outlines, warm colors, 16:9. Use case: illustration-story. A fresh full-bleed landscape illustration, not a collage or character sheet. Object-only still life, no people or body parts. On the table: two phones placed face down and an open blank red ledger. Modest warm Vietnamese home, wooden furniture, plain potted plants, soft daylight; wide environmental view from opposite side. Use character references only for identity and drawing style. Natural anatomy; each hand belongs to its own person. Faces in upper half and clean lower quarter for native subtitles. Screens and all paper completely blank, no printed currency. No calculators, marked clocks, grids, seals, badges, necklaces or official emblems. Plain porcelain without markings. No text, letters, numbers, logos or watermarks.",
+      "refs": [],
+      "inputReferenceArchivedAt": null,
+      "source": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-d0f5c8ee-3ecb-4b25-813f-b7eb674ce3fb.png",
+      "sha256": "6e51bdd79c341c930b7c27c18b51bc1a8351294fa5e25cab21a489e968851e92",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "tool": "built_in_image_gen"
+    },
+    {
+      "id": "canh-05-13",
+      "scene": 5,
+      "image": "11-vay-app-online/anh/shots/canh-05-13.png",
+      "generationId": "canh-05-13",
+      "prompt": "Flat 2D cartoon, thick outlines, warm colors, 16:9. Use case: illustration-story. A fresh full-bleed landscape illustration, not a collage or character sheet. Exactly one person, Bac Sau, elderly Vietnamese man with grey side-part hair, rectangular dark glasses, beige plaid short sleeve shirt, brown trousers and a small blue pen clearly visible behind his ear. He calmly studies the objects on the table, hands resting naturally. No other people. On the table: a plain wallet, an unmarked rice bowl and household groceries. Modest warm Vietnamese home, wooden furniture, plain potted plants, soft daylight; side view with table edge and deep background. Use character references only for identity and drawing style. Natural anatomy; each hand belongs to its own person. Faces in upper half and clean lower quarter for native subtitles. Screens and all paper completely blank, no printed currency. No calculators, marked clocks, grids, seals, badges, necklaces or official emblems. Plain porcelain without markings. No text, letters, numbers, logos or watermarks.",
+      "refs": [
+        "assets/nhan-vat/bang-nhan-vat.png"
+      ],
+      "inputReferenceArchivedAt": null,
+      "source": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-ec7aff96-f90c-4b93-ae20-dc661d53324a.png",
+      "sha256": "68fa9868c77c611923844a835318f528a50c04a3c4f38bb10a624178e10619bf",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "tool": "built_in_image_gen"
+    },
+    {
+      "id": "canh-05-14",
+      "scene": 5,
+      "image": "11-vay-app-online/anh/shots/canh-05-14.png",
+      "generationId": "canh-05-14",
+      "prompt": "Flat 2D cartoon, thick outlines, warm colors, 16:9. Use case: illustration-story. A fresh full-bleed landscape illustration, not a collage or character sheet. Exactly one person, Ut, young Vietnamese woman with black high ponytail, white short sleeve collared blouse, tan high waist wide trousers and brown crossbody bag. She calmly studies the objects on the table, hands resting naturally. No other people. On the table: two blank calendar blocks separated by a closed plain envelope. Modest warm Vietnamese home, wooden furniture, plain potted plants, soft daylight; balanced frontal medium view. Use character references only for identity and drawing style. Natural anatomy; each hand belongs to its own person. Faces in upper half and clean lower quarter for native subtitles. Screens and all paper completely blank, no printed currency. No calculators, marked clocks, grids, seals, badges, necklaces or official emblems. Plain porcelain without markings. No text, letters, numbers, logos or watermarks.",
+      "refs": [
+        "assets/nhan-vat/con-ut.png"
+      ],
+      "inputReferenceArchivedAt": null,
+      "source": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-4dd0292a-08b2-4d34-a842-181093663125.png",
+      "sha256": "e932fbef44d4dc4c61ab1380082894e9ec2fc367d8766593baefcd9aa27d6ffa",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "tool": "built_in_image_gen"
+    },
+    {
+      "id": "canh-05-15",
+      "scene": 5,
+      "image": "11-vay-app-online/anh/shots/canh-05-15.png",
+      "generationId": "canh-05-15",
+      "prompt": "Flat 2D cartoon, thick outlines, warm colors, 16:9. Use case: illustration-story. A fresh full-bleed landscape illustration, not a collage or character sheet. Exactly two people, Bac Sau, elderly Vietnamese man with grey side-part hair, rectangular dark glasses, beige plaid short sleeve shirt, brown trousers and a small blue pen clearly visible behind his ear and Ut, young Vietnamese woman with black high ponytail, white short sleeve collared blouse, tan high waist wide trousers and brown crossbody bag. Both calmly study the objects on the table, hands resting naturally. No other people. On the table: an almost empty plain cash tray beside household groceries. Modest warm Vietnamese home, wooden furniture, plain potted plants, soft daylight; high oblique view toward table. Use character references only for identity and drawing style. Natural anatomy; each hand belongs to its own person. Faces in upper half and clean lower quarter for native subtitles. Screens and all paper completely blank, no printed currency. No calculators, marked clocks, grids, seals, badges, necklaces or official emblems. Plain porcelain without markings. No text, letters, numbers, logos or watermarks.",
+      "refs": [
+        "assets/nhan-vat/bang-nhan-vat.png",
+        "assets/nhan-vat/con-ut.png"
+      ],
+      "inputReferenceArchivedAt": null,
+      "source": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-09e153ee-774c-4f6c-ba09-0a46882d3ed0.png",
+      "sha256": "ecc53de457594c4697aca8b1616217f1ac3269e2b6c3817bc50c5f17567802b9",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "tool": "built_in_image_gen"
+    },
+    {
+      "id": "canh-05-16",
+      "scene": 5,
+      "image": "11-vay-app-online/anh/shots/canh-05-16.png",
+      "generationId": "canh-05-16",
+      "prompt": "Flat 2D cartoon, thick outlines, warm colors, 16:9. Use case: illustration-story. A fresh full-bleed landscape illustration, not a collage or character sheet. Object-only still life, no people or body parts. On the table: two phones placed face down and an open blank red ledger. Modest warm Vietnamese home, wooden furniture, plain potted plants, soft daylight; view through home doorway. Use character references only for identity and drawing style. Natural anatomy; each hand belongs to its own person. Faces in upper half and clean lower quarter for native subtitles. Screens and all paper completely blank, no printed currency. No calculators, marked clocks, grids, seals, badges, necklaces or official emblems. Plain porcelain without markings. No text, letters, numbers, logos or watermarks.",
+      "refs": [],
+      "inputReferenceArchivedAt": null,
+      "source": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-345bdcf2-d2cc-4a9a-b682-0925ebe93bcc.png",
+      "sha256": "a8bdafc66f0cc8a8a0b9df4f5ffa8becb4f5236025a2e7c7a183052540833f11",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "tool": "built_in_image_gen"
+    },
+    {
+      "id": "canh-05-17",
+      "scene": 5,
+      "image": "11-vay-app-online/anh/shots/canh-05-17.png",
+      "generationId": "canh-05-17",
+      "prompt": "Flat 2D cartoon, thick outlines, warm colors, 16:9. Use case: illustration-story. A fresh full-bleed landscape illustration, not a collage or character sheet. Exactly one person, Ut, young Vietnamese woman with black high ponytail, white short sleeve collared blouse, tan high waist wide trousers and brown crossbody bag. She calmly studies the objects on the table, hands resting naturally. No other people. On the table: a plain wallet, an unmarked rice bowl and household groceries. Modest warm Vietnamese home, wooden furniture, plain potted plants, soft daylight; medium eye-level front three-quarter view. Use character references only for identity and drawing style. Natural anatomy; each hand belongs to its own person. Faces in upper half and clean lower quarter for native subtitles. Screens and all paper completely blank, no printed currency. No calculators, marked clocks, grids, seals, badges, necklaces or official emblems. Plain porcelain without markings. No text, letters, numbers, logos or watermarks.",
+      "refs": [
+        "assets/nhan-vat/con-ut.png"
+      ],
+      "inputReferenceArchivedAt": null,
+      "source": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-6364e3be-61e7-4b19-9d54-1f62e5413434.png",
+      "sha256": "7b9b81b715d44788dc81760b60b200f584c9dbbd3a1173e109089ffbb3a38f7c",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "tool": "built_in_image_gen"
+    },
+    {
+      "id": "canh-06-01",
+      "scene": 6,
+      "image": "11-vay-app-online/anh/canh-06.png",
+      "generationId": "base-06",
+      "prompt": "Flat 2D cartoon, thick outlines, warm colors, 16:9. [Reference: Bác Sáu character sheet] Match attached Bac Sau and Ut character sheets exactly. Bac Sau and Ut examining blank loan papers at a clean community advice desk with simple bookshelves, both seated facing forward. Bac points with one open hand; Ut holds her brown bag at her side. No seals or official badges. Plain props without any printed markings, blank currency-like paper not actual banknotes, no logos, no badges or lanyards. No text, letters, numbers, logos or watermarks.",
+      "refs": [
+        "assets/nhan-vat/bang-nhan-vat.png",
+        "assets/nhan-vat/con-ut.png"
+      ],
+      "inputReferenceArchivedAt": null,
+      "source": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-00716d27-d45e-4603-a9fa-1d8a46528308.png",
+      "sha256": "12369390d184548db73ffc30fa807cb19b5b38ebc47aa2ecf7c8133701725533",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "tool": "built_in_image_gen"
+    },
+    {
+      "id": "canh-06-02",
+      "scene": 6,
+      "image": "11-vay-app-online/anh/shots/canh-06-02.png",
+      "generationId": "canh-06-02",
+      "prompt": "Flat 2D cartoon, thick outlines, warm colors, 16:9. Use case: illustration-story. A fresh full-bleed landscape illustration, not a collage or character sheet. Exactly one person, Bac Sau, elderly Vietnamese man with grey side-part hair, rectangular dark glasses, beige plaid short sleeve shirt, brown trousers and a small blue pen clearly visible behind his ear. He calmly studies the objects on the table, hands resting naturally. No other people. On the table: two separate stacks of blank folders with no seals or emblems. Modest warm Vietnamese home, wooden furniture, plain potted plants, soft daylight; elevated diagonal wide view. Use character references only for identity and drawing style. Natural anatomy; each hand belongs to its own person. Faces in upper half and clean lower quarter for native subtitles. Screens and all paper completely blank, no printed currency. No calculators, marked clocks, grids, seals, badges, necklaces or official emblems. Plain porcelain without markings. No text, letters, numbers, logos or watermarks.",
+      "refs": [
+        "assets/nhan-vat/bang-nhan-vat.png"
+      ],
+      "inputReferenceArchivedAt": null,
+      "source": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-62926e3a-0b88-499c-bc7a-3cf0aba5224e.png",
+      "sha256": "af9de88d56cf22b341863d5b88aa87e5d01584e62a6c39363ca9ed115baede07",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "tool": "built_in_image_gen"
+    },
+    {
+      "id": "canh-06-03",
+      "scene": 6,
+      "image": "11-vay-app-online/anh/shots/canh-06-03.png",
+      "generationId": "canh-06-03",
+      "prompt": "Flat 2D cartoon, thick outlines, warm colors, 16:9. Use case: illustration-story. A fresh full-bleed landscape illustration, not a collage or character sheet. Exactly two people, Bac Sau, elderly Vietnamese man with grey side-part hair, rectangular dark glasses, beige plaid short sleeve shirt, brown trousers and a small blue pen clearly visible behind his ear and Ut, young Vietnamese woman with black high ponytail, white short sleeve collared blouse, tan high waist wide trousers and brown crossbody bag. Both calmly study the objects on the table, hands resting naturally. No other people. On the table: a plain closed booklet beside a face-down phone. Modest warm Vietnamese home, wooden furniture, plain potted plants, soft daylight; close waist-up view with clear separate hands. Use character references only for identity and drawing style. Natural anatomy; each hand belongs to its own person. Faces in upper half and clean lower quarter for native subtitles. Screens and all paper completely blank, no printed currency. No calculators, marked clocks, grids, seals, badges, necklaces or official emblems. Plain porcelain without markings. No text, letters, numbers, logos or watermarks.",
+      "refs": [
+        "assets/nhan-vat/bang-nhan-vat.png",
+        "assets/nhan-vat/con-ut.png"
+      ],
+      "inputReferenceArchivedAt": null,
+      "source": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-d6595091-b15c-4f57-ada3-5539e79077fe.png",
+      "sha256": "d3e9448632b03857c396da853bd06ba8605faed88c49fe1a213fb8acc1725759",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "tool": "built_in_image_gen"
+    },
+    {
+      "id": "canh-06-04",
+      "scene": 6,
+      "image": "11-vay-app-online/anh/shots/canh-06-04.png",
+      "generationId": "canh-06-04",
+      "prompt": "Flat 2D cartoon, thick outlines, warm colors, 16:9. Use case: illustration-story. A fresh full-bleed landscape illustration, not a collage or character sheet. Object-only still life, no people or body parts. On the table: an open blank red ledger and an entirely blank folder. Modest warm Vietnamese home, wooden furniture, plain potted plants, soft daylight; wide environmental view from opposite side. Use character references only for identity and drawing style. Natural anatomy; each hand belongs to its own person. Faces in upper half and clean lower quarter for native subtitles. Screens and all paper completely blank, no printed currency. No calculators, marked clocks, grids, seals, badges, necklaces or official emblems. Plain porcelain without markings. No text, letters, numbers, logos or watermarks.",
+      "refs": [],
+      "inputReferenceArchivedAt": null,
+      "source": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-b774024c-e669-49ce-81a9-8fa6437c2ffb.png",
+      "sha256": "4133f86a4c16bca81b57d5d01b37e3bafbf944619ca0d610ec755d4fc8106ca9",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "tool": "built_in_image_gen"
+    },
+    {
+      "id": "canh-06-05",
+      "scene": 6,
+      "image": "11-vay-app-online/anh/shots/canh-06-05.png",
+      "generationId": "canh-06-05",
+      "prompt": "Flat 2D cartoon, thick outlines, warm colors, 16:9. Use case: illustration-story. A fresh full-bleed landscape illustration, not a collage or character sheet. Exactly one person, Bac Sau, elderly Vietnamese man with grey side-part hair, rectangular dark glasses, beige plaid short sleeve shirt, brown trousers and a small blue pen clearly visible behind his ear. He calmly studies the objects on the table, hands resting naturally. No other people. On the table: blank papers and plain books on a modest advice desk. Modest warm Vietnamese home, wooden furniture, plain potted plants, soft daylight; side view with table edge and deep background. Use character references only for identity and drawing style. Natural anatomy; each hand belongs to its own person. Faces in upper half and clean lower quarter for native subtitles. Screens and all paper completely blank, no printed currency. No calculators, marked clocks, grids, seals, badges, necklaces or official emblems. Plain porcelain without markings. No text, letters, numbers, logos or watermarks.",
+      "refs": [
+        "assets/nhan-vat/bang-nhan-vat.png"
+      ],
+      "inputReferenceArchivedAt": null,
+      "source": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-7f728b1f-0c4d-49e5-9bea-12716e1a80f7.png",
+      "sha256": "ab0f68df096759981ea5660cc84ec444394001fabcc0a7aecbabac695e44a40a",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "tool": "built_in_image_gen"
+    },
+    {
+      "id": "canh-06-06",
+      "scene": 6,
+      "image": "11-vay-app-online/anh/shots/canh-06-06.png",
+      "generationId": "canh-06-06",
+      "prompt": "Flat 2D cartoon, thick outlines, warm colors, 16:9. Use case: illustration-story. A fresh full-bleed landscape illustration, not a collage or character sheet. Exactly one person, Ut, young Vietnamese woman with black high ponytail, white short sleeve collared blouse, tan high waist wide trousers and brown crossbody bag. She calmly studies the objects on the table, hands resting naturally. No other people. On the table: two separate stacks of blank folders with no seals or emblems. Modest warm Vietnamese home, wooden furniture, plain potted plants, soft daylight; balanced frontal medium view. Use character references only for identity and drawing style. Natural anatomy; each hand belongs to its own person. Faces in upper half and clean lower quarter for native subtitles. Screens and all paper completely blank, no printed currency. No calculators, marked clocks, grids, seals, badges, necklaces or official emblems. Plain porcelain without markings. No text, letters, numbers, logos or watermarks.",
+      "refs": [
+        "assets/nhan-vat/con-ut.png"
+      ],
+      "inputReferenceArchivedAt": null,
+      "source": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-f736168e-097e-4851-930f-5e0547c9a135.png",
+      "sha256": "986acc6d0ea613826056f302922fea66a590128f6c22040878ca0b76e33f9889",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "tool": "built_in_image_gen"
+    },
+    {
+      "id": "canh-06-07",
+      "scene": 6,
+      "image": "11-vay-app-online/anh/shots/canh-06-07.png",
+      "generationId": "canh-06-07",
+      "prompt": "Flat 2D cartoon, thick outlines, warm colors, 16:9. Use case: illustration-story. A fresh full-bleed landscape illustration, not a collage or character sheet. Exactly two people, Bac Sau, elderly Vietnamese man with grey side-part hair, rectangular dark glasses, beige plaid short sleeve shirt, brown trousers and a small blue pen clearly visible behind his ear and Ut, young Vietnamese woman with black high ponytail, white short sleeve collared blouse, tan high waist wide trousers and brown crossbody bag. Both calmly study the objects on the table, hands resting naturally. No other people. On the table: a plain closed booklet beside a face-down phone. Modest warm Vietnamese home, wooden furniture, plain potted plants, soft daylight; high oblique view toward table. Use character references only for identity and drawing style. Natural anatomy; each hand belongs to its own person. Faces in upper half and clean lower quarter for native subtitles. Screens and all paper completely blank, no printed currency. No calculators, marked clocks, grids, seals, badges, necklaces or official emblems. Plain porcelain without markings. No text, letters, numbers, logos or watermarks.",
+      "refs": [
+        "assets/nhan-vat/bang-nhan-vat.png",
+        "assets/nhan-vat/con-ut.png"
+      ],
+      "inputReferenceArchivedAt": null,
+      "source": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-a6d7a429-95c8-426f-8385-1db1cb8bb499.png",
+      "sha256": "93d17a7d6623ddeedd4583b9dfba76343b4f594099a92d98d86f03e3b0befb75",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "tool": "built_in_image_gen"
+    },
+    {
+      "id": "canh-06-08",
+      "scene": 6,
+      "image": "11-vay-app-online/anh/shots/canh-06-08.png",
+      "generationId": "canh-06-08",
+      "prompt": "Flat 2D cartoon, thick outlines, warm colors, 16:9. Use case: illustration-story. A fresh full-bleed landscape illustration, not a collage or character sheet. Object-only still life, no people or body parts. On the table: an open blank red ledger and an entirely blank folder. Modest warm Vietnamese home, wooden furniture, plain potted plants, soft daylight; view through home doorway. Use character references only for identity and drawing style. Natural anatomy; each hand belongs to its own person. Faces in upper half and clean lower quarter for native subtitles. Screens and all paper completely blank, no printed currency. No calculators, marked clocks, grids, seals, badges, necklaces or official emblems. Plain porcelain without markings. No text, letters, numbers, logos or watermarks.",
+      "refs": [],
+      "inputReferenceArchivedAt": null,
+      "source": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-f8a888a2-97b2-4e85-8d0f-ce9464984575.png",
+      "sha256": "eb514521a291daac4d9404e5e38b3a93949d4c40e7c831176ee9389a693d9136",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "tool": "built_in_image_gen"
+    },
+    {
+      "id": "canh-06-09",
+      "scene": 6,
+      "image": "11-vay-app-online/anh/shots/canh-06-09.png",
+      "generationId": "canh-06-09",
+      "prompt": "Flat 2D cartoon, thick outlines, warm colors, 16:9. Use case: illustration-story. A fresh full-bleed landscape illustration, not a collage or character sheet. Exactly one person, Ut, young Vietnamese woman with black high ponytail, white short sleeve collared blouse, tan high waist wide trousers and brown crossbody bag. She calmly studies the objects on the table, hands resting naturally. No other people. On the table: blank papers and plain books on a modest advice desk. Modest warm Vietnamese home, wooden furniture, plain potted plants, soft daylight; medium eye-level front three-quarter view. Use character references only for identity and drawing style. Natural anatomy; each hand belongs to its own person. Faces in upper half and clean lower quarter for native subtitles. Screens and all paper completely blank, no printed currency. No calculators, marked clocks, grids, seals, badges, necklaces or official emblems. Plain porcelain without markings. No text, letters, numbers, logos or watermarks.",
+      "refs": [
+        "assets/nhan-vat/con-ut.png"
+      ],
+      "inputReferenceArchivedAt": null,
+      "source": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-163449e7-4b1d-4aa0-94a2-3b10dc9dd27e.png",
+      "sha256": "c5d85d553baf28ffcf833beac445cdeb77a34a96006ccd8fef6972f841ff7356",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "tool": "built_in_image_gen"
+    },
+    {
+      "id": "canh-06-10",
+      "scene": 6,
+      "image": "11-vay-app-online/anh/shots/canh-06-10.png",
+      "generationId": "canh-06-10",
+      "prompt": "Flat 2D cartoon, thick outlines, warm colors, 16:9. Use case: illustration-story. A fresh full-bleed landscape illustration, not a collage or character sheet. Exactly one person, Bac Sau, elderly Vietnamese man with grey side-part hair, rectangular dark glasses, beige plaid short sleeve shirt, brown trousers and a small blue pen clearly visible behind his ear. He calmly studies the objects on the table, hands resting naturally. No other people. On the table: two separate stacks of blank folders with no seals or emblems. Modest warm Vietnamese home, wooden furniture, plain potted plants, soft daylight; elevated diagonal wide view. Use character references only for identity and drawing style. Natural anatomy; each hand belongs to its own person. Faces in upper half and clean lower quarter for native subtitles. Screens and all paper completely blank, no printed currency. No calculators, marked clocks, grids, seals, badges, necklaces or official emblems. Plain porcelain without markings. No text, letters, numbers, logos or watermarks.",
+      "refs": [
+        "assets/nhan-vat/bang-nhan-vat.png"
+      ],
+      "inputReferenceArchivedAt": null,
+      "source": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-7fd74437-3f8a-428e-86de-0f6d9d2421f0.png",
+      "sha256": "5ddc4b95e5583d03fa51aab8d345944f5835bc76f294dadd78758bd951c69887",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "tool": "built_in_image_gen"
+    },
+    {
+      "id": "canh-06-11",
+      "scene": 6,
+      "image": "11-vay-app-online/anh/shots/canh-06-11.png",
+      "generationId": "canh-06-11",
+      "prompt": "Flat 2D cartoon, thick outlines, warm colors, 16:9. Use case: illustration-story. A fresh full-bleed landscape illustration, not a collage or character sheet. Exactly two people, Bac Sau, elderly Vietnamese man with grey side-part hair, rectangular dark glasses, beige plaid short sleeve shirt, brown trousers and a small blue pen clearly visible behind his ear and Ut, young Vietnamese woman with black high ponytail, white short sleeve collared blouse, tan high waist wide trousers and brown crossbody bag. Both calmly study the objects on the table, hands resting naturally. No other people. On the table: a plain closed booklet beside a face-down phone. Modest warm Vietnamese home, wooden furniture, plain potted plants, soft daylight; close waist-up view with clear separate hands. Use character references only for identity and drawing style. Natural anatomy; each hand belongs to its own person. Faces in upper half and clean lower quarter for native subtitles. Screens and all paper completely blank, no printed currency. No calculators, marked clocks, grids, seals, badges, necklaces or official emblems. Plain porcelain without markings. No text, letters, numbers, logos or watermarks.",
+      "refs": [
+        "assets/nhan-vat/bang-nhan-vat.png",
+        "assets/nhan-vat/con-ut.png"
+      ],
+      "inputReferenceArchivedAt": null,
+      "source": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-290672a6-6236-4165-a436-9607f83ef962.png",
+      "sha256": "080f8ded0fa3ed3e0c5a5b622165d8f48d46bc6a33efec5e741da657384b1add",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "tool": "built_in_image_gen"
+    },
+    {
+      "id": "canh-06-12",
+      "scene": 6,
+      "image": "11-vay-app-online/anh/shots/canh-06-12.png",
+      "generationId": "canh-06-12",
+      "prompt": "Flat 2D cartoon, thick outlines, warm colors, 16:9. Use case: illustration-story. A fresh full-bleed landscape illustration, not a collage or character sheet. Object-only still life, no people or body parts. On the table: an open blank red ledger and an entirely blank folder. Modest warm Vietnamese home, wooden furniture, plain potted plants, soft daylight; wide environmental view from opposite side. Use character references only for identity and drawing style. Natural anatomy; each hand belongs to its own person. Faces in upper half and clean lower quarter for native subtitles. Screens and all paper completely blank, no printed currency. No calculators, marked clocks, grids, seals, badges, necklaces or official emblems. Plain porcelain without markings. No text, letters, numbers, logos or watermarks.",
+      "refs": [],
+      "inputReferenceArchivedAt": null,
+      "source": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-4651c740-7848-4a83-9319-ec7e0fc7b793.png",
+      "sha256": "3053bce9fc71d14e05e8d4420a1ef60b99d950e259474d837d423ae928e77a14",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "tool": "built_in_image_gen"
+    },
+    {
+      "id": "canh-06-13",
+      "scene": 6,
+      "image": "11-vay-app-online/anh/shots/canh-06-13-v2.png",
+      "generationId": "canh-06-13-v2",
+      "prompt": "Flat 2D cartoon, thick outlines, warm colors, 16:9. Use case: precise-object-edit. Edit only the blank cream horizontal strip along the very bottom edge of this illustration. Remove that empty border by naturally extending the same wooden table and its front edge all the way to the bottom edge of the canvas; make the illustration completely full bleed with no border or strip. Keep the canvas aspect ratio and all existing objects, Bac Sau's face, pose, rectangular glasses, blue pen behind his ear, beige plaid shirt, hands, papers, books, room, light and composition exactly unchanged. No added objects or people. No text, letters, numbers, logos or watermarks.",
+      "refs": [
+        "videos/11-vay-app-online/anh/shots/canh-06-13.png"
+      ],
+      "inputReferenceArchivedAt": "D:\\Repo\\bac-sau-so-sach\\videos\\11-vay-app-online\\anh\\shots\\nhap\\canh-06-13.png",
+      "source": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-57b3a3c1-da8c-439b-87de-1332116f72d4.png",
+      "sha256": "e48ba87599f3a8f641b8f99e3547ec92e3e1c18be1b8b3014408e8bd63a1c642",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "tool": "built_in_image_gen"
+    },
+    {
+      "id": "canh-06-14",
+      "scene": 6,
+      "image": "11-vay-app-online/anh/shots/canh-06-14.png",
+      "generationId": "canh-06-14",
+      "prompt": "Flat 2D cartoon, thick outlines, warm colors, 16:9. Use case: illustration-story. A fresh full-bleed landscape illustration, not a collage or character sheet. Exactly one person, Ut, young Vietnamese woman with black high ponytail, white short sleeve collared blouse, tan high waist wide trousers and brown crossbody bag. She calmly studies the objects on the table, hands resting naturally. No other people. On the table: two separate stacks of blank folders with no seals or emblems. Modest warm Vietnamese home, wooden furniture, plain potted plants, soft daylight; balanced frontal medium view. Use character references only for identity and drawing style. Natural anatomy; each hand belongs to its own person. Faces in upper half and clean lower quarter for native subtitles. Screens and all paper completely blank, no printed currency. No calculators, marked clocks, grids, seals, badges, necklaces or official emblems. Plain porcelain without markings. No text, letters, numbers, logos or watermarks.",
+      "refs": [
+        "assets/nhan-vat/con-ut.png"
+      ],
+      "inputReferenceArchivedAt": null,
+      "source": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-3016cd00-5ad3-413d-843d-957e1c1eebb8.png",
+      "sha256": "c82bd7e2e0faa866a888becd66eb68339f721747ca70ad4d34896d833e8ecb40",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "tool": "built_in_image_gen"
+    },
+    {
+      "id": "canh-06-15",
+      "scene": 6,
+      "image": "11-vay-app-online/anh/shots/canh-06-15.png",
+      "generationId": "canh-06-15",
+      "prompt": "Flat 2D cartoon, thick outlines, warm colors, 16:9. Use case: illustration-story. A fresh full-bleed landscape illustration, not a collage or character sheet. Exactly two people, Bac Sau, elderly Vietnamese man with grey side-part hair, rectangular dark glasses, beige plaid short sleeve shirt, brown trousers and a small blue pen clearly visible behind his ear and Ut, young Vietnamese woman with black high ponytail, white short sleeve collared blouse, tan high waist wide trousers and brown crossbody bag. Both calmly study the objects on the table, hands resting naturally. No other people. On the table: a plain closed booklet beside a face-down phone. Modest warm Vietnamese home, wooden furniture, plain potted plants, soft daylight; high oblique view toward table. Use character references only for identity and drawing style. Natural anatomy; each hand belongs to its own person. Faces in upper half and clean lower quarter for native subtitles. Screens and all paper completely blank, no printed currency. No calculators, marked clocks, grids, seals, badges, necklaces or official emblems. Plain porcelain without markings. No text, letters, numbers, logos or watermarks.",
+      "refs": [
+        "assets/nhan-vat/bang-nhan-vat.png",
+        "assets/nhan-vat/con-ut.png"
+      ],
+      "inputReferenceArchivedAt": null,
+      "source": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-acdeb70a-533c-45ff-8f47-70ea2c742891.png",
+      "sha256": "4483fe0b011e9625675dbd896ed2a18f0b22c8512aad9a7eff65f288bf459b02",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "tool": "built_in_image_gen"
+    },
+    {
+      "id": "canh-07-01",
+      "scene": 7,
+      "image": "11-vay-app-online/anh/canh-07.png",
+      "generationId": "base-07",
+      "prompt": "Flat 2D cartoon, thick outlines, warm colors, 16:9. [Reference: Bác Sáu character sheet] Match attached Bac Sau and Ut character sheets exactly. Ut holding a blank smartphone away from her face while placing her other open palm in a calm stop gesture, Bac Sau nearby with red ledger, home doorway in warm evening light. No message symbols or lettering. Plain props without any printed markings, blank currency-like paper not actual banknotes, no logos, no badges or lanyards. No text, letters, numbers, logos or watermarks.",
+      "refs": [
+        "assets/nhan-vat/bang-nhan-vat.png",
+        "assets/nhan-vat/con-ut.png"
+      ],
+      "inputReferenceArchivedAt": null,
+      "source": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-86da7b14-5626-4544-aad1-3a2cb4cac2ca.png",
+      "sha256": "0ad040d04038de9c21bd069052f7120fab12bbca9ccc5519b0e06c0ff3660637",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "tool": "built_in_image_gen"
+    },
+    {
+      "id": "canh-07-02",
+      "scene": 7,
+      "image": "11-vay-app-online/anh/shots/canh-07-02.png",
+      "generationId": "canh-07-02",
+      "prompt": "Flat 2D cartoon, thick outlines, warm colors, 16:9. Use case: illustration-story. A fresh full-bleed landscape illustration, not a collage or character sheet. Exactly one person, Bac Sau, elderly Vietnamese man with grey side-part hair, rectangular dark glasses, beige plaid short sleeve shirt, brown trousers and a small blue pen clearly visible behind his ear. He calmly studies the objects on the table, hands resting naturally. No other people. On the table: a closed wallet and a phone set aside on a home table. Modest warm Vietnamese home, wooden furniture, plain potted plants, soft daylight; view through home doorway. Use character references only for identity and drawing style. Natural anatomy; each hand belongs to its own person. Faces in upper half and clean lower quarter for native subtitles. Screens and all paper completely blank, no printed currency. No calculators, marked clocks, grids, seals, badges, necklaces or official emblems. Plain porcelain without markings. No text, letters, numbers, logos or watermarks.",
+      "refs": [
+        "assets/nhan-vat/bang-nhan-vat.png"
+      ],
+      "inputReferenceArchivedAt": null,
+      "source": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-0da6b5e4-a63d-4611-a47a-062dba352177.png",
+      "sha256": "0a2042c3eabd8786e1e312b54dc0e88fcd165a1dea601e4b2521adca94c4bc55",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "tool": "built_in_image_gen"
+    },
+    {
+      "id": "canh-07-03",
+      "scene": 7,
+      "image": "11-vay-app-online/anh/shots/canh-07-03.png",
+      "generationId": "canh-07-03",
+      "prompt": "Flat 2D cartoon, thick outlines, warm colors, 16:9. Use case: illustration-story. A fresh full-bleed landscape illustration, not a collage or character sheet. Exactly two people, Bac Sau, elderly Vietnamese man with grey side-part hair, rectangular dark glasses, beige plaid short sleeve shirt, brown trousers and a small blue pen clearly visible behind his ear and Ut, young Vietnamese woman with black high ponytail, white short sleeve collared blouse, tan high waist wide trousers and brown crossbody bag. Both calmly study the objects on the table, hands resting naturally. No other people. On the table: a phone placed face down away from a closed wallet. Modest warm Vietnamese home, wooden furniture, plain potted plants, soft daylight; medium eye-level front three-quarter view. Use character references only for identity and drawing style. Natural anatomy; each hand belongs to its own person. Faces in upper half and clean lower quarter for native subtitles. Screens and all paper completely blank, no printed currency. No calculators, marked clocks, grids, seals, badges, necklaces or official emblems. Plain porcelain without markings. No text, letters, numbers, logos or watermarks.",
+      "refs": [
+        "assets/nhan-vat/bang-nhan-vat.png",
+        "assets/nhan-vat/con-ut.png"
+      ],
+      "inputReferenceArchivedAt": null,
+      "source": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-01e55006-9cb7-4ad4-8db4-6f81d7c388a2.png",
+      "sha256": "18de4188cfa6f52b9f1a09c2c93f1ed02540f18b21c06a0fb48baf7dbe46e348",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "tool": "built_in_image_gen"
+    },
+    {
+      "id": "canh-07-04",
+      "scene": 7,
+      "image": "11-vay-app-online/anh/shots/canh-07-04.png",
+      "generationId": "canh-07-04",
+      "prompt": "Flat 2D cartoon, thick outlines, warm colors, 16:9. Use case: illustration-story. A fresh full-bleed landscape illustration, not a collage or character sheet. Object-only still life, no people or body parts. On the table: an unopened plain envelope and a face-down phone. Modest warm Vietnamese home, wooden furniture, plain potted plants, soft daylight; elevated diagonal wide view. Use character references only for identity and drawing style. Natural anatomy; each hand belongs to its own person. Faces in upper half and clean lower quarter for native subtitles. Screens and all paper completely blank, no printed currency. No calculators, marked clocks, grids, seals, badges, necklaces or official emblems. Plain porcelain without markings. No text, letters, numbers, logos or watermarks.",
+      "refs": [],
+      "inputReferenceArchivedAt": null,
+      "source": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-1e5ce8a9-8020-4f9a-a5f6-568bb55bcd45.png",
+      "sha256": "7c14cdbd18f60fe73dc7b4311b9a229cf9559502a535a4b7af57842900e41089",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "tool": "built_in_image_gen"
+    },
+    {
+      "id": "canh-07-05",
+      "scene": 7,
+      "image": "11-vay-app-online/anh/shots/canh-07-05.png",
+      "generationId": "canh-07-05",
+      "prompt": "Flat 2D cartoon, thick outlines, warm colors, 16:9. Use case: illustration-story. A fresh full-bleed landscape illustration, not a collage or character sheet. Exactly one person, Bac Sau, elderly Vietnamese man with grey side-part hair, rectangular dark glasses, beige plaid short sleeve shirt, brown trousers and a small blue pen clearly visible behind his ear. He calmly studies the objects on the table, hands resting naturally. No other people. On the table: blank receipts carefully kept inside a plain folder. Modest warm Vietnamese home, wooden furniture, plain potted plants, soft daylight; close waist-up view with clear separate hands. Use character references only for identity and drawing style. Natural anatomy; each hand belongs to its own person. Faces in upper half and clean lower quarter for native subtitles. Screens and all paper completely blank, no printed currency. No calculators, marked clocks, grids, seals, badges, necklaces or official emblems. Plain porcelain without markings. No text, letters, numbers, logos or watermarks.",
+      "refs": [
+        "assets/nhan-vat/bang-nhan-vat.png"
+      ],
+      "inputReferenceArchivedAt": null,
+      "source": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-8c769bcb-11b5-4ec9-81c5-712efb42ffc4.png",
+      "sha256": "574d6f242f699f3afc4e5a7d8d5c2be6dd8f4036e9f2f06368bdaa5fcaef0b23",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "tool": "built_in_image_gen"
+    },
+    {
+      "id": "canh-07-06",
+      "scene": 7,
+      "image": "11-vay-app-online/anh/shots/canh-07-06.png",
+      "generationId": "canh-07-06",
+      "prompt": "Flat 2D cartoon, thick outlines, warm colors, 16:9. Use case: illustration-story. A fresh full-bleed landscape illustration, not a collage or character sheet. Exactly one person, Ut, young Vietnamese woman with black high ponytail, white short sleeve collared blouse, tan high waist wide trousers and brown crossbody bag. She calmly studies the objects on the table, hands resting naturally. No other people. On the table: a closed wallet and a phone set aside on a home table. Modest warm Vietnamese home, wooden furniture, plain potted plants, soft daylight; wide environmental view from opposite side. Use character references only for identity and drawing style. Natural anatomy; each hand belongs to its own person. Faces in upper half and clean lower quarter for native subtitles. Screens and all paper completely blank, no printed currency. No calculators, marked clocks, grids, seals, badges, necklaces or official emblems. Plain porcelain without markings. No text, letters, numbers, logos or watermarks.",
+      "refs": [
+        "assets/nhan-vat/con-ut.png"
+      ],
+      "inputReferenceArchivedAt": null,
+      "source": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-522393e8-e411-447b-8209-ebff8abb1913.png",
+      "sha256": "34abff1c28b3cf54dda30b54af9b148fb016713956c81821efea9a9530ce6bc9",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "tool": "built_in_image_gen"
+    },
+    {
+      "id": "canh-07-07",
+      "scene": 7,
+      "image": "11-vay-app-online/anh/shots/canh-07-07.png",
+      "generationId": "canh-07-07",
+      "prompt": "Flat 2D cartoon, thick outlines, warm colors, 16:9. Use case: illustration-story. A fresh full-bleed landscape illustration, not a collage or character sheet. Exactly two people, Bac Sau, elderly Vietnamese man with grey side-part hair, rectangular dark glasses, beige plaid short sleeve shirt, brown trousers and a small blue pen clearly visible behind his ear and Ut, young Vietnamese woman with black high ponytail, white short sleeve collared blouse, tan high waist wide trousers and brown crossbody bag. Both calmly study the objects on the table, hands resting naturally. No other people. On the table: a phone placed face down away from a closed wallet. Modest warm Vietnamese home, wooden furniture, plain potted plants, soft daylight; side view with table edge and deep background. Use character references only for identity and drawing style. Natural anatomy; each hand belongs to its own person. Faces in upper half and clean lower quarter for native subtitles. Screens and all paper completely blank, no printed currency. No calculators, marked clocks, grids, seals, badges, necklaces or official emblems. Plain porcelain without markings. No text, letters, numbers, logos or watermarks.",
+      "refs": [
+        "assets/nhan-vat/bang-nhan-vat.png",
+        "assets/nhan-vat/con-ut.png"
+      ],
+      "inputReferenceArchivedAt": null,
+      "source": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-8e59a732-3bc3-4eb3-898a-c544ed76d318.png",
+      "sha256": "683e0115d9bb647c53ac7d20cf40dab8313ea29b1a55911d77382d698b8978c2",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "tool": "built_in_image_gen"
+    },
+    {
+      "id": "canh-07-08",
+      "scene": 7,
+      "image": "11-vay-app-online/anh/shots/canh-07-08.png",
+      "generationId": "canh-07-08",
+      "prompt": "Flat 2D cartoon, thick outlines, warm colors, 16:9. Use case: illustration-story. A fresh full-bleed landscape illustration, not a collage or character sheet. Object-only still life, no people or body parts. On the table: an unopened plain envelope and a face-down phone. Modest warm Vietnamese home, wooden furniture, plain potted plants, soft daylight; balanced frontal medium view. Use character references only for identity and drawing style. Natural anatomy; each hand belongs to its own person. Faces in upper half and clean lower quarter for native subtitles. Screens and all paper completely blank, no printed currency. No calculators, marked clocks, grids, seals, badges, necklaces or official emblems. Plain porcelain without markings. No text, letters, numbers, logos or watermarks.",
+      "refs": [],
+      "inputReferenceArchivedAt": null,
+      "source": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-e06a7e18-2fc9-431b-ad49-050b476006af.png",
+      "sha256": "d0de994319b0d264c7ba3ccad2a215c10990ec5524582f0f52933d0fe2578f6d",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "tool": "built_in_image_gen"
+    },
+    {
+      "id": "canh-07-09",
+      "scene": 7,
+      "image": "11-vay-app-online/anh/shots/canh-07-09.png",
+      "generationId": "canh-07-09",
+      "prompt": "Flat 2D cartoon, thick outlines, warm colors, 16:9. Use case: illustration-story. A fresh full-bleed landscape illustration, not a collage or character sheet. Exactly one person, Ut, young Vietnamese woman with black high ponytail, white short sleeve collared blouse, tan high waist wide trousers and brown crossbody bag. She calmly studies the objects on the table, hands resting naturally. No other people. On the table: blank receipts carefully kept inside a plain folder. Modest warm Vietnamese home, wooden furniture, plain potted plants, soft daylight; high oblique view toward table. Use character references only for identity and drawing style. Natural anatomy; each hand belongs to its own person. Faces in upper half and clean lower quarter for native subtitles. Screens and all paper completely blank, no printed currency. No calculators, marked clocks, grids, seals, badges, necklaces or official emblems. Plain porcelain without markings. No text, letters, numbers, logos or watermarks.",
+      "refs": [
+        "assets/nhan-vat/con-ut.png"
+      ],
+      "inputReferenceArchivedAt": null,
+      "source": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-11d26f74-941c-46c9-865c-eae8c066726e.png",
+      "sha256": "02b9710bf21a9f9412e2581817e09851675f43ec807f36a7229fd6101b175ed2",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "tool": "built_in_image_gen"
+    },
+    {
+      "id": "canh-07-10",
+      "scene": 7,
+      "image": "11-vay-app-online/anh/shots/canh-07-10.png",
+      "generationId": "canh-07-10",
+      "prompt": "Flat 2D cartoon, thick outlines, warm colors, 16:9. Use case: illustration-story. A fresh full-bleed landscape illustration, not a collage or character sheet. Exactly one person, Bac Sau, elderly Vietnamese man with grey side-part hair, rectangular dark glasses, beige plaid short sleeve shirt, brown trousers and a small blue pen clearly visible behind his ear. He calmly studies the objects on the table, hands resting naturally. No other people. On the table: a closed wallet and a phone set aside on a home table. Modest warm Vietnamese home, wooden furniture, plain potted plants, soft daylight; view through home doorway. Use character references only for identity and drawing style. Natural anatomy; each hand belongs to its own person. Faces in upper half and clean lower quarter for native subtitles. Screens and all paper completely blank, no printed currency. No calculators, marked clocks, grids, seals, badges, necklaces or official emblems. Plain porcelain without markings. No text, letters, numbers, logos or watermarks.",
+      "refs": [
+        "assets/nhan-vat/bang-nhan-vat.png"
+      ],
+      "inputReferenceArchivedAt": null,
+      "source": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-96d88295-5387-45fb-ac6a-cc082d392c07.png",
+      "sha256": "3c22d02d6a4e4478a098ba4666af2fa211357edece03f45a81da9e079f3a42b2",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "tool": "built_in_image_gen"
+    },
+    {
+      "id": "canh-07-11",
+      "scene": 7,
+      "image": "11-vay-app-online/anh/shots/canh-07-11.png",
+      "generationId": "canh-07-11",
+      "prompt": "Flat 2D cartoon, thick outlines, warm colors, 16:9. Use case: illustration-story. A fresh full-bleed landscape illustration, not a collage or character sheet. Exactly two people, Bac Sau, elderly Vietnamese man with grey side-part hair, rectangular dark glasses, beige plaid short sleeve shirt, brown trousers and a small blue pen clearly visible behind his ear and Ut, young Vietnamese woman with black high ponytail, white short sleeve collared blouse, tan high waist wide trousers and brown crossbody bag. Both calmly study the objects on the table, hands resting naturally. No other people. On the table: a phone placed face down away from a closed wallet. Modest warm Vietnamese home, wooden furniture, plain potted plants, soft daylight; medium eye-level front three-quarter view. Use character references only for identity and drawing style. Natural anatomy; each hand belongs to its own person. Faces in upper half and clean lower quarter for native subtitles. Screens and all paper completely blank, no printed currency. No calculators, marked clocks, grids, seals, badges, necklaces or official emblems. Plain porcelain without markings. No text, letters, numbers, logos or watermarks.",
+      "refs": [
+        "assets/nhan-vat/bang-nhan-vat.png",
+        "assets/nhan-vat/con-ut.png"
+      ],
+      "inputReferenceArchivedAt": null,
+      "source": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-fb1a24ba-7eab-4661-b719-b79e3819a3de.png",
+      "sha256": "fd37eb91eea1838f15ab9bcb0c6c836c14e1d1559b8f22cdce60563e01d46e7a",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "tool": "built_in_image_gen"
+    },
+    {
+      "id": "canh-07-12",
+      "scene": 7,
+      "image": "11-vay-app-online/anh/shots/canh-07-12.png",
+      "generationId": "canh-07-12",
+      "prompt": "Flat 2D cartoon, thick outlines, warm colors, 16:9. Use case: illustration-story. A fresh full-bleed landscape illustration, not a collage or character sheet. Object-only still life, no people or body parts. On the table: an unopened plain envelope and a face-down phone. Modest warm Vietnamese home, wooden furniture, plain potted plants, soft daylight; elevated diagonal wide view. Use character references only for identity and drawing style. Natural anatomy; each hand belongs to its own person. Faces in upper half and clean lower quarter for native subtitles. Screens and all paper completely blank, no printed currency. No calculators, marked clocks, grids, seals, badges, necklaces or official emblems. Plain porcelain without markings. No text, letters, numbers, logos or watermarks.",
+      "refs": [],
+      "inputReferenceArchivedAt": null,
+      "source": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-029361a4-5aed-4449-bf61-240637ef72c2.png",
+      "sha256": "d4db63077d29e374145cf67c0f6eae36621332ff4b977697d249328d08bcfef8",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "tool": "built_in_image_gen"
+    },
+    {
+      "id": "canh-07-13",
+      "scene": 7,
+      "image": "11-vay-app-online/anh/shots/canh-07-13.png",
+      "generationId": "canh-07-13",
+      "prompt": "Flat 2D cartoon, thick outlines, warm colors, 16:9. Use case: illustration-story. A fresh full-bleed landscape illustration, not a collage or character sheet. Exactly one person, Bac Sau, elderly Vietnamese man with grey side-part hair, rectangular dark glasses, beige plaid short sleeve shirt, brown trousers and a small blue pen clearly visible behind his ear. He calmly studies the objects on the table, hands resting naturally. No other people. On the table: blank receipts carefully kept inside a plain folder. Modest warm Vietnamese home, wooden furniture, plain potted plants, soft daylight; close waist-up view with clear separate hands. Use character references only for identity and drawing style. Natural anatomy; each hand belongs to its own person. Faces in upper half and clean lower quarter for native subtitles. Screens and all paper completely blank, no printed currency. No calculators, marked clocks, grids, seals, badges, necklaces or official emblems. Plain porcelain without markings. No text, letters, numbers, logos or watermarks.",
+      "refs": [
+        "assets/nhan-vat/bang-nhan-vat.png"
+      ],
+      "inputReferenceArchivedAt": null,
+      "source": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-e8774646-26b1-444f-be47-484f6c18266e.png",
+      "sha256": "e4083f92e0d4b7a5b88a4e57dde58e9e588344b3cb242cbf729fde6ee8ae368c",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "tool": "built_in_image_gen"
+    },
+    {
+      "id": "canh-07-14",
+      "scene": 7,
+      "image": "11-vay-app-online/anh/shots/canh-07-14.png",
+      "generationId": "canh-07-14",
+      "prompt": "Flat 2D cartoon, thick outlines, warm colors, 16:9. Use case: illustration-story. A fresh full-bleed landscape illustration, not a collage or character sheet. Exactly one person, Ut, young Vietnamese woman with black high ponytail, white short sleeve collared blouse, tan high waist wide trousers and brown crossbody bag. She calmly studies the objects on the table, hands resting naturally. No other people. On the table: a closed wallet and a phone set aside on a home table. Modest warm Vietnamese home, wooden furniture, plain potted plants, soft daylight; wide environmental view from opposite side. Use character references only for identity and drawing style. Natural anatomy; each hand belongs to its own person. Faces in upper half and clean lower quarter for native subtitles. Screens and all paper completely blank, no printed currency. No calculators, marked clocks, grids, seals, badges, necklaces or official emblems. Plain porcelain without markings. No text, letters, numbers, logos or watermarks.",
+      "refs": [
+        "assets/nhan-vat/con-ut.png"
+      ],
+      "inputReferenceArchivedAt": null,
+      "source": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-cb642f6e-8bd3-4a7e-986d-476eabbf68d2.png",
+      "sha256": "83626429a555fcbb844d6d4116ecdb76b40f77c7414154e8dfe5f34004dc9fa6",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "tool": "built_in_image_gen"
+    },
+    {
+      "id": "canh-07-15",
+      "scene": 7,
+      "image": "11-vay-app-online/anh/shots/canh-07-15.png",
+      "generationId": "canh-07-15",
+      "prompt": "Flat 2D cartoon, thick outlines, warm colors, 16:9. Use case: illustration-story. A fresh full-bleed landscape illustration, not a collage or character sheet. Exactly two people, Bac Sau, elderly Vietnamese man with grey side-part hair, rectangular dark glasses, beige plaid short sleeve shirt, brown trousers and a small blue pen clearly visible behind his ear and Ut, young Vietnamese woman with black high ponytail, white short sleeve collared blouse, tan high waist wide trousers and brown crossbody bag. Both calmly study the objects on the table, hands resting naturally. No other people. On the table: a phone placed face down away from a closed wallet. Modest warm Vietnamese home, wooden furniture, plain potted plants, soft daylight; side view with table edge and deep background. Use character references only for identity and drawing style. Natural anatomy; each hand belongs to its own person. Faces in upper half and clean lower quarter for native subtitles. Screens and all paper completely blank, no printed currency. No calculators, marked clocks, grids, seals, badges, necklaces or official emblems. Plain porcelain without markings. No text, letters, numbers, logos or watermarks.",
+      "refs": [
+        "assets/nhan-vat/bang-nhan-vat.png",
+        "assets/nhan-vat/con-ut.png"
+      ],
+      "inputReferenceArchivedAt": null,
+      "source": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-392fa847-4dd8-475a-85d5-2044188119b0.png",
+      "sha256": "5e8e258849df4f980a82a1c9c32d607478cec146dcd0332f5de69041dbdeb80d",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "tool": "built_in_image_gen"
+    },
+    {
+      "id": "canh-07-16",
+      "scene": 7,
+      "image": "11-vay-app-online/anh/shots/canh-07-16.png",
+      "generationId": "canh-07-16",
+      "prompt": "Flat 2D cartoon, thick outlines, warm colors, 16:9. Use case: illustration-story. A fresh full-bleed landscape illustration, not a collage or character sheet. Object-only still life, no people or body parts. On the table: an unopened plain envelope and a face-down phone. Modest warm Vietnamese home, wooden furniture, plain potted plants, soft daylight; balanced frontal medium view. Use character references only for identity and drawing style. Natural anatomy; each hand belongs to its own person. Faces in upper half and clean lower quarter for native subtitles. Screens and all paper completely blank, no printed currency. No calculators, marked clocks, grids, seals, badges, necklaces or official emblems. Plain porcelain without markings. No text, letters, numbers, logos or watermarks.",
+      "refs": [],
+      "inputReferenceArchivedAt": null,
+      "source": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-c447580e-0e89-4f79-b664-24245b2f8383.png",
+      "sha256": "4e8b4f4249962369a16a213b49311ad10bed9b4ed56e17f8f6cbc4da48d28496",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "tool": "built_in_image_gen"
+    },
+    {
+      "id": "canh-07-17",
+      "scene": 7,
+      "image": "11-vay-app-online/anh/shots/canh-07-17.png",
+      "generationId": "canh-07-17",
+      "prompt": "Flat 2D cartoon, thick outlines, warm colors, 16:9. Use case: illustration-story. A fresh full-bleed landscape illustration, not a collage or character sheet. Exactly one person, Ut, young Vietnamese woman with black high ponytail, white short sleeve collared blouse, tan high waist wide trousers and brown crossbody bag. She calmly studies the objects on the table, hands resting naturally. No other people. On the table: blank receipts carefully kept inside a plain folder. Modest warm Vietnamese home, wooden furniture, plain potted plants, soft daylight; high oblique view toward table. Use character references only for identity and drawing style. Natural anatomy; each hand belongs to its own person. Faces in upper half and clean lower quarter for native subtitles. Screens and all paper completely blank, no printed currency. No calculators, marked clocks, grids, seals, badges, necklaces or official emblems. Plain porcelain without markings. No text, letters, numbers, logos or watermarks.",
+      "refs": [
+        "assets/nhan-vat/con-ut.png"
+      ],
+      "inputReferenceArchivedAt": null,
+      "source": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-4cda21b9-4358-462a-9a87-4942e1cf6bb9.png",
+      "sha256": "497c09b7dd0a5f15ca31d3d5317fc4f34f5042aa888f6b7f7db4b5ee3a1928b2",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "tool": "built_in_image_gen"
+    },
+    {
+      "id": "canh-07-18",
+      "scene": 7,
+      "image": "11-vay-app-online/anh/shots/canh-07-18.png",
+      "generationId": "canh-07-18",
+      "prompt": "Flat 2D cartoon, thick outlines, warm colors, 16:9. Use case: illustration-story. A fresh full-bleed landscape illustration, not a collage or character sheet. Exactly one person, Bac Sau, elderly Vietnamese man with grey side-part hair, rectangular dark glasses, beige plaid short sleeve shirt, brown trousers and a small blue pen clearly visible behind his ear. He calmly studies the objects on the table, hands resting naturally. No other people. On the table: a closed wallet and a phone set aside on a home table. Modest warm Vietnamese home, wooden furniture, plain potted plants, soft daylight; view through home doorway. Use character references only for identity and drawing style. Natural anatomy; each hand belongs to its own person. Faces in upper half and clean lower quarter for native subtitles. Screens and all paper completely blank, no printed currency. No calculators, marked clocks, grids, seals, badges, necklaces or official emblems. Plain porcelain without markings. No text, letters, numbers, logos or watermarks.",
+      "refs": [
+        "assets/nhan-vat/bang-nhan-vat.png"
+      ],
+      "inputReferenceArchivedAt": null,
+      "source": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-964e0cdf-3cf1-4535-88ba-0c6058132eef.png",
+      "sha256": "16f445cb3d2151851c5688d8e56772946ef3d8d34582ae8fb42c9793f656cc30",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "tool": "built_in_image_gen"
+    },
+    {
+      "id": "canh-08-01",
+      "scene": 8,
+      "image": "11-vay-app-online/anh/canh-08.png",
+      "generationId": "base-08",
+      "prompt": "Flat 2D cartoon, thick outlines, warm colors, 16:9. [Reference: Bác Sáu character sheet] Match attached Bac Sau and Ut character sheets exactly. Bac Sau and Ut smiling calmly at their tea table, closed blank phone set aside, blank red ledger open, her brown bag on chair. Front medium two person composition with faces above the middle. Plain props without any printed markings, blank currency-like paper not actual banknotes, no logos, no badges or lanyards. No text, letters, numbers, logos or watermarks.",
+      "refs": [
+        "assets/nhan-vat/bang-nhan-vat.png",
+        "assets/nhan-vat/con-ut.png"
+      ],
+      "inputReferenceArchivedAt": null,
+      "source": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-08c0cbfd-861c-4382-909a-a22e4cfa6ce3.png",
+      "sha256": "a4f992b33421c4b48c4f36b30eaa036f22349231376b140e6fa59c4e41cb2763",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "tool": "built_in_image_gen"
+    },
+    {
+      "id": "canh-08-02",
+      "scene": 8,
+      "image": "11-vay-app-online/anh/shots/canh-08-02.png",
+      "generationId": "canh-08-02",
+      "prompt": "Flat 2D cartoon, thick outlines, warm colors, 16:9. Use case: illustration-story. A fresh full-bleed landscape illustration, not a collage or character sheet. Exactly one person, Bac Sau, elderly Vietnamese man with grey side-part hair, rectangular dark glasses, beige plaid short sleeve shirt, brown trousers and a small blue pen clearly visible behind his ear. He calmly studies the objects on the table, hands resting naturally. No other people. On the table: a face-down phone and an open blank red ledger. Modest warm Vietnamese home, wooden furniture, plain potted plants, soft daylight; medium eye-level front three-quarter view. Use character references only for identity and drawing style. Natural anatomy; each hand belongs to its own person. Faces in upper half and clean lower quarter for native subtitles. Screens and all paper completely blank, no printed currency. No calculators, marked clocks, grids, seals, badges, necklaces or official emblems. Plain porcelain without markings. No text, letters, numbers, logos or watermarks.",
+      "refs": [
+        "assets/nhan-vat/bang-nhan-vat.png"
+      ],
+      "inputReferenceArchivedAt": null,
+      "source": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-f07f01b5-60a4-4518-97b5-8d79630cf2aa.png",
+      "sha256": "9079f08de94510f7396ee8b91a88a05f9ea1ff0ee15b956628ce84674e82732b",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "tool": "built_in_image_gen"
+    },
+    {
+      "id": "canh-08-03",
+      "scene": 8,
+      "image": "11-vay-app-online/anh/shots/canh-08-03.png",
+      "generationId": "canh-08-03",
+      "prompt": "Flat 2D cartoon, thick outlines, warm colors, 16:9. Use case: illustration-story. A fresh full-bleed landscape illustration, not a collage or character sheet. Exactly two people, Bac Sau, elderly Vietnamese man with grey side-part hair, rectangular dark glasses, beige plaid short sleeve shirt, brown trousers and a small blue pen clearly visible behind his ear and Ut, young Vietnamese woman with black high ponytail, white short sleeve collared blouse, tan high waist wide trousers and brown crossbody bag. Both calmly study the objects on the table, hands resting naturally. No other people. On the table: two blank receipts neatly lined beside a closed wallet. Modest warm Vietnamese home, wooden furniture, plain potted plants, soft daylight; elevated diagonal wide view. Use character references only for identity and drawing style. Natural anatomy; each hand belongs to its own person. Faces in upper half and clean lower quarter for native subtitles. Screens and all paper completely blank, no printed currency. No calculators, marked clocks, grids, seals, badges, necklaces or official emblems. Plain porcelain without markings. No text, letters, numbers, logos or watermarks.",
+      "refs": [
+        "assets/nhan-vat/bang-nhan-vat.png",
+        "assets/nhan-vat/con-ut.png"
+      ],
+      "inputReferenceArchivedAt": null,
+      "source": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-ccc7af64-c063-4c11-a6b4-13c8dec669f5.png",
+      "sha256": "6fcd9542a0caa876144ffe2b86439b99017389f30f2eb0212bd71725684e6b5c",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "tool": "built_in_image_gen"
+    },
+    {
+      "id": "canh-08-04",
+      "scene": 8,
+      "image": "11-vay-app-online/anh/shots/canh-08-04-v4.png",
+      "generationId": "canh-08-04-v4",
+      "prompt": "Flat 2D cartoon, thick outlines, warm colors, 16:9. Use case: illustration-story. Generate a NEW distinct full-bleed object-only shot using the supplied clean empty-room illustration only as a drawing-style and furniture reference. Composition: directly overhead close-up of a honey-brown wooden tea table; one open completely blank cream notebook diagonally on the right, a small blank standing calendar on the upper left, two plain white porcelain mugs along the far edge, a small green potted plant at the left edge. No other objects. Soft natural Vietnamese-home daylight and warm wooden palette. Exactly zero people, body parts, portraits, human shadows or human reflections. All notebook pages and the calendar are perfectly blank; mugs and tabletop are unmarked. The table fills the entire frame with no border. Render as an unsigned production illustration, keep every corner clean. No text, letters, numbers, logos or watermarks.",
+      "refs": [
+        "videos/11-vay-app-online/anh/shots/canh-08-16.png"
+      ],
+      "inputReferenceArchivedAt": null,
+      "source": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-9fe5fa63-3a89-43ff-b7dd-244dca7d1673.png",
+      "sha256": "ce4700f8ba65d32870aaed79136b36f6f1f91c9ea27eb613038afc6286fce720",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "tool": "built_in_image_gen"
+    },
+    {
+      "id": "canh-08-05",
+      "scene": 8,
+      "image": "11-vay-app-online/anh/shots/canh-08-05.png",
+      "generationId": "canh-08-05",
+      "prompt": "Flat 2D cartoon, thick outlines, warm colors, 16:9. Use case: illustration-story. A fresh full-bleed landscape illustration, not a collage or character sheet. Exactly one person, Bac Sau, elderly Vietnamese man with grey side-part hair, rectangular dark glasses, beige plaid short sleeve shirt, brown trousers and a small blue pen clearly visible behind his ear. He calmly studies the objects on the table, hands resting naturally. No other people. On the table: an open blank red ledger and a plain tea set. Modest warm Vietnamese home, wooden furniture, plain potted plants, soft daylight; wide environmental view from opposite side. Use character references only for identity and drawing style. Natural anatomy; each hand belongs to its own person. Faces in upper half and clean lower quarter for native subtitles. Screens and all paper completely blank, no printed currency. No calculators, marked clocks, grids, seals, badges, necklaces or official emblems. Plain porcelain without markings. No text, letters, numbers, logos or watermarks.",
+      "refs": [
+        "assets/nhan-vat/bang-nhan-vat.png"
+      ],
+      "inputReferenceArchivedAt": null,
+      "source": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-9fdba64c-7b51-44b5-8447-9e240636f69b.png",
+      "sha256": "bec4e8f6de827cba23ecd62e396cca3e7e0ebb022d7c62e0550e619af196419b",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "tool": "built_in_image_gen"
+    },
+    {
+      "id": "canh-08-06",
+      "scene": 8,
+      "image": "11-vay-app-online/anh/shots/canh-08-06.png",
+      "generationId": "canh-08-06",
+      "prompt": "Flat 2D cartoon, thick outlines, warm colors, 16:9. Use case: illustration-story. A fresh full-bleed landscape illustration, not a collage or character sheet. Exactly one person, Ut, young Vietnamese woman with black high ponytail, white short sleeve collared blouse, tan high waist wide trousers and brown crossbody bag. She calmly studies the objects on the table, hands resting naturally. No other people. On the table: a face-down phone and an open blank red ledger. Modest warm Vietnamese home, wooden furniture, plain potted plants, soft daylight; side view with table edge and deep background. Use character references only for identity and drawing style. Natural anatomy; each hand belongs to its own person. Faces in upper half and clean lower quarter for native subtitles. Screens and all paper completely blank, no printed currency. No calculators, marked clocks, grids, seals, badges, necklaces or official emblems. Plain porcelain without markings. No text, letters, numbers, logos or watermarks.",
+      "refs": [
+        "assets/nhan-vat/con-ut.png"
+      ],
+      "inputReferenceArchivedAt": null,
+      "source": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-173444c3-261d-43e6-962e-2e6218641f7c.png",
+      "sha256": "5f32917b97a36c9b5246289d47443a8400f6864f329f8ad92b09a68fb45a1c93",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "tool": "built_in_image_gen"
+    },
+    {
+      "id": "canh-08-07",
+      "scene": 8,
+      "image": "11-vay-app-online/anh/shots/canh-08-07.png",
+      "generationId": "canh-08-07",
+      "prompt": "Flat 2D cartoon, thick outlines, warm colors, 16:9. Use case: illustration-story. A fresh full-bleed landscape illustration, not a collage or character sheet. Exactly two people, Bac Sau, elderly Vietnamese man with grey side-part hair, rectangular dark glasses, beige plaid short sleeve shirt, brown trousers and a small blue pen clearly visible behind his ear and Ut, young Vietnamese woman with black high ponytail, white short sleeve collared blouse, tan high waist wide trousers and brown crossbody bag. Both calmly study the objects on the table, hands resting naturally. No other people. On the table: two blank receipts neatly lined beside a closed wallet. Modest warm Vietnamese home, wooden furniture, plain potted plants, soft daylight; balanced frontal medium view. Use character references only for identity and drawing style. Natural anatomy; each hand belongs to its own person. Faces in upper half and clean lower quarter for native subtitles. Screens and all paper completely blank, no printed currency. No calculators, marked clocks, grids, seals, badges, necklaces or official emblems. Plain porcelain without markings. No text, letters, numbers, logos or watermarks.",
+      "refs": [
+        "assets/nhan-vat/bang-nhan-vat.png",
+        "assets/nhan-vat/con-ut.png"
+      ],
+      "inputReferenceArchivedAt": null,
+      "source": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-8c3ac1a7-82e7-40bd-bf8d-555178be35e8.png",
+      "sha256": "8a88d05ab65e56aecb39e5f4053d09c1cc11569a5a49f8b8321b149ea6315112",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "tool": "built_in_image_gen"
+    },
+    {
+      "id": "canh-08-08",
+      "scene": 8,
+      "image": "11-vay-app-online/anh/shots/canh-08-08.png",
+      "generationId": "canh-08-08",
+      "prompt": "Flat 2D cartoon, thick outlines, warm colors, 16:9. Use case: illustration-story. A fresh full-bleed landscape illustration, not a collage or character sheet. Object-only still life, no people or body parts. On the table: an entirely blank calendar block and open blank notebook. Modest warm Vietnamese home, wooden furniture, plain potted plants, soft daylight; high oblique view toward table. Use character references only for identity and drawing style. Natural anatomy; each hand belongs to its own person. Faces in upper half and clean lower quarter for native subtitles. Screens and all paper completely blank, no printed currency. No calculators, marked clocks, grids, seals, badges, necklaces or official emblems. Plain porcelain without markings. No text, letters, numbers, logos or watermarks.",
+      "refs": [],
+      "inputReferenceArchivedAt": null,
+      "source": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-dbb610fb-2e7f-4a4b-b648-f136de96cc31.png",
+      "sha256": "5351c660fcff5e2412e7a792b34bf31a5970105952d649509a3cc7a70317ad04",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "tool": "built_in_image_gen"
+    },
+    {
+      "id": "canh-08-09",
+      "scene": 8,
+      "image": "11-vay-app-online/anh/shots/canh-08-09.png",
+      "generationId": "canh-08-09",
+      "prompt": "Flat 2D cartoon, thick outlines, warm colors, 16:9. Use case: illustration-story. A fresh full-bleed landscape illustration, not a collage or character sheet. Exactly one person, Ut, young Vietnamese woman with black high ponytail, white short sleeve collared blouse, tan high waist wide trousers and brown crossbody bag. She calmly studies the objects on the table, hands resting naturally. No other people. On the table: an open blank red ledger and a plain tea set. Modest warm Vietnamese home, wooden furniture, plain potted plants, soft daylight; view through home doorway. Use character references only for identity and drawing style. Natural anatomy; each hand belongs to its own person. Faces in upper half and clean lower quarter for native subtitles. Screens and all paper completely blank, no printed currency. No calculators, marked clocks, grids, seals, badges, necklaces or official emblems. Plain porcelain without markings. No text, letters, numbers, logos or watermarks.",
+      "refs": [
+        "assets/nhan-vat/con-ut.png"
+      ],
+      "inputReferenceArchivedAt": null,
+      "source": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-b794000d-499f-42b8-ab22-98338e15d479.png",
+      "sha256": "fe4fca97cad0187570ae4c0d52d84152fe15041fad8051377e78831f533f9595",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "tool": "built_in_image_gen"
+    },
+    {
+      "id": "canh-08-10",
+      "scene": 8,
+      "image": "11-vay-app-online/anh/shots/canh-08-10.png",
+      "generationId": "canh-08-10",
+      "prompt": "Flat 2D cartoon, thick outlines, warm colors, 16:9. Use case: illustration-story. A fresh full-bleed landscape illustration, not a collage or character sheet. Exactly one person, Bac Sau, elderly Vietnamese man with grey side-part hair, rectangular dark glasses, beige plaid short sleeve shirt, brown trousers and a small blue pen clearly visible behind his ear. He calmly studies the objects on the table, hands resting naturally. No other people. On the table: a face-down phone and an open blank red ledger. Modest warm Vietnamese home, wooden furniture, plain potted plants, soft daylight; medium eye-level front three-quarter view. Use character references only for identity and drawing style. Natural anatomy; each hand belongs to its own person. Faces in upper half and clean lower quarter for native subtitles. Screens and all paper completely blank, no printed currency. No calculators, marked clocks, grids, seals, badges, necklaces or official emblems. Plain porcelain without markings. No text, letters, numbers, logos or watermarks.",
+      "refs": [
+        "assets/nhan-vat/bang-nhan-vat.png"
+      ],
+      "inputReferenceArchivedAt": null,
+      "source": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-acbbdaf8-0ffe-433b-a6de-115f941344f7.png",
+      "sha256": "baab88f965f7d9618d61b36519e2b3f39f65ca47021e50f599f0bb6aaf7c035b",
+      "dimensions": [
+        1672,
+        940
+      ],
+      "tool": "built_in_image_gen"
+    },
+    {
+      "id": "canh-08-11",
+      "scene": 8,
+      "image": "11-vay-app-online/anh/shots/canh-08-11.png",
+      "generationId": "canh-08-11",
+      "prompt": "Flat 2D cartoon, thick outlines, warm colors, 16:9. Use case: illustration-story. A fresh full-bleed landscape illustration, not a collage or character sheet. Exactly two people, Bac Sau, elderly Vietnamese man with grey side-part hair, rectangular dark glasses, beige plaid short sleeve shirt, brown trousers and a small blue pen clearly visible behind his ear and Ut, young Vietnamese woman with black high ponytail, white short sleeve collared blouse, tan high waist wide trousers and brown crossbody bag. Both calmly study the objects on the table, hands resting naturally. No other people. On the table: two blank receipts neatly lined beside a closed wallet. Modest warm Vietnamese home, wooden furniture, plain potted plants, soft daylight; elevated diagonal wide view. Use character references only for identity and drawing style. Natural anatomy; each hand belongs to its own person. Faces in upper half and clean lower quarter for native subtitles. Screens and all paper completely blank, no printed currency. No calculators, marked clocks, grids, seals, badges, necklaces or official emblems. Plain porcelain without markings. No text, letters, numbers, logos or watermarks.",
+      "refs": [
+        "assets/nhan-vat/bang-nhan-vat.png",
+        "assets/nhan-vat/con-ut.png"
+      ],
+      "inputReferenceArchivedAt": null,
+      "source": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-2cd18dfe-870d-4881-9ad7-7307f3e5ecfb.png",
+      "sha256": "f7e71ec6b81a30934721b919cc2daeaad653a459b7a0a2996fb16a8beb947b01",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "tool": "built_in_image_gen"
+    },
+    {
+      "id": "canh-08-12",
+      "scene": 8,
+      "image": "11-vay-app-online/anh/shots/canh-08-12-v2.png",
+      "generationId": "canh-08-12-v2",
+      "prompt": "Flat 2D cartoon, thick outlines, warm colors, 16:9. Use case: precise-object-edit. Remove BOTH young adults completely from this image, including every part of their heads, bodies, hands, arms and clothing and the pen held by the man. Naturally fill their former space with the same quiet Vietnamese living room, empty wooden chairs, plain wall, wooden cabinet and houseplants. The finished image must be a strictly OBJECT-ONLY still life of this wooden table, the open completely blank notebook, blank calendar block and houseplants. Zero people, zero body parts, zero portraits, zero human silhouettes or human reflections. Also remove any tiny pale signature-like marks in the bottom-right corner. Preserve the existing warm drawing style, daylight and landscape composition; full bleed with no borders. All paper and surfaces completely unmarked. No text, letters, numbers, logos or watermarks.",
+      "refs": [
+        "videos/11-vay-app-online/anh/shots/canh-08-12.png"
+      ],
+      "inputReferenceArchivedAt": "D:\\Repo\\bac-sau-so-sach\\videos\\11-vay-app-online\\anh\\shots\\nhap\\canh-08-12.png",
+      "source": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-f41bbe1f-3052-4aff-b8b3-4344b1d4511a.png",
+      "sha256": "64a88230fb89a9f44f8d1c858800be1b4a885d611878b196a6ae0b5870540703",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "tool": "built_in_image_gen"
+    },
+    {
+      "id": "canh-08-13",
+      "scene": 8,
+      "image": "11-vay-app-online/anh/shots/canh-08-13.png",
+      "generationId": "canh-08-13",
+      "prompt": "Flat 2D cartoon, thick outlines, warm colors, 16:9. Use case: illustration-story. A fresh full-bleed landscape illustration, not a collage or character sheet. Exactly one person, Bac Sau, elderly Vietnamese man with grey side-part hair, rectangular dark glasses, beige plaid short sleeve shirt, brown trousers and a small blue pen clearly visible behind his ear. He calmly studies the objects on the table, hands resting naturally. No other people. On the table: an open blank red ledger and a plain tea set. Modest warm Vietnamese home, wooden furniture, plain potted plants, soft daylight; wide environmental view from opposite side. Use character references only for identity and drawing style. Natural anatomy; each hand belongs to its own person. Faces in upper half and clean lower quarter for native subtitles. Screens and all paper completely blank, no printed currency. No calculators, marked clocks, grids, seals, badges, necklaces or official emblems. Plain porcelain without markings. No text, letters, numbers, logos or watermarks.",
+      "refs": [
+        "assets/nhan-vat/bang-nhan-vat.png"
+      ],
+      "inputReferenceArchivedAt": null,
+      "source": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-56ce2d45-8554-4b0a-a0cd-df2977040e7c.png",
+      "sha256": "665fbd663d4cdb429b9ee29d0cbbb927d8b05c84d9c9f1859c583a50ba20349e",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "tool": "built_in_image_gen"
+    },
+    {
+      "id": "canh-08-14",
+      "scene": 8,
+      "image": "11-vay-app-online/anh/shots/canh-08-14.png",
+      "generationId": "canh-08-14",
+      "prompt": "Flat 2D cartoon, thick outlines, warm colors, 16:9. Use case: illustration-story. A fresh full-bleed landscape illustration, not a collage or character sheet. Exactly one person, Ut, young Vietnamese woman with black high ponytail, white short sleeve collared blouse, tan high waist wide trousers and brown crossbody bag. She calmly studies the objects on the table, hands resting naturally. No other people. On the table: a face-down phone and an open blank red ledger. Modest warm Vietnamese home, wooden furniture, plain potted plants, soft daylight; side view with table edge and deep background. Use character references only for identity and drawing style. Natural anatomy; each hand belongs to its own person. Faces in upper half and clean lower quarter for native subtitles. Screens and all paper completely blank, no printed currency. No calculators, marked clocks, grids, seals, badges, necklaces or official emblems. Plain porcelain without markings. No text, letters, numbers, logos or watermarks.",
+      "refs": [
+        "assets/nhan-vat/con-ut.png"
+      ],
+      "inputReferenceArchivedAt": null,
+      "source": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-1be83015-ff2e-42c0-82b6-864ad48ff486.png",
+      "sha256": "ca8acc3f85cb813b86c812e1e418f0f47a6af6032961dd0ed9eeeccf5372c5e3",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "tool": "built_in_image_gen"
+    },
+    {
+      "id": "canh-08-15",
+      "scene": 8,
+      "image": "11-vay-app-online/anh/shots/canh-08-15.png",
+      "generationId": "canh-08-15",
+      "prompt": "Flat 2D cartoon, thick outlines, warm colors, 16:9. Use case: illustration-story. A fresh full-bleed landscape illustration, not a collage or character sheet. Exactly two people, Bac Sau, elderly Vietnamese man with grey side-part hair, rectangular dark glasses, beige plaid short sleeve shirt, brown trousers and a small blue pen clearly visible behind his ear and Ut, young Vietnamese woman with black high ponytail, white short sleeve collared blouse, tan high waist wide trousers and brown crossbody bag. Both calmly study the objects on the table, hands resting naturally. No other people. On the table: two blank receipts neatly lined beside a closed wallet. Modest warm Vietnamese home, wooden furniture, plain potted plants, soft daylight; balanced frontal medium view. Use character references only for identity and drawing style. Natural anatomy; each hand belongs to its own person. Faces in upper half and clean lower quarter for native subtitles. Screens and all paper completely blank, no printed currency. No calculators, marked clocks, grids, seals, badges, necklaces or official emblems. Plain porcelain without markings. No text, letters, numbers, logos or watermarks.",
+      "refs": [
+        "assets/nhan-vat/bang-nhan-vat.png",
+        "assets/nhan-vat/con-ut.png"
+      ],
+      "inputReferenceArchivedAt": null,
+      "source": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-edd513bc-829d-484f-a998-a0743a531cef.png",
+      "sha256": "6af7baa5074a83c83df44fad67aa272a9911d19c5073bafb3172d407e2680d55",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "tool": "built_in_image_gen"
+    },
+    {
+      "id": "canh-08-16",
+      "scene": 8,
+      "image": "11-vay-app-online/anh/shots/canh-08-16.png",
+      "generationId": "canh-08-16",
+      "prompt": "Flat 2D cartoon, thick outlines, warm colors, 16:9. Use case: illustration-story. A fresh full-bleed landscape illustration, not a collage or character sheet. Object-only still life, no people or body parts. On the table: an entirely blank calendar block and open blank notebook. Modest warm Vietnamese home, wooden furniture, plain potted plants, soft daylight; high oblique view toward table. Use character references only for identity and drawing style. Natural anatomy; each hand belongs to its own person. Faces in upper half and clean lower quarter for native subtitles. Screens and all paper completely blank, no printed currency. No calculators, marked clocks, grids, seals, badges, necklaces or official emblems. Plain porcelain without markings. No text, letters, numbers, logos or watermarks.",
+      "refs": [],
+      "inputReferenceArchivedAt": null,
+      "source": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-b14481b6-65b7-4898-9b1d-2527a01c2817.png",
+      "sha256": "b737751d1294df0d4516a1783e04e08f5648d7567ec7db9acf9d0e9e4eb7a389",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "tool": "built_in_image_gen"
+    }
+  ],
+  "thumbnail": {
+    "id": "base-thumbnail-v2",
+    "image": "thumbnail-v2.png",
+    "source": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-3334e299-9cec-453f-8aa6-e091d8c49835.png",
+    "projectPath": "D:\\Repo\\bac-sau-so-sach\\videos\\11-vay-app-online\\anh\\thumbnail-v2.png",
+    "sha256": "c3c3e4fde61ab9a4fb8a5eaf1ee99aa1ad3e3ddbc847673fe2a21a6ec5985ae1",
+    "prompt": "Edit the provided original illustration only. Give Bac Sau on the right a strong thoughtful skeptical expression: one raised eyebrow, slightly narrowed eyes and a gently closed mouth, as if carefully checking a loan statement. Keep his identity, grey hair, rectangular glasses, blue pen behind ear, beige plaid shirt, red blank ledger and hands. Preserve Ut's startled expression, all poses, camera and warm home lighting. Keep the left forty percent empty dark teal for a separate native title. All phone and ledger surfaces remain entirely blank. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "D:/Repo/bac-sau-so-sach/videos/11-vay-app-online/anh/thumbnail.png"
+    ],
+    "dimensions": [
+      1672,
+      941
+    ],
+    "tool": "built_in_image_gen"
+  }
+}

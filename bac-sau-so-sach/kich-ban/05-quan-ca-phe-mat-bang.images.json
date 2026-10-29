@@ -1,0 +1,79 @@
+[
+  {
+    "image": "anh/canh-01.png",
+    "prompt": "Use case: illustration-story. One full-bleed landscape 16:9 Vietnamese financial explainer illustration. Flat 2D cartoon, thick clean dark-brown outlines, warm cream, sage and ochre palette, gentle cel shading. Two distinct people matching attached sheets: Bac Sau, elderly Vietnamese accountant with rectangular glasses, salt-and-pepper hair, beige checkered shirt and blue pen behind ear; Co Bay, 48-year-old Vietnamese woman with round medium-tan face, short wavy brown bob, plain sage blouse, ochre waist apron correctly tied behind, brown trousers. Red ledger belongs to Bac Sau, plum notebook to Co Bay. Co Bay and Bac Sau sit outside her modest Saigon cafe at a wooden table with a plum notebook and a cafe key. Several occupied tables in far background, customers only distant simplified shapes, no distinct new main characters. Co Bay is worried, Bac Sau listens. Medium wide afternoon scene. One coherent scene, no split panels. Natural anatomically correct limbs, hands, wrists and body orientation; no lanyards or ID cards. All pages, calculator keys, calendar, clock, cups, machines and envelopes completely blank and unlabeled. Smooth unmarked coins. No writing-like squiggles, letters, numbers, logos, watermarks, signatures or readable text.",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png",
+      "assets/nhan-vat/co-bay.png"
+    ]
+  },
+  {
+    "image": "anh/canh-02.png",
+    "prompt": "Use case: illustration-story. One full-bleed landscape 16:9 Vietnamese financial explainer illustration. Flat 2D cartoon, thick clean dark-brown outlines, warm cream, sage and ochre palette, gentle cel shading. Objects-only conceptual illustration. No people, human faces, human silhouettes, arms or hands. Freshly renovated miniature cafe on a cream table beside an unbranded espresso machine, wooden chairs, a sealed plain envelope and a transparent jar of smooth coins. Clear separated groups, inviting overhead-oblique still life. One coherent scene, no split panels. Natural anatomically correct limbs, hands, wrists and body orientation; no lanyards or ID cards. All pages, calculator keys, calendar, clock, cups, machines and envelopes completely blank and unlabeled. Smooth unmarked coins. No writing-like squiggles, letters, numbers, logos, watermarks, signatures or readable text.",
+    "refs": []
+  },
+  {
+    "image": "anh/canh-03.png",
+    "prompt": "Use case: illustration-story. One full-bleed landscape 16:9 Vietnamese financial explainer illustration. Flat 2D cartoon, thick clean dark-brown outlines, warm cream, sage and ochre palette, gentle cel shading. Exactly one Co Bay, matching attached woman sheet: 48-year-old Vietnamese woman, round medium-tan face, short softly wavy dark-brown bob, no glasses, plain sage-green short sleeve blouse, ochre waist apron correctly tied behind, dark-brown trousers, black slip-on shoes; plum-purple blank notebook. Co Bay thoughtfully compares a beautiful fixed sage cafe wall with a portable espresso machine and wooden chairs on a small handcart. The wall remains attached to the building, portable objects clearly separate. Warm interior. One coherent scene, no split panels. Natural anatomically correct limbs, hands, wrists and body orientation; no lanyards or ID cards. All pages, calculator keys, calendar, clock, cups, machines and envelopes completely blank and unlabeled. Smooth unmarked coins. No writing-like squiggles, letters, numbers, logos, watermarks, signatures or readable text.",
+    "refs": [
+      "assets/nhan-vat/co-bay.png"
+    ]
+  },
+  {
+    "image": "anh/canh-04.png",
+    "prompt": "Use case: illustration-story. One full-bleed landscape 16:9 Vietnamese financial explainer illustration. Flat 2D cartoon, thick clean dark-brown outlines, warm cream, sage and ochre palette, gentle cel shading. Exactly one Bac Sau, matching attached accountant sheet: elderly Vietnamese man, salt-and-pepper side-part hair, rectangular glasses, blue pen behind ear, beige checkered short sleeve shirt, brown trousers, red blank ledger. Bac Sau studies a small model of cafe seating with wooden chairs, plain coffee cups and a large blank clock, red ledger on desk. Calm explanatory gesture with natural hand. Sunny cafe windows behind. One coherent scene, no split panels. Natural anatomically correct limbs, hands, wrists and body orientation; no lanyards or ID cards. All pages, calculator keys, calendar, clock, cups, machines and envelopes completely blank and unlabeled. Smooth unmarked coins. No writing-like squiggles, letters, numbers, logos, watermarks, signatures or readable text.",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png"
+    ]
+  },
+  {
+    "image": "anh/canh-05.png",
+    "prompt": "Use case: illustration-story. One full-bleed landscape 16:9 Vietnamese financial explainer illustration. Flat 2D cartoon, thick clean dark-brown outlines, warm cream, sage and ochre palette, gentle cel shading. Exactly one Bac Sau, matching attached accountant sheet: elderly Vietnamese man, salt-and-pepper side-part hair, rectangular glasses, blue pen behind ear, beige checkered short sleeve shirt, brown trousers, red blank ledger. Bac Sau at cafe desk separates a small smooth coin pile into a shallow savings tray beside a red ledger. A cafe key and small coffee supply basket nearby. Warm thoughtful accounting mood, uncluttered desk. One coherent scene, no split panels. Natural anatomically correct limbs, hands, wrists and body orientation; no lanyards or ID cards. All pages, calculator keys, calendar, clock, cups, machines and envelopes completely blank and unlabeled. Smooth unmarked coins. No writing-like squiggles, letters, numbers, logos, watermarks, signatures or readable text.",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png"
+    ]
+  },
+  {
+    "image": "anh/canh-06.png",
+    "prompt": "Use case: illustration-story. One full-bleed landscape 16:9 Vietnamese financial explainer illustration. Flat 2D cartoon, thick clean dark-brown outlines, warm cream, sage and ochre palette, gentle cel shading. Exactly one Co Bay, matching attached woman sheet: 48-year-old Vietnamese woman, round medium-tan face, short softly wavy dark-brown bob, no glasses, plain sage-green short sleeve blouse, ochre waist apron correctly tied behind, dark-brown trousers, black slip-on shoes; plum-purple blank notebook. Co Bay patiently waits in her quiet newly opened cafe, plum notebook on counter and empty wooden chairs. One plain coffee cup on the counter. Soft early morning light, sympathetic expression, medium wide view. One coherent scene, no split panels. Natural anatomically correct limbs, hands, wrists and body orientation; no lanyards or ID cards. All pages, calculator keys, calendar, clock, cups, machines and envelopes completely blank and unlabeled. Smooth unmarked coins. No writing-like squiggles, letters, numbers, logos, watermarks, signatures or readable text.",
+    "refs": [
+      "assets/nhan-vat/co-bay.png"
+    ]
+  },
+  {
+    "image": "anh/canh-07.png",
+    "prompt": "Use case: illustration-story. One full-bleed landscape 16:9 Vietnamese financial explainer illustration. Flat 2D cartoon, thick clean dark-brown outlines, warm cream, sage and ochre palette, gentle cel shading. Exactly one Bac Sau, matching attached accountant sheet: elderly Vietnamese man, salt-and-pepper side-part hair, rectangular glasses, blue pen behind ear, beige checkered short sleeve shirt, brown trousers, red blank ledger. Bac Sau compares two identical miniature cafes beside two different-sized coin piles and one plain key on his desk. Thoughtful expression, carefully separated objects. Warm medium three-quarter view. One coherent scene, no split panels. Natural anatomically correct limbs, hands, wrists and body orientation; no lanyards or ID cards. All pages, calculator keys, calendar, clock, cups, machines and envelopes completely blank and unlabeled. Smooth unmarked coins. No writing-like squiggles, letters, numbers, logos, watermarks, signatures or readable text.",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png"
+    ]
+  },
+  {
+    "image": "anh/canh-08.png",
+    "prompt": "Use case: illustration-story. One full-bleed landscape 16:9 Vietnamese financial explainer illustration. Flat 2D cartoon, thick clean dark-brown outlines, warm cream, sage and ochre palette, gentle cel shading. Two distinct people matching attached sheets: Bac Sau, elderly Vietnamese accountant with rectangular glasses, salt-and-pepper hair, beige checkered shirt and blue pen behind ear; Co Bay, 48-year-old Vietnamese woman with round medium-tan face, short wavy brown bob, plain sage blouse, ochre waist apron correctly tied behind, brown trousers. Red ledger belongs to Bac Sau, plum notebook to Co Bay. Co Bay and Bac Sau sit side by side studying completely blank lease pages beside a cafe key and blank calendar. Their hands rest naturally separately on table, no signing gesture. Warm cafe interior, medium eye-level view. One coherent scene, no split panels. Natural anatomically correct limbs, hands, wrists and body orientation; no lanyards or ID cards. All pages, calculator keys, calendar, clock, cups, machines and envelopes completely blank and unlabeled. Smooth unmarked coins. No writing-like squiggles, letters, numbers, logos, watermarks, signatures or readable text.",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png",
+      "assets/nhan-vat/co-bay.png"
+    ]
+  },
+  {
+    "image": "anh/canh-09.png",
+    "prompt": "Use case: illustration-story. One full-bleed landscape 16:9 Vietnamese financial explainer illustration. Flat 2D cartoon, thick clean dark-brown outlines, warm cream, sage and ochre palette, gentle cel shading. Objects-only conceptual illustration. No people, human faces, human silhouettes, arms or hands. Cafe closing still life: portable espresso machine and stacked wooden chairs secured on a handcart, plain sealed deposit envelope, transparent smooth coin jar and blank lease pages on nearby table. Decorated fixed wall stays behind. Clear visual distinction, warm interior. One coherent scene, no split panels. Natural anatomically correct limbs, hands, wrists and body orientation; no lanyards or ID cards. All pages, calculator keys, calendar, clock, cups, machines and envelopes completely blank and unlabeled. Smooth unmarked coins. No writing-like squiggles, letters, numbers, logos, watermarks, signatures or readable text.",
+    "refs": []
+  },
+  {
+    "image": "anh/canh-10.png",
+    "prompt": "Use case: illustration-story. One full-bleed landscape 16:9 Vietnamese financial explainer illustration. Flat 2D cartoon, thick clean dark-brown outlines, warm cream, sage and ochre palette, gentle cel shading. Two distinct people matching attached sheets: Bac Sau, elderly Vietnamese accountant with rectangular glasses, salt-and-pepper hair, beige checkered shirt and blue pen behind ear; Co Bay, 48-year-old Vietnamese woman with round medium-tan face, short wavy brown bob, plain sage blouse, ochre waist apron correctly tied behind, brown trousers. Red ledger belongs to Bac Sau, plum notebook to Co Bay. Co Bay organizes her open plum notebook beside miniature cafe and blank lease pages while Bac Sau gives a calm encouraging smile. Both seated naturally. Soft morning cafe light, hopeful practical mood. One coherent scene, no split panels. Natural anatomically correct limbs, hands, wrists and body orientation; no lanyards or ID cards. All pages, calculator keys, calendar, clock, cups, machines and envelopes completely blank and unlabeled. Smooth unmarked coins. No writing-like squiggles, letters, numbers, logos, watermarks, signatures or readable text.",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png",
+      "assets/nhan-vat/co-bay.png"
+    ]
+  },
+  {
+    "image": "anh/thumbnail.png",
+    "prompt": "Use case: illustration-story. One full-bleed landscape 16:9 Vietnamese financial explainer illustration. Flat 2D cartoon, thick clean dark-brown outlines, warm cream, sage and ochre palette, gentle cel shading. Two distinct people matching attached sheets: Bac Sau, elderly Vietnamese accountant with rectangular glasses, salt-and-pepper hair, beige checkered shirt and blue pen behind ear; Co Bay, 48-year-old Vietnamese woman with round medium-tan face, short wavy brown bob, plain sage blouse, ochre waist apron correctly tied behind, brown trousers. Red ledger belongs to Bac Sau, plum notebook to Co Bay. YouTube thumbnail background illustration. Co Bay and Bac Sau examine a tiny cafe model, key and closed plum notebook. Large expressive faces on RIGHT TWO THIRDS. Co Bay looks surprised and concerned, Bac Sau thoughtful. LEFT THIRD simple dark green low-detail negative space reserved for code typography. Strong warm cafe lighting, no typography. One coherent scene, no split panels. Natural anatomically correct limbs, hands, wrists and body orientation; no lanyards or ID cards. All pages, calculator keys, calendar, clock, cups, machines and envelopes completely blank and unlabeled. Smooth unmarked coins. No writing-like squiggles, letters, numbers, logos, watermarks, signatures or readable text.",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png",
+      "assets/nhan-vat/co-bay.png"
+    ]
+  }
+]

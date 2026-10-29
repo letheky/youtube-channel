@@ -1,0 +1,25 @@
+# Bí mật — KHÔNG BAO GIỜ commit
+.env
+client_secret*.json
+token*.json
+
+# File nặng sinh ra khi làm video
+videos/**/*.mp4
+videos/**/*.mp3
+videos/**/*.wav
+videos/**/*.png
+videos/**/*.jpg
+videos/**/*.webp
+out/
+
+# Node / Python
+node_modules/
+__pycache__/
+.venv/
+
+# Hệ điều hành
+Thumbs.db
+.DS_Store
+remotion/build/
+.remotion/
+luu-tru/

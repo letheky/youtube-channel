@@ -1,0 +1,18 @@
+{
+  "channel_id": "UCMDWcpFr6SZ1Nk7_ffVGTVA",
+  "provider": "vsp",
+  "voice": "vi-thai-son",
+  "model": "vieneu-v3-turbo",
+  "approved_local_date": "2026-10-29",
+  "approved_by": "channel_owner_direct_chat_reply",
+  "owner_feedback_verbatim": "Giọng rõ, đọc đúng; tiếp tục dùng",
+  "reviewed_asset": "remotion/out/wifi-opening-review-v4.mp4",
+  "reviewed_asset_sha256": "788b1d19b5f380fce5ab6dbf4c292a9a028f2ca92dd66da676ef19f418c78339",
+  "reviewed_scenes": [
+    1
+  ],
+  "voice_accepted_for_continuation": true,
+  "full_episode_listening_complete": true,
+  "note": "Chủ kênh đã nghe toàn bản dài và Short, trả lời: Đã nghe cả hai, không thấy lỗi. Giữ nguyên toàn bộ lời/audio đã khóa; không hỏi lại cùng việc. Agent không tự nhận đã nghe.",
+  "full_episode_approval_record": "config/episodes/01-wifi-listening-approval.json"
+}

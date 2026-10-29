@@ -1,0 +1,1784 @@
+[
+  {
+    "id": "canh-01-01",
+    "scene": 1,
+    "from": 0,
+    "to": 19,
+    "text": "Mười năm đóng bảo hiểm xã hội, giờ ký một tờ đơn là cầm về một trăm bốn chục triệu.",
+    "keyword": "",
+    "ref": true,
+    "prompt": "Use case: object-removal inpainting. The one reference is the EDIT TARGET. Completely REMOVE THE ENTIRE CALCULATOR OBJECT from the lower right foreground, including every button, screen and all its shadows. Reconstruct clean uninterrupted natural wooden tabletop in the exact footprint where the calculator was. That place must be EMPTY TABLE, no replacement object, no keyboard, no machine, no calculator. Preserve every other object and exact people count, identity, faces, hairstyles, glasses, pen, clothing, hands, poses, helmet, teapot, ledger, lighting, warm flat2D illustration style and 16:9 framing. Preserve all blank pages and unprinted props. No text, glyphs, symbols, numbers, logos, signatures or watermarks anywhere. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "videos/13-luong-huu-bhxh/anh/nhap/base-01-v2-before-object-removal.png"
+    ],
+    "image": "anh/canh-01.png",
+    "selectedVersion": "v3"
+  },
+  {
+    "id": "canh-01-02",
+    "scene": 1,
+    "from": 20,
+    "to": 36,
+    "text": "Anh Tư chạy xe đầu hẻm đặt tờ đơn lên bàn trà nhà Bác, nói tỉnh queo:",
+    "keyword": "140 TRIỆU ĐỔI LẤY GÌ?",
+    "ref": true,
+    "prompt": "Flat 2D cartoon, thick outlines, warm colors,16:9. Use case: illustration-story. One fresh full-bleed landscape Vietnamese domestic story scene, not collage or character sheet. Exactly one person: Bac Sau, older Vietnamese man, grey side-part hair, dark rectangular glasses, beige plaid short sleeve shirt and brown trousers, one blue pen behind ear, red ledger. A blank unsigned white form beside a green helmet on a tea table. Elevated diagonal wide view. Reference sheets guide identity/style only. Natural anatomy, separate hands, collars and mask aligned with torso. Faces upper half, uncluttered lower quarter for subtitles. All paper, calendar, envelopes, cards, screens completely blank. Wooden tokens smooth, green rectangles without printing. Calculator keys/display completely blank. One blue pen behind Bac ear only; hands empty or touching objects, never holding a pen. No badge, lanyard, necklace, seals, text, letters, numbers, logos, watermarks. Calm thoughtful expressions. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png"
+    ],
+    "image": "anh/shots/canh-01-02.png"
+  },
+  {
+    "id": "canh-01-03",
+    "scene": 1,
+    "from": 37,
+    "to": 57,
+    "text": "\"Tiền của tui thì tui lấy về đổi chiếc xe, chứ để chờ tới sáu mươi hai tuổi chi cho lâu.\"",
+    "keyword": "",
+    "ref": true,
+    "prompt": "Flat 2D cartoon, thick outlines, warm colors,16:9. Use case: illustration-story. One fresh full-bleed landscape Vietnamese domestic story scene, not collage or character sheet. Exactly two people: Bac Sau older man with grey side-part hair, rectangular glasses, beige plaid short sleeve shirt, brown trousers, one blue pen behind ear; and Anh Tu tan man35, tousled black hair, olive green jacket over cream shirt, dark trousers, blue mask below chin. Never swap clothing/faces. A blank unsigned white form beside a green helmet on a tea table. Close waist-up view, natural clearly separated hands. Reference sheets guide identity/style only. Natural anatomy, separate hands, collars and mask aligned with torso. Faces upper half, uncluttered lower quarter for subtitles. All paper, calendar, envelopes, cards, screens completely blank. Wooden tokens smooth, green rectangles without printing. Calculator keys/display completely blank. One blue pen behind Bac ear only; hands empty or touching objects, never holding a pen. No badge, lanyard, necklace, seals, text, letters, numbers, logos, watermarks. Calm thoughtful expressions. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png",
+      "assets/nhan-vat/anh-tu.png"
+    ],
+    "image": "anh/shots/canh-01-03.png"
+  },
+  {
+    "id": "canh-01-04",
+    "scene": 1,
+    "from": 58,
+    "to": 71,
+    "text": "Khoan, đưa sổ đây Bác coi. Một trăm bốn chục triệu là tiền thật.",
+    "keyword": "KHOAN, COI SỔ ĐÃ",
+    "ref": false,
+    "prompt": "Flat 2D cartoon, thick outlines, warm colors,16:9. Use case: illustration-story. One fresh full-bleed landscape Vietnamese domestic story scene, not collage or character sheet. Objects only: no people, hands, arms, faces, bodies or silhouettes. A blank form and red ledger on the home tea table. Wide environmental view from opposite side of room. Reference sheets guide identity/style only. Natural anatomy, separate hands, collars and mask aligned with torso. Faces upper half, uncluttered lower quarter for subtitles. All paper, calendar, envelopes, cards, screens completely blank. Wooden tokens smooth, green rectangles without printing. Calculator keys/display completely blank. One blue pen behind Bac ear only; hands empty or touching objects, never holding a pen. No badge, lanyard, necklace, seals, text, letters, numbers, logos, watermarks. Calm thoughtful expressions. No text, letters, numbers, logos or watermarks.",
+    "refs": [],
+    "image": "anh/shots/canh-01-04.png"
+  },
+  {
+    "id": "canh-01-05",
+    "scene": 1,
+    "from": 72,
+    "to": 93,
+    "text": "Nhưng nó đổi lấy cái gì thì tờ đơn không ghi. Tới cuối cuốn sổ, bà con sẽ biết số tiền đó",
+    "keyword": "",
+    "ref": true,
+    "prompt": "Flat 2D cartoon, thick outlines, warm colors,16:9. Use case: illustration-story. One fresh full-bleed landscape Vietnamese domestic story scene, not collage or character sheet. Exactly one person: Bac Sau, older Vietnamese man, grey side-part hair, dark rectangular glasses, beige plaid short sleeve shirt and brown trousers, one blue pen behind ear, red ledger. A blank form and red ledger on the home tea table. Side view with foreground table edge and depth. Reference sheets guide identity/style only. Natural anatomy, separate hands, collars and mask aligned with torso. Faces upper half, uncluttered lower quarter for subtitles. All paper, calendar, envelopes, cards, screens completely blank. Wooden tokens smooth, green rectangles without printing. Calculator keys/display completely blank. One blue pen behind Bac ear only; hands empty or touching objects, never holding a pen. No badge, lanyard, necklace, seals, text, letters, numbers, logos, watermarks. Calm thoughtful expressions. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png"
+    ],
+    "image": "anh/shots/canh-01-05.png"
+  },
+  {
+    "id": "canh-01-06",
+    "scene": 1,
+    "from": 94,
+    "to": 114,
+    "text": "bằng mấy tháng lương hưu, và vì sao để yên trong hồ sơ thì anh Tư vẫn còn nguyên đường chọn.",
+    "keyword": "KHOAN, COI SỔ ĐÃ",
+    "ref": false,
+    "prompt": "Edit the first reference image only. Remove the blue ballpoint pen tucked behind Anh Tu's ear; reconstruct his natural black hair and ear underneath. The second image is an identity reference, not another person to add. Preserve everything else exactly: same man in olive jacket, pale blue mask under chin with thin WHITE ear loops, same pose, face, hands, props, furniture, background, warm2D illustration, full-bleed16:9. No pen anywhere on Anh Tu. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "videos/13-luong-huu-bhxh/anh/shots/nhap/canh-01-06-v1.png",
+      "assets/nhan-vat/anh-tu.png"
+    ],
+    "image": "anh/shots/canh-01-06-v2.png",
+    "selectedVersion": "v2",
+    "identityFix": "Removed unintended blue pen from Tu; rest preserved",
+    "referenceArchivedAfterEdit": true
+  },
+  {
+    "id": "canh-02-01",
+    "scene": 2,
+    "from": 0,
+    "to": 21,
+    "text": "Anh Tư năm nay ba mươi lăm tuổi. Từ năm hai ngàn mười lăm tới hết năm hai ngàn hai mươi bốn,",
+    "keyword": "",
+    "ref": true,
+    "prompt": "Use case: object-removal inpainting. The one reference is the EDIT TARGET. Completely REMOVE THE ENTIRE CALCULATOR OBJECT from the lower right foreground, including every button, screen and all its shadows. Reconstruct clean uninterrupted natural wooden tabletop in the exact footprint where the calculator was. That place must be EMPTY TABLE, no replacement object, no keyboard, no machine, no calculator. Preserve every other object and exact people count, identity, faces, hairstyles, glasses, pen, clothing, hands, poses, helmet, teapot, ledger, lighting, warm flat2D illustration style and 16:9 framing. Preserve all blank pages and unprinted props. No text, glyphs, symbols, numbers, logos, signatures or watermarks anywhere. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "videos/13-luong-huu-bhxh/anh/nhap/base-02-v2-before-object-removal.png"
+    ],
+    "image": "anh/canh-02.png",
+    "selectedVersion": "v3"
+  },
+  {
+    "id": "canh-02-02",
+    "scene": 2,
+    "from": 22,
+    "to": 36,
+    "text": "anh làm công nhân xưởng, đóng bảo hiểm xã hội bắt buộc đủ mười năm.",
+    "keyword": "CÓ ĐỦ ĐIỀU KIỆN?",
+    "ref": true,
+    "prompt": "Flat 2D cartoon, thick outlines, warm colors,16:9. Use case: illustration-story. One fresh full-bleed landscape Vietnamese domestic story scene, not collage or character sheet. Exactly one person: Bac Sau, older Vietnamese man, grey side-part hair, dark rectangular glasses, beige plaid short sleeve shirt and brown trousers, one blue pen behind ear, red ledger. A plain folder and blank calendar on a home table, warm workshop memories in background. Elevated diagonal wide view. Reference sheets guide identity/style only. Natural anatomy, separate hands, collars and mask aligned with torso. Faces upper half, uncluttered lower quarter for subtitles. All paper, calendar, envelopes, cards, screens completely blank. Wooden tokens smooth, green rectangles without printing. Calculator keys/display completely blank. One blue pen behind Bac ear only; hands empty or touching objects, never holding a pen. No badge, lanyard, necklace, seals, text, letters, numbers, logos, watermarks. Calm thoughtful expressions. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png"
+    ],
+    "image": "anh/shots/canh-02-02.png"
+  },
+  {
+    "id": "canh-02-03",
+    "scene": 2,
+    "from": 37,
+    "to": 52,
+    "text": "Qua năm hai ngàn hai mươi lăm anh nghỉ xưởng, ra chạy xe, không đóng nữa.",
+    "keyword": "",
+    "ref": true,
+    "prompt": "Flat 2D cartoon, thick outlines, warm colors,16:9. Use case: illustration-story. One fresh full-bleed landscape Vietnamese domestic story scene, not collage or character sheet. Exactly two people: Bac Sau older man with grey side-part hair, rectangular glasses, beige plaid short sleeve shirt, brown trousers, one blue pen behind ear; and Anh Tu tan man35, tousled black hair, olive green jacket over cream shirt, dark trousers, blue mask below chin. Never swap clothing/faces. A plain folder and blank calendar on a home table, warm workshop memories in background. Close waist-up view, natural clearly separated hands. Reference sheets guide identity/style only. Natural anatomy, separate hands, collars and mask aligned with torso. Faces upper half, uncluttered lower quarter for subtitles. All paper, calendar, envelopes, cards, screens completely blank. Wooden tokens smooth, green rectangles without printing. Calculator keys/display completely blank. One blue pen behind Bac ear only; hands empty or touching objects, never holding a pen. No badge, lanyard, necklace, seals, text, letters, numbers, logos, watermarks. Calm thoughtful expressions. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png",
+      "assets/nhan-vat/anh-tu.png"
+    ],
+    "image": "anh/shots/canh-02-03.png"
+  },
+  {
+    "id": "canh-02-04",
+    "scene": 2,
+    "from": 53,
+    "to": 69,
+    "text": "Anh có được rút không? Theo Luật Bảo hiểm xã hội năm hai ngàn hai mươi bốn,",
+    "keyword": "CÓ ĐỦ ĐIỀU KIỆN?",
+    "ref": false,
+    "prompt": "Flat 2D cartoon, thick outlines, warm colors,16:9. Use case: illustration-story. One fresh full-bleed landscape Vietnamese domestic story scene, not collage or character sheet. Objects only: no people, hands, arms, faces, bodies or silhouettes. A plain folder and blank calendar on a home table, warm workshop memories in background. Wide environmental view from opposite side of room. Reference sheets guide identity/style only. Natural anatomy, separate hands, collars and mask aligned with torso. Faces upper half, uncluttered lower quarter for subtitles. All paper, calendar, envelopes, cards, screens completely blank. Wooden tokens smooth, green rectangles without printing. Calculator keys/display completely blank. One blue pen behind Bac ear only; hands empty or touching objects, never holding a pen. No badge, lanyard, necklace, seals, text, letters, numbers, logos, watermarks. Calm thoughtful expressions. No text, letters, numbers, logos or watermarks.",
+    "refs": [],
+    "image": "anh/shots/canh-02-04.png"
+  },
+  {
+    "id": "canh-02-05",
+    "scene": 2,
+    "from": 70,
+    "to": 92,
+    "text": "có hiệu lực từ ngày một tháng bảy năm hai ngàn hai mươi lăm, người đã có thời gian đóng trước ngày đó,",
+    "keyword": "",
+    "ref": true,
+    "prompt": "Flat 2D cartoon, thick outlines, warm colors,16:9. Use case: illustration-story. One fresh full-bleed landscape Vietnamese domestic story scene, not collage or character sheet. Exactly one person: Bac Sau, older Vietnamese man, grey side-part hair, dark rectangular glasses, beige plaid short sleeve shirt and brown trousers, one blue pen behind ear, red ledger. A plain folder and blank calendar on a home table, warm workshop memories in background. Side view with foreground table edge and depth. Reference sheets guide identity/style only. Natural anatomy, separate hands, collars and mask aligned with torso. Faces upper half, uncluttered lower quarter for subtitles. All paper, calendar, envelopes, cards, screens completely blank. Wooden tokens smooth, green rectangles without printing. Calculator keys/display completely blank. One blue pen behind Bac ear only; hands empty or touching objects, never holding a pen. No badge, lanyard, necklace, seals, text, letters, numbers, logos, watermarks. Calm thoughtful expressions. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png"
+    ],
+    "image": "anh/shots/canh-02-05.png"
+  },
+  {
+    "id": "canh-02-06",
+    "scene": 2,
+    "from": 93,
+    "to": 108,
+    "text": "sau mười hai tháng không thuộc diện đóng bắt buộc mà cũng không đóng tự nguyện,",
+    "keyword": "CÓ ĐỦ ĐIỀU KIỆN?",
+    "ref": false,
+    "prompt": "Edit the first reference image only. Remove the blue ballpoint pen tucked behind Anh Tu's ear; reconstruct his natural black hair and ear underneath. The second image is an identity reference, not another person to add. Preserve everything else exactly: same man in olive jacket, pale blue mask under chin with thin WHITE ear loops, same pose, face, hands, props, furniture, background, warm2D illustration, full-bleed16:9. No pen anywhere on Anh Tu. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "videos/13-luong-huu-bhxh/anh/shots/nhap/canh-02-06-v1.png",
+      "assets/nhan-vat/anh-tu.png"
+    ],
+    "image": "anh/shots/canh-02-06-v2.png",
+    "selectedVersion": "v2",
+    "identityFix": "Removed unintended blue pen from Tu; rest preserved",
+    "referenceArchivedAfterEdit": true
+  },
+  {
+    "id": "canh-02-07",
+    "scene": 2,
+    "from": 109,
+    "to": 127,
+    "text": "và đóng chưa đủ hai mươi năm, thì được đề nghị hưởng một lần. Anh Tư đóng từ trước,",
+    "keyword": "",
+    "ref": true,
+    "prompt": "Flat 2D cartoon, thick outlines, warm colors,16:9. Use case: illustration-story. One fresh full-bleed landscape Vietnamese domestic story scene, not collage or character sheet. Exactly two people: Bac Sau older man with grey side-part hair, rectangular glasses, beige plaid short sleeve shirt, brown trousers, one blue pen behind ear; and Anh Tu tan man35, tousled black hair, olive green jacket over cream shirt, dark trousers, blue mask below chin. Never swap clothing/faces. A plain folder and blank calendar on a home table, warm workshop memories in background. Oblique overhead perspective towards the table. Reference sheets guide identity/style only. Natural anatomy, separate hands, collars and mask aligned with torso. Faces upper half, uncluttered lower quarter for subtitles. All paper, calendar, envelopes, cards, screens completely blank. Wooden tokens smooth, green rectangles without printing. Calculator keys/display completely blank. One blue pen behind Bac ear only; hands empty or touching objects, never holding a pen. No badge, lanyard, necklace, seals, text, letters, numbers, logos, watermarks. Calm thoughtful expressions. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png",
+      "assets/nhan-vat/anh-tu.png"
+    ],
+    "image": "anh/shots/canh-02-07.png"
+  },
+  {
+    "id": "canh-02-08",
+    "scene": 2,
+    "from": 128,
+    "to": 141,
+    "text": "nghỉ đã hơn mười hai tháng, mới mười năm. Vậy là đủ điều kiện.",
+    "keyword": "CÓ ĐỦ ĐIỀU KIỆN?",
+    "ref": false,
+    "prompt": "Flat 2D cartoon, thick outlines, warm colors,16:9. Use case: illustration-story. One fresh full-bleed landscape Vietnamese domestic story scene, not collage or character sheet. Objects only: no people, hands, arms, faces, bodies or silhouettes. A plain folder and blank calendar on a home table, warm workshop memories in background. View through an open home doorway. Reference sheets guide identity/style only. Natural anatomy, separate hands, collars and mask aligned with torso. Faces upper half, uncluttered lower quarter for subtitles. All paper, calendar, envelopes, cards, screens completely blank. Wooden tokens smooth, green rectangles without printing. Calculator keys/display completely blank. One blue pen behind Bac ear only; hands empty or touching objects, never holding a pen. No badge, lanyard, necklace, seals, text, letters, numbers, logos, watermarks. Calm thoughtful expressions. No text, letters, numbers, logos or watermarks.",
+    "refs": [],
+    "image": "anh/shots/canh-02-08.png"
+  },
+  {
+    "id": "canh-02-09",
+    "scene": 2,
+    "from": 142,
+    "to": 165,
+    "text": "Còn người mới bắt đầu đóng từ ngày một tháng bảy năm hai ngàn hai mươi lăm trở đi thì không có đường này,",
+    "keyword": "",
+    "ref": false,
+    "prompt": "Edit the first reference image only. Remove the blue ballpoint pen tucked behind Anh Tu's ear; reconstruct his natural black hair and ear underneath. The second image is an identity reference, not another person to add. Preserve everything else exactly: same man in olive jacket, pale blue mask under chin with thin WHITE ear loops, same pose, face, hands, props, furniture, background, warm2D illustration, full-bleed16:9. No pen anywhere on Anh Tu. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "videos/13-luong-huu-bhxh/anh/shots/nhap/canh-02-09-v1.png",
+      "assets/nhan-vat/anh-tu.png"
+    ],
+    "image": "anh/shots/canh-02-09-v2.png",
+    "selectedVersion": "v2",
+    "identityFix": "Removed unintended blue pen from Tu; rest preserved",
+    "referenceArchivedAfterEdit": true
+  },
+  {
+    "id": "canh-02-10",
+    "scene": 2,
+    "from": 166,
+    "to": 175,
+    "text": "trừ mấy trường hợp luật kể riêng. Bác nói rõ:",
+    "keyword": "BÌNH QUÂN LÀ GIẢ ĐỊNH",
+    "ref": true,
+    "prompt": "Flat 2D cartoon, thick outlines, warm colors,16:9. Use case: illustration-story. One fresh full-bleed landscape Vietnamese domestic story scene, not collage or character sheet. Exactly one person: Bac Sau, older Vietnamese man, grey side-part hair, dark rectangular glasses, beige plaid short sleeve shirt and brown trousers, one blue pen behind ear, red ledger. A blank open red ledger and smooth green paper tokens on the tea table. Elevated diagonal wide view. Reference sheets guide identity/style only. Natural anatomy, separate hands, collars and mask aligned with torso. Faces upper half, uncluttered lower quarter for subtitles. All paper, calendar, envelopes, cards, screens completely blank. Wooden tokens smooth, green rectangles without printing. Calculator keys/display completely blank. One blue pen behind Bac ear only; hands empty or touching objects, never holding a pen. No badge, lanyard, necklace, seals, text, letters, numbers, logos, watermarks. Calm thoughtful expressions. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png"
+    ],
+    "image": "anh/shots/canh-02-10.png"
+  },
+  {
+    "id": "canh-02-11",
+    "scene": 2,
+    "from": 176,
+    "to": 195,
+    "text": "anh Tư là nhân vật Bác dựng để tính, không phải hồ sơ có thật. Bác giả định bình quân",
+    "keyword": "",
+    "ref": true,
+    "prompt": "Use case: object-removal inpainting. The one reference is the EDIT TARGET. Completely REMOVE THE ENTIRE CALCULATOR OBJECT from the lower right foreground, including every button, screen and all its shadows. Reconstruct clean uninterrupted natural wooden tabletop in the exact footprint where the calculator was. That place must be EMPTY TABLE, no replacement object, no keyboard, no machine, no calculator. Preserve every other object and exact people count, identity, faces, hairstyles, glasses, pen, clothing, hands, poses, helmet, teapot, ledger, lighting, warm flat2D illustration style and 16:9 framing. Preserve all blank pages and unprinted props. No text, glyphs, symbols, numbers, logos, signatures or watermarks anywhere. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "videos/13-luong-huu-bhxh/anh/shots/nhap/canh-02-11-v2-before-object-removal.png"
+    ],
+    "image": "anh/shots/canh-02-11-v3.png",
+    "selectedVersion": "v3"
+  },
+  {
+    "id": "canh-02-12",
+    "scene": 2,
+    "from": 196,
+    "to": 214,
+    "text": "tiền lương đóng của anh là bảy triệu một tháng, quy về sức mua hôm nay cho dễ so.",
+    "keyword": "BÌNH QUÂN LÀ GIẢ ĐỊNH",
+    "ref": false,
+    "prompt": "Flat 2D cartoon, thick outlines, warm colors,16:9. Use case: illustration-story. One fresh full-bleed landscape Vietnamese domestic story scene, not collage or character sheet. Objects only: no people, hands, arms, faces, bodies or silhouettes. A blank open red ledger and smooth green paper tokens on the tea table. Wide environmental view from opposite side of room. Reference sheets guide identity/style only. Natural anatomy, separate hands, collars and mask aligned with torso. Faces upper half, uncluttered lower quarter for subtitles. All paper, calendar, envelopes, cards, screens completely blank. Wooden tokens smooth, green rectangles without printing. Calculator keys/display completely blank. One blue pen behind Bac ear only; hands empty or touching objects, never holding a pen. No badge, lanyard, necklace, seals, text, letters, numbers, logos, watermarks. Calm thoughtful expressions. No text, letters, numbers, logos or watermarks.",
+    "refs": [],
+    "image": "anh/shots/canh-02-12.png"
+  },
+  {
+    "id": "canh-02-13",
+    "scene": 2,
+    "from": 215,
+    "to": 227,
+    "text": "Con số của mỗi người phải tra đúng quá trình đóng của mình.",
+    "keyword": "",
+    "ref": true,
+    "prompt": "Use case: object-removal inpainting. The one reference is the EDIT TARGET. Completely REMOVE THE ENTIRE CALCULATOR OBJECT from the lower right foreground, including every button, screen and all its shadows. Reconstruct clean uninterrupted natural wooden tabletop in the exact footprint where the calculator was. That place must be EMPTY TABLE, no replacement object, no keyboard, no machine, no calculator. Preserve every other object and exact people count, identity, faces, hairstyles, glasses, pen, clothing, hands, poses, helmet, teapot, ledger, lighting, warm flat2D illustration style and 16:9 framing. Preserve all blank pages and unprinted props. No text, glyphs, symbols, numbers, logos, signatures or watermarks anywhere. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "videos/13-luong-huu-bhxh/anh/shots/nhap/canh-02-13-v2-before-object-removal.png"
+    ],
+    "image": "anh/shots/canh-02-13-v3.png",
+    "selectedVersion": "v3"
+  },
+  {
+    "id": "canh-02-14",
+    "scene": 2,
+    "from": 228,
+    "to": 246,
+    "text": "Mức rút tính sao? Mỗi năm đóng từ năm hai ngàn mười bốn trở đi được hai tháng bình",
+    "keyword": "BÌNH QUÂN LÀ GIẢ ĐỊNH",
+    "ref": false,
+    "prompt": "Edit the first reference image only. Remove the blue ballpoint pen tucked behind Anh Tu's ear; reconstruct his natural black hair and ear underneath. The second image is an identity reference, not another person to add. Preserve everything else exactly: same man in olive jacket, pale blue mask under chin with thin WHITE ear loops, same pose, face, hands, props, furniture, background, warm2D illustration, full-bleed16:9. No pen anywhere on Anh Tu. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "videos/13-luong-huu-bhxh/anh/shots/nhap/canh-02-14-v1.png",
+      "assets/nhan-vat/anh-tu.png"
+    ],
+    "image": "anh/shots/canh-02-14-v2.png",
+    "selectedVersion": "v2",
+    "identityFix": "Removed unintended blue pen from Tu; rest preserved",
+    "referenceArchivedAfterEdit": true
+  },
+  {
+    "id": "canh-02-15",
+    "scene": 2,
+    "from": 247,
+    "to": 261,
+    "text": "quân tiền lương. Mười năm là hai mươi tháng. Hai mươi tháng nhân bảy triệu,",
+    "keyword": "",
+    "ref": true,
+    "prompt": "Flat 2D cartoon, thick outlines, warm colors,16:9. Use case: illustration-story. One fresh full-bleed landscape Vietnamese domestic story scene, not collage or character sheet. Exactly two people: Bac Sau older man with grey side-part hair, rectangular glasses, beige plaid short sleeve shirt, brown trousers, one blue pen behind ear; and Anh Tu tan man35, tousled black hair, olive green jacket over cream shirt, dark trousers, blue mask below chin. Never swap clothing/faces. A blank open red ledger and smooth green paper tokens on the tea table. Oblique overhead perspective towards the table. Reference sheets guide identity/style only. Natural anatomy, separate hands, collars and mask aligned with torso. Faces upper half, uncluttered lower quarter for subtitles. All paper, calendar, envelopes, cards, screens completely blank. Wooden tokens smooth, green rectangles without printing. Calculator keys/display completely blank. One blue pen behind Bac ear only; hands empty or touching objects, never holding a pen. No badge, lanyard, necklace, seals, text, letters, numbers, logos, watermarks. Calm thoughtful expressions. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png",
+      "assets/nhan-vat/anh-tu.png"
+    ],
+    "image": "anh/shots/canh-02-15.png"
+  },
+  {
+    "id": "canh-02-16",
+    "scene": 2,
+    "from": 262,
+    "to": 279,
+    "text": "ra một trăm bốn chục triệu. Con số của anh Tư đúng là một trăm bốn chục triệu.",
+    "keyword": "BÌNH QUÂN LÀ GIẢ ĐỊNH",
+    "ref": false,
+    "prompt": "Flat 2D cartoon, thick outlines, warm colors,16:9. Use case: illustration-story. One fresh full-bleed landscape Vietnamese domestic story scene, not collage or character sheet. Objects only: no people, hands, arms, faces, bodies or silhouettes. A blank open red ledger and smooth green paper tokens on the tea table. View through an open home doorway. Reference sheets guide identity/style only. Natural anatomy, separate hands, collars and mask aligned with torso. Faces upper half, uncluttered lower quarter for subtitles. All paper, calendar, envelopes, cards, screens completely blank. Wooden tokens smooth, green rectangles without printing. Calculator keys/display completely blank. One blue pen behind Bac ear only; hands empty or touching objects, never holding a pen. No badge, lanyard, necklace, seals, text, letters, numbers, logos, watermarks. Calm thoughtful expressions. No text, letters, numbers, logos or watermarks.",
+    "refs": [],
+    "image": "anh/shots/canh-02-16.png"
+  },
+  {
+    "id": "canh-03-01",
+    "scene": 3,
+    "from": 0,
+    "to": 18,
+    "text": "Muốn biết rút một trăm bốn chục triệu là lời hay lỗ, phải coi mười năm qua đã bỏ",
+    "keyword": "",
+    "ref": true,
+    "prompt": "Flat 2D cartoon, thick outlines, warm colors, 16:9. [Reference: Bác Sáu character sheet] Overhead view of the tea table: one small stack and one larger stack of plain unmarked green paper rectangles, a blank envelope beside them, Bac Sau's hand pointing his blue pen between the stacks, red ledger open with blank pages. Plain props without any printed markings, blank currency-like paper not actual banknotes, no logos. No text, letters, numbers, logos or watermarks. One complete edge-to-edge scene, no panels. Keep faces above center; lower quarter uncluttered for subtitles. Calculator has entirely blank keys and display. Blue pen only once, either behind Bac ear or in his hand. Clothing and necklines consistent with torso; no lanyard/badge. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png"
+    ],
+    "image": "anh/canh-03.png"
+  },
+  {
+    "id": "canh-03-02",
+    "scene": 3,
+    "from": 19,
+    "to": 30,
+    "text": "vô bao nhiêu. Phần hưu trí và tử tuất, mỗi tháng anh",
+    "keyword": "CÁ NHÂN VÀ CÔNG TY",
+    "ref": true,
+    "prompt": "Flat 2D cartoon, thick outlines, warm colors,16:9. Use case: illustration-story. One fresh full-bleed landscape Vietnamese domestic story scene, not collage or character sheet. Exactly one person: Bac Sau, older Vietnamese man, grey side-part hair, dark rectangular glasses, beige plaid short sleeve shirt and brown trousers, one blue pen behind ear, red ledger. Two stacks of plain green paper rectangles, one smaller, beside a closed wallet. Elevated diagonal wide view. Reference sheets guide identity/style only. Natural anatomy, separate hands, collars and mask aligned with torso. Faces upper half, uncluttered lower quarter for subtitles. All paper, calendar, envelopes, cards, screens completely blank. Wooden tokens smooth, green rectangles without printing. Calculator keys/display completely blank. One blue pen behind Bac ear only; hands empty or touching objects, never holding a pen. No badge, lanyard, necklace, seals, text, letters, numbers, logos, watermarks. Calm thoughtful expressions. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png"
+    ],
+    "image": "anh/shots/canh-03-02.png"
+  },
+  {
+    "id": "canh-03-03",
+    "scene": 3,
+    "from": 31,
+    "to": 45,
+    "text": "Tư đóng tám phần trăm tiền lương, công ty đóng thêm mười bốn phần trăm.",
+    "keyword": "",
+    "ref": true,
+    "prompt": "Flat 2D cartoon, thick outlines, warm colors,16:9. Use case: illustration-story. One fresh full-bleed landscape Vietnamese domestic story scene, not collage or character sheet. Exactly two people: Bac Sau older man with grey side-part hair, rectangular glasses, beige plaid short sleeve shirt, brown trousers, one blue pen behind ear; and Anh Tu tan man35, tousled black hair, olive green jacket over cream shirt, dark trousers, blue mask below chin. Never swap clothing/faces. Two stacks of plain green paper rectangles, one smaller, beside a closed wallet. Close waist-up view, natural clearly separated hands. Reference sheets guide identity/style only. Natural anatomy, separate hands, collars and mask aligned with torso. Faces upper half, uncluttered lower quarter for subtitles. All paper, calendar, envelopes, cards, screens completely blank. Wooden tokens smooth, green rectangles without printing. Calculator keys/display completely blank. One blue pen behind Bac ear only; hands empty or touching objects, never holding a pen. No badge, lanyard, necklace, seals, text, letters, numbers, logos, watermarks. Calm thoughtful expressions. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png",
+      "assets/nhan-vat/anh-tu.png"
+    ],
+    "image": "anh/shots/canh-03-03.png"
+  },
+  {
+    "id": "canh-03-04",
+    "scene": 3,
+    "from": 46,
+    "to": 65,
+    "text": "Tám phần trăm của bảy triệu, nhân một trăm hai chục tháng, ra sáu mươi bảy triệu hai trăm ngàn.",
+    "keyword": "CÁ NHÂN VÀ CÔNG TY",
+    "ref": false,
+    "prompt": "Flat 2D cartoon, thick outlines, warm colors,16:9. Use case: illustration-story. One fresh full-bleed landscape Vietnamese domestic story scene, not collage or character sheet. Objects only: no people, hands, arms, faces, bodies or silhouettes. Two stacks of plain green paper rectangles, one smaller, beside a closed wallet. Wide environmental view from opposite side of room. Reference sheets guide identity/style only. Natural anatomy, separate hands, collars and mask aligned with torso. Faces upper half, uncluttered lower quarter for subtitles. All paper, calendar, envelopes, cards, screens completely blank. Wooden tokens smooth, green rectangles without printing. Calculator keys/display completely blank. One blue pen behind Bac ear only; hands empty or touching objects, never holding a pen. No badge, lanyard, necklace, seals, text, letters, numbers, logos, watermarks. Calm thoughtful expressions. No text, letters, numbers, logos or watermarks.",
+    "refs": [],
+    "image": "anh/shots/canh-03-04.png"
+  },
+  {
+    "id": "canh-03-05",
+    "scene": 3,
+    "from": 66,
+    "to": 85,
+    "text": "Đó là phần trừ vô lương anh. Phần công ty đóng là một trăm mười bảy triệu sáu trăm ngàn.",
+    "keyword": "",
+    "ref": true,
+    "prompt": "Flat 2D cartoon, thick outlines, warm colors,16:9. Use case: illustration-story. One fresh full-bleed landscape Vietnamese domestic story scene, not collage or character sheet. Exactly one person: Bac Sau, older Vietnamese man, grey side-part hair, dark rectangular glasses, beige plaid short sleeve shirt and brown trousers, one blue pen behind ear, red ledger. Two stacks of plain green paper rectangles, one smaller, beside a closed wallet. Side view with foreground table edge and depth. Reference sheets guide identity/style only. Natural anatomy, separate hands, collars and mask aligned with torso. Faces upper half, uncluttered lower quarter for subtitles. All paper, calendar, envelopes, cards, screens completely blank. Wooden tokens smooth, green rectangles without printing. Calculator keys/display completely blank. One blue pen behind Bac ear only; hands empty or touching objects, never holding a pen. No badge, lanyard, necklace, seals, text, letters, numbers, logos, watermarks. Calm thoughtful expressions. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png"
+    ],
+    "image": "anh/shots/canh-03-05.png"
+  },
+  {
+    "id": "canh-03-06",
+    "scene": 3,
+    "from": 86,
+    "to": 106,
+    "text": "Cộng lại, mười năm đã có một trăm tám mươi bốn triệu tám trăm ngàn chảy vô quỹ hưu trí của",
+    "keyword": "CÁ NHÂN VÀ CÔNG TY",
+    "ref": false,
+    "prompt": "Edit the first reference image only. Remove the blue ballpoint pen tucked behind Anh Tu's ear; reconstruct his natural black hair and ear underneath. The second image is an identity reference, not another person to add. Preserve everything else exactly: same man in olive jacket, pale blue mask under chin with thin WHITE ear loops, same pose, face, hands, props, furniture, background, warm2D illustration, full-bleed16:9. No pen anywhere on Anh Tu. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "videos/13-luong-huu-bhxh/anh/shots/nhap/canh-03-06-v1.png",
+      "assets/nhan-vat/anh-tu.png"
+    ],
+    "image": "anh/shots/canh-03-06-v2.png",
+    "selectedVersion": "v2",
+    "identityFix": "Removed unintended blue pen from Tu; rest preserved",
+    "referenceArchivedAfterEdit": true
+  },
+  {
+    "id": "canh-03-07",
+    "scene": 3,
+    "from": 107,
+    "to": 118,
+    "text": "anh. Giờ đặt cạnh nhau. Rút về một trăm bốn chục triệu,",
+    "keyword": "",
+    "ref": true,
+    "prompt": "Flat 2D cartoon, thick outlines, warm colors,16:9. Use case: illustration-story. One fresh full-bleed landscape Vietnamese domestic story scene, not collage or character sheet. Exactly two people: Bac Sau older man with grey side-part hair, rectangular glasses, beige plaid short sleeve shirt, brown trousers, one blue pen behind ear; and Anh Tu tan man35, tousled black hair, olive green jacket over cream shirt, dark trousers, blue mask below chin. Never swap clothing/faces. Two stacks of plain green paper rectangles, one smaller, beside a closed wallet. Oblique overhead perspective towards the table. Reference sheets guide identity/style only. Natural anatomy, separate hands, collars and mask aligned with torso. Faces upper half, uncluttered lower quarter for subtitles. All paper, calendar, envelopes, cards, screens completely blank. Wooden tokens smooth, green rectangles without printing. Calculator keys/display completely blank. One blue pen behind Bac ear only; hands empty or touching objects, never holding a pen. No badge, lanyard, necklace, seals, text, letters, numbers, logos, watermarks. Calm thoughtful expressions. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png",
+      "assets/nhan-vat/anh-tu.png"
+    ],
+    "image": "anh/shots/canh-03-07.png"
+  },
+  {
+    "id": "canh-03-08",
+    "scene": 3,
+    "from": 119,
+    "to": 132,
+    "text": "gấp hơn hai lần phần anh tự đóng. Nhìn vậy anh Tư khoái lắm.",
+    "keyword": "CÁ NHÂN VÀ CÔNG TY",
+    "ref": false,
+    "prompt": "Flat 2D cartoon, thick outlines, warm colors,16:9. Use case: illustration-story. One fresh full-bleed landscape Vietnamese domestic story scene, not collage or character sheet. Objects only: no people, hands, arms, faces, bodies or silhouettes. Two stacks of plain green paper rectangles, one smaller, beside a closed wallet. View through an open home doorway. Reference sheets guide identity/style only. Natural anatomy, separate hands, collars and mask aligned with torso. Faces upper half, uncluttered lower quarter for subtitles. All paper, calendar, envelopes, cards, screens completely blank. Wooden tokens smooth, green rectangles without printing. Calculator keys/display completely blank. One blue pen behind Bac ear only; hands empty or touching objects, never holding a pen. No badge, lanyard, necklace, seals, text, letters, numbers, logos, watermarks. Calm thoughtful expressions. No text, letters, numbers, logos or watermarks.",
+    "refs": [],
+    "image": "anh/shots/canh-03-08.png"
+  },
+  {
+    "id": "canh-03-09",
+    "scene": 3,
+    "from": 133,
+    "to": 153,
+    "text": "Nhưng so với tổng tiền đã vô quỹ, một trăm bốn chục triệu chỉ bằng khoảng bảy mươi sáu phần trăm.",
+    "keyword": "",
+    "ref": false,
+    "prompt": "Edit the first reference image only. Remove the blue ballpoint pen tucked behind Anh Tu's ear; reconstruct his natural black hair and ear underneath. The second image is an identity reference, not another person to add. Preserve everything else exactly: same man in olive jacket, pale blue mask under chin with thin WHITE ear loops, same pose, face, hands, props, furniture, background, warm2D illustration, full-bleed16:9. No pen anywhere on Anh Tu. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "videos/13-luong-huu-bhxh/anh/shots/nhap/canh-03-09-v1.png",
+      "assets/nhan-vat/anh-tu.png"
+    ],
+    "image": "anh/shots/canh-03-09-v2.png",
+    "selectedVersion": "v2",
+    "identityFix": "Removed unintended blue pen from Tu; rest preserved",
+    "referenceArchivedAfterEdit": true
+  },
+  {
+    "id": "canh-03-10",
+    "scene": 3,
+    "from": 154,
+    "to": 169,
+    "text": "Gần một phần tư số đã đóng, anh để lại. Mà cái mất lớn nhất không",
+    "keyword": "NĂM ĐÃ RÚT KHÔNG TÍNH",
+    "ref": true,
+    "prompt": "Flat 2D cartoon, thick outlines, warm colors,16:9. Use case: illustration-story. One fresh full-bleed landscape Vietnamese domestic story scene, not collage or character sheet. Exactly one person: Bac Sau, older Vietnamese man, grey side-part hair, dark rectangular glasses, beige plaid short sleeve shirt and brown trousers, one blue pen behind ear, red ledger. A plain envelope next to a larger blank envelope on the tea table. Elevated diagonal wide view. Reference sheets guide identity/style only. Natural anatomy, separate hands, collars and mask aligned with torso. Faces upper half, uncluttered lower quarter for subtitles. All paper, calendar, envelopes, cards, screens completely blank. Wooden tokens smooth, green rectangles without printing. Calculator keys/display completely blank. One blue pen behind Bac ear only; hands empty or touching objects, never holding a pen. No badge, lanyard, necklace, seals, text, letters, numbers, logos, watermarks. Calm thoughtful expressions. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png"
+    ],
+    "image": "anh/shots/canh-03-10.png"
+  },
+  {
+    "id": "canh-03-11",
+    "scene": 3,
+    "from": 170,
+    "to": 186,
+    "text": "nằm ở chỗ đó. Ký đơn rút xong, mười năm đó đã được giải quyết một lần,",
+    "keyword": "",
+    "ref": true,
+    "prompt": "Flat 2D cartoon, thick outlines, warm colors,16:9. Use case: illustration-story. One fresh full-bleed landscape Vietnamese domestic story scene, not collage or character sheet. Exactly two people: Bac Sau older man with grey side-part hair, rectangular glasses, beige plaid short sleeve shirt, brown trousers, one blue pen behind ear; and Anh Tu tan man35, tousled black hair, olive green jacket over cream shirt, dark trousers, blue mask below chin. Never swap clothing/faces. A plain envelope next to a larger blank envelope on the tea table. Close waist-up view, natural clearly separated hands. Reference sheets guide identity/style only. Natural anatomy, separate hands, collars and mask aligned with torso. Faces upper half, uncluttered lower quarter for subtitles. All paper, calendar, envelopes, cards, screens completely blank. Wooden tokens smooth, green rectangles without printing. Calculator keys/display completely blank. One blue pen behind Bac ear only; hands empty or touching objects, never holding a pen. No badge, lanyard, necklace, seals, text, letters, numbers, logos, watermarks. Calm thoughtful expressions. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png",
+      "assets/nhan-vat/anh-tu.png"
+    ],
+    "image": "anh/shots/canh-03-11.png"
+  },
+  {
+    "id": "canh-03-12",
+    "scene": 3,
+    "from": 187,
+    "to": 203,
+    "text": "không còn được cộng vô để tính lương hưu nữa. Sau này anh đi làm, đóng lại,",
+    "keyword": "NĂM ĐÃ RÚT KHÔNG TÍNH",
+    "ref": false,
+    "prompt": "Flat 2D cartoon, thick outlines, warm colors,16:9. Use case: illustration-story. One fresh full-bleed landscape Vietnamese domestic story scene, not collage or character sheet. Objects only: no people, hands, arms, faces, bodies or silhouettes. A plain envelope next to a larger blank envelope on the tea table. Wide environmental view from opposite side of room. Reference sheets guide identity/style only. Natural anatomy, separate hands, collars and mask aligned with torso. Faces upper half, uncluttered lower quarter for subtitles. All paper, calendar, envelopes, cards, screens completely blank. Wooden tokens smooth, green rectangles without printing. Calculator keys/display completely blank. One blue pen behind Bac ear only; hands empty or touching objects, never holding a pen. No badge, lanyard, necklace, seals, text, letters, numbers, logos, watermarks. Calm thoughtful expressions. No text, letters, numbers, logos or watermarks.",
+    "refs": [],
+    "image": "anh/shots/canh-03-12.png"
+  },
+  {
+    "id": "canh-03-13",
+    "scene": 3,
+    "from": 204,
+    "to": 222,
+    "text": "thì thời gian tính hưu bắt đầu lại từ đầu. Mười năm đó là mười năm đi làm thật,",
+    "keyword": "",
+    "ref": true,
+    "prompt": "Use case: object-removal inpainting. The one reference is the EDIT TARGET. Completely REMOVE THE ENTIRE CALCULATOR OBJECT from the lower right foreground, including every button, screen and all its shadows. Reconstruct clean uninterrupted natural wooden tabletop in the exact footprint where the calculator was. That place must be EMPTY TABLE, no replacement object, no keyboard, no machine, no calculator. Preserve every other object and exact people count, identity, faces, hairstyles, glasses, pen, clothing, hands, poses, helmet, teapot, ledger, lighting, warm flat2D illustration style and 16:9 framing. Preserve all blank pages and unprinted props. No text, glyphs, symbols, numbers, logos, signatures or watermarks anywhere. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "videos/13-luong-huu-bhxh/anh/shots/nhap/canh-03-13-v2-before-object-removal.png"
+    ],
+    "image": "anh/shots/canh-03-13-v3.png",
+    "selectedVersion": "v3"
+  },
+  {
+    "id": "canh-03-14",
+    "scene": 3,
+    "from": 223,
+    "to": 236,
+    "text": "đổ mồ hôi thật, không mua lại được bằng tiền. Anh Tư gãi đầu:",
+    "keyword": "NĂM ĐÃ RÚT KHÔNG TÍNH",
+    "ref": false,
+    "prompt": "Flat 2D cartoon, thick outlines, warm colors,16:9. Use case: illustration-story. One fresh full-bleed landscape Vietnamese domestic story scene, not collage or character sheet. Exactly one person: Anh Tu, tan Vietnamese man35, tousled short black hair, plain olive green jacket over cream shirt, dark trousers, pale blue mask below chin, no glasses. Green helmet resting nearby. A plain envelope next to a larger blank envelope on the tea table. Balanced frontal medium composition. Reference sheets guide identity/style only. Natural anatomy, separate hands, collars and mask aligned with torso. Faces upper half, uncluttered lower quarter for subtitles. All paper, calendar, envelopes, cards, screens completely blank. Wooden tokens smooth, green rectangles without printing. Calculator keys/display completely blank. One blue pen behind Bac ear only; hands empty or touching objects, never holding a pen. No badge, lanyard, necklace, seals, text, letters, numbers, logos, watermarks. Calm thoughtful expressions. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "assets/nhan-vat/anh-tu.png"
+    ],
+    "image": "anh/shots/canh-03-14.png"
+  },
+  {
+    "id": "canh-03-15",
+    "scene": 3,
+    "from": 237,
+    "to": 251,
+    "text": "\"Thì tui đi làm lại mười lăm năm nữa cũng được mà Bác.\" Được chớ.",
+    "keyword": "",
+    "ref": true,
+    "prompt": "Flat 2D cartoon, thick outlines, warm colors,16:9. Use case: illustration-story. One fresh full-bleed landscape Vietnamese domestic story scene, not collage or character sheet. Exactly two people: Bac Sau older man with grey side-part hair, rectangular glasses, beige plaid short sleeve shirt, brown trousers, one blue pen behind ear; and Anh Tu tan man35, tousled black hair, olive green jacket over cream shirt, dark trousers, blue mask below chin. Never swap clothing/faces. A plain envelope next to a larger blank envelope on the tea table. Oblique overhead perspective towards the table. Reference sheets guide identity/style only. Natural anatomy, separate hands, collars and mask aligned with torso. Faces upper half, uncluttered lower quarter for subtitles. All paper, calendar, envelopes, cards, screens completely blank. Wooden tokens smooth, green rectangles without printing. Calculator keys/display completely blank. One blue pen behind Bac ear only; hands empty or touching objects, never holding a pen. No badge, lanyard, necklace, seals, text, letters, numbers, logos, watermarks. Calm thoughtful expressions. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png",
+      "assets/nhan-vat/anh-tu.png"
+    ],
+    "image": "anh/shots/canh-03-15.png"
+  },
+  {
+    "id": "canh-03-16",
+    "scene": 3,
+    "from": 252,
+    "to": 270,
+    "text": "Nhưng lúc đó anh đã năm mươi mấy tuổi, sức khỏe với việc làm chưa ai hứa trước được.",
+    "keyword": "NĂM ĐÃ RÚT KHÔNG TÍNH",
+    "ref": false,
+    "prompt": "Flat 2D cartoon, thick outlines, warm colors,16:9. Use case: illustration-story. One fresh full-bleed landscape Vietnamese domestic story scene, not collage or character sheet. Objects only: no people, hands, arms, faces, bodies or silhouettes. A plain envelope next to a larger blank envelope on the tea table. View through an open home doorway. Reference sheets guide identity/style only. Natural anatomy, separate hands, collars and mask aligned with torso. Faces upper half, uncluttered lower quarter for subtitles. All paper, calendar, envelopes, cards, screens completely blank. Wooden tokens smooth, green rectangles without printing. Calculator keys/display completely blank. One blue pen behind Bac ear only; hands empty or touching objects, never holding a pen. No badge, lanyard, necklace, seals, text, letters, numbers, logos, watermarks. Calm thoughtful expressions. No text, letters, numbers, logos or watermarks.",
+    "refs": [],
+    "image": "anh/shots/canh-03-16.png"
+  },
+  {
+    "id": "canh-04-01",
+    "scene": 4,
+    "from": 0,
+    "to": 16,
+    "text": "Luật mới hạ điều kiện có lương hưu xuống. Trước đây phải đủ hai mươi năm đóng,",
+    "keyword": "",
+    "ref": true,
+    "prompt": "Flat 2D cartoon, thick outlines, warm colors, 16:9. [Reference: Bác Sáu character sheet] Match attached Bac Sau and Anh Tu character sheets exactly. Bac Sau standing beside a blank wooden board with two simple step-shaped ladders drawn as plain shapes, pointing with his blue pen; Anh Tu seated, helmet on his lap, listening closely. Warm living room light. Plain props without any printed markings, no logos. No text, letters, numbers, logos or watermarks. One complete edge-to-edge scene, no panels. Keep faces above center; lower quarter uncluttered for subtitles. Calculator has entirely blank keys and display. Blue pen only once, either behind Bac ear or in his hand. Clothing and necklines consistent with torso; no lanyard/badge. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png",
+      "assets/nhan-vat/anh-tu.png"
+    ],
+    "image": "anh/canh-04.png"
+  },
+  {
+    "id": "canh-04-02",
+    "scene": 4,
+    "from": 17,
+    "to": 31,
+    "text": "giờ đủ mười lăm năm và đủ tuổi nghỉ hưu là được hưởng lương hưu.",
+    "keyword": "ĐỦ NĂM VÀ ĐỦ TUỔI",
+    "ref": true,
+    "prompt": "Flat 2D cartoon, thick outlines, warm colors,16:9. Use case: illustration-story. One fresh full-bleed landscape Vietnamese domestic story scene, not collage or character sheet. Exactly one person: Bac Sau, older Vietnamese man, grey side-part hair, dark rectangular glasses, beige plaid short sleeve shirt and brown trousers, one blue pen behind ear, red ledger. Two simple wooden staircase models on the home tea table. Elevated diagonal wide view. Reference sheets guide identity/style only. Natural anatomy, separate hands, collars and mask aligned with torso. Faces upper half, uncluttered lower quarter for subtitles. All paper, calendar, envelopes, cards, screens completely blank. Wooden tokens smooth, green rectangles without printing. Calculator keys/display completely blank. One blue pen behind Bac ear only; hands empty or touching objects, never holding a pen. No badge, lanyard, necklace, seals, text, letters, numbers, logos, watermarks. Calm thoughtful expressions. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png"
+    ],
+    "image": "anh/shots/canh-04-02.png"
+  },
+  {
+    "id": "canh-04-03",
+    "scene": 4,
+    "from": 32,
+    "to": 51,
+    "text": "Tuổi nghỉ hưu của nam đang tăng dần, tới năm hai ngàn hai mươi tám là sáu mươi hai tuổi.",
+    "keyword": "",
+    "ref": true,
+    "prompt": "Flat 2D cartoon, thick outlines, warm colors,16:9. Use case: illustration-story. One fresh full-bleed landscape Vietnamese domestic story scene, not collage or character sheet. Exactly two people: Bac Sau older man with grey side-part hair, rectangular glasses, beige plaid short sleeve shirt, brown trousers, one blue pen behind ear; and Anh Tu tan man35, tousled black hair, olive green jacket over cream shirt, dark trousers, blue mask below chin. Never swap clothing/faces. Two simple wooden staircase models on the home tea table. Close waist-up view, natural clearly separated hands. Reference sheets guide identity/style only. Natural anatomy, separate hands, collars and mask aligned with torso. Faces upper half, uncluttered lower quarter for subtitles. All paper, calendar, envelopes, cards, screens completely blank. Wooden tokens smooth, green rectangles without printing. Calculator keys/display completely blank. One blue pen behind Bac ear only; hands empty or touching objects, never holding a pen. No badge, lanyard, necklace, seals, text, letters, numbers, logos, watermarks. Calm thoughtful expressions. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png",
+      "assets/nhan-vat/anh-tu.png"
+    ],
+    "image": "anh/shots/canh-04-03.png"
+  },
+  {
+    "id": "canh-04-04",
+    "scene": 4,
+    "from": 52,
+    "to": 66,
+    "text": "Anh Tư tới tuổi đó thì còn lâu, nên Bác lấy mốc sáu mươi hai.",
+    "keyword": "ĐỦ NĂM VÀ ĐỦ TUỔI",
+    "ref": false,
+    "prompt": "Flat 2D cartoon, thick outlines, warm colors,16:9. Use case: illustration-story. One fresh full-bleed landscape Vietnamese domestic story scene, not collage or character sheet. Objects only: no people, hands, arms, faces, bodies or silhouettes. Two simple wooden staircase models on the home tea table. Wide environmental view from opposite side of room. Reference sheets guide identity/style only. Natural anatomy, separate hands, collars and mask aligned with torso. Faces upper half, uncluttered lower quarter for subtitles. All paper, calendar, envelopes, cards, screens completely blank. Wooden tokens smooth, green rectangles without printing. Calculator keys/display completely blank. One blue pen behind Bac ear only; hands empty or touching objects, never holding a pen. No badge, lanyard, necklace, seals, text, letters, numbers, logos, watermarks. Calm thoughtful expressions. No text, letters, numbers, logos or watermarks.",
+    "refs": [],
+    "image": "anh/shots/canh-04-04.png"
+  },
+  {
+    "id": "canh-04-05",
+    "scene": 4,
+    "from": 67,
+    "to": 81,
+    "text": "Lương hưu bằng bao nhiêu phần trăm của bình quân tiền lương đóng? Với nam,",
+    "keyword": "",
+    "ref": true,
+    "prompt": "Flat 2D cartoon, thick outlines, warm colors,16:9. Use case: illustration-story. One fresh full-bleed landscape Vietnamese domestic story scene, not collage or character sheet. Exactly one person: Bac Sau, older Vietnamese man, grey side-part hair, dark rectangular glasses, beige plaid short sleeve shirt and brown trousers, one blue pen behind ear, red ledger. Two simple wooden staircase models on the home tea table. Side view with foreground table edge and depth. Reference sheets guide identity/style only. Natural anatomy, separate hands, collars and mask aligned with torso. Faces upper half, uncluttered lower quarter for subtitles. All paper, calendar, envelopes, cards, screens completely blank. Wooden tokens smooth, green rectangles without printing. Calculator keys/display completely blank. One blue pen behind Bac ear only; hands empty or touching objects, never holding a pen. No badge, lanyard, necklace, seals, text, letters, numbers, logos, watermarks. Calm thoughtful expressions. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png"
+    ],
+    "image": "anh/shots/canh-04-05.png"
+  },
+  {
+    "id": "canh-04-06",
+    "scene": 4,
+    "from": 82,
+    "to": 98,
+    "text": "đủ mười lăm năm được bốn mươi phần trăm. Từ năm mười sáu tới năm hai mươi,",
+    "keyword": "ĐỦ NĂM VÀ ĐỦ TUỔI",
+    "ref": false,
+    "prompt": "Edit the first reference image only. Remove the blue ballpoint pen tucked behind Anh Tu's ear; reconstruct his natural black hair and ear underneath. The second image is an identity reference, not another person to add. Preserve everything else exactly: same man in olive jacket, pale blue mask under chin with thin WHITE ear loops, same pose, face, hands, props, furniture, background, warm2D illustration, full-bleed16:9. No pen anywhere on Anh Tu. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "videos/13-luong-huu-bhxh/anh/shots/nhap/canh-04-06-v1.png",
+      "assets/nhan-vat/anh-tu.png"
+    ],
+    "image": "anh/shots/canh-04-06-v2.png",
+    "selectedVersion": "v2",
+    "identityFix": "Removed unintended blue pen from Tu; rest preserved",
+    "referenceArchivedAfterEdit": true
+  },
+  {
+    "id": "canh-04-07",
+    "scene": 4,
+    "from": 99,
+    "to": 115,
+    "text": "mỗi năm chỉ thêm một phần trăm, tới hai mươi năm là bốn mươi lăm phần trăm.",
+    "keyword": "",
+    "ref": true,
+    "prompt": "Flat 2D cartoon, thick outlines, warm colors,16:9. Use case: illustration-story. One fresh full-bleed landscape Vietnamese domestic story scene, not collage or character sheet. Exactly two people: Bac Sau older man with grey side-part hair, rectangular glasses, beige plaid short sleeve shirt, brown trousers, one blue pen behind ear; and Anh Tu tan man35, tousled black hair, olive green jacket over cream shirt, dark trousers, blue mask below chin. Never swap clothing/faces. Two simple wooden staircase models on the home tea table. Oblique overhead perspective towards the table. Reference sheets guide identity/style only. Natural anatomy, separate hands, collars and mask aligned with torso. Faces upper half, uncluttered lower quarter for subtitles. All paper, calendar, envelopes, cards, screens completely blank. Wooden tokens smooth, green rectangles without printing. Calculator keys/display completely blank. One blue pen behind Bac ear only; hands empty or touching objects, never holding a pen. No badge, lanyard, necklace, seals, text, letters, numbers, logos, watermarks. Calm thoughtful expressions. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png",
+      "assets/nhan-vat/anh-tu.png"
+    ],
+    "image": "anh/shots/canh-04-07.png"
+  },
+  {
+    "id": "canh-04-08",
+    "scene": 4,
+    "from": 116,
+    "to": 130,
+    "text": "Sau đó mỗi năm thêm hai phần trăm, tối đa bảy mươi lăm phần trăm.",
+    "keyword": "ĐỦ NĂM VÀ ĐỦ TUỔI",
+    "ref": false,
+    "prompt": "Flat 2D cartoon, thick outlines, warm colors,16:9. Use case: illustration-story. One fresh full-bleed landscape Vietnamese domestic story scene, not collage or character sheet. Objects only: no people, hands, arms, faces, bodies or silhouettes. Two simple wooden staircase models on the home tea table. View through an open home doorway. Reference sheets guide identity/style only. Natural anatomy, separate hands, collars and mask aligned with torso. Faces upper half, uncluttered lower quarter for subtitles. All paper, calendar, envelopes, cards, screens completely blank. Wooden tokens smooth, green rectangles without printing. Calculator keys/display completely blank. One blue pen behind Bac ear only; hands empty or touching objects, never holding a pen. No badge, lanyard, necklace, seals, text, letters, numbers, logos, watermarks. Calm thoughtful expressions. No text, letters, numbers, logos or watermarks.",
+    "refs": [],
+    "image": "anh/shots/canh-04-08.png"
+  },
+  {
+    "id": "canh-04-09",
+    "scene": 4,
+    "from": 131,
+    "to": 148,
+    "text": "Với nữ, mười lăm năm đã được bốn mươi lăm phần trăm, rồi mỗi năm thêm hai phần",
+    "keyword": "",
+    "ref": false,
+    "prompt": "Edit the first reference image only. Remove the blue ballpoint pen tucked behind Anh Tu's ear; reconstruct his natural black hair and ear underneath. The second image is an identity reference, not another person to add. Preserve everything else exactly: same man in olive jacket, pale blue mask under chin with thin WHITE ear loops, same pose, face, hands, props, furniture, background, warm2D illustration, full-bleed16:9. No pen anywhere on Anh Tu. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "videos/13-luong-huu-bhxh/anh/shots/nhap/canh-04-09-v1.png",
+      "assets/nhan-vat/anh-tu.png"
+    ],
+    "image": "anh/shots/canh-04-09-v2.png",
+    "selectedVersion": "v2",
+    "identityFix": "Removed unintended blue pen from Tu; rest preserved",
+    "referenceArchivedAfterEdit": true
+  },
+  {
+    "id": "canh-04-10",
+    "scene": 4,
+    "from": 149,
+    "to": 161,
+    "text": "trăm. Giờ đổi ra tiền theo bình quân bảy triệu của anh Tư.",
+    "keyword": "ĐỦ NĂM VÀ ĐỦ TUỔI",
+    "ref": true,
+    "prompt": "Flat 2D cartoon, thick outlines, warm colors,16:9. Use case: illustration-story. One fresh full-bleed landscape Vietnamese domestic story scene, not collage or character sheet. Exactly one person: Bac Sau, older Vietnamese man, grey side-part hair, dark rectangular glasses, beige plaid short sleeve shirt and brown trousers, one blue pen behind ear, red ledger. Two simple wooden staircase models on the home tea table. Elevated diagonal wide view. Reference sheets guide identity/style only. Natural anatomy, separate hands, collars and mask aligned with torso. Faces upper half, uncluttered lower quarter for subtitles. All paper, calendar, envelopes, cards, screens completely blank. Wooden tokens smooth, green rectangles without printing. Calculator keys/display completely blank. One blue pen behind Bac ear only; hands empty or touching objects, never holding a pen. No badge, lanyard, necklace, seals, text, letters, numbers, logos, watermarks. Calm thoughtful expressions. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png"
+    ],
+    "image": "anh/shots/canh-04-10.png"
+  },
+  {
+    "id": "canh-04-11",
+    "scene": 4,
+    "from": 162,
+    "to": 175,
+    "text": "Nam đóng mười lăm năm, lương hưu hai triệu tám trăm ngàn một tháng.",
+    "keyword": "",
+    "ref": true,
+    "prompt": "Flat 2D cartoon, thick outlines, warm colors,16:9. Use case: illustration-story. One fresh full-bleed landscape Vietnamese domestic story scene, not collage or character sheet. Exactly two people: Bac Sau older man with grey side-part hair, rectangular glasses, beige plaid short sleeve shirt, brown trousers, one blue pen behind ear; and Anh Tu tan man35, tousled black hair, olive green jacket over cream shirt, dark trousers, blue mask below chin. Never swap clothing/faces. Three orderly stacks of smooth wooden tokens beside a completely blank card. Close waist-up view, natural clearly separated hands. Reference sheets guide identity/style only. Natural anatomy, separate hands, collars and mask aligned with torso. Faces upper half, uncluttered lower quarter for subtitles. All paper, calendar, envelopes, cards, screens completely blank. Wooden tokens smooth, green rectangles without printing. Calculator keys/display completely blank. One blue pen behind Bac ear only; hands empty or touching objects, never holding a pen. No badge, lanyard, necklace, seals, text, letters, numbers, logos, watermarks. Calm thoughtful expressions. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png",
+      "assets/nhan-vat/anh-tu.png"
+    ],
+    "image": "anh/shots/canh-04-11.png"
+  },
+  {
+    "id": "canh-04-12",
+    "scene": 4,
+    "from": 176,
+    "to": 187,
+    "text": "Nam đóng hai mươi năm, ba triệu một trăm năm chục ngàn.",
+    "keyword": "CÙNG LƯƠNG, KHÁC TỶ LỆ",
+    "ref": false,
+    "prompt": "Flat 2D cartoon, thick outlines, warm colors,16:9. Use case: illustration-story. One fresh full-bleed landscape Vietnamese domestic story scene, not collage or character sheet. Objects only: no people, hands, arms, faces, bodies or silhouettes. Three orderly stacks of smooth wooden tokens beside a completely blank card. Wide environmental view from opposite side of room. Reference sheets guide identity/style only. Natural anatomy, separate hands, collars and mask aligned with torso. Faces upper half, uncluttered lower quarter for subtitles. All paper, calendar, envelopes, cards, screens completely blank. Wooden tokens smooth, green rectangles without printing. Calculator keys/display completely blank. One blue pen behind Bac ear only; hands empty or touching objects, never holding a pen. No badge, lanyard, necklace, seals, text, letters, numbers, logos, watermarks. Calm thoughtful expressions. No text, letters, numbers, logos or watermarks.",
+    "refs": [],
+    "image": "anh/shots/canh-04-12.png"
+  },
+  {
+    "id": "canh-04-13",
+    "scene": 4,
+    "from": 188,
+    "to": 206,
+    "text": "Còn nếu là chị nào đó đóng hai mươi năm cùng mức lương, được năm mươi lăm phần trăm,",
+    "keyword": "",
+    "ref": true,
+    "prompt": "Flat 2D cartoon, thick outlines, warm colors,16:9. Use case: illustration-story. One fresh full-bleed landscape Vietnamese domestic story scene, not collage or character sheet. Exactly one person: Bac Sau, older Vietnamese man, grey side-part hair, dark rectangular glasses, beige plaid short sleeve shirt and brown trousers, one blue pen behind ear, red ledger. Three orderly stacks of smooth wooden tokens beside a completely blank card. Side view with foreground table edge and depth. Reference sheets guide identity/style only. Natural anatomy, separate hands, collars and mask aligned with torso. Faces upper half, uncluttered lower quarter for subtitles. All paper, calendar, envelopes, cards, screens completely blank. Wooden tokens smooth, green rectangles without printing. Calculator keys/display completely blank. One blue pen behind Bac ear only; hands empty or touching objects, never holding a pen. No badge, lanyard, necklace, seals, text, letters, numbers, logos, watermarks. Calm thoughtful expressions. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png"
+    ],
+    "image": "anh/shots/canh-04-13.png"
+  },
+  {
+    "id": "canh-04-14",
+    "scene": 4,
+    "from": 207,
+    "to": 219,
+    "text": "tức ba triệu tám trăm năm chục ngàn một tháng. Nên câu hỏi",
+    "keyword": "CÙNG LƯƠNG, KHÁC TỶ LỆ",
+    "ref": false,
+    "prompt": "Flat 2D cartoon, thick outlines, warm colors,16:9. Use case: illustration-story. One fresh full-bleed landscape Vietnamese domestic story scene, not collage or character sheet. Exactly one person: Anh Tu, tan Vietnamese man35, tousled short black hair, plain olive green jacket over cream shirt, dark trousers, pale blue mask below chin, no glasses. Green helmet resting nearby. Three orderly stacks of smooth wooden tokens beside a completely blank card. Balanced frontal medium composition. Reference sheets guide identity/style only. Natural anatomy, separate hands, collars and mask aligned with torso. Faces upper half, uncluttered lower quarter for subtitles. All paper, calendar, envelopes, cards, screens completely blank. Wooden tokens smooth, green rectangles without printing. Calculator keys/display completely blank. One blue pen behind Bac ear only; hands empty or touching objects, never holding a pen. No badge, lanyard, necklace, seals, text, letters, numbers, logos, watermarks. Calm thoughtful expressions. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "assets/nhan-vat/anh-tu.png"
+    ],
+    "image": "anh/shots/canh-04-14.png"
+  },
+  {
+    "id": "canh-04-15",
+    "scene": 4,
+    "from": 220,
+    "to": 236,
+    "text": "đóng hai mươi năm về hưu nhận bao nhiêu, câu trả lời là: tùy nam hay nữ,",
+    "keyword": "",
+    "ref": true,
+    "prompt": "Flat 2D cartoon, thick outlines, warm colors,16:9. Use case: illustration-story. One fresh full-bleed landscape Vietnamese domestic story scene, not collage or character sheet. Exactly two people: Bac Sau older man with grey side-part hair, rectangular glasses, beige plaid short sleeve shirt, brown trousers, one blue pen behind ear; and Anh Tu tan man35, tousled black hair, olive green jacket over cream shirt, dark trousers, blue mask below chin. Never swap clothing/faces. Three orderly stacks of smooth wooden tokens beside a completely blank card. Oblique overhead perspective towards the table. Reference sheets guide identity/style only. Natural anatomy, separate hands, collars and mask aligned with torso. Faces upper half, uncluttered lower quarter for subtitles. All paper, calendar, envelopes, cards, screens completely blank. Wooden tokens smooth, green rectangles without printing. Calculator keys/display completely blank. No badge, lanyard, necklace, seals, text, letters, numbers, logos, watermarks. Calm thoughtful expressions. Only Bac Sau has one blue pen behind ear. Anh Tu has no pen; mask ear-loops thin white. Bac points at the object while Anh Tu listens, both hands visible. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png",
+      "assets/nhan-vat/anh-tu.png"
+    ],
+    "image": "anh/shots/canh-04-15.png"
+  },
+  {
+    "id": "canh-04-16",
+    "scene": 4,
+    "from": 237,
+    "to": 250,
+    "text": "và tùy bình quân lương mình đóng. Lương hưu không đứng yên. Luật ghi",
+    "keyword": "CÙNG LƯƠNG, KHÁC TỶ LỆ",
+    "ref": false,
+    "prompt": "Flat 2D cartoon, thick outlines, warm colors,16:9. Use case: illustration-story. One fresh full-bleed landscape Vietnamese domestic story scene, not collage or character sheet. Objects only: no people, hands, arms, faces, bodies or silhouettes. Three orderly stacks of smooth wooden tokens beside a completely blank card. View through an open home doorway. Reference sheets guide identity/style only. Natural anatomy, separate hands, collars and mask aligned with torso. Faces upper half, uncluttered lower quarter for subtitles. All paper, calendar, envelopes, cards, screens completely blank. Wooden tokens smooth, green rectangles without printing. Calculator keys/display completely blank. No badge, lanyard, necklace, seals, text, letters, numbers, logos, watermarks. Calm thoughtful expressions. Still-life only; no people or hands. No text, letters, numbers, logos or watermarks.",
+    "refs": [],
+    "image": "anh/shots/canh-04-16.png"
+  },
+  {
+    "id": "canh-04-17",
+    "scene": 4,
+    "from": 251,
+    "to": 270,
+    "text": "lương hưu được điều chỉnh trên cơ sở mức tăng giá tiêu dùng, tùy khả năng ngân sách và quỹ.",
+    "keyword": "",
+    "ref": false,
+    "prompt": "Flat 2D cartoon, thick outlines, warm colors,16:9. Use case: illustration-story. One fresh full-bleed landscape Vietnamese domestic story scene, not collage or character sheet. Exactly one person: Anh Tu, tan Vietnamese man35, tousled short black hair, plain olive green jacket over cream shirt, dark trousers, pale blue mask below chin, no glasses. Green helmet resting nearby. Three orderly stacks of smooth wooden tokens beside a completely blank card. Medium eye-level front three-quarter view. Reference sheets guide identity/style only. Natural anatomy, separate hands, collars and mask aligned with torso. Faces upper half, uncluttered lower quarter for subtitles. All paper, calendar, envelopes, cards, screens completely blank. Wooden tokens smooth, green rectangles without printing. Calculator keys/display completely blank. No badge, lanyard, necklace, seals, text, letters, numbers, logos, watermarks. Calm thoughtful expressions. Anh Tu has NO pen behind either ear and no pen on his clothes. Only thin white mask ear-loops, never a blue object near his hair. Anh Tu gently points with index finger toward the blank paper. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "assets/nhan-vat/anh-tu.png"
+    ],
+    "image": "anh/shots/canh-04-17.png"
+  },
+  {
+    "id": "canh-04-18",
+    "scene": 4,
+    "from": 271,
+    "to": 289,
+    "text": "Người đang hưởng lương hưu còn được hưởng bảo hiểm y tế. Một trăm bốn chục triệu cầm về",
+    "keyword": "CÙNG LƯƠNG, KHÁC TỶ LỆ",
+    "ref": true,
+    "prompt": "Flat 2D cartoon, thick outlines, warm colors,16:9. Use case: illustration-story. One fresh full-bleed landscape Vietnamese domestic story scene, not collage or character sheet. Exactly one person: Bac Sau, older Vietnamese man, grey side-part hair, dark rectangular glasses, beige plaid short sleeve shirt and brown trousers, one blue pen behind ear, red ledger. Three orderly stacks of smooth wooden tokens beside a completely blank card. Elevated diagonal wide view. Reference sheets guide identity/style only. Natural anatomy, separate hands, collars and mask aligned with torso. Faces upper half, uncluttered lower quarter for subtitles. All paper, calendar, envelopes, cards, screens completely blank. Wooden tokens smooth, green rectangles without printing. Calculator keys/display completely blank. No badge, lanyard, necklace, seals, text, letters, numbers, logos, watermarks. Calm thoughtful expressions. Bac gently points with one index finger at the table object. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png"
+    ],
+    "image": "anh/shots/canh-04-18.png"
+  },
+  {
+    "id": "canh-04-19",
+    "scene": 4,
+    "from": 290,
+    "to": 307,
+    "text": "hôm nay thì không tự tăng theo giá chợ, cũng không đi kèm tấm thẻ khám bệnh nào.",
+    "keyword": "",
+    "ref": true,
+    "prompt": "Flat 2D cartoon, thick outlines, warm colors,16:9. Use case: illustration-story. One fresh full-bleed landscape Vietnamese domestic story scene, not collage or character sheet. Exactly two people: Bac Sau older man with grey side-part hair, rectangular glasses, beige plaid short sleeve shirt, brown trousers, one blue pen behind ear; and Anh Tu tan man35, tousled black hair, olive green jacket over cream shirt, dark trousers, blue mask below chin. Never swap clothing/faces. Three orderly stacks of smooth wooden tokens beside a completely blank card. Close waist-up view, natural clearly separated hands. Reference sheets guide identity/style only. Natural anatomy, separate hands, collars and mask aligned with torso. Faces upper half, uncluttered lower quarter for subtitles. All paper, calendar, envelopes, cards, screens completely blank. Wooden tokens smooth, green rectangles without printing. Calculator keys/display completely blank. No badge, lanyard, necklace, seals, text, letters, numbers, logos, watermarks. Calm thoughtful expressions. Only Bac Sau has one blue pen behind ear. Anh Tu has no pen; mask ear-loops thin white. Anh Tu gestures with one open hand while Bac nods. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png",
+      "assets/nhan-vat/anh-tu.png"
+    ],
+    "image": "anh/shots/canh-04-19.png"
+  },
+  {
+    "id": "canh-05-01",
+    "scene": 5,
+    "from": 0,
+    "to": 15,
+    "text": "Bác nói con số cuối trước. Nếu anh Tư không rút, đóng thêm năm năm cho",
+    "keyword": "",
+    "ref": true,
+    "prompt": "Flat 2D cartoon, thick outlines, warm colors, 16:9. [Reference: Bác Sáu character sheet] Match attached Bac Sau and Anh Tu character sheets exactly. Bac Sau tapping his old calculator with a serious face, red ledger open; Anh Tu frozen mid-sip with a glass of tea, staring at a blank wall calendar. Side view of the tea table, evening lamp light. Plain props without any printed markings, no logos. No text, letters, numbers, logos or watermarks. One complete edge-to-edge scene, no panels. Keep faces above center; lower quarter uncluttered for subtitles. Calculator has entirely blank keys and display. Blue pen only once, either behind Bac ear or in his hand. Clothing and necklines consistent with torso; no lanyard/badge. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png",
+      "assets/nhan-vat/anh-tu.png"
+    ],
+    "image": "anh/canh-05.png"
+  },
+  {
+    "id": "canh-05-02",
+    "scene": 5,
+    "from": 16,
+    "to": 32,
+    "text": "đủ mười lăm năm, thì chừng sáu năm mười một tháng lương hưu là lấy lại đủ",
+    "keyword": "50 THÁNG CHƯA TÍNH ĐỦ",
+    "ref": true,
+    "prompt": "Flat 2D cartoon, thick outlines, warm colors,16:9. Use case: illustration-story. One fresh full-bleed landscape Vietnamese domestic story scene, not collage or character sheet. Exactly one person: Bac Sau, older Vietnamese man, grey side-part hair, dark rectangular glasses, beige plaid short sleeve shirt and brown trousers, one blue pen behind ear, red ledger. A blank calendar and a calculator with completely blank keys and display beside tea. Elevated diagonal wide view. Reference sheets guide identity/style only. Natural anatomy, separate hands, collars and mask aligned with torso. Faces upper half, uncluttered lower quarter for subtitles. All paper, calendar, envelopes, cards, screens completely blank. Wooden tokens smooth, green rectangles without printing. Calculator keys/display completely blank. No badge, lanyard, necklace, seals, text, letters, numbers, logos, watermarks. Calm thoughtful expressions. Bac opens his palm explaining a careful choice. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png"
+    ],
+    "image": "anh/shots/canh-05-02.png"
+  },
+  {
+    "id": "canh-05-03",
+    "scene": 5,
+    "from": 33,
+    "to": 49,
+    "text": "một trăm bốn chục triệu bỏ không rút, cộng luôn tiền đóng thêm. Từ đó trở đi,",
+    "keyword": "",
+    "ref": true,
+    "prompt": "Flat 2D cartoon, thick outlines, warm colors,16:9. Use case: illustration-story. One fresh full-bleed landscape Vietnamese domestic story scene, not collage or character sheet. Exactly two people: Bac Sau older man with grey side-part hair, rectangular glasses, beige plaid short sleeve shirt, brown trousers, one blue pen behind ear; and Anh Tu tan man35, tousled black hair, olive green jacket over cream shirt, dark trousers, blue mask below chin. Never swap clothing/faces. A blank calendar and a calculator with completely blank keys and display beside tea. Close waist-up view, natural clearly separated hands. Reference sheets guide identity/style only. Natural anatomy, separate hands, collars and mask aligned with torso. Faces upper half, uncluttered lower quarter for subtitles. All paper, calendar, envelopes, cards, screens completely blank. Wooden tokens smooth, green rectangles without printing. Calculator keys/display completely blank. No badge, lanyard, necklace, seals, text, letters, numbers, logos, watermarks. Calm thoughtful expressions. Only Bac Sau has one blue pen behind ear. Anh Tu has no pen; mask ear-loops thin white. Bac points at the object while Anh Tu listens, both hands visible. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png",
+      "assets/nhan-vat/anh-tu.png"
+    ],
+    "image": "anh/shots/canh-05-03.png"
+  },
+  {
+    "id": "canh-05-04",
+    "scene": 5,
+    "from": 50,
+    "to": 59,
+    "text": "mỗi tháng là phần dư. Giờ Bác đi từng bước.",
+    "keyword": "50 THÁNG CHƯA TÍNH ĐỦ",
+    "ref": false,
+    "prompt": "Flat 2D cartoon, thick outlines, warm colors,16:9. Use case: illustration-story. One fresh full-bleed landscape Vietnamese domestic story scene, not collage or character sheet. Objects only: no people, hands, arms, faces, bodies or silhouettes. A blank calendar and a calculator with completely blank keys and display beside tea. Wide environmental view from opposite side of room. Reference sheets guide identity/style only. Natural anatomy, separate hands, collars and mask aligned with torso. Faces upper half, uncluttered lower quarter for subtitles. All paper, calendar, envelopes, cards, screens completely blank. Wooden tokens smooth, green rectangles without printing. Calculator keys/display completely blank. No badge, lanyard, necklace, seals, text, letters, numbers, logos, watermarks. Calm thoughtful expressions. Still-life only; no people or hands. No text, letters, numbers, logos or watermarks.",
+    "refs": [],
+    "image": "anh/shots/canh-05-04.png"
+  },
+  {
+    "id": "canh-05-05",
+    "scene": 5,
+    "from": 60,
+    "to": 77,
+    "text": "Một trăm bốn chục triệu chia hai triệu tám trăm ngàn lương hưu, ra đúng năm mươi tháng,",
+    "keyword": "",
+    "ref": true,
+    "prompt": "Flat 2D cartoon, thick outlines, warm colors,16:9. Use case: illustration-story. One fresh full-bleed landscape Vietnamese domestic story scene, not collage or character sheet. Exactly one person: Bac Sau, older Vietnamese man, grey side-part hair, dark rectangular glasses, beige plaid short sleeve shirt and brown trousers, one blue pen behind ear, red ledger. A blank calendar and a calculator with completely blank keys and display beside tea. Side view with foreground table edge and depth. Reference sheets guide identity/style only. Natural anatomy, separate hands, collars and mask aligned with torso. Faces upper half, uncluttered lower quarter for subtitles. All paper, calendar, envelopes, cards, screens completely blank. Wooden tokens smooth, green rectangles without printing. Calculator keys/display completely blank. No badge, lanyard, necklace, seals, text, letters, numbers, logos, watermarks. Calm thoughtful expressions. Bac opens his palm explaining a careful choice. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png"
+    ],
+    "image": "anh/shots/canh-05-05.png"
+  },
+  {
+    "id": "canh-05-06",
+    "scene": 5,
+    "from": 78,
+    "to": 95,
+    "text": "tức bốn năm hai tháng. Nghĩa là số tiền rút hôm nay chỉ bằng bốn năm hai tháng",
+    "keyword": "50 THÁNG CHƯA TÍNH ĐỦ",
+    "ref": false,
+    "prompt": "Flat 2D cartoon, thick outlines, warm colors,16:9. Use case: illustration-story. One fresh full-bleed landscape Vietnamese domestic story scene, not collage or character sheet. Exactly one person: Anh Tu, tan Vietnamese man35, tousled short black hair, plain olive green jacket over cream shirt, dark trousers, pale blue mask below chin, no glasses. Green helmet resting nearby. A blank calendar and a calculator with completely blank keys and display beside tea. Balanced frontal medium composition. Reference sheets guide identity/style only. Natural anatomy, separate hands, collars and mask aligned with torso. Faces upper half, uncluttered lower quarter for subtitles. All paper, calendar, envelopes, cards, screens completely blank. Wooden tokens smooth, green rectangles without printing. Calculator keys/display completely blank. No badge, lanyard, necklace, seals, text, letters, numbers, logos, watermarks. Calm thoughtful expressions. Anh Tu has NO pen behind either ear and no pen on his clothes. Only thin white mask ear-loops, never a blue object near his hair. Anh Tu rests one open hand on the folder and looks thoughtful. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "assets/nhan-vat/anh-tu.png"
+    ],
+    "image": "anh/shots/canh-05-06.png"
+  },
+  {
+    "id": "canh-05-07",
+    "scene": 5,
+    "from": 96,
+    "to": 108,
+    "text": "lãnh lương hưu. Nhưng muốn có lương hưu, anh còn thiếu năm năm.",
+    "keyword": "",
+    "ref": true,
+    "prompt": "Flat 2D cartoon, thick outlines, warm colors,16:9. Use case: illustration-story. One fresh full-bleed landscape Vietnamese domestic story scene, not collage or character sheet. Exactly two people: Bac Sau older man with grey side-part hair, rectangular glasses, beige plaid short sleeve shirt, brown trousers, one blue pen behind ear; and Anh Tu tan man35, tousled black hair, olive green jacket over cream shirt, dark trousers, blue mask below chin. Never swap clothing/faces. A blank calendar and a calculator with completely blank keys and display beside tea. Oblique overhead perspective towards the table. Reference sheets guide identity/style only. Natural anatomy, separate hands, collars and mask aligned with torso. Faces upper half, uncluttered lower quarter for subtitles. All paper, calendar, envelopes, cards, screens completely blank. Wooden tokens smooth, green rectangles without printing. Calculator keys/display completely blank. No badge, lanyard, necklace, seals, text, letters, numbers, logos, watermarks. Calm thoughtful expressions. Only Bac Sau has one blue pen behind ear. Anh Tu has no pen; mask ear-loops thin white. Anh Tu gestures with one open hand while Bac nods. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png",
+      "assets/nhan-vat/anh-tu.png"
+    ],
+    "image": "anh/shots/canh-05-07.png"
+  },
+  {
+    "id": "canh-05-08",
+    "scene": 5,
+    "from": 109,
+    "to": 127,
+    "text": "Giả sử anh tự đóng tự nguyện, mức đóng là hai mươi hai phần trăm thu nhập anh chọn.",
+    "keyword": "50 THÁNG CHƯA TÍNH ĐỦ",
+    "ref": false,
+    "prompt": "Flat 2D cartoon, thick outlines, warm colors,16:9. Use case: illustration-story. One fresh full-bleed landscape Vietnamese domestic story scene, not collage or character sheet. Objects only: no people, hands, arms, faces, bodies or silhouettes. A blank calendar and a calculator with completely blank keys and display beside tea. View through an open home doorway. Reference sheets guide identity/style only. Natural anatomy, separate hands, collars and mask aligned with torso. Faces upper half, uncluttered lower quarter for subtitles. All paper, calendar, envelopes, cards, screens completely blank. Wooden tokens smooth, green rectangles without printing. Calculator keys/display completely blank. No badge, lanyard, necklace, seals, text, letters, numbers, logos, watermarks. Calm thoughtful expressions. Still-life only; no people or hands. No text, letters, numbers, logos or watermarks.",
+    "refs": [],
+    "image": "anh/shots/canh-05-08.png"
+  },
+  {
+    "id": "canh-05-09",
+    "scene": 5,
+    "from": 128,
+    "to": 141,
+    "text": "Chọn bảy triệu thì mỗi tháng đóng một triệu năm trăm bốn chục ngàn.",
+    "keyword": "",
+    "ref": false,
+    "prompt": "Flat 2D cartoon, thick outlines, warm colors,16:9. Use case: illustration-story. One fresh full-bleed landscape Vietnamese domestic story scene, not collage or character sheet. Exactly one person: Anh Tu, tan Vietnamese man35, tousled short black hair, plain olive green jacket over cream shirt, dark trousers, pale blue mask below chin, no glasses. Green helmet resting nearby. A blank calendar and a calculator with completely blank keys and display beside tea. Medium eye-level front three-quarter view. Reference sheets guide identity/style only. Natural anatomy, separate hands, collars and mask aligned with torso. Faces upper half, uncluttered lower quarter for subtitles. All paper, calendar, envelopes, cards, screens completely blank. Wooden tokens smooth, green rectangles without printing. Calculator keys/display completely blank. No badge, lanyard, necklace, seals, text, letters, numbers, logos, watermarks. Calm thoughtful expressions. Anh Tu has NO pen behind either ear and no pen on his clothes. Only thin white mask ear-loops, never a blue object near his hair. Anh Tu rests one open hand on the folder and looks thoughtful. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "assets/nhan-vat/anh-tu.png"
+    ],
+    "image": "anh/shots/canh-05-09.png"
+  },
+  {
+    "id": "canh-05-10",
+    "scene": 5,
+    "from": 142,
+    "to": 159,
+    "text": "Năm năm là chín mươi hai triệu bốn trăm ngàn. Mười năm bắt buộc cộng năm năm tự",
+    "keyword": "50 THÁNG CHƯA TÍNH ĐỦ",
+    "ref": true,
+    "prompt": "Flat 2D cartoon, thick outlines, warm colors,16:9. Use case: illustration-story. One fresh full-bleed landscape Vietnamese domestic story scene, not collage or character sheet. Exactly one person: Bac Sau, older Vietnamese man, grey side-part hair, dark rectangular glasses, beige plaid short sleeve shirt and brown trousers, one blue pen behind ear, red ledger. A blank calendar and a calculator with completely blank keys and display beside tea. Elevated diagonal wide view. Reference sheets guide identity/style only. Natural anatomy, separate hands, collars and mask aligned with torso. Faces upper half, uncluttered lower quarter for subtitles. All paper, calendar, envelopes, cards, screens completely blank. Wooden tokens smooth, green rectangles without printing. Calculator keys/display completely blank. No badge, lanyard, necklace, seals, text, letters, numbers, logos, watermarks. Calm thoughtful expressions. Bac holds a closed blank folder with both hands. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png"
+    ],
+    "image": "anh/shots/canh-05-10.png"
+  },
+  {
+    "id": "canh-05-11",
+    "scene": 5,
+    "from": 160,
+    "to": 179,
+    "text": "nguyện thì lương hưu tính theo chế độ tự nguyện, tỷ lệ của nam vẫn là bốn mươi phần trăm,",
+    "keyword": "",
+    "ref": true,
+    "prompt": "Flat 2D cartoon, thick outlines, warm colors,16:9. Use case: illustration-story. One fresh full-bleed landscape Vietnamese domestic story scene, not collage or character sheet. Exactly two people: Bac Sau older man with grey side-part hair, rectangular glasses, beige plaid short sleeve shirt, brown trousers, one blue pen behind ear; and Anh Tu tan man35, tousled black hair, olive green jacket over cream shirt, dark trousers, blue mask below chin. Never swap clothing/faces. A blank calendar and a calculator with completely blank keys and display beside tea. Close waist-up view, natural clearly separated hands. Reference sheets guide identity/style only. Natural anatomy, separate hands, collars and mask aligned with torso. Faces upper half, uncluttered lower quarter for subtitles. All paper, calendar, envelopes, cards, screens completely blank. Wooden tokens smooth, green rectangles without printing. Calculator keys/display completely blank. No badge, lanyard, necklace, seals, text, letters, numbers, logos, watermarks. Calm thoughtful expressions. Only Bac Sau has one blue pen behind ear. Anh Tu has no pen; mask ear-loops thin white. Bac rests his hand on the ledger, Anh Tu sets his helmet beside the table. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png",
+      "assets/nhan-vat/anh-tu.png"
+    ],
+    "image": "anh/shots/canh-05-11.png"
+  },
+  {
+    "id": "canh-05-12",
+    "scene": 5,
+    "from": 180,
+    "to": 200,
+    "text": "còn bình quân do cơ quan bảo hiểm tính trên cả quá trình. Bác chưa trừ phần Nhà nước hỗ trợ,",
+    "keyword": "50 THÁNG CHƯA TÍNH ĐỦ",
+    "ref": false,
+    "prompt": "Flat 2D cartoon, thick outlines, warm colors,16:9. Use case: illustration-story. One fresh full-bleed landscape Vietnamese domestic story scene, not collage or character sheet. Objects only: no people, hands, arms, faces, bodies or silhouettes. A blank calendar and a calculator with completely blank keys and display beside tea. Wide environmental view from opposite side of room. Reference sheets guide identity/style only. Natural anatomy, separate hands, collars and mask aligned with torso. Faces upper half, uncluttered lower quarter for subtitles. All paper, calendar, envelopes, cards, screens completely blank. Wooden tokens smooth, green rectangles without printing. Calculator keys/display completely blank. No badge, lanyard, necklace, seals, text, letters, numbers, logos, watermarks. Calm thoughtful expressions. Still-life only; no people or hands. No text, letters, numbers, logos or watermarks.",
+    "refs": [],
+    "image": "anh/shots/canh-05-12.png"
+  },
+  {
+    "id": "canh-05-13",
+    "scene": 5,
+    "from": 201,
+    "to": 210,
+    "text": "nếu có. Vậy cái giá của đường giữ lại là:",
+    "keyword": "",
+    "ref": true,
+    "prompt": "Use case: object-removal inpainting. The one reference is the EDIT TARGET. Completely REMOVE THE ENTIRE CALCULATOR OBJECT from the lower right foreground, including every button, screen and all its shadows. Reconstruct clean uninterrupted natural wooden tabletop in the exact footprint where the calculator was. That place must be EMPTY TABLE, no replacement object, no keyboard, no machine, no calculator. Preserve every other object and exact people count, identity, faces, hairstyles, glasses, pen, clothing, hands, poses, helmet, teapot, ledger, lighting, warm flat2D illustration style and 16:9 framing. Preserve all blank pages and unprinted props. No text, glyphs, symbols, numbers, logos, signatures or watermarks anywhere. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "videos/13-luong-huu-bhxh/anh/shots/nhap/canh-05-13-v2-before-object-removal.png"
+    ],
+    "image": "anh/shots/canh-05-13-v3.png",
+    "selectedVersion": "v3"
+  },
+  {
+    "id": "canh-05-14",
+    "scene": 5,
+    "from": 211,
+    "to": 228,
+    "text": "bỏ không rút một trăm bốn chục triệu, cộng chín mươi hai triệu bốn trăm ngàn đóng thêm,",
+    "keyword": "THÊM TIỀN ĐÓNG: 83 THÁNG",
+    "ref": false,
+    "prompt": "Flat 2D cartoon, thick outlines, warm colors,16:9. Use case: illustration-story. One fresh full-bleed landscape Vietnamese domestic story scene, not collage or character sheet. Exactly one person: Anh Tu, tan Vietnamese man35, tousled short black hair, plain olive green jacket over cream shirt, dark trousers, pale blue mask below chin, no glasses. Green helmet resting nearby. A red ledger beside two separate bowls of smooth wooden tokens. Balanced frontal medium composition. Reference sheets guide identity/style only. Natural anatomy, separate hands, collars and mask aligned with torso. Faces upper half, uncluttered lower quarter for subtitles. All paper, calendar, envelopes, cards, screens completely blank. Wooden tokens smooth, green rectangles without printing. Calculator keys/display completely blank. No badge, lanyard, necklace, seals, text, letters, numbers, logos, watermarks. Calm thoughtful expressions. Anh Tu has NO pen behind either ear and no pen on his clothes. Only thin white mask ear-loops, never a blue object near his hair. Anh Tu gently points with index finger toward the blank paper. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "assets/nhan-vat/anh-tu.png"
+    ],
+    "image": "anh/shots/canh-05-14.png"
+  },
+  {
+    "id": "canh-05-15",
+    "scene": 5,
+    "from": 229,
+    "to": 246,
+    "text": "tổng hai trăm ba mươi hai triệu bốn trăm ngàn. Chia hai triệu tám trăm ngàn mỗi tháng,",
+    "keyword": "",
+    "ref": true,
+    "prompt": "Flat 2D cartoon, thick outlines, warm colors,16:9. Use case: illustration-story. One fresh full-bleed landscape Vietnamese domestic story scene, not collage or character sheet. Exactly two people: Bac Sau older man with grey side-part hair, rectangular glasses, beige plaid short sleeve shirt, brown trousers, one blue pen behind ear; and Anh Tu tan man35, tousled black hair, olive green jacket over cream shirt, dark trousers, blue mask below chin. Never swap clothing/faces. A red ledger beside two separate bowls of smooth wooden tokens. Oblique overhead perspective towards the table. Reference sheets guide identity/style only. Natural anatomy, separate hands, collars and mask aligned with torso. Faces upper half, uncluttered lower quarter for subtitles. All paper, calendar, envelopes, cards, screens completely blank. Wooden tokens smooth, green rectangles without printing. Calculator keys/display completely blank. No badge, lanyard, necklace, seals, text, letters, numbers, logos, watermarks. Calm thoughtful expressions. Only Bac Sau has one blue pen behind ear. Anh Tu has no pen; mask ear-loops thin white. Bac points at the object while Anh Tu listens, both hands visible. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png",
+      "assets/nhan-vat/anh-tu.png"
+    ],
+    "image": "anh/shots/canh-05-15.png"
+  },
+  {
+    "id": "canh-05-16",
+    "scene": 5,
+    "from": 247,
+    "to": 261,
+    "text": "ra tám mươi ba tháng. Tám mươi ba tháng là sáu năm mười một tháng.",
+    "keyword": "THÊM TIỀN ĐÓNG: 83 THÁNG",
+    "ref": false,
+    "prompt": "Flat 2D cartoon, thick outlines, warm colors,16:9. Use case: illustration-story. One fresh full-bleed landscape Vietnamese domestic story scene, not collage or character sheet. Objects only: no people, hands, arms, faces, bodies or silhouettes. A red ledger beside two separate bowls of smooth wooden tokens. View through an open home doorway. Reference sheets guide identity/style only. Natural anatomy, separate hands, collars and mask aligned with torso. Faces upper half, uncluttered lower quarter for subtitles. All paper, calendar, envelopes, cards, screens completely blank. Wooden tokens smooth, green rectangles without printing. Calculator keys/display completely blank. No badge, lanyard, necklace, seals, text, letters, numbers, logos, watermarks. Calm thoughtful expressions. Still-life only; no people or hands. No text, letters, numbers, logos or watermarks.",
+    "refs": [],
+    "image": "anh/shots/canh-05-16.png"
+  },
+  {
+    "id": "canh-05-17",
+    "scene": 5,
+    "from": 262,
+    "to": 277,
+    "text": "Lãnh từ sáu mươi hai tuổi thì tới khoảng sáu mươi chín tuổi là hòa vốn.",
+    "keyword": "",
+    "ref": false,
+    "prompt": "Flat 2D cartoon, thick outlines, warm colors,16:9. Use case: illustration-story. One fresh full-bleed landscape Vietnamese domestic story scene, not collage or character sheet. Exactly one person: Anh Tu, tan Vietnamese man35, tousled short black hair, plain olive green jacket over cream shirt, dark trousers, pale blue mask below chin, no glasses. Green helmet resting nearby. A red ledger beside two separate bowls of smooth wooden tokens. Medium eye-level front three-quarter view. Reference sheets guide identity/style only. Natural anatomy, separate hands, collars and mask aligned with torso. Faces upper half, uncluttered lower quarter for subtitles. All paper, calendar, envelopes, cards, screens completely blank. Wooden tokens smooth, green rectangles without printing. Calculator keys/display completely blank. No badge, lanyard, necklace, seals, text, letters, numbers, logos, watermarks. Calm thoughtful expressions. Anh Tu has NO pen behind either ear and no pen on his clothes. Only thin white mask ear-loops, never a blue object near his hair. Anh Tu gently points with index finger toward the blank paper. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "assets/nhan-vat/anh-tu.png"
+    ],
+    "image": "anh/shots/canh-05-17.png"
+  },
+  {
+    "id": "canh-05-18",
+    "scene": 5,
+    "from": 278,
+    "to": 294,
+    "text": "Nếu anh đi làm công ty lại năm năm, anh chỉ tự đóng phần tám phần trăm,",
+    "keyword": "THÊM TIỀN ĐÓNG: 83 THÁNG",
+    "ref": true,
+    "prompt": "Flat 2D cartoon, thick outlines, warm colors,16:9. Use case: illustration-story. One fresh full-bleed landscape Vietnamese domestic story scene, not collage or character sheet. Exactly one person: Bac Sau, older Vietnamese man, grey side-part hair, dark rectangular glasses, beige plaid short sleeve shirt and brown trousers, one blue pen behind ear, red ledger. A red ledger beside two separate bowls of smooth wooden tokens. Elevated diagonal wide view. Reference sheets guide identity/style only. Natural anatomy, separate hands, collars and mask aligned with torso. Faces upper half, uncluttered lower quarter for subtitles. All paper, calendar, envelopes, cards, screens completely blank. Wooden tokens smooth, green rectangles without printing. Calculator keys/display completely blank. No badge, lanyard, necklace, seals, text, letters, numbers, logos, watermarks. Calm thoughtful expressions. Bac gently points with one index finger at the table object. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png"
+    ],
+    "image": "anh/shots/canh-05-18.png"
+  },
+  {
+    "id": "canh-05-19",
+    "scene": 5,
+    "from": 295,
+    "to": 310,
+    "text": "ba mươi ba triệu sáu trăm ngàn. Lúc đó hòa vốn sau sáu mươi hai tháng,",
+    "keyword": "",
+    "ref": true,
+    "prompt": "Flat 2D cartoon, thick outlines, warm colors,16:9. Use case: illustration-story. One fresh full-bleed landscape Vietnamese domestic story scene, not collage or character sheet. Exactly two people: Bac Sau older man with grey side-part hair, rectangular glasses, beige plaid short sleeve shirt, brown trousers, one blue pen behind ear; and Anh Tu tan man35, tousled black hair, olive green jacket over cream shirt, dark trousers, blue mask below chin. Never swap clothing/faces. A red ledger beside two separate bowls of smooth wooden tokens. Close waist-up view, natural clearly separated hands. Reference sheets guide identity/style only. Natural anatomy, separate hands, collars and mask aligned with torso. Faces upper half, uncluttered lower quarter for subtitles. All paper, calendar, envelopes, cards, screens completely blank. Wooden tokens smooth, green rectangles without printing. Calculator keys/display completely blank. No badge, lanyard, necklace, seals, text, letters, numbers, logos, watermarks. Calm thoughtful expressions. Only Bac Sau has one blue pen behind ear. Anh Tu has no pen; mask ear-loops thin white. Anh Tu gestures with one open hand while Bac nods. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png",
+      "assets/nhan-vat/anh-tu.png"
+    ],
+    "image": "anh/shots/canh-05-19.png"
+  },
+  {
+    "id": "canh-05-20",
+    "scene": 5,
+    "from": 311,
+    "to": 321,
+    "text": "tức năm năm hai tháng. Đóng tự nguyện thêm mười năm",
+    "keyword": "THÊM TIỀN ĐÓNG: 83 THÁNG",
+    "ref": false,
+    "prompt": "Flat 2D cartoon, thick outlines, warm colors,16:9. Use case: illustration-story. One fresh full-bleed landscape Vietnamese domestic story scene, not collage or character sheet. Objects only: no people, hands, arms, faces, bodies or silhouettes. A red ledger beside two separate bowls of smooth wooden tokens. Wide environmental view from opposite side of room. Reference sheets guide identity/style only. Natural anatomy, separate hands, collars and mask aligned with torso. Faces upper half, uncluttered lower quarter for subtitles. All paper, calendar, envelopes, cards, screens completely blank. Wooden tokens smooth, green rectangles without printing. Calculator keys/display completely blank. No badge, lanyard, necklace, seals, text, letters, numbers, logos, watermarks. Calm thoughtful expressions. Still-life only; no people or hands. No text, letters, numbers, logos or watermarks.",
+    "refs": [],
+    "image": "anh/shots/canh-05-20.png"
+  },
+  {
+    "id": "canh-05-21",
+    "scene": 5,
+    "from": 322,
+    "to": 337,
+    "text": "cho đủ hai mươi năm thì lương hưu lên ba triệu một trăm năm chục ngàn,",
+    "keyword": "",
+    "ref": true,
+    "prompt": "Flat 2D cartoon, thick outlines, warm colors,16:9. Use case: illustration-story. One fresh full-bleed landscape Vietnamese domestic story scene, not collage or character sheet. Exactly one person: Bac Sau, older Vietnamese man, grey side-part hair, dark rectangular glasses, beige plaid short sleeve shirt and brown trousers, one blue pen behind ear, red ledger. A red ledger beside two separate bowls of smooth wooden tokens. Side view with foreground table edge and depth. Reference sheets guide identity/style only. Natural anatomy, separate hands, collars and mask aligned with torso. Faces upper half, uncluttered lower quarter for subtitles. All paper, calendar, envelopes, cards, screens completely blank. Wooden tokens smooth, green rectangles without printing. Calculator keys/display completely blank. No badge, lanyard, necklace, seals, text, letters, numbers, logos, watermarks. Calm thoughtful expressions. Bac gently points with one index finger at the table object. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png"
+    ],
+    "image": "anh/shots/canh-05-21.png"
+  },
+  {
+    "id": "canh-05-22",
+    "scene": 5,
+    "from": 338,
+    "to": 350,
+    "text": "nhưng phải hơn tám năm bảy tháng mới hòa vốn, vì với nam,",
+    "keyword": "THÊM TIỀN ĐÓNG: 83 THÁNG",
+    "ref": false,
+    "prompt": "Flat 2D cartoon, thick outlines, warm colors,16:9. Use case: illustration-story. One fresh full-bleed landscape Vietnamese domestic story scene, not collage or character sheet. Exactly one person: Anh Tu, tan Vietnamese man35, tousled short black hair, plain olive green jacket over cream shirt, dark trousers, pale blue mask below chin, no glasses. Green helmet resting nearby. A red ledger beside two separate bowls of smooth wooden tokens. Balanced frontal medium composition. Reference sheets guide identity/style only. Natural anatomy, separate hands, collars and mask aligned with torso. Faces upper half, uncluttered lower quarter for subtitles. All paper, calendar, envelopes, cards, screens completely blank. Wooden tokens smooth, green rectangles without printing. Calculator keys/display completely blank. No badge, lanyard, necklace, seals, text, letters, numbers, logos, watermarks. Calm thoughtful expressions. Anh Tu has NO pen behind either ear and no pen on his clothes. Only thin white mask ear-loops, never a blue object near his hair. Anh Tu places his helmet down on the table, a calm smile. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "assets/nhan-vat/anh-tu.png"
+    ],
+    "image": "anh/shots/canh-05-22.png"
+  },
+  {
+    "id": "canh-05-23",
+    "scene": 5,
+    "from": 351,
+    "to": 366,
+    "text": "khúc từ năm mười sáu tới năm hai mươi mỗi năm chỉ thêm một phần trăm.",
+    "keyword": "",
+    "ref": true,
+    "prompt": "Flat 2D cartoon, thick outlines, warm colors,16:9. Use case: illustration-story. One fresh full-bleed landscape Vietnamese domestic story scene, not collage or character sheet. Exactly two people: Bac Sau older man with grey side-part hair, rectangular glasses, beige plaid short sleeve shirt, brown trousers, one blue pen behind ear; and Anh Tu tan man35, tousled black hair, olive green jacket over cream shirt, dark trousers, blue mask below chin. Never swap clothing/faces. A red ledger beside two separate bowls of smooth wooden tokens. Oblique overhead perspective towards the table. Reference sheets guide identity/style only. Natural anatomy, separate hands, collars and mask aligned with torso. Faces upper half, uncluttered lower quarter for subtitles. All paper, calendar, envelopes, cards, screens completely blank. Wooden tokens smooth, green rectangles without printing. Calculator keys/display completely blank. No badge, lanyard, necklace, seals, text, letters, numbers, logos, watermarks. Calm thoughtful expressions. Only Bac Sau has one blue pen behind ear. Anh Tu has no pen; mask ear-loops thin white. Bac rests his hand on the ledger, Anh Tu sets his helmet beside the table. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png",
+      "assets/nhan-vat/anh-tu.png"
+    ],
+    "image": "anh/shots/canh-05-23.png"
+  },
+  {
+    "id": "canh-06-01",
+    "scene": 6,
+    "from": 0,
+    "to": 17,
+    "text": "Anh Tư hỏi: \"Lỡ tui không đóng thêm được năm nào, để đó có mất trắng không Bác?\"",
+    "keyword": "",
+    "ref": true,
+    "prompt": "Flat 2D cartoon, thick outlines, warm colors, 16:9. [Reference: Bác Sáu character sheet] Match attached Bac Sau and Anh Tu character sheets exactly. Bac Sau gently sliding a plain folder into a wooden cabinet drawer; Anh Tu standing beside him nodding slowly, helmet in hand. Calm domestic scene, soft daylight. Plain props without any printed markings, no logos. No text, letters, numbers, logos or watermarks. One complete edge-to-edge scene, no panels. Keep faces above center; lower quarter uncluttered for subtitles. Calculator has entirely blank keys and display. Blue pen only once, either behind Bac ear or in his hand. Clothing and necklines consistent with torso; no lanyard/badge. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png",
+      "assets/nhan-vat/anh-tu.png"
+    ],
+    "image": "anh/canh-06.png"
+  },
+  {
+    "id": "canh-06-02",
+    "scene": 6,
+    "from": 18,
+    "to": 26,
+    "text": "Câu này nhiều người lo nhất. Luật ghi rõ:",
+    "keyword": "BẢO LƯU CÒN ĐƯỜNG CHỌN",
+    "ref": true,
+    "prompt": "Flat 2D cartoon, thick outlines, warm colors,16:9. Use case: illustration-story. One fresh full-bleed landscape Vietnamese domestic story scene, not collage or character sheet. Exactly one person: Bac Sau, older Vietnamese man, grey side-part hair, dark rectangular glasses, beige plaid short sleeve shirt and brown trousers, one blue pen behind ear, red ledger. A completely blank folder safely kept in an open wooden cabinet drawer. Elevated diagonal wide view. Reference sheets guide identity/style only. Natural anatomy, separate hands, collars and mask aligned with torso. Faces upper half, uncluttered lower quarter for subtitles. All paper, calendar, envelopes, cards, screens completely blank. Wooden tokens smooth, green rectangles without printing. Calculator keys/display completely blank. No badge, lanyard, necklace, seals, text, letters, numbers, logos, watermarks. Calm thoughtful expressions. Bac opens his palm explaining a careful choice. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png"
+    ],
+    "image": "anh/shots/canh-06-02.png"
+  },
+  {
+    "id": "canh-06-03",
+    "scene": 6,
+    "from": 27,
+    "to": 44,
+    "text": "người nghỉ việc mà chưa đủ điều kiện lương hưu, chưa hưởng một lần, thì được bảo lưu",
+    "keyword": "",
+    "ref": true,
+    "prompt": "Flat 2D cartoon, thick outlines, warm colors,16:9. Use case: illustration-story. One fresh full-bleed landscape Vietnamese domestic story scene, not collage or character sheet. Exactly two people: Bac Sau older man with grey side-part hair, rectangular glasses, beige plaid short sleeve shirt, brown trousers, one blue pen behind ear; and Anh Tu tan man35, tousled black hair, olive green jacket over cream shirt, dark trousers, blue mask below chin. Never swap clothing/faces. A completely blank folder safely kept in an open wooden cabinet drawer. Close waist-up view, natural clearly separated hands. Reference sheets guide identity/style only. Natural anatomy, separate hands, collars and mask aligned with torso. Faces upper half, uncluttered lower quarter for subtitles. All paper, calendar, envelopes, cards, screens completely blank. Wooden tokens smooth, green rectangles without printing. Calculator keys/display completely blank. No badge, lanyard, necklace, seals, text, letters, numbers, logos, watermarks. Calm thoughtful expressions. Only Bac Sau has one blue pen behind ear. Anh Tu has no pen; mask ear-loops thin white. Bac points at the object while Anh Tu listens, both hands visible. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png",
+      "assets/nhan-vat/anh-tu.png"
+    ],
+    "image": "anh/shots/canh-06-03.png"
+  },
+  {
+    "id": "canh-06-04",
+    "scene": 6,
+    "from": 45,
+    "to": 56,
+    "text": "thời gian đóng. Mười năm của anh nằm yên trong hồ sơ.",
+    "keyword": "BẢO LƯU CÒN ĐƯỜNG CHỌN",
+    "ref": false,
+    "prompt": "Flat 2D cartoon, thick outlines, warm colors,16:9. Use case: illustration-story. One fresh full-bleed landscape Vietnamese domestic story scene, not collage or character sheet. Objects only: no people, hands, arms, faces, bodies or silhouettes. A completely blank folder safely kept in an open wooden cabinet drawer. Wide environmental view from opposite side of room. Reference sheets guide identity/style only. Natural anatomy, separate hands, collars and mask aligned with torso. Faces upper half, uncluttered lower quarter for subtitles. All paper, calendar, envelopes, cards, screens completely blank. Wooden tokens smooth, green rectangles without printing. Calculator keys/display completely blank. No badge, lanyard, necklace, seals, text, letters, numbers, logos, watermarks. Calm thoughtful expressions. Still-life only; no people or hands. No text, letters, numbers, logos or watermarks.",
+    "refs": [],
+    "image": "anh/shots/canh-06-04.png"
+  },
+  {
+    "id": "canh-06-05",
+    "scene": 6,
+    "from": 57,
+    "to": 72,
+    "text": "Tới khi đủ tuổi nghỉ hưu mà chưa đủ mười lăm năm, anh vẫn được chọn.",
+    "keyword": "",
+    "ref": true,
+    "prompt": "Flat 2D cartoon, thick outlines, warm colors,16:9. Use case: illustration-story. One fresh full-bleed landscape Vietnamese domestic story scene, not collage or character sheet. Exactly one person: Bac Sau, older Vietnamese man, grey side-part hair, dark rectangular glasses, beige plaid short sleeve shirt and brown trousers, one blue pen behind ear, red ledger. A completely blank folder safely kept in an open wooden cabinet drawer. Side view with foreground table edge and depth. Reference sheets guide identity/style only. Natural anatomy, separate hands, collars and mask aligned with torso. Faces upper half, uncluttered lower quarter for subtitles. All paper, calendar, envelopes, cards, screens completely blank. Wooden tokens smooth, green rectangles without printing. Calculator keys/display completely blank. No badge, lanyard, necklace, seals, text, letters, numbers, logos, watermarks. Calm thoughtful expressions. Bac opens his palm explaining a careful choice. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png"
+    ],
+    "image": "anh/shots/canh-06-05.png"
+  },
+  {
+    "id": "canh-06-06",
+    "scene": 6,
+    "from": 73,
+    "to": 89,
+    "text": "Một là hưởng một lần, tính cũng theo kiểu hai tháng bình quân lương cho mỗi năm.",
+    "keyword": "BẢO LƯU CÒN ĐƯỜNG CHỌN",
+    "ref": false,
+    "prompt": "Flat 2D cartoon, thick outlines, warm colors,16:9. Use case: illustration-story. One fresh full-bleed landscape Vietnamese domestic story scene, not collage or character sheet. Exactly one person: Anh Tu, tan Vietnamese man35, tousled short black hair, plain olive green jacket over cream shirt, dark trousers, pale blue mask below chin, no glasses. Green helmet resting nearby. A completely blank folder safely kept in an open wooden cabinet drawer. Balanced frontal medium composition. Reference sheets guide identity/style only. Natural anatomy, separate hands, collars and mask aligned with torso. Faces upper half, uncluttered lower quarter for subtitles. All paper, calendar, envelopes, cards, screens completely blank. Wooden tokens smooth, green rectangles without printing. Calculator keys/display completely blank. No badge, lanyard, necklace, seals, text, letters, numbers, logos, watermarks. Calm thoughtful expressions. Anh Tu has NO pen behind either ear and no pen on his clothes. Only thin white mask ear-loops, never a blue object near his hair. Anh Tu rests one open hand on the folder and looks thoughtful. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "assets/nhan-vat/anh-tu.png"
+    ],
+    "image": "anh/shots/canh-06-06.png"
+  },
+  {
+    "id": "canh-06-07",
+    "scene": 6,
+    "from": 90,
+    "to": 107,
+    "text": "Hai là nhận trợ cấp hằng tháng từ chính khoản đã đóng; mức và số tháng nhận tùy",
+    "keyword": "",
+    "ref": true,
+    "prompt": "Flat 2D cartoon, thick outlines, warm colors,16:9. Use case: illustration-story. One fresh full-bleed landscape Vietnamese domestic story scene, not collage or character sheet. Exactly two people: Bac Sau older man with grey side-part hair, rectangular glasses, beige plaid short sleeve shirt, brown trousers, one blue pen behind ear; and Anh Tu tan man35, tousled black hair, olive green jacket over cream shirt, dark trousers, blue mask below chin. Never swap clothing/faces. A completely blank folder safely kept in an open wooden cabinet drawer. Oblique overhead perspective towards the table. Reference sheets guide identity/style only. Natural anatomy, separate hands, collars and mask aligned with torso. Faces upper half, uncluttered lower quarter for subtitles. All paper, calendar, envelopes, cards, screens completely blank. Wooden tokens smooth, green rectangles without printing. Calculator keys/display completely blank. No badge, lanyard, necklace, seals, text, letters, numbers, logos, watermarks. Calm thoughtful expressions. Only Bac Sau has one blue pen behind ear. Anh Tu has no pen; mask ear-loops thin white. Anh Tu gestures with one open hand while Bac nods. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png",
+      "assets/nhan-vat/anh-tu.png"
+    ],
+    "image": "anh/shots/canh-06-07.png"
+  },
+  {
+    "id": "canh-06-08",
+    "scene": 6,
+    "from": 108,
+    "to": 128,
+    "text": "quá trình đóng của mình. Nếu khoản đó không đủ để nhận tới tuổi hưởng trợ cấp hưu trí xã hội,",
+    "keyword": "BẢO LƯU CÒN ĐƯỜNG CHỌN",
+    "ref": false,
+    "prompt": "Flat 2D cartoon, thick outlines, warm colors,16:9. Use case: illustration-story. One fresh full-bleed landscape Vietnamese domestic story scene, not collage or character sheet. Objects only: no people, hands, arms, faces, bodies or silhouettes. A completely blank folder safely kept in an open wooden cabinet drawer. View through an open home doorway. Reference sheets guide identity/style only. Natural anatomy, separate hands, collars and mask aligned with torso. Faces upper half, uncluttered lower quarter for subtitles. All paper, calendar, envelopes, cards, screens completely blank. Wooden tokens smooth, green rectangles without printing. Calculator keys/display completely blank. No badge, lanyard, necklace, seals, text, letters, numbers, logos, watermarks. Calm thoughtful expressions. Still-life only; no people or hands. No text, letters, numbers, logos or watermarks.",
+    "refs": [],
+    "image": "anh/shots/canh-06-08.png"
+  },
+  {
+    "id": "canh-06-09",
+    "scene": 6,
+    "from": 129,
+    "to": 145,
+    "text": "mà luật đặt ở bảy mươi lăm tuổi, thì luật cho đóng một lần phần còn thiếu.",
+    "keyword": "",
+    "ref": false,
+    "prompt": "Flat 2D cartoon, thick outlines, warm colors,16:9. Use case: illustration-story. One fresh full-bleed landscape Vietnamese domestic story scene, not collage or character sheet. Exactly one person: Anh Tu, tan Vietnamese man35, tousled short black hair, plain olive green jacket over cream shirt, dark trousers, pale blue mask below chin, no glasses. Green helmet resting nearby. A completely blank folder safely kept in an open wooden cabinet drawer. Medium eye-level front three-quarter view. Reference sheets guide identity/style only. Natural anatomy, separate hands, collars and mask aligned with torso. Faces upper half, uncluttered lower quarter for subtitles. All paper, calendar, envelopes, cards, screens completely blank. Wooden tokens smooth, green rectangles without printing. Calculator keys/display completely blank. No badge, lanyard, necklace, seals, text, letters, numbers, logos, watermarks. Calm thoughtful expressions. Anh Tu has NO pen behind either ear and no pen on his clothes. Only thin white mask ear-loops, never a blue object near his hair. Anh Tu rests one open hand on the folder and looks thoughtful. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "assets/nhan-vat/anh-tu.png"
+    ],
+    "image": "anh/shots/canh-06-09.png"
+  },
+  {
+    "id": "canh-06-10",
+    "scene": 6,
+    "from": 146,
+    "to": 163,
+    "text": "Trong lúc nhận trợ cấp hằng tháng, ngân sách nhà nước đóng bảo hiểm y tế cho anh.",
+    "keyword": "KHÔNG BẢO ĐẢM SỨC MUA",
+    "ref": true,
+    "prompt": "Flat 2D cartoon, thick outlines, warm colors,16:9. Use case: illustration-story. One fresh full-bleed landscape Vietnamese domestic story scene, not collage or character sheet. Exactly one person: Bac Sau, older Vietnamese man, grey side-part hair, dark rectangular glasses, beige plaid short sleeve shirt and brown trousers, one blue pen behind ear, red ledger. A blank card, a plain folder and a closed wallet on the neat home shelf. Elevated diagonal wide view. Reference sheets guide identity/style only. Natural anatomy, separate hands, collars and mask aligned with torso. Faces upper half, uncluttered lower quarter for subtitles. All paper, calendar, envelopes, cards, screens completely blank. Wooden tokens smooth, green rectangles without printing. Calculator keys/display completely blank. No badge, lanyard, necklace, seals, text, letters, numbers, logos, watermarks. Calm thoughtful expressions. Bac holds a closed blank folder with both hands. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png"
+    ],
+    "image": "anh/shots/canh-06-10.png"
+  },
+  {
+    "id": "canh-06-11",
+    "scene": 6,
+    "from": 164,
+    "to": 186,
+    "text": "Luật có điều chỉnh tiền lương đã đóng theo chỉ số giá. Trong bảng của Bác, Bác giả định phần điều chỉnh đó",
+    "keyword": "",
+    "ref": true,
+    "prompt": "Flat 2D cartoon, thick outlines, warm colors,16:9. Use case: illustration-story. One fresh full-bleed landscape Vietnamese domestic story scene, not collage or character sheet. Exactly two people: Bac Sau older man with grey side-part hair, rectangular glasses, beige plaid short sleeve shirt, brown trousers, one blue pen behind ear; and Anh Tu tan man35, tousled black hair, olive green jacket over cream shirt, dark trousers, blue mask below chin. Never swap clothing/faces. A blank card, a plain folder and a closed wallet on the neat home shelf. Close waist-up view, natural clearly separated hands. Reference sheets guide identity/style only. Natural anatomy, separate hands, collars and mask aligned with torso. Faces upper half, uncluttered lower quarter for subtitles. All paper, calendar, envelopes, cards, screens completely blank. Wooden tokens smooth, green rectangles without printing. Calculator keys/display completely blank. No badge, lanyard, necklace, seals, text, letters, numbers, logos, watermarks. Calm thoughtful expressions. Only Bac Sau has one blue pen behind ear. Anh Tu has no pen; mask ear-loops thin white. Bac rests his hand on the ledger, Anh Tu sets his helmet beside the table. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png",
+      "assets/nhan-vat/anh-tu.png"
+    ],
+    "image": "anh/shots/canh-06-11.png"
+  },
+  {
+    "id": "canh-06-12",
+    "scene": 6,
+    "from": 187,
+    "to": 206,
+    "text": "giữ được sức mua, nên để tới tuổi hưu mới hưởng một lần thì cũng gần bằng rút hôm nay.",
+    "keyword": "KHÔNG BẢO ĐẢM SỨC MUA",
+    "ref": false,
+    "prompt": "Flat 2D cartoon, thick outlines, warm colors,16:9. Use case: illustration-story. One fresh full-bleed landscape Vietnamese domestic story scene, not collage or character sheet. Objects only: no people, hands, arms, faces, bodies or silhouettes. A blank card, a plain folder and a closed wallet on the neat home shelf. Wide environmental view from opposite side of room. Reference sheets guide identity/style only. Natural anatomy, separate hands, collars and mask aligned with torso. Faces upper half, uncluttered lower quarter for subtitles. All paper, calendar, envelopes, cards, screens completely blank. Wooden tokens smooth, green rectangles without printing. Calculator keys/display completely blank. No badge, lanyard, necklace, seals, text, letters, numbers, logos, watermarks. Calm thoughtful expressions. Still-life only; no people or hands. No text, letters, numbers, logos or watermarks.",
+    "refs": [],
+    "image": "anh/shots/canh-06-12.png"
+  },
+  {
+    "id": "canh-06-13",
+    "scene": 6,
+    "from": 207,
+    "to": 223,
+    "text": "Đó là giả định của Bác, luật không hứa chắc giá trị sau hai mươi mấy năm.",
+    "keyword": "",
+    "ref": true,
+    "prompt": "Flat 2D cartoon, thick outlines, warm colors,16:9. Use case: illustration-story. One fresh full-bleed landscape Vietnamese domestic story scene, not collage or character sheet. Exactly one person: Bac Sau, older Vietnamese man, grey side-part hair, dark rectangular glasses, beige plaid short sleeve shirt and brown trousers, one blue pen behind ear, red ledger. A blank card, a plain folder and a closed wallet on the neat home shelf. Side view with foreground table edge and depth. Reference sheets guide identity/style only. Natural anatomy, separate hands, collars and mask aligned with torso. Faces upper half, uncluttered lower quarter for subtitles. All paper, calendar, envelopes, cards, screens completely blank. Wooden tokens smooth, green rectangles without printing. Calculator keys/display completely blank. No badge, lanyard, necklace, seals, text, letters, numbers, logos, watermarks. Calm thoughtful expressions. Bac holds a closed blank folder with both hands. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png"
+    ],
+    "image": "anh/shots/canh-06-13.png"
+  },
+  {
+    "id": "canh-06-14",
+    "scene": 6,
+    "from": 224,
+    "to": 234,
+    "text": "Rút sớm, anh đổi được một thứ: cầm tiền sớm hơn.",
+    "keyword": "KHÔNG BẢO ĐẢM SỨC MUA",
+    "ref": false,
+    "prompt": "Flat 2D cartoon, thick outlines, warm colors,16:9. Use case: illustration-story. One fresh full-bleed landscape Vietnamese domestic story scene, not collage or character sheet. Exactly one person: Anh Tu, tan Vietnamese man35, tousled short black hair, plain olive green jacket over cream shirt, dark trousers, pale blue mask below chin, no glasses. Green helmet resting nearby. A blank card, a plain folder and a closed wallet on the neat home shelf. Balanced frontal medium composition. Reference sheets guide identity/style only. Natural anatomy, separate hands, collars and mask aligned with torso. Faces upper half, uncluttered lower quarter for subtitles. All paper, calendar, envelopes, cards, screens completely blank. Wooden tokens smooth, green rectangles without printing. Calculator keys/display completely blank. No badge, lanyard, necklace, seals, text, letters, numbers, logos, watermarks. Calm thoughtful expressions. Anh Tu has NO pen behind either ear and no pen on his clothes. Only thin white mask ear-loops, never a blue object near his hair. Anh Tu gently points with index finger toward the blank paper. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "assets/nhan-vat/anh-tu.png"
+    ],
+    "image": "anh/shots/canh-06-14.png"
+  },
+  {
+    "id": "canh-06-15",
+    "scene": 6,
+    "from": 235,
+    "to": 251,
+    "text": "Cái anh trả là mười năm đó không còn tính cho lương hưu. Nói cho công bằng:",
+    "keyword": "",
+    "ref": true,
+    "prompt": "Flat 2D cartoon, thick outlines, warm colors,16:9. Use case: illustration-story. One fresh full-bleed landscape Vietnamese domestic story scene, not collage or character sheet. Exactly two people: Bac Sau older man with grey side-part hair, rectangular glasses, beige plaid short sleeve shirt, brown trousers, one blue pen behind ear; and Anh Tu tan man35, tousled black hair, olive green jacket over cream shirt, dark trousers, blue mask below chin. Never swap clothing/faces. A blank card, a plain folder and a closed wallet on the neat home shelf. Oblique overhead perspective towards the table. Reference sheets guide identity/style only. Natural anatomy, separate hands, collars and mask aligned with torso. Faces upper half, uncluttered lower quarter for subtitles. All paper, calendar, envelopes, cards, screens completely blank. Wooden tokens smooth, green rectangles without printing. Calculator keys/display completely blank. No badge, lanyard, necklace, seals, text, letters, numbers, logos, watermarks. Calm thoughtful expressions. Only Bac Sau has one blue pen behind ear. Anh Tu has no pen; mask ear-loops thin white. Bac points at the object while Anh Tu listens, both hands visible. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png",
+      "assets/nhan-vat/anh-tu.png"
+    ],
+    "image": "anh/shots/canh-06-15.png"
+  },
+  {
+    "id": "canh-06-16",
+    "scene": 6,
+    "from": 252,
+    "to": 268,
+    "text": "tiền cầm hôm nay mà để yên một chỗ an toàn thì cũng sinh thêm ít nhiều,",
+    "keyword": "KHÔNG BẢO ĐẢM SỨC MUA",
+    "ref": false,
+    "prompt": "Flat 2D cartoon, thick outlines, warm colors,16:9. Use case: illustration-story. One fresh full-bleed landscape Vietnamese domestic story scene, not collage or character sheet. Objects only: no people, hands, arms, faces, bodies or silhouettes. A blank card, a plain folder and a closed wallet on the neat home shelf. View through an open home doorway. Reference sheets guide identity/style only. Natural anatomy, separate hands, collars and mask aligned with torso. Faces upper half, uncluttered lower quarter for subtitles. All paper, calendar, envelopes, cards, screens completely blank. Wooden tokens smooth, green rectangles without printing. Calculator keys/display completely blank. No badge, lanyard, necklace, seals, text, letters, numbers, logos, watermarks. Calm thoughtful expressions. Still-life only; no people or hands. No text, letters, numbers, logos or watermarks.",
+    "refs": [],
+    "image": "anh/shots/canh-06-16.png"
+  },
+  {
+    "id": "canh-06-17",
+    "scene": 6,
+    "from": 269,
+    "to": 288,
+    "text": "Bác không tính phần đó vô bảng. Nhưng anh Tư rút là để đổi xe, xài rồi thì nó hết.",
+    "keyword": "",
+    "ref": false,
+    "prompt": "Flat 2D cartoon, thick outlines, warm colors,16:9. Use case: illustration-story. One fresh full-bleed landscape Vietnamese domestic story scene, not collage or character sheet. Exactly one person: Anh Tu, tan Vietnamese man35, tousled short black hair, plain olive green jacket over cream shirt, dark trousers, pale blue mask below chin, no glasses. Green helmet resting nearby. A blank card, a plain folder and a closed wallet on the neat home shelf. Medium eye-level front three-quarter view. Reference sheets guide identity/style only. Natural anatomy, separate hands, collars and mask aligned with torso. Faces upper half, uncluttered lower quarter for subtitles. All paper, calendar, envelopes, cards, screens completely blank. Wooden tokens smooth, green rectangles without printing. Calculator keys/display completely blank. No badge, lanyard, necklace, seals, text, letters, numbers, logos, watermarks. Calm thoughtful expressions. Anh Tu has NO pen behind either ear and no pen on his clothes. Only thin white mask ear-loops, never a blue object near his hair. Anh Tu gently points with index finger toward the blank paper. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "assets/nhan-vat/anh-tu.png"
+    ],
+    "image": "anh/shots/canh-06-17.png"
+  },
+  {
+    "id": "canh-07-01",
+    "scene": 7,
+    "from": 0,
+    "to": 11,
+    "text": "Có mấy thứ sổ không ghi được. Thứ nhất là tuổi thọ.",
+    "keyword": "",
+    "ref": false,
+    "prompt": "Flat 2D cartoon, thick outlines, warm colors, 16:9. Match attached Anh Tu character sheet exactly. Anh Tu resting on his parked motorbike at the mouth of a Saigon alley at dusk, looking thoughtfully toward an elderly neighbor sitting peacefully on a plastic chair in front of his house with a glass of tea. Warm lantern light, gentle mood. Plain props without any printed markings, no logos. No text, letters, numbers, logos or watermarks. One complete edge-to-edge scene, no panels. Keep faces above center; lower quarter uncluttered for subtitles. Calculator has entirely blank keys and display. Blue pen only once, either behind Bac ear or in his hand. Clothing and necklines consistent with torso; no lanyard/badge. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "assets/nhan-vat/anh-tu.png"
+    ],
+    "image": "anh/canh-07.png"
+  },
+  {
+    "id": "canh-07-02",
+    "scene": 7,
+    "from": 12,
+    "to": 30,
+    "text": "Không ai biết mình sống tới bao lâu. Lương hưu như một tấm đệm: sống càng lâu nó càng",
+    "keyword": "TUỔI THỌ VÀ SỨC KHỎE",
+    "ref": true,
+    "prompt": "Flat 2D cartoon, thick outlines, warm colors,16:9. Use case: illustration-story. One fresh full-bleed landscape Vietnamese domestic story scene, not collage or character sheet. Exactly one person: Bac Sau, older Vietnamese man, grey side-part hair, dark rectangular glasses, beige plaid short sleeve shirt and brown trousers, one blue pen behind ear, red ledger. A parked generic green motorbike at a Saigon alley at dusk. Elevated diagonal wide view. Reference sheets guide identity/style only. Natural anatomy, separate hands, collars and mask aligned with torso. Faces upper half, uncluttered lower quarter for subtitles. All paper, calendar, envelopes, cards, screens completely blank. Wooden tokens smooth, green rectangles without printing. Calculator keys/display completely blank. No badge, lanyard, necklace, seals, text, letters, numbers, logos, watermarks. Calm thoughtful expressions. Bac opens his palm explaining a careful choice. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png"
+    ],
+    "image": "anh/shots/canh-07-02.png"
+  },
+  {
+    "id": "canh-07-03",
+    "scene": 7,
+    "from": 31,
+    "to": 45,
+    "text": "có lợi, mà sống lâu lại chính là lúc mình cần tiền đều đặn nhất.",
+    "keyword": "",
+    "ref": true,
+    "prompt": "Flat 2D cartoon, thick outlines, warm colors,16:9. Use case: illustration-story. One fresh full-bleed landscape Vietnamese domestic story scene, not collage or character sheet. Exactly two people: Bac Sau older man with grey side-part hair, rectangular glasses, beige plaid short sleeve shirt, brown trousers, one blue pen behind ear; and Anh Tu tan man35, tousled black hair, olive green jacket over cream shirt, dark trousers, blue mask below chin. Never swap clothing/faces. A parked generic green motorbike at a Saigon alley at dusk. Close waist-up view, natural clearly separated hands. Reference sheets guide identity/style only. Natural anatomy, separate hands, collars and mask aligned with torso. Faces upper half, uncluttered lower quarter for subtitles. All paper, calendar, envelopes, cards, screens completely blank. Wooden tokens smooth, green rectangles without printing. Calculator keys/display completely blank. No badge, lanyard, necklace, seals, text, letters, numbers, logos, watermarks. Calm thoughtful expressions. Only Bac Sau has one blue pen behind ear. Anh Tu has no pen; mask ear-loops thin white. Bac points at the object while Anh Tu listens, both hands visible. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png",
+      "assets/nhan-vat/anh-tu.png"
+    ],
+    "image": "anh/shots/canh-07-03.png"
+  },
+  {
+    "id": "canh-07-04",
+    "scene": 7,
+    "from": 46,
+    "to": 63,
+    "text": "Thứ hai là sức khỏe và việc làm. Anh Tư nói đi làm lại lúc nào cũng được,",
+    "keyword": "TUỔI THỌ VÀ SỨC KHỎE",
+    "ref": false,
+    "prompt": "Flat 2D cartoon, thick outlines, warm colors,16:9. Use case: illustration-story. One fresh full-bleed landscape Vietnamese domestic story scene, not collage or character sheet. Objects only: no people, hands, arms, faces, bodies or silhouettes. A parked generic green motorbike at a Saigon alley at dusk. Wide environmental view from opposite side of room. Reference sheets guide identity/style only. Natural anatomy, separate hands, collars and mask aligned with torso. Faces upper half, uncluttered lower quarter for subtitles. All paper, calendar, envelopes, cards, screens completely blank. Wooden tokens smooth, green rectangles without printing. Calculator keys/display completely blank. No badge, lanyard, necklace, seals, text, letters, numbers, logos, watermarks. Calm thoughtful expressions. Still-life only; no people or hands. No text, letters, numbers, logos or watermarks.",
+    "refs": [],
+    "image": "anh/shots/canh-07-04.png"
+  },
+  {
+    "id": "canh-07-05",
+    "scene": 7,
+    "from": 64,
+    "to": 80,
+    "text": "nhưng chạy xe mười mấy tiếng một ngày thì lưng không chờ mình. Năm năm đóng thêm,",
+    "keyword": "",
+    "ref": true,
+    "prompt": "Flat 2D cartoon, thick outlines, warm colors,16:9. Use case: illustration-story. One fresh full-bleed landscape Vietnamese domestic story scene, not collage or character sheet. Exactly one person: Bac Sau, older Vietnamese man, grey side-part hair, dark rectangular glasses, beige plaid short sleeve shirt and brown trousers, one blue pen behind ear, red ledger. A parked generic green motorbike at a Saigon alley at dusk. Side view with foreground table edge and depth. Reference sheets guide identity/style only. Natural anatomy, separate hands, collars and mask aligned with torso. Faces upper half, uncluttered lower quarter for subtitles. All paper, calendar, envelopes, cards, screens completely blank. Wooden tokens smooth, green rectangles without printing. Calculator keys/display completely blank. No badge, lanyard, necklace, seals, text, letters, numbers, logos, watermarks. Calm thoughtful expressions. Bac opens his palm explaining a careful choice. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png"
+    ],
+    "image": "anh/shots/canh-07-05.png"
+  },
+  {
+    "id": "canh-07-06",
+    "scene": 7,
+    "from": 81,
+    "to": 92,
+    "text": "dễ nhất là làm khi còn khỏe, đừng dồn hết về cuối.",
+    "keyword": "TUỔI THỌ VÀ SỨC KHỎE",
+    "ref": false,
+    "prompt": "Flat 2D cartoon, thick outlines, warm colors,16:9. Use case: illustration-story. One fresh full-bleed landscape Vietnamese domestic story scene, not collage or character sheet. Exactly one person: Anh Tu, tan Vietnamese man35, tousled short black hair, plain olive green jacket over cream shirt, dark trousers, pale blue mask below chin, no glasses. Green helmet resting nearby. A parked generic green motorbike at a Saigon alley at dusk. Balanced frontal medium composition. Reference sheets guide identity/style only. Natural anatomy, separate hands, collars and mask aligned with torso. Faces upper half, uncluttered lower quarter for subtitles. All paper, calendar, envelopes, cards, screens completely blank. Wooden tokens smooth, green rectangles without printing. Calculator keys/display completely blank. No badge, lanyard, necklace, seals, text, letters, numbers, logos, watermarks. Calm thoughtful expressions. Anh Tu has NO pen behind either ear and no pen on his clothes. Only thin white mask ear-loops, never a blue object near his hair. Anh Tu rests one open hand on the folder and looks thoughtful. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "assets/nhan-vat/anh-tu.png"
+    ],
+    "image": "anh/shots/canh-07-06.png"
+  },
+  {
+    "id": "canh-07-07",
+    "scene": 7,
+    "from": 93,
+    "to": 109,
+    "text": "Thứ ba là lúc cần tiền gấp thật. Có người rút vì nhà có người bệnh nặng,",
+    "keyword": "",
+    "ref": true,
+    "prompt": "Flat 2D cartoon, thick outlines, warm colors,16:9. Use case: illustration-story. One fresh full-bleed landscape Vietnamese domestic story scene, not collage or character sheet. Exactly two people: Bac Sau older man with grey side-part hair, rectangular glasses, beige plaid short sleeve shirt, brown trousers, one blue pen behind ear; and Anh Tu tan man35, tousled black hair, olive green jacket over cream shirt, dark trousers, blue mask below chin. Never swap clothing/faces. A helmet and tea glass on a bench after a long day, calm mood. Oblique overhead perspective towards the table. Reference sheets guide identity/style only. Natural anatomy, separate hands, collars and mask aligned with torso. Faces upper half, uncluttered lower quarter for subtitles. All paper, calendar, envelopes, cards, screens completely blank. Wooden tokens smooth, green rectangles without printing. Calculator keys/display completely blank. No badge, lanyard, necklace, seals, text, letters, numbers, logos, watermarks. Calm thoughtful expressions. Only Bac Sau has one blue pen behind ear. Anh Tu has no pen; mask ear-loops thin white. Anh Tu gestures with one open hand while Bac nods. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png",
+      "assets/nhan-vat/anh-tu.png"
+    ],
+    "image": "anh/shots/canh-07-07.png"
+  },
+  {
+    "id": "canh-07-08",
+    "scene": 7,
+    "from": 110,
+    "to": 131,
+    "text": "không còn đường nào khác. Luật cũng có trường hợp riêng cho người mắc một số bệnh nặng được hưởng một lần.",
+    "keyword": "ĐÓNG VỪA SỨC",
+    "ref": false,
+    "prompt": "Flat 2D cartoon, thick outlines, warm colors,16:9. Use case: illustration-story. One fresh full-bleed landscape Vietnamese domestic story scene, not collage or character sheet. Objects only: no people, hands, arms, faces, bodies or silhouettes. A helmet and tea glass on a bench after a long day, calm mood. View through an open home doorway. Reference sheets guide identity/style only. Natural anatomy, separate hands, collars and mask aligned with torso. Faces upper half, uncluttered lower quarter for subtitles. All paper, calendar, envelopes, cards, screens completely blank. Wooden tokens smooth, green rectangles without printing. Calculator keys/display completely blank. No badge, lanyard, necklace, seals, text, letters, numbers, logos, watermarks. Calm thoughtful expressions. Still-life only; no people or hands. No text, letters, numbers, logos or watermarks.",
+    "refs": [],
+    "image": "anh/shots/canh-07-08.png"
+  },
+  {
+    "id": "canh-07-09",
+    "scene": 7,
+    "from": 132,
+    "to": 153,
+    "text": "Bác không trách ai rút vì chuyện đó. Bác chỉ muốn bà con rút vì đã tính, chứ không phải vì thấy",
+    "keyword": "",
+    "ref": false,
+    "prompt": "Flat 2D cartoon, thick outlines, warm colors,16:9. Use case: illustration-story. One fresh full-bleed landscape Vietnamese domestic story scene, not collage or character sheet. Exactly one person: Anh Tu, tan Vietnamese man35, tousled short black hair, plain olive green jacket over cream shirt, dark trousers, pale blue mask below chin, no glasses. Green helmet resting nearby. A helmet and tea glass on a bench after a long day, calm mood. Medium eye-level front three-quarter view. Reference sheets guide identity/style only. Natural anatomy, separate hands, collars and mask aligned with torso. Faces upper half, uncluttered lower quarter for subtitles. All paper, calendar, envelopes, cards, screens completely blank. Wooden tokens smooth, green rectangles without printing. Calculator keys/display completely blank. No badge, lanyard, necklace, seals, text, letters, numbers, logos, watermarks. Calm thoughtful expressions. Anh Tu has NO pen behind either ear and no pen on his clothes. Only thin white mask ear-loops, never a blue object near his hair. Anh Tu rests one open hand on the folder and looks thoughtful. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "assets/nhan-vat/anh-tu.png"
+    ],
+    "image": "anh/shots/canh-07-09.png"
+  },
+  {
+    "id": "canh-07-10",
+    "scene": 7,
+    "from": 154,
+    "to": 166,
+    "text": "một cục tiền nằm đó. Thứ tư là kỷ luật của chính mình.",
+    "keyword": "ĐÓNG VỪA SỨC",
+    "ref": true,
+    "prompt": "Use case: precise-object-edit. The first reference image is the EDIT TARGET. Replace ONLY its helmet with the plain olive-green OPEN-FACE MOTORCYCLE HELMET shown in the second reference character sheet: smooth ROUND short fiberglass shell, black cushioned interior, red chin-strap buckle. NO pith helmet, NO wide brim, NO military design, NO canvas cover, NO blue/white shell and NO clear visor. Second reference is a PROP guide only: do not add Anh Tu or other objects from that sheet. If a third reference is present it is Bac Sau identity guide only, preserve his existing face/clothing exactly. Preserve ALL other content, exact people count, faces, poses, anatomy, hands, paper, background, warm flat2D-cartoon style,16:9 full bleed composition. Do not add people, text, letters, numbers, logos, emblems or watermarks. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "videos/13-luong-huu-bhxh/anh/shots/nhap/canh-07-10-v1.png",
+      "assets/nhan-vat/anh-tu.png",
+      "assets/nhan-vat/bang-nhan-vat.png"
+    ],
+    "image": "anh/shots/canh-07-10-v2.png",
+    "selectedVersion": "v2"
+  },
+  {
+    "id": "canh-07-11",
+    "scene": 7,
+    "from": 167,
+    "to": 180,
+    "text": "Đóng tự nguyện là tự bỏ tiền mỗi tháng, không ai trừ lương giùm.",
+    "keyword": "",
+    "ref": true,
+    "prompt": "Flat 2D cartoon, thick outlines, warm colors,16:9. Use case: illustration-story. One fresh full-bleed landscape Vietnamese domestic story scene, not collage or character sheet. Exactly two people: Bac Sau older man with grey side-part hair, rectangular glasses, beige plaid short sleeve shirt, brown trousers, one blue pen behind ear; and Anh Tu tan man35, tousled black hair, olive green jacket over cream shirt, dark trousers, blue mask below chin. Never swap clothing/faces. A helmet and tea glass on a bench after a long day, calm mood. Close waist-up view, natural clearly separated hands. Reference sheets guide identity/style only. Natural anatomy, separate hands, collars and mask aligned with torso. Faces upper half, uncluttered lower quarter for subtitles. All paper, calendar, envelopes, cards, screens completely blank. Wooden tokens smooth, green rectangles without printing. Calculator keys/display completely blank. No badge, lanyard, necklace, seals, text, letters, numbers, logos, watermarks. Calm thoughtful expressions. Only Bac Sau has one blue pen behind ear. Anh Tu has no pen; mask ear-loops thin white. Bac rests his hand on the ledger, Anh Tu sets his helmet beside the table. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png",
+      "assets/nhan-vat/anh-tu.png"
+    ],
+    "image": "anh/shots/canh-07-11.png"
+  },
+  {
+    "id": "canh-07-12",
+    "scene": 7,
+    "from": 181,
+    "to": 202,
+    "text": "Muốn đi đường này thì chọn mức đóng vừa sức, đều đặn được, chứ đừng chọn mức cao rồi đứt giữa chừng.",
+    "keyword": "ĐÓNG VỪA SỨC",
+    "ref": false,
+    "prompt": "Use case: precise-object-edit. The first reference image is the EDIT TARGET. Replace ONLY its helmet with the plain olive-green OPEN-FACE MOTORCYCLE HELMET shown in the second reference character sheet: smooth ROUND short fiberglass shell, black cushioned interior, red chin-strap buckle. NO pith helmet, NO wide brim, NO military design, NO canvas cover, NO blue/white shell and NO clear visor. Second reference is a PROP guide only: do not add Anh Tu or other objects from that sheet. If a third reference is present it is Bac Sau identity guide only, preserve his existing face/clothing exactly. Preserve ALL other content, exact people count, faces, poses, anatomy, hands, paper, background, warm flat2D-cartoon style,16:9 full bleed composition. Do not add people, text, letters, numbers, logos, emblems or watermarks. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "videos/13-luong-huu-bhxh/anh/shots/nhap/canh-07-12-v1.png",
+      "assets/nhan-vat/anh-tu.png"
+    ],
+    "image": "anh/shots/canh-07-12-v2.png",
+    "selectedVersion": "v2"
+  },
+  {
+    "id": "canh-08-01",
+    "scene": 8,
+    "from": 0,
+    "to": 19,
+    "text": "Một trăm bốn chục triệu rút hôm nay chỉ bằng năm mươi tháng lương hưu hai triệu tám trăm ngàn.",
+    "keyword": "",
+    "ref": true,
+    "prompt": "Use case: object-removal inpainting. The one reference is the EDIT TARGET. Completely REMOVE THE ENTIRE CALCULATOR OBJECT from the lower right foreground, including every button, screen and all its shadows. Reconstruct clean uninterrupted natural wooden tabletop in the exact footprint where the calculator was. That place must be EMPTY TABLE, no replacement object, no keyboard, no machine, no calculator. Preserve every other object and exact people count, identity, faces, hairstyles, glasses, pen, clothing, hands, poses, helmet, teapot, ledger, lighting, warm flat2D illustration style and 16:9 framing. Preserve all blank pages and unprinted props. No text, glyphs, symbols, numbers, logos, signatures or watermarks anywhere. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "videos/13-luong-huu-bhxh/anh/nhap/base-08-v2-before-object-removal.png"
+    ],
+    "image": "anh/canh-08.png",
+    "selectedVersion": "v3"
+  },
+  {
+    "id": "canh-08-02",
+    "scene": 8,
+    "from": 20,
+    "to": 35,
+    "text": "Đóng thêm năm năm, nếu mọi giả định giữ nguyên, khoảng sáu mươi chín tuổi là",
+    "keyword": "TRA QUÁ TRÌNH ĐÓNG THẬT",
+    "ref": true,
+    "prompt": "Use case: object-removal inpainting. The one reference is the EDIT TARGET. Completely REMOVE THE ENTIRE CALCULATOR OBJECT from the lower right foreground, including every button, screen and all its shadows. Reconstruct clean uninterrupted natural wooden tabletop in the exact footprint where the calculator was. That place must be EMPTY TABLE, no replacement object, no keyboard, no machine, no calculator. Preserve every other object and exact people count, identity, faces, hairstyles, glasses, pen, clothing, hands, poses, helmet, teapot, ledger, lighting, warm flat2D illustration style and 16:9 framing. Preserve all blank pages and unprinted props. No text, glyphs, symbols, numbers, logos, signatures or watermarks anywhere. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "videos/13-luong-huu-bhxh/anh/shots/nhap/canh-08-02-v3-before-object-removal.png"
+    ],
+    "image": "anh/shots/canh-08-02-v4.png",
+    "selectedVersion": "v4"
+  },
+  {
+    "id": "canh-08-03",
+    "scene": 8,
+    "from": 36,
+    "to": 45,
+    "text": "anh Tư gỡ lại đủ, phần sau là phần dư.",
+    "keyword": "",
+    "ref": true,
+    "prompt": "Flat 2D cartoon, thick outlines, warm colors,16:9. Use case: illustration-story. One fresh full-bleed landscape Vietnamese domestic story scene, not collage or character sheet. Exactly two people: Bac Sau older man with grey side-part hair, rectangular glasses, beige plaid short sleeve shirt, brown trousers, one blue pen behind ear; and Anh Tu tan man35, tousled black hair, olive green jacket over cream shirt, dark trousers, blue mask below chin. Never swap clothing/faces. A folded blank unsigned form beside a green helmet on a tea table. Close waist-up view, natural clearly separated hands. Reference sheets guide identity/style only. Natural anatomy, separate hands, collars and mask aligned with torso. Faces upper half, uncluttered lower quarter for subtitles. All paper, calendar, envelopes, cards, screens completely blank. Wooden tokens smooth, green rectangles without printing. Calculator keys/display completely blank. No badge, lanyard, necklace, seals, text, letters, numbers, logos, watermarks. Calm thoughtful expressions. Only Bac Sau has one blue pen behind ear. Anh Tu has no pen; mask ear-loops thin white. Bac points at the object while Anh Tu listens, both hands visible. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png",
+      "assets/nhan-vat/anh-tu.png"
+    ],
+    "image": "anh/shots/canh-08-03.png"
+  },
+  {
+    "id": "canh-08-04",
+    "scene": 8,
+    "from": 46,
+    "to": 58,
+    "text": "Anh Tư gấp tờ đơn bỏ vô túi áo. Anh nói chưa ký.",
+    "keyword": "TRA QUÁ TRÌNH ĐÓNG THẬT",
+    "ref": false,
+    "prompt": "Use case: precise-object-edit. The single reference is the edit target. Remove ALL tiny lettering, digits, arithmetic symbols, logos, signatures, watermark marks and pseudo-writing anywhere in the image. Make every calculator key and display entirely plain blank solid color while preserving key shapes and colors. In particular remove any small white pseudo-signature at bottom right. Preserve exact people count, all faces, hairstyles, glasses, clothing, hands, poses, olive-green motorcycle helmet, scenery, warm flat2D illustration style, lighting and edge-to-edge 16:9 composition. Change nothing except the printed/glyph markings. No new text or objects. No border. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "videos/13-luong-huu-bhxh/anh/shots/nhap/canh-08-04-v2-before-detail-fix.png"
+    ],
+    "image": "anh/shots/canh-08-04-v3.png",
+    "selectedVersion": "v3"
+  },
+  {
+    "id": "canh-08-05",
+    "scene": 8,
+    "from": 59,
+    "to": 83,
+    "text": "Anh sẽ tra lại quá trình đóng của mình trên ứng dụng hoặc ở cơ quan bảo hiểm xã hội, coi đúng mười năm chưa,",
+    "keyword": "",
+    "ref": true,
+    "prompt": "Use case: precise-object-edit. The first reference image is the EDIT TARGET. Replace ONLY its helmet with the plain olive-green OPEN-FACE MOTORCYCLE HELMET shown in the second reference character sheet: smooth ROUND short fiberglass shell, black cushioned interior, red chin-strap buckle. NO pith helmet, NO wide brim, NO military design, NO canvas cover, NO blue/white shell and NO clear visor. Second reference is a PROP guide only: do not add Anh Tu or other objects from that sheet. If a third reference is present it is Bac Sau identity guide only, preserve his existing face/clothing exactly. Preserve ALL other content, exact people count, faces, poses, anatomy, hands, paper, background, warm flat2D-cartoon style,16:9 full bleed composition. Do not add people, text, letters, numbers, logos, emblems or watermarks. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "videos/13-luong-huu-bhxh/anh/shots/nhap/canh-08-05-v1.png",
+      "assets/nhan-vat/anh-tu.png",
+      "assets/nhan-vat/bang-nhan-vat.png"
+    ],
+    "image": "anh/shots/canh-08-05-v2.png",
+    "selectedVersion": "v2"
+  },
+  {
+    "id": "canh-08-06",
+    "scene": 8,
+    "from": 84,
+    "to": 101,
+    "text": "bình quân lương thật là bao nhiêu. Rồi anh tính chuyện đóng tự nguyện một mức vừa sức,",
+    "keyword": "TRA QUÁ TRÌNH ĐÓNG THẬT",
+    "ref": false,
+    "prompt": "Flat 2D cartoon, thick outlines, warm colors,16:9. Use case: illustration-story. One fresh full-bleed landscape Vietnamese domestic story scene, not collage or character sheet. Exactly one person: Anh Tu, tan Vietnamese man35, tousled short black hair, plain olive green jacket over cream shirt, dark trousers, pale blue mask below chin, no glasses. Green helmet resting nearby. A folded blank unsigned form beside a green helmet on a tea table. Balanced frontal medium composition. Reference sheets guide identity/style only. Natural anatomy, separate hands, collars and mask aligned with torso. Faces upper half, uncluttered lower quarter for subtitles. All paper, calendar, envelopes, cards, screens completely blank. Wooden tokens smooth, green rectangles without printing. Calculator keys/display completely blank. No badge, lanyard, necklace, seals, text, letters, numbers, logos, watermarks. Calm thoughtful expressions. Anh Tu has NO pen behind either ear and no pen on his clothes. Only thin white mask ear-loops, never a blue object near his hair. Anh Tu rests one open hand on the folder and looks thoughtful. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "assets/nhan-vat/anh-tu.png"
+    ],
+    "image": "anh/shots/canh-08-06.png"
+  },
+  {
+    "id": "canh-08-07",
+    "scene": 8,
+    "from": 102,
+    "to": 113,
+    "text": "trong lúc vẫn chạy xe. Bà con nhớ giùm Bác ba chuyện.",
+    "keyword": "",
+    "ref": true,
+    "prompt": "Flat 2D cartoon, thick outlines, warm colors,16:9. Use case: illustration-story. One fresh full-bleed landscape Vietnamese domestic story scene, not collage or character sheet. Exactly two people: Bac Sau older man with grey side-part hair, rectangular glasses, beige plaid short sleeve shirt, brown trousers, one blue pen behind ear; and Anh Tu tan man35, tousled black hair, olive green jacket over cream shirt, dark trousers, blue mask below chin. Never swap clothing/faces. A folded blank unsigned form beside a green helmet on a tea table. Oblique overhead perspective towards the table. Reference sheets guide identity/style only. Natural anatomy, separate hands, collars and mask aligned with torso. Faces upper half, uncluttered lower quarter for subtitles. All paper, calendar, envelopes, cards, screens completely blank. Wooden tokens smooth, green rectangles without printing. Calculator keys/display completely blank. No badge, lanyard, necklace, seals, text, letters, numbers, logos, watermarks. Calm thoughtful expressions. Only Bac Sau has one blue pen behind ear. Anh Tu has no pen; mask ear-loops thin white. Anh Tu gestures with one open hand while Bac nods. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png",
+      "assets/nhan-vat/anh-tu.png"
+    ],
+    "image": "anh/shots/canh-08-07.png"
+  },
+  {
+    "id": "canh-08-08",
+    "scene": 8,
+    "from": 114,
+    "to": 129,
+    "text": "Thứ nhất, trước khi rút, hỏi: số tiền này bằng mấy tháng lương hưu của mình?",
+    "keyword": "TRA QUÁ TRÌNH ĐÓNG THẬT",
+    "ref": false,
+    "prompt": "Use case: precise-object-edit. The first reference image is the EDIT TARGET. Replace ONLY its helmet with the plain olive-green OPEN-FACE MOTORCYCLE HELMET shown in the second reference character sheet: smooth ROUND short fiberglass shell, black cushioned interior, red chin-strap buckle. NO pith helmet, NO wide brim, NO military design, NO canvas cover, NO blue/white shell and NO clear visor. Second reference is a PROP guide only: do not add Anh Tu or other objects from that sheet. If a third reference is present it is Bac Sau identity guide only, preserve his existing face/clothing exactly. Preserve ALL other content, exact people count, faces, poses, anatomy, hands, paper, background, warm flat2D-cartoon style,16:9 full bleed composition. Do not add people, text, letters, numbers, logos, emblems or watermarks. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "videos/13-luong-huu-bhxh/anh/shots/nhap/canh-08-08-v1.png",
+      "assets/nhan-vat/anh-tu.png"
+    ],
+    "image": "anh/shots/canh-08-08-v2.png",
+    "selectedVersion": "v2"
+  },
+  {
+    "id": "canh-08-09",
+    "scene": 8,
+    "from": 130,
+    "to": 145,
+    "text": "Thứ hai, để yên thì mười năm vẫn được bảo lưu, tới tuổi vẫn được chọn;",
+    "keyword": "",
+    "ref": false,
+    "prompt": "Flat 2D cartoon, thick outlines, warm colors,16:9. Use case: illustration-story. One fresh full-bleed landscape Vietnamese domestic story scene, not collage or character sheet. Exactly one person: Anh Tu, tan Vietnamese man35, tousled short black hair, plain olive green jacket over cream shirt, dark trousers, pale blue mask below chin, no glasses. Green helmet resting nearby. A closed red ledger and teapot at the end of a calm home conversation. Medium eye-level front three-quarter view. Reference sheets guide identity/style only. Natural anatomy, separate hands, collars and mask aligned with torso. Faces upper half, uncluttered lower quarter for subtitles. All paper, calendar, envelopes, cards, screens completely blank. Wooden tokens smooth, green rectangles without printing. Calculator keys/display completely blank. No badge, lanyard, necklace, seals, text, letters, numbers, logos, watermarks. Calm thoughtful expressions. Anh Tu has NO pen behind either ear and no pen on his clothes. Only thin white mask ear-loops, never a blue object near his hair. Anh Tu rests one open hand on the folder and looks thoughtful. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "assets/nhan-vat/anh-tu.png"
+    ],
+    "image": "anh/shots/canh-08-09.png"
+  },
+  {
+    "id": "canh-08-10",
+    "scene": 8,
+    "from": 146,
+    "to": 159,
+    "text": "rút rồi thì mười năm đó không còn tính cho lương hưu. Thứ ba,",
+    "keyword": "HIỂU RỒI MỚI KÝ",
+    "ref": true,
+    "prompt": "Flat 2D cartoon, thick outlines, warm colors,16:9. Use case: illustration-story. One fresh full-bleed landscape Vietnamese domestic story scene, not collage or character sheet. Exactly one person: Bac Sau, older Vietnamese man, grey side-part hair, dark rectangular glasses, beige plaid short sleeve shirt and brown trousers, one blue pen behind ear, red ledger. A closed red ledger and teapot at the end of a calm home conversation. Elevated diagonal wide view. Reference sheets guide identity/style only. Natural anatomy, separate hands, collars and mask aligned with torso. Faces upper half, uncluttered lower quarter for subtitles. All paper, calendar, envelopes, cards, screens completely blank. Wooden tokens smooth, green rectangles without printing. Calculator keys/display completely blank. No badge, lanyard, necklace, seals, text, letters, numbers, logos, watermarks. Calm thoughtful expressions. Bac holds a closed blank folder with both hands. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png"
+    ],
+    "image": "anh/shots/canh-08-10.png"
+  },
+  {
+    "id": "canh-08-11",
+    "scene": 8,
+    "from": 160,
+    "to": 178,
+    "text": "con số trong video là của anh Tư; của mình thì phải tra đúng quá trình đóng và hỏi",
+    "keyword": "",
+    "ref": true,
+    "prompt": "Flat 2D cartoon, thick outlines, warm colors,16:9. Use case: illustration-story. One fresh full-bleed landscape Vietnamese domestic story scene, not collage or character sheet. Exactly two people: Bac Sau older man with grey side-part hair, rectangular glasses, beige plaid short sleeve shirt, brown trousers, one blue pen behind ear; and Anh Tu tan man35, tousled black hair, olive green jacket over cream shirt, dark trousers, blue mask below chin. Never swap clothing/faces. A closed red ledger and teapot at the end of a calm home conversation. Close waist-up view, natural clearly separated hands. Reference sheets guide identity/style only. Natural anatomy, separate hands, collars and mask aligned with torso. Faces upper half, uncluttered lower quarter for subtitles. All paper, calendar, envelopes, cards, screens completely blank. Wooden tokens smooth, green rectangles without printing. Calculator keys/display completely blank. No badge, lanyard, necklace, seals, text, letters, numbers, logos, watermarks. Calm thoughtful expressions. Only Bac Sau has one blue pen behind ear. Anh Tu has no pen; mask ear-loops thin white. Bac rests his hand on the ledger, Anh Tu sets his helmet beside the table. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png",
+      "assets/nhan-vat/anh-tu.png"
+    ],
+    "image": "anh/shots/canh-08-11.png"
+  },
+  {
+    "id": "canh-08-12",
+    "scene": 8,
+    "from": 179,
+    "to": 196,
+    "text": "cơ quan bảo hiểm xã hội trước khi quyết. Đây là cách tính, không phải lời khuyên tài",
+    "keyword": "HIỂU RỒI MỚI KÝ",
+    "ref": false,
+    "prompt": "Flat 2D cartoon, thick outlines, warm colors,16:9. Use case: illustration-story. One fresh full-bleed landscape Vietnamese domestic story scene, not collage or character sheet. Objects only: no people, hands, arms, faces, bodies or silhouettes. A closed red ledger and teapot at the end of a calm home conversation. Wide environmental view from opposite side of room. Reference sheets guide identity/style only. Natural anatomy, separate hands, collars and mask aligned with torso. Faces upper half, uncluttered lower quarter for subtitles. All paper, calendar, envelopes, cards, screens completely blank. Wooden tokens smooth, green rectangles without printing. Calculator keys/display completely blank. No badge, lanyard, necklace, seals, text, letters, numbers, logos, watermarks. Calm thoughtful expressions. Still-life only; no people or hands. No text, letters, numbers, logos or watermarks.",
+    "refs": [],
+    "image": "anh/shots/canh-08-12.png"
+  },
+  {
+    "id": "canh-08-13",
+    "scene": 8,
+    "from": 197,
+    "to": 215,
+    "text": "chính cho riêng ai. Nhà bà con có ai đang tính rút bảo hiểm xã hội một lần không?",
+    "keyword": "",
+    "ref": true,
+    "prompt": "Flat 2D cartoon, thick outlines, warm colors,16:9. Use case: illustration-story. One fresh full-bleed landscape Vietnamese domestic story scene, not collage or character sheet. Exactly one person: Bac Sau, older Vietnamese man, grey side-part hair, dark rectangular glasses, beige plaid short sleeve shirt and brown trousers, one blue pen behind ear, red ledger. A closed red ledger and teapot at the end of a calm home conversation. Side view with foreground table edge and depth. Reference sheets guide identity/style only. Natural anatomy, separate hands, collars and mask aligned with torso. Faces upper half, uncluttered lower quarter for subtitles. All paper, calendar, envelopes, cards, screens completely blank. Wooden tokens smooth, green rectangles without printing. Calculator keys/display completely blank. No badge, lanyard, necklace, seals, text, letters, numbers, logos, watermarks. Calm thoughtful expressions. Bac holds a closed blank folder with both hands. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png"
+    ],
+    "image": "anh/shots/canh-08-13.png"
+  },
+  {
+    "id": "canh-08-14",
+    "scene": 8,
+    "from": 216,
+    "to": 236,
+    "text": "Gửi video này cho họ coi trước khi ký. Bình luận cho Bác biết bà con đã đóng được mấy năm,",
+    "keyword": "HIỂU RỒI MỚI KÝ",
+    "ref": false,
+    "prompt": "Flat 2D cartoon, thick outlines, warm colors,16:9. Use case: illustration-story. One fresh full-bleed landscape Vietnamese domestic story scene, not collage or character sheet. Exactly one person: Anh Tu, tan Vietnamese man35, tousled short black hair, plain olive green jacket over cream shirt, dark trousers, pale blue mask below chin, no glasses. Green helmet resting nearby. A closed red ledger and teapot at the end of a calm home conversation. Balanced frontal medium composition. Reference sheets guide identity/style only. Natural anatomy, separate hands, collars and mask aligned with torso. Faces upper half, uncluttered lower quarter for subtitles. All paper, calendar, envelopes, cards, screens completely blank. Wooden tokens smooth, green rectangles without printing. Calculator keys/display completely blank. No badge, lanyard, necklace, seals, text, letters, numbers, logos, watermarks. Calm thoughtful expressions. Anh Tu has NO pen behind either ear and no pen on his clothes. Only thin white mask ear-loops, never a blue object near his hair. Anh Tu gently points with index finger toward the blank paper. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "assets/nhan-vat/anh-tu.png"
+    ],
+    "image": "anh/shots/canh-08-14.png"
+  },
+  {
+    "id": "canh-08-15",
+    "scene": 8,
+    "from": 237,
+    "to": 256,
+    "text": "đừng ghi số sổ hay thông tin cá nhân. Thấy cuốn sổ có ích thì đăng ký kênh Bác Sáu",
+    "keyword": "",
+    "ref": true,
+    "prompt": "Flat 2D cartoon, thick outlines, warm colors,16:9. Use case: illustration-story. One fresh full-bleed landscape Vietnamese domestic story scene, not collage or character sheet. Exactly two people: Bac Sau older man with grey side-part hair, rectangular glasses, beige plaid short sleeve shirt, brown trousers, one blue pen behind ear; and Anh Tu tan man35, tousled black hair, olive green jacket over cream shirt, dark trousers, blue mask below chin. Never swap clothing/faces. A closed red ledger and teapot at the end of a calm home conversation. Oblique overhead perspective towards the table. Reference sheets guide identity/style only. Natural anatomy, separate hands, collars and mask aligned with torso. Faces upper half, uncluttered lower quarter for subtitles. All paper, calendar, envelopes, cards, screens completely blank. Wooden tokens smooth, green rectangles without printing. Calculator keys/display completely blank. No badge, lanyard, necklace, seals, text, letters, numbers, logos, watermarks. Calm thoughtful expressions. Only Bac Sau has one blue pen behind ear. Anh Tu has no pen; mask ear-loops thin white. Bac points at the object while Anh Tu listens, both hands visible. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png",
+      "assets/nhan-vat/anh-tu.png"
+    ],
+    "image": "anh/shots/canh-08-15.png"
+  },
+  {
+    "id": "canh-08-16",
+    "scene": 8,
+    "from": 257,
+    "to": 270,
+    "text": "Sổ Sách nghen. Rút thì nhanh một lần. Để yên thì còn đường chọn.",
+    "keyword": "HIỂU RỒI MỚI KÝ",
+    "ref": false,
+    "prompt": "Flat 2D cartoon, thick outlines, warm colors,16:9. Use case: illustration-story. One fresh full-bleed landscape Vietnamese domestic story scene, not collage or character sheet. Objects only: no people, hands, arms, faces, bodies or silhouettes. A closed red ledger and teapot at the end of a calm home conversation. View through an open home doorway. Reference sheets guide identity/style only. Natural anatomy, separate hands, collars and mask aligned with torso. Faces upper half, uncluttered lower quarter for subtitles. All paper, calendar, envelopes, cards, screens completely blank. Wooden tokens smooth, green rectangles without printing. Calculator keys/display completely blank. No badge, lanyard, necklace, seals, text, letters, numbers, logos, watermarks. Calm thoughtful expressions. Still-life only; no people or hands. No text, letters, numbers, logos or watermarks.",
+    "refs": [],
+    "image": "anh/shots/canh-08-16.png"
+  }
+]

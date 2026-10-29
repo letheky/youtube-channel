@@ -1,0 +1,266 @@
+{
+  "status": "scheduled_studio_complete",
+  "permission": {
+    "humanAnswer": "cho phep den het thang",
+    "scope": "10-tiem-sua-xe-dau-hem only: one new TTS pass, edit/QA and scheduled upload",
+    "expiresAtVN": "2026-10-31T23:59:59+07:00",
+    "noOtherVideosAuthorized": true
+  },
+  "scriptCommitBeforeTts": "132f26b",
+  "permissionCommit": "0727dfc",
+  "tts": {
+    "onePass": true,
+    "requests": 10,
+    "forcedOrRepeatedScenes": 0,
+    "characters": 11114,
+    "credit": {
+      "remaining": 70806,
+      "used": 60194,
+      "limit": 131000,
+      "usedFor10": 4890
+    },
+    "sourceFilesLocked": 42,
+    "sourceHashFile": "D:/CodexTemp/bac-sau-video10/work/video-10-source-hashes.json"
+  },
+  "audioReview": {
+    "asrModel": "small int8 cpu",
+    "allScenesTranscribed": 10,
+    "criticalNumbersManuallyComparedWithTranscript": true,
+    "numbersMatch": true,
+    "runtimeCannotListenByEar": true,
+    "asrIsNotListeningByEar": true,
+    "evidence": "D:/CodexTemp/bac-sau-video10/outputs/video-10-qa/asr-canh-*.json",
+    "limits": "ASR phonetic substitutions in names/ordinary words; no numeric mismatch observed. No claim of auditory listening."
+  },
+  "assets": {
+    "shots": 148,
+    "baseImages": 11,
+    "newShotImagesNeeded": 138,
+    "imagesComplete": true,
+    "manualReviewComplete": true,
+    "differentShotImages": 148,
+    "newShotImages": 138,
+    "excludedShotDrafts": 9,
+    "selectedPngDecoded": 150,
+    "imageProvenance": "kich-ban/10-tiem-sua-xe-dau-hem.shot-image-provenance.json",
+    "protectedSourcesUnchanged": 252
+  },
+  "targetLongVN": "2026-10-27 18:00",
+  "targetShortVN": "2026-10-28 11:30",
+  "qaDeadlineVN": "2026-10-27 15:00",
+  "studio": {
+    "endScreen": {
+      "savedAndReopened": true,
+      "videoId": "PxqG898ad1o",
+      "subscribeChannelId": "UCb8J1ex5t19hvQx0lsbdB6A",
+      "start": "14:59:12",
+      "end": "15:09:12",
+      "fps": 30,
+      "durationSeconds": 10,
+      "verifiedDateVN": "2026-10-26",
+      "method": "Studio Brave window66974 imported latest long template, saved, reopened and selected both elements to confirm times and video title"
+    },
+    "aiDisclosureConfirmedInUi": true,
+    "aiDisclosureLongConfirmedInUi": true,
+    "aiDisclosureShortConfirmedInUi": true,
+    "aiDisclosureUiValue": "Yes, AI was used",
+    "aiDisclosureChangedThisRun": false,
+    "relatedVideo": {
+      "status": "saved_reloaded_verified",
+      "shortId": "S66ZLzarIm0",
+      "targetLongId": "oSBKd_oq7ZA",
+      "targetId": "oSBKd_oq7ZA",
+      "uiTitle": "Tiệm Sửa Xe Thu Gần 2 Triệu Mỗi Ngày: Chú Ba Còn Bao Nhiêu Tiền Công?",
+      "currentlyLinkedConfirmed": true,
+      "saved": true,
+      "savedAndReopened": true,
+      "reopened": true,
+      "verifiedAt": "2026-10-28T00:33:15.574551+00:00",
+      "verifiedAtVN": "2026-10-28T07:33:15.574551+07:00",
+      "changedThisRun": true,
+      "savePerformedThisRun": true,
+      "method": "Direct Studio Related title; title matched API long ID. #9 existing link inspected read-only; #10 selected, Save, Ctrl+R and new page state confirmed.",
+      "browserWindowId": 66974,
+      "apiEvidence": "D:\\CodexTemp\\bac-sau-video10\\outputs\\related-check28-api-after.json",
+      "privacyAndScheduleUnchanged": true,
+      "previousCheckpoint": {
+        "status": "pending_ui_confirmation_temporary_followup_expired",
+        "shortId": "S66ZLzarIm0",
+        "targetLongId": "oSBKd_oq7ZA",
+        "notBeforeVN": "2026-10-27T18:00:00+07:00",
+        "uiNoneObserved": "2026-10-26",
+        "followupAutomationId": "ho-n-t-t-li-n-k-t-short-9-v-10",
+        "followupAutomationDeleted": true,
+        "followupDeletedAt": "2026-10-27T18:10:16.138354+00:00",
+        "lastFollowupCheckVN": "2026-10-28T01:10:16.138354+07:00",
+        "noUiOrChannelActionThisRun": true,
+        "reason": "Heartbeat arrived 28/10 around 01:09 VN, after final allowed 27/10 follow-up window; no Studio or API operation.",
+        "nextCheckAutomationId": "c-p-nh-t-v-l-m-video-4-l-c-10h",
+        "nextCheckVN": "2026-10-28T10:00:00+07:00",
+        "shortPublishVN": "2026-10-28T11:30:00+07:00",
+        "existingVideo10PermissionExpiresVN": "2026-10-31T23:59:59+07:00"
+      }
+    },
+    "windowId": 66974,
+    "mainStudioTabKept": true,
+    "temporaryShortTabsOpened": 0,
+    "finalTab": "channel_analytics",
+    "noNewLoginOAuthOrIdentityVerification": true
+  },
+  "short": {
+    "file": "D:\\Repo\\bac-sau-so-sach\\videos\\10-tiem-sua-xe-dau-hem\\short\\short-10.mp4",
+    "duration": 46.5,
+    "lufs": -14.19,
+    "dBTP": -2.07,
+    "sha256": "40380b9b8c21192a64f82944fcc67711f17970a41a086ae41519486b8523ac76",
+    "silences": [
+      {
+        "start": 41.270479,
+        "end": 46.5
+      }
+    ]
+  },
+  "thumbnail": {
+    "file": "D:\\Repo\\bac-sau-so-sach\\videos\\10-tiem-sua-xe-dau-hem\\thumbnail-final.jpg",
+    "sha256": "8ea8a80caada7e1b0e376f97da22434dd6d438ec34460868acf39e47f80ef270",
+    "width": 1280,
+    "height": 720,
+    "visuallyReviewed": true
+  },
+  "render": {
+    "sessionId": 93168,
+    "rawFile": "D:/CodexTemp/bac-sau-video10/work/video10-full-raw.mp4",
+    "progressFile": "D:/CodexTemp/bac-sau-video10/work/video10-full-progress.json",
+    "durationInFrames": 27281,
+    "fps": 30,
+    "sourceCommit": "15565d7",
+    "doNotStartSecondRenderWhileActive": true
+  },
+  "tests": {
+    "typescriptPassed": true,
+    "nodeTestsPassed": 3,
+    "pythonTestsPassed": 3
+  },
+  "proof": {
+    "framesReviewed": 52,
+    "passed": true,
+    "previewSeconds": 60,
+    "previewLufs": -16.14,
+    "previewDbtp": -2.26,
+    "previewEncodedFramesReviewed": 6
+  },
+  "correctStudioWindowConfirmed": {
+    "id": 66974,
+    "channelId": "UCb8J1ex5t19hvQx0lsbdB6A",
+    "action": "read-only before upload; main analytics tab preserved"
+  },
+  "backup": {
+    "status": "verified_complete",
+    "destination": "ltky-drive:Bac Sau So Sach - backup/10-tiem-sua-xe-dau-hem",
+    "checkedAt": "2026-10-27T03:03:42.264396+00:00",
+    "files": [
+      {
+        "path": "10-tiem-sua-xe-dau-hem.mp4",
+        "sha256": "c29e8ef215a479d6c95a9c95925df65fab1cc18ebf86d4247a1c84f0014d8356"
+      },
+      {
+        "path": "short/short-10.mp4",
+        "sha256": "40380b9b8c21192a64f82944fcc67711f17970a41a086ae41519486b8523ac76"
+      },
+      {
+        "path": "thumbnail-final.jpg",
+        "sha256": "8ea8a80caada7e1b0e376f97da22434dd6d438ec34460868acf39e47f80ef270"
+      }
+    ],
+    "matchingFiles": 3,
+    "differences": 0,
+    "evidence": "D:\\CodexTemp\\bac-sau-video11\\outputs\\backup-10.json",
+    "existingConfigUsed": true,
+    "noNewOAuth": true
+  },
+  "qaCompletedAt": "2026-10-26T08:43:39.346489+00:00",
+  "qaCompletedBeforeDeadlineVN": true,
+  "uploadStatus": "scheduled_private_api_verified",
+  "long": {
+    "file": "D:\\Repo\\bac-sau-so-sach\\videos\\10-tiem-sua-xe-dau-hem\\10-tiem-sua-xe-dau-hem.mp4",
+    "duration": 909.4,
+    "lufs": -16.27,
+    "dBTP": -1.87,
+    "sha256": "c29e8ef215a479d6c95a9c95925df65fab1cc18ebf86d4247a1c84f0014d8356",
+    "silences": [
+      {
+        "start": 898.466292,
+        "end": 909.4
+      }
+    ]
+  },
+  "visual": {
+    "passed": true,
+    "longSha256": "c29e8ef215a479d6c95a9c95925df65fab1cc18ebf86d4247a1c84f0014d8356",
+    "shortSha256": "40380b9b8c21192a64f82944fcc67711f17970a41a086ae41519486b8523ac76",
+    "encodedLongFramesReviewed": 52,
+    "shortFramesReviewed": 8,
+    "previewEncodedFramesReviewed": 6,
+    "proofStillsReviewed": 52,
+    "contactPagesReviewed": 9,
+    "observations": "Reviewed all 52 encoded long frames on nine contact pages: scenes, numeric panels, actual keyword visibility, crossfade, quote, subscribe CTA and outro. Text readable, subtitles separate, character anatomy/accessories consistent; transition double exposure is intentional crossfade. Short eight encoded frames and preview six previously reviewed. No listening by ear; ASR and numerical comparison only.",
+    "runtimeCannotListenByEar": true
+  },
+  "streamDecode": {
+    "passed": true,
+    "longAndShortFullVideoAndAudio": true,
+    "errors": [],
+    "evidence": "D:\\CodexTemp\\bac-sau-video10\\outputs\\video-10-qa\\stream-decode-check.json"
+  },
+  "renderInputs": {
+    "count": 202,
+    "allHashesUnchanged": true,
+    "evidence": "D:\\CodexTemp\\bac-sau-video10\\work\\final-render-input-hashes.json"
+  },
+  "metadata": {
+    "longChapters": 10,
+    "longDescriptionBytes": 3296,
+    "spacingManuallyReviewed": true,
+    "shortNeedsRealLongUrl": false
+  },
+  "youtubeApi": {
+    "verifiedAt": "2026-10-26T08:56:06.619297+00:00",
+    "channelId": "UCb8J1ex5t19hvQx0lsbdB6A",
+    "allReady": true,
+    "evidence": "D:\\CodexTemp\\bac-sau-video10\\outputs\\youtube10-verification.json"
+  },
+  "endScreen": {
+    "savedAndReopened": true,
+    "videoId": "PxqG898ad1o",
+    "subscribeChannelId": "UCb8J1ex5t19hvQx0lsbdB6A",
+    "start": "14:59:12",
+    "end": "15:09:12",
+    "fps": 30,
+    "durationSeconds": 10,
+    "verifiedDateVN": "2026-10-26",
+    "method": "Studio Brave window66974 imported latest long template, saved, reopened and selected both elements to confirm times and video title"
+  },
+  "aiDisclosureUI": {
+    "long": "Yes",
+    "short": "Yes",
+    "verifiedDateVN": "2026-10-26",
+    "method": "Observed existing selected AI use Yes in Studio both IDs; no label changes saved"
+  },
+  "relatedVideo": {
+    "status": "pending_long_public",
+    "shortId": "S66ZLzarIm0",
+    "targetLongId": "oSBKd_oq7ZA",
+    "notBeforeVN": "2026-10-27T18:00:00+07:00",
+    "uiNoneObserved": "2026-10-26",
+    "followupAutomationId": "ho-n-t-t-li-n-k-t-short-9-v-10"
+  },
+  "studioSummary": "End screen #6 PxqG898ad1o + Đăng ký đã Save/mở lại xác nhận, cả hai 14:59:12–15:09:12 (30 fps). AI use Yes đã thấy sẵn ở UI dài/Short. Chỉ Related S66ZLzarIm0 → oSBKd_oq7ZA chờ dài public từ 27/10 18:00; follow-up giới hạn ho-n-t-t-li-n-k-t-short-9-v-10 đã tạo cho 26–27/10 18:05 và 21:05 dự phòng. Không đổi privacy/lịch.",
+  "lastApiObservation": {
+    "checkedAt": "2026-10-28T00:31:52.363477+00:00",
+    "channelId": "UCb8J1ex5t19hvQx0lsbdB6A",
+    "longPrivacy": "public",
+    "shortPrivacy": "private",
+    "shortPublishAt": "2026-10-28T04:30:00Z",
+    "metadataAndScheduleUnchanged": true
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "video": "11-vay-app-online",
+  "status": "scheduled_studio_related_pending",
+  "permissionCommit": "06c120c",
+  "permissionExpiresVN": "2026-11-04T23:59:59+07:00",
+  "scriptCommit": "2dc2679",
+  "voice": {
+    "ttsPasses": 1,
+    "sourceFilesLocked": 34,
+    "allProtectedSourceFiles": 286,
+    "creditUsed": 4025,
+    "creditRemaining": 66781,
+    "scene1Seconds": 34.844,
+    "firstSpokenMethodDisclaimerSeconds": 81.911,
+    "first45And60SecondRulesPassed": true,
+    "runtimeCannotListenByEar": true,
+    "asrSmallAll8Scenes": true,
+    "asrLargeFocusedScenes": [
+      4,
+      6
+    ],
+    "asrLargeFinalShort": true,
+    "criticalNumbersCompared": true,
+    "criticalNumberDiscrepancyFound": false,
+    "asrIsNotListeningByEar": true,
+    "possibleRecognitionErrors": "Ut/Úc, tín/tính and repeated fragments: do not infer perfect speech from ASR alone"
+  },
+  "short": {
+    "file": "D:\\Repo\\bac-sau-so-sach\\videos\\11-vay-app-online\\short\\short-11.mp4",
+    "duration": 47.2,
+    "lufs": -14.33,
+    "dBTP": -2.17,
+    "sha256": "ce732d07f733d6f17dcdb7c011005bfc2d8f786fab7a7c3c50d73c5de3abe21d",
+    "silences": [
+      {
+        "start": 41.85525,
+        "end": 47.2
+      }
+    ]
+  },
+  "shortVisual": {
+    "encodedFramesReviewed": 8,
+    "fullVideoAndAudioDecoded": true,
+    "numberLabelsAndSpacingPassed": true,
+    "source": "D:\\CodexTemp\\bac-sau-video11\\outputs\\video-11-qa\\short-final\\frames.json"
+  },
+  "assets": {
+    "plannedShots": 119,
+    "plannedNewShotImages": 111,
+    "selectedPngExpected": 120,
+    "manualReviewComplete": true,
+    "imagesComplete": true,
+    "imageReviewEvidence": "D:\\CodexTemp\\bac-sau-video11\\outputs\\video-11-qa\\image-review.json",
+    "newShotImagesSaved": 111,
+    "newShotImagesRemaining": 0,
+    "newShotImagesReviewed": 111,
+    "selectedPngDecoded": 120,
+    "differentShotImages": 119,
+    "protectedSourcesUnchanged": 286,
+    "shots": 119,
+    "baseImages": 9,
+    "newShotImages": 111
+  },
+  "thumbnail": {
+    "file": "D:\\Repo\\bac-sau-so-sach\\videos\\11-vay-app-online\\thumbnail-final.jpg",
+    "sha256": "6b0b9455c357084a8416057c0f92c9824b138c93e810e2f5a022bbce33fbde6e",
+    "width": 1280,
+    "height": 720,
+    "visuallyReviewed": true,
+    "selectedVersion": "v2"
+  },
+  "long": {
+    "file": "D:\\Repo\\bac-sau-so-sach\\videos\\11-vay-app-online\\11-vay-app-online.mp4",
+    "duration": 737.4,
+    "lufs": -16.2,
+    "dBTP": -1.96,
+    "sha256": "445406807e580f67fe4ff53dedb8680eb53a3f2a756f319b6c52cd2fb811632f",
+    "silences": [
+      {
+        "start": 726.351583,
+        "end": 737.4
+      }
+    ]
+  },
+  "studio": {
+    "status": "end_screen_and_ai_verified_related_pending",
+    "endScreen": {
+      "saved": true,
+      "reopened": true,
+      "verifiedAt": "2026-10-27T04:37:32.715756+00:00",
+      "suggestedVideoId": "PxqG898ad1o",
+      "targetVerification": "Unique title matched read-only API inventory; imported from #10 and re-opened on #11",
+      "subscribeChannelId": "UCb8J1ex5t19hvQx0lsbdB6A",
+      "startTime30fps": "12:07:12",
+      "endTime30fps": "12:17:12",
+      "seconds": 10
+    },
+    "aiDisclosureUI": {
+      "longConfirmed": true,
+      "shortConfirmed": true,
+      "longVerifiedAt": "2026-10-27T04:40:27.560354+00:00",
+      "longValue": "Yes",
+      "longAlreadySetByUploader": true,
+      "shortVerifiedAt": "2026-10-27T04:45:02.788393+00:00",
+      "shortValue": "Yes",
+      "shortAlreadySetByUploader": true,
+      "changedViaUI": false,
+      "formDirtyStateFromExpandingAdvancedDiscarded": true
+    },
+    "relatedVideo": {
+      "saved": false,
+      "reopened": false,
+      "status": "waiting_own_long_public",
+      "shortId": "7y3UWIKPuxI",
+      "targetVideoId": "wyLuWfJCNgU",
+      "eligibleAfterVN": "2026-10-28T18:00:00+07:00",
+      "observedUIValue": "None"
+    },
+    "browser": {
+      "app": "Brave",
+      "windowId": 66974,
+      "mainTabReturnedToChannelContent": true,
+      "temporaryTabsOpened": 0,
+      "personalWindowUntouched": true
+    }
+  },
+  "backup": {
+    "status": "verified",
+    "files": 3,
+    "completedAt": "2026-10-27T04:35:43.196313+00:00",
+    "destination": "ltky-drive:Bac Sau So Sach - backup/11-vay-app-online",
+    "evidence": "D:\\CodexTemp\\bac-sau-video11\\outputs\\backup-11.json",
+    "check": {
+      "exitCode": 0,
+      "log": "2026/10/27 11:35:40 NOTICE: ltky-drive: This remote uses rclone's shared Google Drive client_id, which is being retired and will stop working during 2026. Create your own client_id to avoid interruption: https://rclone.org/drive/#making-your-own-client-id\n2026/10/27 11:35:43 NOTICE: Google drive root 'Bac Sau So Sach - backup/11-vay-app-online': 0 differences found\n2026/10/27 11:35:43 NOTICE: Google drive root 'Bac Sau So Sach - backup/11-vay-app-online': 3 matching files\n"
+    }
+  },
+  "uploadStatus": "scheduled_api_verified",
+  "qaCompletedBeforeDeadlineVN": true,
+  "productionCheckpoint": {
+    "imageWorkerStopped": true,
+    "noBackgroundGenerationClaim": true,
+    "resumeOnlyMissingShotIds": "D:\\CodexTemp\\bac-sau-video11\\work\\pending-shot-ids11.json",
+    "humanEscapeAppliesToComputerUseNotNewTtsPermission": true,
+    "lastResumedAtVN": "2026-10-27T10:10:36.439601+07:00",
+    "activeWorkerCell": null,
+    "imageWorkerCompleted": true,
+    "renderSessionId": null,
+    "renderProgressEvidence": "D:/CodexTemp/bac-sau-video11/work/video11-full-progress.json",
+    "lastObservedAt": "2026-10-27T04:17:48.164416+00:00",
+    "renderCompleted": true,
+    "dailyAutomationUpdatedAt": "2026-10-27T04:46:28.530030+00:00",
+    "dailyAutomationId": "c-p-nh-t-v-l-m-video-4-l-c-10h",
+    "nextClaudeScriptRevision": "17c925a"
+  },
+  "qaCompletedAt": "2026-10-27T04:28:29.654184+00:00",
+  "visual": {
+    "passed": true,
+    "reviewedAt": "2026-10-27T04:28:28.259466+00:00",
+    "longSha256": "445406807e580f67fe4ff53dedb8680eb53a3f2a756f319b6c52cd2fb811632f",
+    "shortSha256": "ce732d07f733d6f17dcdb7c011005bfc2d8f786fab7a7c3c50d73c5de3abe21d",
+    "encodedLongFramesReviewed": 43,
+    "encodedContactPagesReviewed": 8,
+    "shortFramesReviewed": 8,
+    "previewEncodedFramesReviewed": 6,
+    "nativeStillFramesReviewed": 43,
+    "allScenesLedgersVisibleKeywordsQuoteCtaOutroReviewed": true,
+    "crossfadeAndRandomFramesReviewed": true,
+    "noTextSubtitleFaceOverlapFound": true,
+    "numbersAssumptionLabelsLegalExceptionsPassed": true,
+    "selectedImagesPreviouslyReviewed": 120,
+    "actualMp4Evidence": "D:\\CodexTemp\\bac-sau-video11\\outputs\\video-11-qa\\encoded-final\\frames.json",
+    "contactPages": "D:\\CodexTemp\\bac-sau-video11\\outputs\\video-11-qa\\encoded-contact",
+    "runtimeCannotListenByEar": true,
+    "asrIsNotListeningByEar": true
+  },
+  "streamDecode": {
+    "passed": true,
+    "longAndShortFullVideoAndAudio": true,
+    "errors": [],
+    "evidence": "D:\\CodexTemp\\bac-sau-video11\\outputs\\video-11-qa\\stream-decode-check.json"
+  },
+  "renderInputs": {
+    "count": 176,
+    "allHashesUnchanged": true,
+    "evidence": "D:\\CodexTemp\\bac-sau-video11\\work\\final-render-input-hashes.json"
+  },
+  "metadata": {
+    "longChapters": 8,
+    "longDescriptionBytes": 1353,
+    "spacingManuallyReviewed": true,
+    "shortNeedsRealLongUrl": false,
+    "apiExact": true,
+    "longDescriptionCharacters": 1139,
+    "shortDescriptionCharacters": 308
+  },
+  "apiVerification": {
+    "allReady": true,
+    "channelId": "UCb8J1ex5t19hvQx0lsbdB6A",
+    "checkedAt": "2026-10-27T04:43:09.071793+00:00",
+    "evidence": "D:\\CodexTemp\\bac-sau-video11\\outputs\\youtube11-verification.json",
+    "metadataExact": true,
+    "privateUntilSchedule": true,
+    "processingSucceededHD": true,
+    "longThumbnailAndVietnameseCaptionsServing": true
+  },
+  "finalLocalHashesRechecked": true,
+  "relatedVideoConfirmed29Oct": {
+    "checkedAt": "2026-10-29T03:38:36.631780+00:00",
+    "shortId": "7y3UWIKPuxI",
+    "targetId": "wyLuWfJCNgU",
+    "status": "saved_and_reloaded_confirmed",
+    "method": "Direct Studio UI Brave66974; selected unique title matched API ID, Save then Ctrl+R; read new document URL and Related title; Save disabled",
+    "uiEvidence": "D:\\CodexTemp\\bac-sau-video14\\outputs\\related11-reloaded-ui.txt",
+    "privacyScheduleChanged": false,
+    "otherMetadataChanged": false,
+    "apiEvidence": "D:\\CodexTemp\\bac-sau-video14\\outputs\\api29-before-related11.json"
+  }
+}

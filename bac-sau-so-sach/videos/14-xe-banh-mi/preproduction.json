@@ -1,0 +1,26 @@
+{
+  "video": "14-xe-banh-mi",
+  "status": "script_step4_pass_before_tts",
+  "scriptCommit": "816069e",
+  "permissionCommit": "06c120c",
+  "permissionExpiresVN": "2026-11-04T23:59:59+07:00",
+  "narrationCharacters": 8971,
+  "sceneCount": 8,
+  "estimatedCreditCeiling": 3948,
+  "step4": {
+    "mathFullChainPassed": true,
+    "claudeThreeChangesVerified": true,
+    "sourcesChecked29Oct": true,
+    "noArabicDigitsOrPercentInNarration": true,
+    "keywordScanPassedButNotServiceApproval": true,
+    "warningHistoryRead": true,
+    "hook422CharactersActualTimingToVerifyAfterTTS": true,
+    "ttsPasses": 0
+  },
+  "longTargetVN": "2026-10-30T18:00:00+07:00",
+  "shortTargetVN": "2026-10-31T11:30:00+07:00",
+  "qaDeadlineVN": "2026-10-30T15:00:00+07:00",
+  "voiceLocked": false,
+  "protectedPriorSourceFiles": 320,
+  "runtimeCannotListenByEar": true
+}

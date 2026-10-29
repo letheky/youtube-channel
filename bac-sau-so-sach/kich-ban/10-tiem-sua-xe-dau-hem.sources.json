@@ -1,0 +1,39 @@
+{
+  "checkedOn": "2026-10-26",
+  "scope": "Official policy checks only. All prices, demand, task durations, inventory, equipment reserve, office take-home and 1.2m insurance outlay are hypothetical inputs.",
+  "sources": [
+    {
+      "url": "https://baochinhphu.vn/chinh-thuc-nang-nguong-chiu-thue-voi-ho-kinh-doanh-len-01-ty-dong-nam-ap-dung-tu-1-1-2026-102260429185517215.htm",
+      "publishedOn": "2026-04-29",
+      "checked": "Opened full article, specifically changes to Articles3/4 under Decree141/2026 and effective date1Jan2026.",
+      "usedFor": "Assumed one shop and no other business revenue; both annual scenarios594m/617.76m below1bn, VAT/PIT business income not due in model. No above-threshold tax calculation.",
+      "notUsedFor": "No blanket exemption from reporting, all taxes, or insurance. No percentages borrowed from food/drink businesses."
+    },
+    {
+      "url": "https://xaydungchinhsach.chinhphu.vn/nghi-dinh-so-141-2026-nd-cp-quy-dinh-moi-ve-chinh-sach-thue-doi-voi-ho-kinh-doanh-doanh-nghiep-119260430091642895.htm",
+      "publishedOn": "2026-04-30",
+      "checked": "Official decree summary including threshold and invoicing provisions."
+    },
+    {
+      "url": "https://baohiemxahoi.gov.vn/tintuc/Pages/hoat-dong-he-thong-bao-hiem-xa-hoi.aspx?CateID=0&ItemID=27072",
+      "publishedOn": "2026-09 (search index)",
+      "checked": "Official-domain search returned Q&A stating2026 actual business revenue below1bn not in mandatory owner category. Direct web open failed; do not claim full page read or infer instructions for stopping/refunding contributions.",
+      "usedFor": "Avoid applying old mandatory25%+4.5% formula to this small-shop owner. Model instead explicitly assumes voluntary social insurance plus health insurance actual outlay1.2m, not a statutory calculation.",
+      "notUsedFor": "No benefit forecast or medical cost estimate; require actual personal file when applying outside model."
+    },
+    {
+      "url": "https://baochinhphu.vn/chu-ho-kinh-doanh-dong-bhxh-bat-buoc-muc-nao-102260727110631734.htm",
+      "publishedOn": "2026-07-27",
+      "checked": "Opened authority Q&A: compulsory owner social insurance25% on selected allowed base, not on revenue. No statutory1.2m claim.",
+      "usedInNarration": false
+    },
+    {
+      "url": "https://vbpl.moj.gov.vn/bonoivu/Pages/vbpq-toanvan.aspx?ItemID=183939",
+      "checked": "Decree293/2025 effective1Jan2026 for contractual workers, regional hourly minimum25500 in regionI.",
+      "usedInNarration": false,
+      "notUsedFor": "Not an owner earnings floor or office average. Office benchmark15m/176h is hypothetical."
+    }
+  ],
+  "legalNumbersInNarration": "Only1bn threshold and check date; no contribution rate, fixed insurance premium or employee minimum is presented as shop rule.",
+  "factHandling": "If inputs or scope change before voice, rerun complete calculation and review all narration/table/metadata. Do not change locked narration after TTS."
+}

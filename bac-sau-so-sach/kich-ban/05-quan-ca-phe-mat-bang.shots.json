@@ -1,0 +1,1942 @@
+[
+  {
+    "id": "canh-01-01",
+    "scene": 1,
+    "from": 0,
+    "to": 19,
+    "text": "Quán cà phê chiều nào cũng kín mấy bàn ngoài cửa, mà cô Bảy lại hỏi Bác chuyện sang quán.",
+    "keyword": "",
+    "ref": false,
+    "prompt": "",
+    "refs": [
+      "assets/nhan-vat/co-bay.png"
+    ],
+    "image": "anh/canh-01.png"
+  },
+  {
+    "id": "canh-01-02",
+    "scene": 1,
+    "from": 20,
+    "to": 36,
+    "text": "Nghe ngược đời hông bà con? Cô nói bán thì vẫn bán, nhưng tiền làm quán chưa",
+    "keyword": "TIỀN VỐN VỀ ĐÂU",
+    "ref": true,
+    "prompt": "Use case: illustration-story. One full-bleed landscape 16:9 Vietnamese financial explainer illustration. Flat 2D cartoon, thick clean dark-brown outlines, warm cream, sage and ochre palette, gentle cel shading. Exactly one Bac Sau, matching attached accountant sheet: elderly Vietnamese man, salt-and-pepper side-part hair, rectangular glasses, blue pen behind ear, beige checkered short sleeve shirt, brown trousers, red blank ledger. Accountant listens thoughtfully beside plum notebook and cafe key. Wide cafe establishing view with clear subjects on left. One coherent scene, no split panels. Natural anatomically correct limbs, hands, wrists and body orientation; no lanyards or ID cards. All pages, calculator keys, calendar, clock, cups, machines and envelopes completely blank and unlabeled. Smooth unmarked coins. No writing-like squiggles, letters, numbers, logos, watermarks, signatures or readable text. No readable text. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png"
+    ]
+  },
+  {
+    "id": "canh-01-03",
+    "scene": 1,
+    "from": 37,
+    "to": 52,
+    "text": "lấy về được bao nhiêu, hợp đồng thuê lại chẳng còn dài. Bác hỏi một câu:",
+    "keyword": "",
+    "ref": false,
+    "prompt": "Use case: illustration-story. One full-bleed landscape 16:9 Vietnamese financial explainer illustration. Flat 2D cartoon, thick clean dark-brown outlines, warm cream, sage and ochre palette, gentle cel shading. Exactly one Co Bay, matching attached woman sheet: 48-year-old Vietnamese woman, round medium-tan face, short softly wavy dark-brown bob, no glasses, plain sage-green short sleeve blouse, ochre waist apron correctly tied behind, dark-brown trousers, black slip-on shoes; plum-purple blank notebook. Cafe owner opens her blank plum notebook at an outdoor table. Low desk-height three-quarter composition. One coherent scene, no split panels. Natural anatomically correct limbs, hands, wrists and body orientation; no lanyards or ID cards. All pages, calculator keys, calendar, clock, cups, machines and envelopes completely blank and unlabeled. Smooth unmarked coins. No writing-like squiggles, letters, numbers, logos, watermarks, signatures or readable text. No readable text. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "assets/nhan-vat/co-bay.png"
+    ]
+  },
+  {
+    "id": "canh-01-04",
+    "scene": 1,
+    "from": 53,
+    "to": 64,
+    "text": "Con đang thấy khách đông, hay đã thấy tiền vốn quay về?",
+    "keyword": "CÂU CHUYỆN GIẢ ĐỊNH",
+    "ref": true,
+    "prompt": "Use case: illustration-story. One full-bleed landscape 16:9 Vietnamese financial explainer illustration. Flat 2D cartoon, thick clean dark-brown outlines, warm cream, sage and ochre palette, gentle cel shading. Two distinct people matching attached sheets: Bac Sau, elderly Vietnamese accountant with rectangular glasses, salt-and-pepper hair, beige checkered shirt and blue pen behind ear; Co Bay, 48-year-old Vietnamese woman with round medium-tan face, short wavy brown bob, plain sage blouse, ochre waist apron correctly tied behind, brown trousers. Red ledger belongs to Bac Sau, plum notebook to Co Bay. Accountant presents miniature cafe to cafe owner seated beside him. Overhead-oblique tabletop composition. One coherent scene, no split panels. Natural anatomically correct limbs, hands, wrists and body orientation; no lanyards or ID cards. All pages, calculator keys, calendar, clock, cups, machines and envelopes completely blank and unlabeled. Smooth unmarked coins. No writing-like squiggles, letters, numbers, logos, watermarks, signatures or readable text. No readable text. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png",
+      "assets/nhan-vat/co-bay.png"
+    ]
+  },
+  {
+    "id": "canh-01-05",
+    "scene": 1,
+    "from": 65,
+    "to": 81,
+    "text": "Bữa nay Bác kể một tình huống giả định, không phải chuyện của một quán có thật.",
+    "keyword": "",
+    "ref": false,
+    "prompt": "Use case: illustration-story. One full-bleed landscape 16:9 Vietnamese financial explainer illustration. Flat 2D cartoon, thick clean dark-brown outlines, warm cream, sage and ochre palette, gentle cel shading. Objects-only conceptual illustration. No people, human faces, human silhouettes, arms or hands. Cafe model, paint roller, espresso machine, deposit envelope and reserve jar on desk. Medium side view, natural body orientation. One coherent scene, no split panels. Natural anatomically correct limbs, hands, wrists and body orientation; no lanyards or ID cards. All pages, calculator keys, calendar, clock, cups, machines and envelopes completely blank and unlabeled. Smooth unmarked coins. No writing-like squiggles, letters, numbers, logos, watermarks, signatures or readable text. No readable text. No text, letters, numbers, logos or watermarks.",
+    "refs": []
+  },
+  {
+    "id": "canh-01-06",
+    "scene": 1,
+    "from": 82,
+    "to": 95,
+    "text": "Cô Bảy trong câu chuyện gom bốn trăm hai mươi triệu để mở quán.",
+    "keyword": "CHƯA BIẾT VỐN Ở ĐÂU",
+    "ref": false,
+    "prompt": "Use case: illustration-story. One full-bleed landscape 16:9 Vietnamese financial explainer illustration. Flat 2D cartoon, thick clean dark-brown outlines, warm cream, sage and ochre palette, gentle cel shading. Exactly one Co Bay, matching attached woman sheet: 48-year-old Vietnamese woman, round medium-tan face, short softly wavy dark-brown bob, no glasses, plain sage-green short sleeve blouse, ochre waist apron correctly tied behind, dark-brown trousers, black slip-on shoes; plum-purple blank notebook. Cafe owner considers several separate envelopes beside plum notebook. Medium eye-level composition. One coherent scene, no split panels. Natural anatomically correct limbs, hands, wrists and body orientation; no lanyards or ID cards. All pages, calculator keys, calendar, clock, cups, machines and envelopes completely blank and unlabeled. Smooth unmarked coins. No writing-like squiggles, letters, numbers, logos, watermarks, signatures or readable text. No readable text. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "assets/nhan-vat/co-bay.png"
+    ]
+  },
+  {
+    "id": "canh-01-07",
+    "scene": 1,
+    "from": 96,
+    "to": 108,
+    "text": "Có tiền xây sửa, tiền mua đồ, tiền cọc, cả quỹ dự phòng.",
+    "keyword": "",
+    "ref": true,
+    "prompt": "Use case: illustration-story. One full-bleed landscape 16:9 Vietnamese financial explainer illustration. Flat 2D cartoon, thick clean dark-brown outlines, warm cream, sage and ochre palette, gentle cel shading. Exactly one Bac Sau, matching attached accountant sheet: elderly Vietnamese man, salt-and-pepper side-part hair, rectangular glasses, blue pen behind ear, beige checkered short sleeve shirt, brown trousers, red blank ledger. Accountant opens red ledger beside old tea glass and cafe key. Close three-quarter view, uncluttered layered background. One coherent scene, no split panels. Natural anatomically correct limbs, hands, wrists and body orientation; no lanyards or ID cards. All pages, calculator keys, calendar, clock, cups, machines and envelopes completely blank and unlabeled. Smooth unmarked coins. No writing-like squiggles, letters, numbers, logos, watermarks, signatures or readable text. No readable text. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png"
+    ]
+  },
+  {
+    "id": "canh-01-08",
+    "scene": 1,
+    "from": 109,
+    "to": 124,
+    "text": "Thấy người ta ngồi uống đông chưa trả lời được bốn khoản đó đang ở đâu.",
+    "keyword": "TIỀN TRƯỚC NGÀY RỜI",
+    "ref": false,
+    "prompt": "Use case: illustration-story. One full-bleed landscape 16:9 Vietnamese financial explainer illustration. Flat 2D cartoon, thick clean dark-brown outlines, warm cream, sage and ochre palette, gentle cel shading. Objects-only conceptual illustration. No people, human faces, human silhouettes, arms or hands. Cafe model with key, unmarked calendar and smooth coin trail. Wide cafe establishing view with clear subjects on left. One coherent scene, no split panels. Natural anatomically correct limbs, hands, wrists and body orientation; no lanyards or ID cards. All pages, calculator keys, calendar, clock, cups, machines and envelopes completely blank and unlabeled. Smooth unmarked coins. No writing-like squiggles, letters, numbers, logos, watermarks, signatures or readable text. No readable text. No text, letters, numbers, logos or watermarks.",
+    "refs": []
+  },
+  {
+    "id": "canh-01-09",
+    "scene": 1,
+    "from": 125,
+    "to": 144,
+    "text": "Video quán trà sữa Bác đã bóc từng khoản chi mỗi ly rồi. Bữa nay mình mở cuốn sổ khác:",
+    "keyword": "",
+    "ref": true,
+    "prompt": "Use case: illustration-story. One full-bleed landscape 16:9 Vietnamese financial explainer illustration. Flat 2D cartoon, thick clean dark-brown outlines, warm cream, sage and ochre palette, gentle cel shading. Exactly one Bac Sau, matching attached accountant sheet: elderly Vietnamese man, salt-and-pepper side-part hair, rectangular glasses, blue pen behind ear, beige checkered short sleeve shirt, brown trousers, red blank ledger. Accountant puts blank lease next to red ledger. Low desk-height three-quarter composition. One coherent scene, no split panels. Natural anatomically correct limbs, hands, wrists and body orientation; no lanyards or ID cards. All pages, calculator keys, calendar, clock, cups, machines and envelopes completely blank and unlabeled. Smooth unmarked coins. No writing-like squiggles, letters, numbers, logos, watermarks, signatures or readable text. No readable text. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png"
+    ]
+  },
+  {
+    "id": "canh-01-10",
+    "scene": 1,
+    "from": 145,
+    "to": 162,
+    "text": "tiền bỏ ra trước ly đầu tiên, số tháng lấy lại tiền, rồi đặt cạnh thời hạn thuê.",
+    "keyword": "DƯ TIỀN CHƯA HOÀN VỐN",
+    "ref": false,
+    "prompt": "Use case: illustration-story. One full-bleed landscape 16:9 Vietnamese financial explainer illustration. Flat 2D cartoon, thick clean dark-brown outlines, warm cream, sage and ochre palette, gentle cel shading. Exactly one Co Bay, matching attached woman sheet: 48-year-old Vietnamese woman, round medium-tan face, short softly wavy dark-brown bob, no glasses, plain sage-green short sleeve blouse, ochre waist apron correctly tied behind, dark-brown trousers, black slip-on shoes; plum-purple blank notebook. Cafe owner holds small coin pile before a freshly decorated fixed wall. Overhead-oblique tabletop composition. One coherent scene, no split panels. Natural anatomically correct limbs, hands, wrists and body orientation; no lanyards or ID cards. All pages, calculator keys, calendar, clock, cups, machines and envelopes completely blank and unlabeled. Smooth unmarked coins. No writing-like squiggles, letters, numbers, logos, watermarks, signatures or readable text. No readable text. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "assets/nhan-vat/co-bay.png"
+    ]
+  },
+  {
+    "id": "canh-01-11",
+    "scene": 1,
+    "from": 163,
+    "to": 182,
+    "text": "Một quán có tiền dư mỗi tháng vẫn có thể chưa kịp lấy lại vốn khi tới ngày trả nhà.",
+    "keyword": "",
+    "ref": true,
+    "prompt": "Use case: illustration-story. One full-bleed landscape 16:9 Vietnamese financial explainer illustration. Flat 2D cartoon, thick clean dark-brown outlines, warm cream, sage and ochre palette, gentle cel shading. Exactly one Bac Sau, matching attached accountant sheet: elderly Vietnamese man, salt-and-pepper side-part hair, rectangular glasses, blue pen behind ear, beige checkered short sleeve shirt, brown trousers, red blank ledger. Accountant gently gestures toward glass cafe facade with thoughtful face. Medium side view, natural body orientation. One coherent scene, no split panels. Natural anatomically correct limbs, hands, wrists and body orientation; no lanyards or ID cards. All pages, calculator keys, calendar, clock, cups, machines and envelopes completely blank and unlabeled. Smooth unmarked coins. No writing-like squiggles, letters, numbers, logos, watermarks, signatures or readable text. No readable text. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png"
+    ]
+  },
+  {
+    "id": "canh-01-12",
+    "scene": 1,
+    "from": 183,
+    "to": 206,
+    "text": "Bà con đang coi mặt bằng thì khoan nhìn mỗi cái cửa kính đẹp. Lấy tờ hợp đồng để cạnh cuốn sổ giùm Bác.",
+    "keyword": "TIẾP TỤC HAY THƯƠNG LƯỢNG",
+    "ref": true,
+    "prompt": "Use case: illustration-story. One full-bleed landscape 16:9 Vietnamese financial explainer illustration. Flat 2D cartoon, thick clean dark-brown outlines, warm cream, sage and ochre palette, gentle cel shading. Two distinct people matching attached sheets: Bac Sau, elderly Vietnamese accountant with rectangular glasses, salt-and-pepper hair, beige checkered shirt and blue pen behind ear; Co Bay, 48-year-old Vietnamese woman with round medium-tan face, short wavy brown bob, plain sage blouse, ochre waist apron correctly tied behind, brown trousers. Red ledger belongs to Bac Sau, plum notebook to Co Bay. Accountant and owner review blank lease at cafe table, respectful calm dialogue. Medium eye-level composition. One coherent scene, no split panels. Natural anatomically correct limbs, hands, wrists and body orientation; no lanyards or ID cards. All pages, calculator keys, calendar, clock, cups, machines and envelopes completely blank and unlabeled. Smooth unmarked coins. No writing-like squiggles, letters, numbers, logos, watermarks, signatures or readable text. No readable text. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png",
+      "assets/nhan-vat/co-bay.png"
+    ]
+  },
+  {
+    "id": "canh-01-13",
+    "scene": 1,
+    "from": 207,
+    "to": 229,
+    "text": "Mình sẽ tính tới lúc cô Bảy phải quyết định: tiếp tục, thương lượng, hay mang được bao nhiêu tiền về nếu dừng.",
+    "keyword": "",
+    "ref": false,
+    "prompt": "Use case: illustration-story. One full-bleed landscape 16:9 Vietnamese financial explainer illustration. Flat 2D cartoon, thick clean dark-brown outlines, warm cream, sage and ochre palette, gentle cel shading. Exactly one Co Bay, matching attached woman sheet: 48-year-old Vietnamese woman, round medium-tan face, short softly wavy dark-brown bob, no glasses, plain sage-green short sleeve blouse, ochre waist apron correctly tied behind, dark-brown trousers, black slip-on shoes; plum-purple blank notebook. Cafe owner looks at portable espresso machine and handcart near doorway. Close three-quarter view, uncluttered layered background. One coherent scene, no split panels. Natural anatomically correct limbs, hands, wrists and body orientation; no lanyards or ID cards. All pages, calculator keys, calendar, clock, cups, machines and envelopes completely blank and unlabeled. Smooth unmarked coins. No writing-like squiggles, letters, numbers, logos, watermarks, signatures or readable text. No readable text. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "assets/nhan-vat/co-bay.png"
+    ]
+  },
+  {
+    "id": "canh-02-01",
+    "scene": 2,
+    "from": 0,
+    "to": 18,
+    "text": "Trước hết chia bốn trăm hai mươi triệu thành từng ngăn. Cải tạo với trang trí một trăm tám",
+    "keyword": "",
+    "ref": false,
+    "prompt": "",
+    "refs": [],
+    "image": "anh/canh-02.png"
+  },
+  {
+    "id": "canh-02-02",
+    "scene": 2,
+    "from": 19,
+    "to": 32,
+    "text": "chục triệu. Máy móc tám chục triệu. Bàn ghế, đồ dùng bốn chục triệu.",
+    "keyword": "CẢI TẠO VÀ TRANG TRÍ",
+    "ref": true,
+    "prompt": "Use case: illustration-story. One full-bleed landscape 16:9 Vietnamese financial explainer illustration. Flat 2D cartoon, thick clean dark-brown outlines, warm cream, sage and ochre palette, gentle cel shading. Exactly one Bac Sau, matching attached accountant sheet: elderly Vietnamese man, salt-and-pepper side-part hair, rectangular glasses, blue pen behind ear, beige checkered short sleeve shirt, brown trousers, red blank ledger. Accountant points toward fresh cafe wall, paint roller and ceiling lamp. Low desk-height three-quarter composition. One coherent scene, no split panels. Natural anatomically correct limbs, hands, wrists and body orientation; no lanyards or ID cards. All pages, calculator keys, calendar, clock, cups, machines and envelopes completely blank and unlabeled. Smooth unmarked coins. No writing-like squiggles, letters, numbers, logos, watermarks, signatures or readable text. No readable text. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png"
+    ]
+  },
+  {
+    "id": "canh-02-03",
+    "scene": 2,
+    "from": 33,
+    "to": 51,
+    "text": "Ba khoản này cộng lại ba trăm triệu, là khoản mình muốn thu hồi từ việc vận hành quán.",
+    "keyword": "",
+    "ref": false,
+    "prompt": "Use case: illustration-story. One full-bleed landscape 16:9 Vietnamese financial explainer illustration. Flat 2D cartoon, thick clean dark-brown outlines, warm cream, sage and ochre palette, gentle cel shading. Objects-only conceptual illustration. No people, human faces, human silhouettes, arms or hands. Unbranded espresso machine and grinder on plain cafe counter. Overhead-oblique tabletop composition. One coherent scene, no split panels. Natural anatomically correct limbs, hands, wrists and body orientation; no lanyards or ID cards. All pages, calculator keys, calendar, clock, cups, machines and envelopes completely blank and unlabeled. Smooth unmarked coins. No writing-like squiggles, letters, numbers, logos, watermarks, signatures or readable text. No readable text. No text, letters, numbers, logos or watermarks.",
+    "refs": []
+  },
+  {
+    "id": "canh-02-04",
+    "scene": 2,
+    "from": 52,
+    "to": 63,
+    "text": "Còn sáu chục triệu đặt cọc và sáu chục triệu dự phòng.",
+    "keyword": "BÀN GHẾ VÀ ĐỒ DÙNG",
+    "ref": false,
+    "prompt": "Use case: illustration-story. One full-bleed landscape 16:9 Vietnamese financial explainer illustration. Flat 2D cartoon, thick clean dark-brown outlines, warm cream, sage and ochre palette, gentle cel shading. Exactly one Co Bay, matching attached woman sheet: 48-year-old Vietnamese woman, round medium-tan face, short softly wavy dark-brown bob, no glasses, plain sage-green short sleeve blouse, ochre waist apron correctly tied behind, dark-brown trousers, black slip-on shoes; plum-purple blank notebook. Cafe owner arranges wooden chairs beside plain cups and small table. Medium side view, natural body orientation. One coherent scene, no split panels. Natural anatomically correct limbs, hands, wrists and body orientation; no lanyards or ID cards. All pages, calculator keys, calendar, clock, cups, machines and envelopes completely blank and unlabeled. Smooth unmarked coins. No writing-like squiggles, letters, numbers, logos, watermarks, signatures or readable text. No readable text. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "assets/nhan-vat/co-bay.png"
+    ]
+  },
+  {
+    "id": "canh-02-05",
+    "scene": 2,
+    "from": 64,
+    "to": 83,
+    "text": "Tiền cọc bằng ba tháng thuê trong ví dụ này, không có nghĩa quán nào cũng phải cọc như vậy.",
+    "keyword": "",
+    "ref": true,
+    "prompt": "Use case: illustration-story. One full-bleed landscape 16:9 Vietnamese financial explainer illustration. Flat 2D cartoon, thick clean dark-brown outlines, warm cream, sage and ochre palette, gentle cel shading. Exactly one Bac Sau, matching attached accountant sheet: elderly Vietnamese man, salt-and-pepper side-part hair, rectangular glasses, blue pen behind ear, beige checkered short sleeve shirt, brown trousers, red blank ledger. Accountant groups cafe renovation model, machine and chairs together. Medium eye-level composition. One coherent scene, no split panels. Natural anatomically correct limbs, hands, wrists and body orientation; no lanyards or ID cards. All pages, calculator keys, calendar, clock, cups, machines and envelopes completely blank and unlabeled. Smooth unmarked coins. No writing-like squiggles, letters, numbers, logos, watermarks, signatures or readable text. No readable text. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png"
+    ]
+  },
+  {
+    "id": "canh-02-06",
+    "scene": 2,
+    "from": 84,
+    "to": 101,
+    "text": "Cọc được hoàn khi đủ điều kiện thì là tiền bị giữ, chưa phải tiền thuê đã mất.",
+    "keyword": "CỌC VÀ DỰ PHÒNG RIÊNG",
+    "ref": false,
+    "prompt": "Use case: illustration-story. One full-bleed landscape 16:9 Vietnamese financial explainer illustration. Flat 2D cartoon, thick clean dark-brown outlines, warm cream, sage and ochre palette, gentle cel shading. Objects-only conceptual illustration. No people, human faces, human silhouettes, arms or hands. Sealed plain deposit envelope separate from transparent reserve coin jar. Close three-quarter view, uncluttered layered background. One coherent scene, no split panels. Natural anatomically correct limbs, hands, wrists and body orientation; no lanyards or ID cards. All pages, calculator keys, calendar, clock, cups, machines and envelopes completely blank and unlabeled. Smooth unmarked coins. No writing-like squiggles, letters, numbers, logos, watermarks, signatures or readable text. No readable text. No text, letters, numbers, logos or watermarks.",
+    "refs": []
+  },
+  {
+    "id": "canh-02-07",
+    "scene": 2,
+    "from": 102,
+    "to": 115,
+    "text": "Quỹ dự phòng còn nguyên trong tài khoản cũng chưa phải tiền đã tiêu.",
+    "keyword": "",
+    "ref": true,
+    "prompt": "Use case: illustration-story. One full-bleed landscape 16:9 Vietnamese financial explainer illustration. Flat 2D cartoon, thick clean dark-brown outlines, warm cream, sage and ochre palette, gentle cel shading. Exactly one Bac Sau, matching attached accountant sheet: elderly Vietnamese man, salt-and-pepper side-part hair, rectangular glasses, blue pen behind ear, beige checkered short sleeve shirt, brown trousers, red blank ledger. Accountant considers blank lease beside envelope and blank calendar. Wide cafe establishing view with clear subjects on left. One coherent scene, no split panels. Natural anatomically correct limbs, hands, wrists and body orientation; no lanyards or ID cards. All pages, calculator keys, calendar, clock, cups, machines and envelopes completely blank and unlabeled. Smooth unmarked coins. No writing-like squiggles, letters, numbers, logos, watermarks, signatures or readable text. No readable text. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png"
+    ]
+  },
+  {
+    "id": "canh-02-08",
+    "scene": 2,
+    "from": 116,
+    "to": 133,
+    "text": "Bác giả định tiền thuê hai chục triệu một tháng, trả từng tháng, không trả trước nhiều tháng.",
+    "keyword": "QUỸ CÒN TRONG TÀI KHOẢN",
+    "ref": false,
+    "prompt": "Use case: illustration-story. One full-bleed landscape 16:9 Vietnamese financial explainer illustration. Flat 2D cartoon, thick clean dark-brown outlines, warm cream, sage and ochre palette, gentle cel shading. Objects-only conceptual illustration. No people, human faces, human silhouettes, arms or hands. Smooth coins safely remain in transparent jar beside blank notebook. Low desk-height three-quarter composition. One coherent scene, no split panels. Natural anatomically correct limbs, hands, wrists and body orientation; no lanyards or ID cards. All pages, calculator keys, calendar, clock, cups, machines and envelopes completely blank and unlabeled. Smooth unmarked coins. No writing-like squiggles, letters, numbers, logos, watermarks, signatures or readable text. No readable text. No text, letters, numbers, logos or watermarks.",
+    "refs": []
+  },
+  {
+    "id": "canh-02-09",
+    "scene": 2,
+    "from": 134,
+    "to": 147,
+    "text": "Mặt bằng và các khoản xây sửa đều là số mình đặt để tính.",
+    "keyword": "",
+    "ref": true,
+    "prompt": "Use case: illustration-story. One full-bleed landscape 16:9 Vietnamese financial explainer illustration. Flat 2D cartoon, thick clean dark-brown outlines, warm cream, sage and ochre palette, gentle cel shading. Exactly one Bac Sau, matching attached accountant sheet: elderly Vietnamese man, salt-and-pepper side-part hair, rectangular glasses, blue pen behind ear, beige checkered short sleeve shirt, brown trousers, red blank ledger. Accountant places one envelope beside a single blank calendar page. Overhead-oblique tabletop composition. One coherent scene, no split panels. Natural anatomically correct limbs, hands, wrists and body orientation; no lanyards or ID cards. All pages, calculator keys, calendar, clock, cups, machines and envelopes completely blank and unlabeled. Smooth unmarked coins. No writing-like squiggles, letters, numbers, logos, watermarks, signatures or readable text. No readable text. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png"
+    ]
+  },
+  {
+    "id": "canh-02-10",
+    "scene": 2,
+    "from": 148,
+    "to": 165,
+    "text": "Giá chào thuê ngoài thị trường thay đổi theo đường, diện tích, hiện trạng; vài tin rao không",
+    "keyword": "MẶT BẰNG KHÁC NHAU",
+    "ref": false,
+    "prompt": "Use case: illustration-story. One full-bleed landscape 16:9 Vietnamese financial explainer illustration. Flat 2D cartoon, thick clean dark-brown outlines, warm cream, sage and ochre palette, gentle cel shading. Objects-only conceptual illustration. No people, human faces, human silhouettes, arms or hands. Two small unlabeled cafe storefront models in alley and street corner. Medium side view, natural body orientation. One coherent scene, no split panels. Natural anatomically correct limbs, hands, wrists and body orientation; no lanyards or ID cards. All pages, calculator keys, calendar, clock, cups, machines and envelopes completely blank and unlabeled. Smooth unmarked coins. No writing-like squiggles, letters, numbers, logos, watermarks, signatures or readable text. No readable text. No text, letters, numbers, logos or watermarks.",
+    "refs": []
+  },
+  {
+    "id": "canh-02-11",
+    "scene": 2,
+    "from": 166,
+    "to": 182,
+    "text": "phải giá trung bình cả thành phố, càng không chứng minh ai cũng thuê được giá này.",
+    "keyword": "",
+    "ref": true,
+    "prompt": "Use case: illustration-story. One full-bleed landscape 16:9 Vietnamese financial explainer illustration. Flat 2D cartoon, thick clean dark-brown outlines, warm cream, sage and ochre palette, gentle cel shading. Exactly one Bac Sau, matching attached accountant sheet: elderly Vietnamese man, salt-and-pepper side-part hair, rectangular glasses, blue pen behind ear, beige checkered short sleeve shirt, brown trousers, red blank ledger. Accountant studies blank property flyer with magnifying glass. Medium eye-level composition. One coherent scene, no split panels. Natural anatomically correct limbs, hands, wrists and body orientation; no lanyards or ID cards. All pages, calculator keys, calendar, clock, cups, machines and envelopes completely blank and unlabeled. Smooth unmarked coins. No writing-like squiggles, letters, numbers, logos, watermarks, signatures or readable text. No readable text. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png"
+    ]
+  },
+  {
+    "id": "canh-02-12",
+    "scene": 2,
+    "from": 183,
+    "to": 200,
+    "text": "Vậy nhớ hai con số khác nhau: cần chuẩn bị bốn trăm hai mươi triệu để bắt đầu,",
+    "keyword": "CHUẨN BỊ KHÁC THU HỒI",
+    "ref": false,
+    "prompt": "Use case: illustration-story. One full-bleed landscape 16:9 Vietnamese financial explainer illustration. Flat 2D cartoon, thick clean dark-brown outlines, warm cream, sage and ochre palette, gentle cel shading. Exactly one Co Bay, matching attached woman sheet: 48-year-old Vietnamese woman, round medium-tan face, short softly wavy dark-brown bob, no glasses, plain sage-green short sleeve blouse, ochre waist apron correctly tied behind, dark-brown trousers, black slip-on shoes; plum-purple blank notebook. Cafe owner compares full money box and small cafe model. Close three-quarter view, uncluttered layered background. One coherent scene, no split panels. Natural anatomically correct limbs, hands, wrists and body orientation; no lanyards or ID cards. All pages, calculator keys, calendar, clock, cups, machines and envelopes completely blank and unlabeled. Smooth unmarked coins. No writing-like squiggles, letters, numbers, logos, watermarks, signatures or readable text. No readable text. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "assets/nhan-vat/co-bay.png"
+    ]
+  },
+  {
+    "id": "canh-02-13",
+    "scene": 2,
+    "from": 201,
+    "to": 218,
+    "text": "nhưng bài toán thu hồi từ vận hành đang theo dõi ba trăm triệu tiền làm quán và",
+    "keyword": "",
+    "ref": true,
+    "prompt": "Use case: illustration-story. One full-bleed landscape 16:9 Vietnamese financial explainer illustration. Flat 2D cartoon, thick clean dark-brown outlines, warm cream, sage and ochre palette, gentle cel shading. Exactly one Bac Sau, matching attached accountant sheet: elderly Vietnamese man, salt-and-pepper side-part hair, rectangular glasses, blue pen behind ear, beige checkered short sleeve shirt, brown trousers, red blank ledger. Accountant puts sealed envelope aside from operating ledger. Wide cafe establishing view with clear subjects on left. One coherent scene, no split panels. Natural anatomically correct limbs, hands, wrists and body orientation; no lanyards or ID cards. All pages, calculator keys, calendar, clock, cups, machines and envelopes completely blank and unlabeled. Smooth unmarked coins. No writing-like squiggles, letters, numbers, logos, watermarks, signatures or readable text. No readable text. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png"
+    ]
+  },
+  {
+    "id": "canh-02-14",
+    "scene": 2,
+    "from": 219,
+    "to": 229,
+    "text": "mua đồ. Cọc theo dõi riêng. Dự phòng theo dõi riêng.",
+    "keyword": "DỰ PHÒNG CHƯA TIÊU HẾT",
+    "ref": false,
+    "prompt": "Use case: illustration-story. One full-bleed landscape 16:9 Vietnamese financial explainer illustration. Flat 2D cartoon, thick clean dark-brown outlines, warm cream, sage and ochre palette, gentle cel shading. Objects-only conceptual illustration. No people, human faces, human silhouettes, arms or hands. Coin jar and closed notebook clearly separated from used paint roller. Low desk-height three-quarter composition. One coherent scene, no split panels. Natural anatomically correct limbs, hands, wrists and body orientation; no lanyards or ID cards. All pages, calculator keys, calendar, clock, cups, machines and envelopes completely blank and unlabeled. Smooth unmarked coins. No writing-like squiggles, letters, numbers, logos, watermarks, signatures or readable text. No readable text. No text, letters, numbers, logos or watermarks.",
+    "refs": []
+  },
+  {
+    "id": "canh-02-15",
+    "scene": 2,
+    "from": 230,
+    "to": 246,
+    "text": "Gộp hết rồi lại trừ từng khoản lần nữa là cuốn sổ tự làm mình sợ oan.",
+    "keyword": "",
+    "ref": true,
+    "prompt": "Use case: illustration-story. One full-bleed landscape 16:9 Vietnamese financial explainer illustration. Flat 2D cartoon, thick clean dark-brown outlines, warm cream, sage and ochre palette, gentle cel shading. Exactly one Bac Sau, matching attached accountant sheet: elderly Vietnamese man, salt-and-pepper side-part hair, rectangular glasses, blue pen behind ear, beige checkered short sleeve shirt, brown trousers, red blank ledger. Accountant carefully moves one coin pile once into a plain tray. Overhead-oblique tabletop composition. One coherent scene, no split panels. Natural anatomically correct limbs, hands, wrists and body orientation; no lanyards or ID cards. All pages, calculator keys, calendar, clock, cups, machines and envelopes completely blank and unlabeled. Smooth unmarked coins. No writing-like squiggles, letters, numbers, logos, watermarks, signatures or readable text. No readable text. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png"
+    ]
+  },
+  {
+    "id": "canh-03-01",
+    "scene": 3,
+    "from": 0,
+    "to": 14,
+    "text": "Cô Bảy chỉ bức tường mới sơn, cái trần đèn, đường điện giấu trong vách:",
+    "keyword": "",
+    "ref": false,
+    "prompt": "",
+    "refs": [
+      "assets/nhan-vat/co-bay.png"
+    ],
+    "image": "anh/canh-03.png"
+  },
+  {
+    "id": "canh-03-02",
+    "scene": 3,
+    "from": 15,
+    "to": 29,
+    "text": "Con bỏ tiền thiệt mà Bác, sao sổ không coi nó còn nguyên giá trị?",
+    "keyword": "ĐIỆN NƯỚC GẮN VÀO NHÀ",
+    "ref": false,
+    "prompt": "Use case: illustration-story. One full-bleed landscape 16:9 Vietnamese financial explainer illustration. Flat 2D cartoon, thick clean dark-brown outlines, warm cream, sage and ochre palette, gentle cel shading. Objects-only conceptual illustration. No people, human faces, human silhouettes, arms or hands. Simple cutaway fixed cafe wall showing power cable and plumbing, no symbols. Overhead-oblique tabletop composition. One coherent scene, no split panels. Natural anatomically correct limbs, hands, wrists and body orientation; no lanyards or ID cards. All pages, calculator keys, calendar, clock, cups, machines and envelopes completely blank and unlabeled. Smooth unmarked coins. No writing-like squiggles, letters, numbers, logos, watermarks, signatures or readable text. No readable text. No text, letters, numbers, logos or watermarks.",
+    "refs": []
+  },
+  {
+    "id": "canh-03-03",
+    "scene": 3,
+    "from": 30,
+    "to": 46,
+    "text": "Bác nói giá trị sử dụng với tiền mang về lúc nghỉ quán là hai chuyện khác",
+    "keyword": "",
+    "ref": true,
+    "prompt": "Use case: illustration-story. One full-bleed landscape 16:9 Vietnamese financial explainer illustration. Flat 2D cartoon, thick clean dark-brown outlines, warm cream, sage and ochre palette, gentle cel shading. Exactly one Bac Sau, matching attached accountant sheet: elderly Vietnamese man, salt-and-pepper side-part hair, rectangular glasses, blue pen behind ear, beige checkered short sleeve shirt, brown trousers, red blank ledger. Accountant compares decorated wall miniature and small coin pouch. Medium side view, natural body orientation. One coherent scene, no split panels. Natural anatomically correct limbs, hands, wrists and body orientation; no lanyards or ID cards. All pages, calculator keys, calendar, clock, cups, machines and envelopes completely blank and unlabeled. Smooth unmarked coins. No writing-like squiggles, letters, numbers, logos, watermarks, signatures or readable text. No readable text. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png"
+    ]
+  },
+  {
+    "id": "canh-03-04",
+    "scene": 3,
+    "from": 47,
+    "to": 60,
+    "text": "nhau. Máy pha còn dùng được có thể mang đi, bán lại được bao",
+    "keyword": "MÁY CÒN DÙNG ĐƯỢC",
+    "ref": false,
+    "prompt": "Use case: illustration-story. One full-bleed landscape 16:9 Vietnamese financial explainer illustration. Flat 2D cartoon, thick clean dark-brown outlines, warm cream, sage and ochre palette, gentle cel shading. Exactly one Co Bay, matching attached woman sheet: 48-year-old Vietnamese woman, round medium-tan face, short softly wavy dark-brown bob, no glasses, plain sage-green short sleeve blouse, ochre waist apron correctly tied behind, dark-brown trousers, black slip-on shoes; plum-purple blank notebook. Cafe owner examines portable espresso machine on counter. Medium eye-level composition. One coherent scene, no split panels. Natural anatomically correct limbs, hands, wrists and body orientation; no lanyards or ID cards. All pages, calculator keys, calendar, clock, cups, machines and envelopes completely blank and unlabeled. Smooth unmarked coins. No writing-like squiggles, letters, numbers, logos, watermarks, signatures or readable text. No readable text. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "assets/nhan-vat/co-bay.png"
+    ]
+  },
+  {
+    "id": "canh-03-05",
+    "scene": 3,
+    "from": 61,
+    "to": 74,
+    "text": "nhiêu phải coi máy và người mua. Bàn ghế cũng vậy. Còn lớp sơn,",
+    "keyword": "",
+    "ref": false,
+    "prompt": "Use case: illustration-story. One full-bleed landscape 16:9 Vietnamese financial explainer illustration. Flat 2D cartoon, thick clean dark-brown outlines, warm cream, sage and ochre palette, gentle cel shading. Objects-only conceptual illustration. No people, human faces, human silhouettes, arms or hands. Used espresso machine and chairs beside small smooth coin pile. Close three-quarter view, uncluttered layered background. One coherent scene, no split panels. Natural anatomically correct limbs, hands, wrists and body orientation; no lanyards or ID cards. All pages, calculator keys, calendar, clock, cups, machines and envelopes completely blank and unlabeled. Smooth unmarked coins. No writing-like squiggles, letters, numbers, logos, watermarks, signatures or readable text. No readable text. No text, letters, numbers, logos or watermarks.",
+    "refs": []
+  },
+  {
+    "id": "canh-03-06",
+    "scene": 3,
+    "from": 75,
+    "to": 90,
+    "text": "hệ điện, quầy đóng vừa căn nhà này, tháo ra chưa chắc dùng vừa chỗ khác.",
+    "keyword": "CÓ THỂ MANG ĐI",
+    "ref": true,
+    "prompt": "Use case: illustration-story. One full-bleed landscape 16:9 Vietnamese financial explainer illustration. Flat 2D cartoon, thick clean dark-brown outlines, warm cream, sage and ochre palette, gentle cel shading. Exactly one Bac Sau, matching attached accountant sheet: elderly Vietnamese man, salt-and-pepper side-part hair, rectangular glasses, blue pen behind ear, beige checkered short sleeve shirt, brown trousers, red blank ledger. Accountant stands beside handcart carrying espresso machine. Wide cafe establishing view with clear subjects on left. One coherent scene, no split panels. Natural anatomically correct limbs, hands, wrists and body orientation; no lanyards or ID cards. All pages, calculator keys, calendar, clock, cups, machines and envelopes completely blank and unlabeled. Smooth unmarked coins. No writing-like squiggles, letters, numbers, logos, watermarks, signatures or readable text. No readable text. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png"
+    ]
+  },
+  {
+    "id": "canh-03-07",
+    "scene": 3,
+    "from": 91,
+    "to": 108,
+    "text": "Không được mặc định chủ nhà hay người nhận sang sẽ trả lại đủ tiền mình đã làm.",
+    "keyword": "",
+    "ref": false,
+    "prompt": "Use case: illustration-story. One full-bleed landscape 16:9 Vietnamese financial explainer illustration. Flat 2D cartoon, thick clean dark-brown outlines, warm cream, sage and ochre palette, gentle cel shading. Objects-only conceptual illustration. No people, human faces, human silhouettes, arms or hands. Custom wooden cafe counter fits exactly into wall recess. Low desk-height three-quarter composition. One coherent scene, no split panels. Natural anatomically correct limbs, hands, wrists and body orientation; no lanyards or ID cards. All pages, calculator keys, calendar, clock, cups, machines and envelopes completely blank and unlabeled. Smooth unmarked coins. No writing-like squiggles, letters, numbers, logos, watermarks, signatures or readable text. No readable text. No text, letters, numbers, logos or watermarks.",
+    "refs": []
+  },
+  {
+    "id": "canh-03-08",
+    "scene": 3,
+    "from": 109,
+    "to": 129,
+    "text": "Nhưng Bác cũng không nói mọi tiền trang trí đều mất trắng. Hai bên có thỏa thuận gì về sửa chữa,",
+    "keyword": "CHƯA CHẮC ĐƯỢC TRẢ ĐỦ",
+    "ref": true,
+    "prompt": "Use case: illustration-story. One full-bleed landscape 16:9 Vietnamese financial explainer illustration. Flat 2D cartoon, thick clean dark-brown outlines, warm cream, sage and ochre palette, gentle cel shading. Exactly one Bac Sau, matching attached accountant sheet: elderly Vietnamese man, salt-and-pepper side-part hair, rectangular glasses, blue pen behind ear, beige checkered short sleeve shirt, brown trousers, red blank ledger. Accountant looks thoughtfully at renovation receipts, all pages blank. Overhead-oblique tabletop composition. One coherent scene, no split panels. Natural anatomically correct limbs, hands, wrists and body orientation; no lanyards or ID cards. All pages, calculator keys, calendar, clock, cups, machines and envelopes completely blank and unlabeled. Smooth unmarked coins. No writing-like squiggles, letters, numbers, logos, watermarks, signatures or readable text. No readable text. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png"
+    ]
+  },
+  {
+    "id": "canh-03-09",
+    "scene": 3,
+    "from": 130,
+    "to": 144,
+    "text": "bồi hoàn, để lại hay tháo dỡ thì phải đọc. Đồ nào là của mình,",
+    "keyword": "",
+    "ref": true,
+    "prompt": "Use case: illustration-story. One full-bleed landscape 16:9 Vietnamese financial explainer illustration. Flat 2D cartoon, thick clean dark-brown outlines, warm cream, sage and ochre palette, gentle cel shading. Two distinct people matching attached sheets: Bac Sau, elderly Vietnamese accountant with rectangular glasses, salt-and-pepper hair, beige checkered shirt and blue pen behind ear; Co Bay, 48-year-old Vietnamese woman with round medium-tan face, short wavy brown bob, plain sage blouse, ochre waist apron correctly tied behind, brown trousers. Red ledger belongs to Bac Sau, plum notebook to Co Bay. Accountant and owner review blank lease beside paint roller. Medium side view, natural body orientation. One coherent scene, no split panels. Natural anatomically correct limbs, hands, wrists and body orientation; no lanyards or ID cards. All pages, calculator keys, calendar, clock, cups, machines and envelopes completely blank and unlabeled. Smooth unmarked coins. No writing-like squiggles, letters, numbers, logos, watermarks, signatures or readable text. No readable text. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png",
+      "assets/nhan-vat/co-bay.png"
+    ]
+  },
+  {
+    "id": "canh-03-10",
+    "scene": 3,
+    "from": 145,
+    "to": 164,
+    "text": "có hóa đơn và danh sách bàn giao không, chụp lại hiện trạng từ trước mới dễ đối chiếu về",
+    "keyword": "ĐỂ LẠI HAY THÁO DỠ",
+    "ref": false,
+    "prompt": "Use case: illustration-story. One full-bleed landscape 16:9 Vietnamese financial explainer illustration. Flat 2D cartoon, thick clean dark-brown outlines, warm cream, sage and ochre palette, gentle cel shading. Objects-only conceptual illustration. No people, human faces, human silhouettes, arms or hands. Fixed decorative wall stays behind, portable chairs on cart. Medium eye-level composition. One coherent scene, no split panels. Natural anatomically correct limbs, hands, wrists and body orientation; no lanyards or ID cards. All pages, calculator keys, calendar, clock, cups, machines and envelopes completely blank and unlabeled. Smooth unmarked coins. No writing-like squiggles, letters, numbers, logos, watermarks, signatures or readable text. No readable text. No text, letters, numbers, logos or watermarks.",
+    "refs": []
+  },
+  {
+    "id": "canh-03-11",
+    "scene": 3,
+    "from": 165,
+    "to": 175,
+    "text": "sau. Trong phương án dừng quán mình sẽ tính lát nữa,",
+    "keyword": "",
+    "ref": true,
+    "prompt": "Use case: illustration-story. One full-bleed landscape 16:9 Vietnamese financial explainer illustration. Flat 2D cartoon, thick clean dark-brown outlines, warm cream, sage and ochre palette, gentle cel shading. Exactly one Bac Sau, matching attached accountant sheet: elderly Vietnamese man, salt-and-pepper side-part hair, rectangular glasses, blue pen behind ear, beige checkered short sleeve shirt, brown trousers, red blank ledger. Accountant arranges blank receipts beside small machine and chair models. Close three-quarter view, uncluttered layered background. One coherent scene, no split panels. Natural anatomically correct limbs, hands, wrists and body orientation; no lanyards or ID cards. All pages, calculator keys, calendar, clock, cups, machines and envelopes completely blank and unlabeled. Smooth unmarked coins. No writing-like squiggles, letters, numbers, logos, watermarks, signatures or readable text. No readable text. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png"
+    ]
+  },
+  {
+    "id": "canh-03-12",
+    "scene": 3,
+    "from": 176,
+    "to": 192,
+    "text": "Bác giả định phần cải tạo không thu lại được tiền; máy móc và bàn ghế bán",
+    "keyword": "LƯU HIỆN TRẠNG BÀN GIAO",
+    "ref": false,
+    "prompt": "Use case: illustration-story. One full-bleed landscape 16:9 Vietnamese financial explainer illustration. Flat 2D cartoon, thick clean dark-brown outlines, warm cream, sage and ochre palette, gentle cel shading. Exactly one Co Bay, matching attached woman sheet: 48-year-old Vietnamese woman, round medium-tan face, short softly wavy dark-brown bob, no glasses, plain sage-green short sleeve blouse, ochre waist apron correctly tied behind, dark-brown trousers, black slip-on shoes; plum-purple blank notebook. Cafe owner uses blank-screen phone to document empty cafe doorway. Wide cafe establishing view with clear subjects on left. One coherent scene, no split panels. Natural anatomically correct limbs, hands, wrists and body orientation; no lanyards or ID cards. All pages, calculator keys, calendar, clock, cups, machines and envelopes completely blank and unlabeled. Smooth unmarked coins. No writing-like squiggles, letters, numbers, logos, watermarks, signatures or readable text. No readable text. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "assets/nhan-vat/co-bay.png"
+    ]
+  },
+  {
+    "id": "canh-03-13",
+    "scene": 3,
+    "from": 193,
+    "to": 206,
+    "text": "được một khoản riêng. Đây là giả định thận trọng cho đúng câu chuyện,",
+    "keyword": "",
+    "ref": false,
+    "prompt": "Use case: illustration-story. One full-bleed landscape 16:9 Vietnamese financial explainer illustration. Flat 2D cartoon, thick clean dark-brown outlines, warm cream, sage and ochre palette, gentle cel shading. Objects-only conceptual illustration. No people, human faces, human silhouettes, arms or hands. Plain lease and renovation tools beside fixed wall model. Low desk-height three-quarter composition. One coherent scene, no split panels. Natural anatomically correct limbs, hands, wrists and body orientation; no lanyards or ID cards. All pages, calculator keys, calendar, clock, cups, machines and envelopes completely blank and unlabeled. Smooth unmarked coins. No writing-like squiggles, letters, numbers, logos, watermarks, signatures or readable text. No readable text. No text, letters, numbers, logos or watermarks.",
+    "refs": []
+  },
+  {
+    "id": "canh-03-14",
+    "scene": 3,
+    "from": 207,
+    "to": 224,
+    "text": "không phải tỷ lệ mất giá chung của nghề cà phê. Muốn biết vốn đang mắc ở đâu,",
+    "keyword": "ĐÂY LÀ GIẢ ĐỊNH RIÊNG",
+    "ref": true,
+    "prompt": "Use case: illustration-story. One full-bleed landscape 16:9 Vietnamese financial explainer illustration. Flat 2D cartoon, thick clean dark-brown outlines, warm cream, sage and ochre palette, gentle cel shading. Exactly one Bac Sau, matching attached accountant sheet: elderly Vietnamese man, salt-and-pepper side-part hair, rectangular glasses, blue pen behind ear, beige checkered short sleeve shirt, brown trousers, red blank ledger. Accountant presents tiny cafe model and blank ledger calmly. Overhead-oblique tabletop composition. One coherent scene, no split panels. Natural anatomically correct limbs, hands, wrists and body orientation; no lanyards or ID cards. All pages, calculator keys, calendar, clock, cups, machines and envelopes completely blank and unlabeled. Smooth unmarked coins. No writing-like squiggles, letters, numbers, logos, watermarks, signatures or readable text. No readable text. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png"
+    ]
+  },
+  {
+    "id": "canh-03-15",
+    "scene": 3,
+    "from": 225,
+    "to": 246,
+    "text": "đừng chỉ cộng hóa đơn đã mua. Hãy hỏi thêm lúc rời căn nhà này, thứ gì thật sự đi theo mình.",
+    "keyword": "",
+    "ref": false,
+    "prompt": "Use case: illustration-story. One full-bleed landscape 16:9 Vietnamese financial explainer illustration. Flat 2D cartoon, thick clean dark-brown outlines, warm cream, sage and ochre palette, gentle cel shading. Exactly one Co Bay, matching attached woman sheet: 48-year-old Vietnamese woman, round medium-tan face, short softly wavy dark-brown bob, no glasses, plain sage-green short sleeve blouse, ochre waist apron correctly tied behind, dark-brown trousers, black slip-on shoes; plum-purple blank notebook. Cafe owner looks toward cart of portable furniture and machines at doorway. Medium side view, natural body orientation. One coherent scene, no split panels. Natural anatomically correct limbs, hands, wrists and body orientation; no lanyards or ID cards. All pages, calculator keys, calendar, clock, cups, machines and envelopes completely blank and unlabeled. Smooth unmarked coins. No writing-like squiggles, letters, numbers, logos, watermarks, signatures or readable text. No readable text. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "assets/nhan-vat/co-bay.png"
+    ]
+  },
+  {
+    "id": "canh-04-01",
+    "scene": 4,
+    "from": 0,
+    "to": 13,
+    "text": "Giờ Bác đếm khách theo cả ngày, không lấy tấm hình lúc cao điểm.",
+    "keyword": "",
+    "ref": true,
+    "prompt": "",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png"
+    ],
+    "image": "anh/canh-04.png"
+  },
+  {
+    "id": "canh-04-02",
+    "scene": 4,
+    "from": 14,
+    "to": 32,
+    "text": "Giả định quán có ba chục ghế. Một ngày, bình quân mỗi ghế có ba lượt khách trả tiền.",
+    "keyword": "SỐ GHẾ",
+    "ref": false,
+    "prompt": "Use case: illustration-story. One full-bleed landscape 16:9 Vietnamese financial explainer illustration. Flat 2D cartoon, thick clean dark-brown outlines, warm cream, sage and ochre palette, gentle cel shading. Objects-only conceptual illustration. No people, human faces, human silhouettes, arms or hands. Orderly cafe wooden chairs and tables, simplified overhead layout. Medium side view, natural body orientation. One coherent scene, no split panels. Natural anatomically correct limbs, hands, wrists and body orientation; no lanyards or ID cards. All pages, calculator keys, calendar, clock, cups, machines and envelopes completely blank and unlabeled. Smooth unmarked coins. No writing-like squiggles, letters, numbers, logos, watermarks, signatures or readable text. No readable text. No text, letters, numbers, logos or watermarks.",
+    "refs": []
+  },
+  {
+    "id": "canh-04-03",
+    "scene": 4,
+    "from": 33,
+    "to": 50,
+    "text": "Mỗi người thực trả ba mươi lăm ngàn sau giảm giá. Mở hai mươi sáu ngày một tháng.",
+    "keyword": "",
+    "ref": false,
+    "prompt": "Use case: illustration-story. One full-bleed landscape 16:9 Vietnamese financial explainer illustration. Flat 2D cartoon, thick clean dark-brown outlines, warm cream, sage and ochre palette, gentle cel shading. Exactly one Co Bay, matching attached woman sheet: 48-year-old Vietnamese woman, round medium-tan face, short softly wavy dark-brown bob, no glasses, plain sage-green short sleeve blouse, ochre waist apron correctly tied behind, dark-brown trousers, black slip-on shoes; plum-purple blank notebook. Cafe owner changes an empty plain cup on table, blank clock behind. Medium eye-level composition. One coherent scene, no split panels. Natural anatomically correct limbs, hands, wrists and body orientation; no lanyards or ID cards. All pages, calculator keys, calendar, clock, cups, machines and envelopes completely blank and unlabeled. Smooth unmarked coins. No writing-like squiggles, letters, numbers, logos, watermarks, signatures or readable text. No readable text. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "assets/nhan-vat/co-bay.png"
+    ]
+  },
+  {
+    "id": "canh-04-04",
+    "scene": 4,
+    "from": 51,
+    "to": 63,
+    "text": "Không cộng thêm doanh thu mang đi hay đồ ăn cho đẹp số.",
+    "keyword": "HÓA ĐƠN THỰC THU",
+    "ref": true,
+    "prompt": "Use case: illustration-story. One full-bleed landscape 16:9 Vietnamese financial explainer illustration. Flat 2D cartoon, thick clean dark-brown outlines, warm cream, sage and ochre palette, gentle cel shading. Exactly one Bac Sau, matching attached accountant sheet: elderly Vietnamese man, salt-and-pepper side-part hair, rectangular glasses, blue pen behind ear, beige checkered short sleeve shirt, brown trousers, red blank ledger. Accountant compares plain bill and smooth coin pile at cafe table. Close three-quarter view, uncluttered layered background. One coherent scene, no split panels. Natural anatomically correct limbs, hands, wrists and body orientation; no lanyards or ID cards. All pages, calculator keys, calendar, clock, cups, machines and envelopes completely blank and unlabeled. Smooth unmarked coins. No writing-like squiggles, letters, numbers, logos, watermarks, signatures or readable text. No readable text. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png"
+    ]
+  },
+  {
+    "id": "canh-04-05",
+    "scene": 4,
+    "from": 64,
+    "to": 79,
+    "text": "Ba chục ghế nhân ba lượt là chín chục khách mỗi ngày. Nhân tiền thực thu",
+    "keyword": "",
+    "ref": false,
+    "prompt": "Use case: illustration-story. One full-bleed landscape 16:9 Vietnamese financial explainer illustration. Flat 2D cartoon, thick clean dark-brown outlines, warm cream, sage and ochre palette, gentle cel shading. Objects-only conceptual illustration. No people, human faces, human silhouettes, arms or hands. Blank calendar, plain coffee cup and cafe key on table. Wide cafe establishing view with clear subjects on left. One coherent scene, no split panels. Natural anatomically correct limbs, hands, wrists and body orientation; no lanyards or ID cards. All pages, calculator keys, calendar, clock, cups, machines and envelopes completely blank and unlabeled. Smooth unmarked coins. No writing-like squiggles, letters, numbers, logos, watermarks, signatures or readable text. No readable text. No text, letters, numbers, logos or watermarks.",
+    "refs": []
+  },
+  {
+    "id": "canh-04-06",
+    "scene": 4,
+    "from": 80,
+    "to": 94,
+    "text": "và ngày mở cửa, doanh thu một tháng tám mươi mốt triệu chín trăm ngàn.",
+    "keyword": "KHÔNG CỘNG THU CHƯA CÓ",
+    "ref": true,
+    "prompt": "Use case: illustration-story. One full-bleed landscape 16:9 Vietnamese financial explainer illustration. Flat 2D cartoon, thick clean dark-brown outlines, warm cream, sage and ochre palette, gentle cel shading. Exactly one Bac Sau, matching attached accountant sheet: elderly Vietnamese man, salt-and-pepper side-part hair, rectangular glasses, blue pen behind ear, beige checkered short sleeve shirt, brown trousers, red blank ledger. Accountant sets aside empty takeaway cup beside actual ceramic cup. Low desk-height three-quarter composition. One coherent scene, no split panels. Natural anatomically correct limbs, hands, wrists and body orientation; no lanyards or ID cards. All pages, calculator keys, calendar, clock, cups, machines and envelopes completely blank and unlabeled. Smooth unmarked coins. No writing-like squiggles, letters, numbers, logos, watermarks, signatures or readable text. No readable text. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png"
+    ]
+  },
+  {
+    "id": "canh-04-07",
+    "scene": 4,
+    "from": 95,
+    "to": 114,
+    "text": "Con số này là giả định của cô Bảy, không phải doanh thu chuẩn cho quán có ba chục ghế.",
+    "keyword": "",
+    "ref": false,
+    "prompt": "Use case: illustration-story. One full-bleed landscape 16:9 Vietnamese financial explainer illustration. Flat 2D cartoon, thick clean dark-brown outlines, warm cream, sage and ochre palette, gentle cel shading. Objects-only conceptual illustration. No people, human faces, human silhouettes, arms or hands. Miniature cafe chairs with several plain cups beside blank calculator. Overhead-oblique tabletop composition. One coherent scene, no split panels. Natural anatomically correct limbs, hands, wrists and body orientation; no lanyards or ID cards. All pages, calculator keys, calendar, clock, cups, machines and envelopes completely blank and unlabeled. Smooth unmarked coins. No writing-like squiggles, letters, numbers, logos, watermarks, signatures or readable text. No readable text. No text, letters, numbers, logos or watermarks.",
+    "refs": []
+  },
+  {
+    "id": "canh-04-08",
+    "scene": 4,
+    "from": 115,
+    "to": 130,
+    "text": "Khách ngồi lâu là chuyện dễ hiểu, người ta tới uống nước và gặp nhau mà.",
+    "keyword": "SỐ RIÊNG CỦA CÔ BẢY",
+    "ref": false,
+    "prompt": "Use case: illustration-story. One full-bleed landscape 16:9 Vietnamese financial explainer illustration. Flat 2D cartoon, thick clean dark-brown outlines, warm cream, sage and ochre palette, gentle cel shading. Exactly one Co Bay, matching attached woman sheet: 48-year-old Vietnamese woman, round medium-tan face, short softly wavy dark-brown bob, no glasses, plain sage-green short sleeve blouse, ochre waist apron correctly tied behind, dark-brown trousers, black slip-on shoes; plum-purple blank notebook. Cafe owner reviews blank plum notebook beside miniature cafe. Medium side view, natural body orientation. One coherent scene, no split panels. Natural anatomically correct limbs, hands, wrists and body orientation; no lanyards or ID cards. All pages, calculator keys, calendar, clock, cups, machines and envelopes completely blank and unlabeled. Smooth unmarked coins. No writing-like squiggles, letters, numbers, logos, watermarks, signatures or readable text. No readable text. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "assets/nhan-vat/co-bay.png"
+    ]
+  },
+  {
+    "id": "canh-04-09",
+    "scene": 4,
+    "from": 131,
+    "to": 148,
+    "text": "Điều cần tính là bao nhiêu lượt ghế trong một ngày và hóa đơn thực thu bao nhiêu.",
+    "keyword": "",
+    "ref": false,
+    "prompt": "Use case: illustration-story. One full-bleed landscape 16:9 Vietnamese financial explainer illustration. Flat 2D cartoon, thick clean dark-brown outlines, warm cream, sage and ochre palette, gentle cel shading. Objects-only conceptual illustration. No people, human faces, human silhouettes, arms or hands. Plain coffee cup and open blank book beside large blank clock on table. Medium eye-level composition. One coherent scene, no split panels. Natural anatomically correct limbs, hands, wrists and body orientation; no lanyards or ID cards. All pages, calculator keys, calendar, clock, cups, machines and envelopes completely blank and unlabeled. Smooth unmarked coins. No writing-like squiggles, letters, numbers, logos, watermarks, signatures or readable text. No readable text. No text, letters, numbers, logos or watermarks.",
+    "refs": []
+  },
+  {
+    "id": "canh-04-10",
+    "scene": 4,
+    "from": 149,
+    "to": 161,
+    "text": "Mình không trách khách vì mô hình mình chọn chưa hợp tiền thuê.",
+    "keyword": "TÍNH BÌNH QUÂN",
+    "ref": true,
+    "prompt": "Use case: illustration-story. One full-bleed landscape 16:9 Vietnamese financial explainer illustration. Flat 2D cartoon, thick clean dark-brown outlines, warm cream, sage and ochre palette, gentle cel shading. Exactly one Bac Sau, matching attached accountant sheet: elderly Vietnamese man, salt-and-pepper side-part hair, rectangular glasses, blue pen behind ear, beige checkered short sleeve shirt, brown trousers, red blank ledger. Accountant compares sunlight and evening light on cafe chair model. Close three-quarter view, uncluttered layered background. One coherent scene, no split panels. Natural anatomically correct limbs, hands, wrists and body orientation; no lanyards or ID cards. All pages, calculator keys, calendar, clock, cups, machines and envelopes completely blank and unlabeled. Smooth unmarked coins. No writing-like squiggles, letters, numbers, logos, watermarks, signatures or readable text. No readable text. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png"
+    ]
+  },
+  {
+    "id": "canh-04-11",
+    "scene": 4,
+    "from": 162,
+    "to": 176,
+    "text": "Giờ đông kín với giờ trống phải cộng chung rồi mới gọi là bình quân.",
+    "keyword": "",
+    "ref": false,
+    "prompt": "Use case: illustration-story. One full-bleed landscape 16:9 Vietnamese financial explainer illustration. Flat 2D cartoon, thick clean dark-brown outlines, warm cream, sage and ochre palette, gentle cel shading. Exactly one Co Bay, matching attached woman sheet: 48-year-old Vietnamese woman, round medium-tan face, short softly wavy dark-brown bob, no glasses, plain sage-green short sleeve blouse, ochre waist apron correctly tied behind, dark-brown trousers, black slip-on shoes; plum-purple blank notebook. Cafe owner warmly places coffee on an empty table, relaxed smile. Wide cafe establishing view with clear subjects on left. One coherent scene, no split panels. Natural anatomically correct limbs, hands, wrists and body orientation; no lanyards or ID cards. All pages, calculator keys, calendar, clock, cups, machines and envelopes completely blank and unlabeled. Smooth unmarked coins. No writing-like squiggles, letters, numbers, logos, watermarks, signatures or readable text. No readable text. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "assets/nhan-vat/co-bay.png"
+    ]
+  },
+  {
+    "id": "canh-04-12",
+    "scene": 4,
+    "from": 177,
+    "to": 191,
+    "text": "Hai chục triệu tiền thuê chia doanh thu đó, khoảng hai mươi bốn phần trăm.",
+    "keyword": "GIỜ ĐÔNG VÀ GIỜ TRỐNG",
+    "ref": false,
+    "prompt": "Use case: illustration-story. One full-bleed landscape 16:9 Vietnamese financial explainer illustration. Flat 2D cartoon, thick clean dark-brown outlines, warm cream, sage and ochre palette, gentle cel shading. Objects-only conceptual illustration. No people, human faces, human silhouettes, arms or hands. Unlabeled clock and cafe chairs with some empty cups and empty seats. Low desk-height three-quarter composition. One coherent scene, no split panels. Natural anatomically correct limbs, hands, wrists and body orientation; no lanyards or ID cards. All pages, calculator keys, calendar, clock, cups, machines and envelopes completely blank and unlabeled. Smooth unmarked coins. No writing-like squiggles, letters, numbers, logos, watermarks, signatures or readable text. No readable text. No text, letters, numbers, logos or watermarks.",
+    "refs": []
+  },
+  {
+    "id": "canh-04-13",
+    "scene": 4,
+    "from": 192,
+    "to": 211,
+    "text": "Bác không lấy tỷ lệ ấy làm ranh giới quán nào sống hay chết. Cùng tỷ lệ mà giá vốn,",
+    "keyword": "",
+    "ref": true,
+    "prompt": "Use case: illustration-story. One full-bleed landscape 16:9 Vietnamese financial explainer illustration. Flat 2D cartoon, thick clean dark-brown outlines, warm cream, sage and ochre palette, gentle cel shading. Exactly one Bac Sau, matching attached accountant sheet: elderly Vietnamese man, salt-and-pepper side-part hair, rectangular glasses, blue pen behind ear, beige checkered short sleeve shirt, brown trousers, red blank ledger. Accountant compares key on one tray and larger coin pile on other tray. Overhead-oblique tabletop composition. One coherent scene, no split panels. Natural anatomically correct limbs, hands, wrists and body orientation; no lanyards or ID cards. All pages, calculator keys, calendar, clock, cups, machines and envelopes completely blank and unlabeled. Smooth unmarked coins. No writing-like squiggles, letters, numbers, logos, watermarks, signatures or readable text. No readable text. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png"
+    ]
+  },
+  {
+    "id": "canh-04-14",
+    "scene": 4,
+    "from": 212,
+    "to": 225,
+    "text": "công suất và số vốn bỏ trước khác nhau thì kết quả khác nhau.",
+    "keyword": "TỶ LỆ CHỈ THAM KHẢO",
+    "ref": true,
+    "prompt": "Use case: illustration-story. One full-bleed landscape 16:9 Vietnamese financial explainer illustration. Flat 2D cartoon, thick clean dark-brown outlines, warm cream, sage and ochre palette, gentle cel shading. Exactly one Bac Sau, matching attached accountant sheet: elderly Vietnamese man, salt-and-pepper side-part hair, rectangular glasses, blue pen behind ear, beige checkered short sleeve shirt, brown trousers, red blank ledger. Accountant thoughtfully compares two different cafe models. Medium side view, natural body orientation. One coherent scene, no split panels. Natural anatomically correct limbs, hands, wrists and body orientation; no lanyards or ID cards. All pages, calculator keys, calendar, clock, cups, machines and envelopes completely blank and unlabeled. Smooth unmarked coins. No writing-like squiggles, letters, numbers, logos, watermarks, signatures or readable text. No readable text. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png"
+    ]
+  },
+  {
+    "id": "canh-04-15",
+    "scene": 4,
+    "from": 226,
+    "to": 247,
+    "text": "Bác chỉ muốn cô Bảy thấy: tiền thuê là một nghĩa vụ khá đều, còn doanh thu phải kiếm lại từng ngày.",
+    "keyword": "",
+    "ref": false,
+    "prompt": "Use case: illustration-story. One full-bleed landscape 16:9 Vietnamese financial explainer illustration. Flat 2D cartoon, thick clean dark-brown outlines, warm cream, sage and ochre palette, gentle cel shading. Exactly one Co Bay, matching attached woman sheet: 48-year-old Vietnamese woman, round medium-tan face, short softly wavy dark-brown bob, no glasses, plain sage-green short sleeve blouse, ochre waist apron correctly tied behind, dark-brown trousers, black slip-on shoes; plum-purple blank notebook. Cafe owner opens cafe doorway at sunrise with key in natural hand. Medium eye-level composition. One coherent scene, no split panels. Natural anatomically correct limbs, hands, wrists and body orientation; no lanyards or ID cards. All pages, calculator keys, calendar, clock, cups, machines and envelopes completely blank and unlabeled. Smooth unmarked coins. No writing-like squiggles, letters, numbers, logos, watermarks, signatures or readable text. No readable text. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "assets/nhan-vat/co-bay.png"
+    ]
+  },
+  {
+    "id": "canh-05-01",
+    "scene": 5,
+    "from": 0,
+    "to": 20,
+    "text": "Bác gói phần vận hành lại cho gọn. Giả định nguyên liệu, bao bì và hao hụt bằng ba chục phần",
+    "keyword": "",
+    "ref": true,
+    "prompt": "",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png"
+    ],
+    "image": "anh/canh-05.png"
+  },
+  {
+    "id": "canh-05-02",
+    "scene": 5,
+    "from": 21,
+    "to": 37,
+    "text": "trăm doanh thu. Với tháng đang tính là hai mươi bốn triệu năm trăm bảy chục ngàn.",
+    "keyword": "ĐẦU VÀO BIẾN ĐỔI",
+    "ref": false,
+    "prompt": "Use case: illustration-story. One full-bleed landscape 16:9 Vietnamese financial explainer illustration. Flat 2D cartoon, thick clean dark-brown outlines, warm cream, sage and ochre palette, gentle cel shading. Objects-only conceptual illustration. No people, human faces, human silhouettes, arms or hands. Coffee beans, plain milk carton, cups and smooth coins on counter. Medium eye-level composition. One coherent scene, no split panels. Natural anatomically correct limbs, hands, wrists and body orientation; no lanyards or ID cards. All pages, calculator keys, calendar, clock, cups, machines and envelopes completely blank and unlabeled. Smooth unmarked coins. No writing-like squiggles, letters, numbers, logos, watermarks, signatures or readable text. No readable text. No text, letters, numbers, logos or watermarks.",
+    "refs": []
+  },
+  {
+    "id": "canh-05-03",
+    "scene": 5,
+    "from": 38,
+    "to": 53,
+    "text": "Ngoài tiền thuê, những khoản chi cố định khác gộp hai mươi sáu triệu một tháng,",
+    "keyword": "",
+    "ref": true,
+    "prompt": "Use case: illustration-story. One full-bleed landscape 16:9 Vietnamese financial explainer illustration. Flat 2D cartoon, thick clean dark-brown outlines, warm cream, sage and ochre palette, gentle cel shading. Exactly one Bac Sau, matching attached accountant sheet: elderly Vietnamese man, salt-and-pepper side-part hair, rectangular glasses, blue pen behind ear, beige checkered short sleeve shirt, brown trousers, red blank ledger. Accountant arranges blank envelopes beside light bulb and maintenance tools. Close three-quarter view, uncluttered layered background. One coherent scene, no split panels. Natural anatomically correct limbs, hands, wrists and body orientation; no lanyards or ID cards. All pages, calculator keys, calendar, clock, cups, machines and envelopes completely blank and unlabeled. Smooth unmarked coins. No writing-like squiggles, letters, numbers, logos, watermarks, signatures or readable text. No readable text. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png"
+    ]
+  },
+  {
+    "id": "canh-05-04",
+    "scene": 5,
+    "from": 54,
+    "to": 62,
+    "text": "trong đó có tám triệu tính công cô Bảy.",
+    "keyword": "CÓ TÍNH CÔNG CHỦ",
+    "ref": false,
+    "prompt": "Use case: illustration-story. One full-bleed landscape 16:9 Vietnamese financial explainer illustration. Flat 2D cartoon, thick clean dark-brown outlines, warm cream, sage and ochre palette, gentle cel shading. Exactly one Co Bay, matching attached woman sheet: 48-year-old Vietnamese woman, round medium-tan face, short softly wavy dark-brown bob, no glasses, plain sage-green short sleeve blouse, ochre waist apron correctly tied behind, dark-brown trousers, black slip-on shoes; plum-purple blank notebook. Cafe owner calmly works behind counter with plum notebook beside her. Wide cafe establishing view with clear subjects on left. One coherent scene, no split panels. Natural anatomically correct limbs, hands, wrists and body orientation; no lanyards or ID cards. All pages, calculator keys, calendar, clock, cups, machines and envelopes completely blank and unlabeled. Smooth unmarked coins. No writing-like squiggles, letters, numbers, logos, watermarks, signatures or readable text. No readable text. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "assets/nhan-vat/co-bay.png"
+    ]
+  },
+  {
+    "id": "canh-05-05",
+    "scene": 5,
+    "from": 63,
+    "to": 78,
+    "text": "Phần lao động thuê đã có khoản dự trù nghĩa vụ đóng góp khi áp dụng,",
+    "keyword": "",
+    "ref": false,
+    "prompt": "Use case: illustration-story. One full-bleed landscape 16:9 Vietnamese financial explainer illustration. Flat 2D cartoon, thick clean dark-brown outlines, warm cream, sage and ochre palette, gentle cel shading. Objects-only conceptual illustration. No people, human faces, human silhouettes, arms or hands. Blank employment folder, clock and sealed plain envelope. Low desk-height three-quarter composition. One coherent scene, no split panels. Natural anatomically correct limbs, hands, wrists and body orientation; no lanyards or ID cards. All pages, calculator keys, calendar, clock, cups, machines and envelopes completely blank and unlabeled. Smooth unmarked coins. No writing-like squiggles, letters, numbers, logos, watermarks, signatures or readable text. No readable text. No text, letters, numbers, logos or watermarks.",
+    "refs": []
+  },
+  {
+    "id": "canh-05-06",
+    "scene": 5,
+    "from": 79,
+    "to": 89,
+    "text": "điện nước và bảo trì cũng nằm trong gói giả định.",
+    "keyword": "KIỂM LỊCH VÀ SỐ GIỜ",
+    "ref": true,
+    "prompt": "Use case: illustration-story. One full-bleed landscape 16:9 Vietnamese financial explainer illustration. Flat 2D cartoon, thick clean dark-brown outlines, warm cream, sage and ochre palette, gentle cel shading. Exactly one Bac Sau, matching attached accountant sheet: elderly Vietnamese man, salt-and-pepper side-part hair, rectangular glasses, blue pen behind ear, beige checkered short sleeve shirt, brown trousers, red blank ledger. Accountant considers blank calendar and blank clock beside ledger. Overhead-oblique tabletop composition. One coherent scene, no split panels. Natural anatomically correct limbs, hands, wrists and body orientation; no lanyards or ID cards. All pages, calculator keys, calendar, clock, cups, machines and envelopes completely blank and unlabeled. Smooth unmarked coins. No writing-like squiggles, letters, numbers, logos, watermarks, signatures or readable text. No readable text. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png"
+    ]
+  },
+  {
+    "id": "canh-05-07",
+    "scene": 5,
+    "from": 90,
+    "to": 106,
+    "text": "Muốn dùng cho quán thật vẫn phải lập lịch người, số giờ và kiểm từng nghĩa vụ.",
+    "keyword": "",
+    "ref": true,
+    "prompt": "Use case: illustration-story. One full-bleed landscape 16:9 Vietnamese financial explainer illustration. Flat 2D cartoon, thick clean dark-brown outlines, warm cream, sage and ochre palette, gentle cel shading. Exactly one Bac Sau, matching attached accountant sheet: elderly Vietnamese man, salt-and-pepper side-part hair, rectangular glasses, blue pen behind ear, beige checkered short sleeve shirt, brown trousers, red blank ledger. Accountant holds plain law folder beside clock, no symbols or text. Medium side view, natural body orientation. One coherent scene, no split panels. Natural anatomically correct limbs, hands, wrists and body orientation; no lanyards or ID cards. All pages, calculator keys, calendar, clock, cups, machines and envelopes completely blank and unlabeled. Smooth unmarked coins. No writing-like squiggles, letters, numbers, logos, watermarks, signatures or readable text. No readable text. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png"
+    ]
+  },
+  {
+    "id": "canh-05-08",
+    "scene": 5,
+    "from": 107,
+    "to": 130,
+    "text": "Lương tối thiểu giờ vùng một năm nay là hai mươi lăm ngàn năm trăm đồng cho người làm theo hợp đồng lao động;",
+    "keyword": "ĐÚNG ĐIỀU KIỆN ÁP DỤNG",
+    "ref": false,
+    "prompt": "Use case: illustration-story. One full-bleed landscape 16:9 Vietnamese financial explainer illustration. Flat 2D cartoon, thick clean dark-brown outlines, warm cream, sage and ochre palette, gentle cel shading. Objects-only conceptual illustration. No people, human faces, human silhouettes, arms or hands. Blank contract and blank time sheet on tidy desk. Medium eye-level composition. One coherent scene, no split panels. Natural anatomically correct limbs, hands, wrists and body orientation; no lanyards or ID cards. All pages, calculator keys, calendar, clock, cups, machines and envelopes completely blank and unlabeled. Smooth unmarked coins. No writing-like squiggles, letters, numbers, logos, watermarks, signatures or readable text. No readable text. No text, letters, numbers, logos or watermarks.",
+    "refs": []
+  },
+  {
+    "id": "canh-05-09",
+    "scene": 5,
+    "from": 131,
+    "to": 145,
+    "text": "không lấy một gói tiền tháng rồi kết luận mọi lịch làm đều đúng luật.",
+    "keyword": "",
+    "ref": true,
+    "prompt": "Use case: illustration-story. One full-bleed landscape 16:9 Vietnamese financial explainer illustration. Flat 2D cartoon, thick clean dark-brown outlines, warm cream, sage and ochre palette, gentle cel shading. Exactly one Bac Sau, matching attached accountant sheet: elderly Vietnamese man, salt-and-pepper side-part hair, rectangular glasses, blue pen behind ear, beige checkered short sleeve shirt, brown trousers, red blank ledger. Accountant reviews cafe model beside plain tax folder and blank calculator. Close three-quarter view, uncluttered layered background. One coherent scene, no split panels. Natural anatomically correct limbs, hands, wrists and body orientation; no lanyards or ID cards. All pages, calculator keys, calendar, clock, cups, machines and envelopes completely blank and unlabeled. Smooth unmarked coins. No writing-like squiggles, letters, numbers, logos, watermarks, signatures or readable text. No readable text. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png"
+    ]
+  },
+  {
+    "id": "canh-05-10",
+    "scene": 5,
+    "from": 146,
+    "to": 165,
+    "text": "Thuế cũng phải xét đúng hộ. Theo ngưỡng đã cập nhật năm nay, ví dụ chỉ có hoạt động này,",
+    "keyword": "KHÔNG BỎ NGHĨA VỤ KHÁC",
+    "ref": true,
+    "prompt": "Use case: illustration-story. One full-bleed landscape 16:9 Vietnamese financial explainer illustration. Flat 2D cartoon, thick clean dark-brown outlines, warm cream, sage and ochre palette, gentle cel shading. Exactly one Bac Sau, matching attached accountant sheet: elderly Vietnamese man, salt-and-pepper side-part hair, rectangular glasses, blue pen behind ear, beige checkered short sleeve shirt, brown trousers, red blank ledger. Accountant organizes blank administrative folders neatly. Wide cafe establishing view with clear subjects on left. One coherent scene, no split panels. Natural anatomically correct limbs, hands, wrists and body orientation; no lanyards or ID cards. All pages, calculator keys, calendar, clock, cups, machines and envelopes completely blank and unlabeled. Smooth unmarked coins. No writing-like squiggles, letters, numbers, logos, watermarks, signatures or readable text. No readable text. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png"
+    ]
+  },
+  {
+    "id": "canh-05-11",
+    "scene": 5,
+    "from": 166,
+    "to": 185,
+    "text": "doanh thu năm dưới một tỷ, mình chưa tính tiền thuế giá trị gia tăng và thu nhập cá nhân.",
+    "keyword": "",
+    "ref": false,
+    "prompt": "Use case: illustration-story. One full-bleed landscape 16:9 Vietnamese financial explainer illustration. Flat 2D cartoon, thick clean dark-brown outlines, warm cream, sage and ochre palette, gentle cel shading. Objects-only conceptual illustration. No people, human faces, human silhouettes, arms or hands. Blank calculator, cafe key and separate expense coin piles. Low desk-height three-quarter composition. One coherent scene, no split panels. Natural anatomically correct limbs, hands, wrists and body orientation; no lanyards or ID cards. All pages, calculator keys, calendar, clock, cups, machines and envelopes completely blank and unlabeled. Smooth unmarked coins. No writing-like squiggles, letters, numbers, logos, watermarks, signatures or readable text. No readable text. No text, letters, numbers, logos or watermarks.",
+    "refs": []
+  },
+  {
+    "id": "canh-05-12",
+    "scene": 5,
+    "from": 186,
+    "to": 203,
+    "text": "Không có nghĩa được bỏ kê khai hay mọi nghĩa vụ khác. Doanh thu khác hoặc vượt ngưỡng",
+    "keyword": "TRỪ ĐỦ TIỀN CHI",
+    "ref": true,
+    "prompt": "Use case: illustration-story. One full-bleed landscape 16:9 Vietnamese financial explainer illustration. Flat 2D cartoon, thick clean dark-brown outlines, warm cream, sage and ochre palette, gentle cel shading. Exactly one Bac Sau, matching attached accountant sheet: elderly Vietnamese man, salt-and-pepper side-part hair, rectangular glasses, blue pen behind ear, beige checkered short sleeve shirt, brown trousers, red blank ledger. Accountant removes separate expense coins from a larger smooth coin pile. Overhead-oblique tabletop composition. One coherent scene, no split panels. Natural anatomically correct limbs, hands, wrists and body orientation; no lanyards or ID cards. All pages, calculator keys, calendar, clock, cups, machines and envelopes completely blank and unlabeled. Smooth unmarked coins. No writing-like squiggles, letters, numbers, logos, watermarks, signatures or readable text. No readable text. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png"
+    ]
+  },
+  {
+    "id": "canh-05-13",
+    "scene": 5,
+    "from": 204,
+    "to": 216,
+    "text": "thì tính lại. Trừ phần biến đổi, tiền thuê và gói cố định,",
+    "keyword": "",
+    "ref": false,
+    "prompt": "Use case: illustration-story. One full-bleed landscape 16:9 Vietnamese financial explainer illustration. Flat 2D cartoon, thick clean dark-brown outlines, warm cream, sage and ochre palette, gentle cel shading. Exactly one Co Bay, matching attached woman sheet: 48-year-old Vietnamese woman, round medium-tan face, short softly wavy dark-brown bob, no glasses, plain sage-green short sleeve blouse, ochre waist apron correctly tied behind, dark-brown trousers, black slip-on shoes; plum-purple blank notebook. Cafe owner places remaining coins into small shallow tray. Medium side view, natural body orientation. One coherent scene, no split panels. Natural anatomically correct limbs, hands, wrists and body orientation; no lanyards or ID cards. All pages, calculator keys, calendar, clock, cups, machines and envelopes completely blank and unlabeled. Smooth unmarked coins. No writing-like squiggles, letters, numbers, logos, watermarks, signatures or readable text. No readable text. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "assets/nhan-vat/co-bay.png"
+    ]
+  },
+  {
+    "id": "canh-05-14",
+    "scene": 5,
+    "from": 217,
+    "to": 232,
+    "text": "quán còn mười một triệu ba trăm ba chục ngàn một tháng để thu hồi vốn.",
+    "keyword": "ĐÃ TÍNH CÔNG CHỦ",
+    "ref": true,
+    "prompt": "Use case: illustration-story. One full-bleed landscape 16:9 Vietnamese financial explainer illustration. Flat 2D cartoon, thick clean dark-brown outlines, warm cream, sage and ochre palette, gentle cel shading. Exactly one Bac Sau, matching attached accountant sheet: elderly Vietnamese man, salt-and-pepper side-part hair, rectangular glasses, blue pen behind ear, beige checkered short sleeve shirt, brown trousers, red blank ledger. Accountant puts personal compensation envelope apart from capital recovery tray. Medium eye-level composition. One coherent scene, no split panels. Natural anatomically correct limbs, hands, wrists and body orientation; no lanyards or ID cards. All pages, calculator keys, calendar, clock, cups, machines and envelopes completely blank and unlabeled. Smooth unmarked coins. No writing-like squiggles, letters, numbers, logos, watermarks, signatures or readable text. No readable text. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png"
+    ]
+  },
+  {
+    "id": "canh-05-15",
+    "scene": 5,
+    "from": 233,
+    "to": 247,
+    "text": "Đã tính công chủ, nhưng chưa tính lãi cơ hội hay khoản thay máy lớn.",
+    "keyword": "",
+    "ref": false,
+    "prompt": "Use case: illustration-story. One full-bleed landscape 16:9 Vietnamese financial explainer illustration. Flat 2D cartoon, thick clean dark-brown outlines, warm cream, sage and ochre palette, gentle cel shading. Objects-only conceptual illustration. No people, human faces, human silhouettes, arms or hands. Reserve jar, spare espresso machine parts and blank clock on desk. Close three-quarter view, uncluttered layered background. One coherent scene, no split panels. Natural anatomically correct limbs, hands, wrists and body orientation; no lanyards or ID cards. All pages, calculator keys, calendar, clock, cups, machines and envelopes completely blank and unlabeled. Smooth unmarked coins. No writing-like squiggles, letters, numbers, logos, watermarks, signatures or readable text. No readable text. No text, letters, numbers, logos or watermarks.",
+    "refs": []
+  },
+  {
+    "id": "canh-05-16",
+    "scene": 5,
+    "from": 248,
+    "to": 262,
+    "text": "Đây là dòng tiền của ví dụ, không gọi ngay là lãi ròng cuối cùng.",
+    "keyword": "DÒNG TIỀN KHÁC LÃI RÒNG",
+    "ref": true,
+    "prompt": "Use case: illustration-story. One full-bleed landscape 16:9 Vietnamese financial explainer illustration. Flat 2D cartoon, thick clean dark-brown outlines, warm cream, sage and ochre palette, gentle cel shading. Exactly one Bac Sau, matching attached accountant sheet: elderly Vietnamese man, salt-and-pepper side-part hair, rectangular glasses, blue pen behind ear, beige checkered short sleeve shirt, brown trousers, red blank ledger. Accountant considers remaining coin pile beside blank ledger. Wide cafe establishing view with clear subjects on left. One coherent scene, no split panels. Natural anatomically correct limbs, hands, wrists and body orientation; no lanyards or ID cards. All pages, calculator keys, calendar, clock, cups, machines and envelopes completely blank and unlabeled. Smooth unmarked coins. No writing-like squiggles, letters, numbers, logos, watermarks, signatures or readable text. No readable text. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png"
+    ]
+  },
+  {
+    "id": "canh-05-17",
+    "scene": 5,
+    "from": 263,
+    "to": 287,
+    "text": "Máy đã mua bằng vốn ban đầu thì đừng trừ thêm khấu hao như một lần trả tiền nữa trong cùng phép cộng dòng tiền.",
+    "keyword": "",
+    "ref": true,
+    "prompt": "Use case: illustration-story. One full-bleed landscape 16:9 Vietnamese financial explainer illustration. Flat 2D cartoon, thick clean dark-brown outlines, warm cream, sage and ochre palette, gentle cel shading. Exactly one Bac Sau, matching attached accountant sheet: elderly Vietnamese man, salt-and-pepper side-part hair, rectangular glasses, blue pen behind ear, beige checkered short sleeve shirt, brown trousers, red blank ledger. Accountant places purchased machine model beside one initial expense envelope. Low desk-height three-quarter composition. One coherent scene, no split panels. Natural anatomically correct limbs, hands, wrists and body orientation; no lanyards or ID cards. All pages, calculator keys, calendar, clock, cups, machines and envelopes completely blank and unlabeled. Smooth unmarked coins. No writing-like squiggles, letters, numbers, logos, watermarks, signatures or readable text. No readable text. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png"
+    ]
+  },
+  {
+    "id": "canh-06-01",
+    "scene": 6,
+    "from": 0,
+    "to": 19,
+    "text": "Cô Bảy lấy ba trăm triệu chia số dư tháng đó, bảo khoảng hai mươi bảy tháng là thu lại",
+    "keyword": "",
+    "ref": false,
+    "prompt": "",
+    "refs": [
+      "assets/nhan-vat/co-bay.png"
+    ],
+    "image": "anh/canh-06.png"
+  },
+  {
+    "id": "canh-06-02",
+    "scene": 6,
+    "from": 20,
+    "to": 34,
+    "text": "tiền làm quán. Bác nói phép chia không sai, nhưng đang coi quán đông đều",
+    "keyword": "KHOAN BỎ THÁNG ĐẦU",
+    "ref": true,
+    "prompt": "Use case: illustration-story. One full-bleed landscape 16:9 Vietnamese financial explainer illustration. Flat 2D cartoon, thick clean dark-brown outlines, warm cream, sage and ochre palette, gentle cel shading. Exactly one Bac Sau, matching attached accountant sheet: elderly Vietnamese man, salt-and-pepper side-part hair, rectangular glasses, blue pen behind ear, beige checkered short sleeve shirt, brown trousers, red blank ledger. Accountant raises gentle stop palm beside blank calendar. Close three-quarter view, uncluttered layered background. One coherent scene, no split panels. Natural anatomically correct limbs, hands, wrists and body orientation; no lanyards or ID cards. All pages, calculator keys, calendar, clock, cups, machines and envelopes completely blank and unlabeled. Smooth unmarked coins. No writing-like squiggles, letters, numbers, logos, watermarks, signatures or readable text. No readable text. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png"
+    ]
+  },
+  {
+    "id": "canh-06-03",
+    "scene": 6,
+    "from": 35,
+    "to": 49,
+    "text": "ngay từ ngày mở cửa. Hai tháng đầu vắng khách của con đi đâu rồi?",
+    "keyword": "",
+    "ref": false,
+    "prompt": "Use case: illustration-story. One full-bleed landscape 16:9 Vietnamese financial explainer illustration. Flat 2D cartoon, thick clean dark-brown outlines, warm cream, sage and ochre palette, gentle cel shading. Objects-only conceptual illustration. No people, human faces, human silhouettes, arms or hands. Empty cafe tables under soft early morning light. Wide cafe establishing view with clear subjects on left. One coherent scene, no split panels. Natural anatomically correct limbs, hands, wrists and body orientation; no lanyards or ID cards. All pages, calculator keys, calendar, clock, cups, machines and envelopes completely blank and unlabeled. Smooth unmarked coins. No writing-like squiggles, letters, numbers, logos, watermarks, signatures or readable text. No readable text. No text, letters, numbers, logos or watermarks.",
+    "refs": []
+  },
+  {
+    "id": "canh-06-04",
+    "scene": 6,
+    "from": 50,
+    "to": 68,
+    "text": "Mình giả định hai tháng đầu doanh thu chỉ bằng một nửa tháng ổn định. Nguyên liệu giảm theo,",
+    "keyword": "DOANH THU BẰNG MỘT NỬA",
+    "ref": true,
+    "prompt": "Use case: illustration-story. One full-bleed landscape 16:9 Vietnamese financial explainer illustration. Flat 2D cartoon, thick clean dark-brown outlines, warm cream, sage and ochre palette, gentle cel shading. Exactly one Bac Sau, matching attached accountant sheet: elderly Vietnamese man, salt-and-pepper side-part hair, rectangular glasses, blue pen behind ear, beige checkered short sleeve shirt, brown trousers, red blank ledger. Accountant compares full and half-filled identical coin bowls. Low desk-height three-quarter composition. One coherent scene, no split panels. Natural anatomically correct limbs, hands, wrists and body orientation; no lanyards or ID cards. All pages, calculator keys, calendar, clock, cups, machines and envelopes completely blank and unlabeled. Smooth unmarked coins. No writing-like squiggles, letters, numbers, logos, watermarks, signatures or readable text. No readable text. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png"
+    ]
+  },
+  {
+    "id": "canh-06-05",
+    "scene": 6,
+    "from": 69,
+    "to": 85,
+    "text": "nhưng tiền thuê và gói cố định vẫn giữ. Mỗi tháng đầu âm mười bảy triệu ba",
+    "keyword": "",
+    "ref": false,
+    "prompt": "Use case: illustration-story. One full-bleed landscape 16:9 Vietnamese financial explainer illustration. Flat 2D cartoon, thick clean dark-brown outlines, warm cream, sage and ochre palette, gentle cel shading. Exactly one Co Bay, matching attached woman sheet: 48-year-old Vietnamese woman, round medium-tan face, short softly wavy dark-brown bob, no glasses, plain sage-green short sleeve blouse, ochre waist apron correctly tied behind, dark-brown trousers, black slip-on shoes; plum-purple blank notebook. Cafe owner puts same-sized sealed envelope beside sparse coin tray. Overhead-oblique tabletop composition. One coherent scene, no split panels. Natural anatomically correct limbs, hands, wrists and body orientation; no lanyards or ID cards. All pages, calculator keys, calendar, clock, cups, machines and envelopes completely blank and unlabeled. Smooth unmarked coins. No writing-like squiggles, letters, numbers, logos, watermarks, signatures or readable text. No readable text. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "assets/nhan-vat/co-bay.png"
+    ]
+  },
+  {
+    "id": "canh-06-06",
+    "scene": 6,
+    "from": 86,
+    "to": 102,
+    "text": "trăm ba mươi lăm ngàn. Hai tháng âm ba mươi bốn triệu sáu trăm bảy chục ngàn,",
+    "keyword": "THÁNG ĐẦU ÂM TIỀN",
+    "ref": true,
+    "prompt": "Use case: illustration-story. One full-bleed landscape 16:9 Vietnamese financial explainer illustration. Flat 2D cartoon, thick clean dark-brown outlines, warm cream, sage and ochre palette, gentle cel shading. Exactly one Bac Sau, matching attached accountant sheet: elderly Vietnamese man, salt-and-pepper side-part hair, rectangular glasses, blue pen behind ear, beige checkered short sleeve shirt, brown trousers, red blank ledger. Accountant shows empty shallow tray beside expense envelope. Medium side view, natural body orientation. One coherent scene, no split panels. Natural anatomically correct limbs, hands, wrists and body orientation; no lanyards or ID cards. All pages, calculator keys, calendar, clock, cups, machines and envelopes completely blank and unlabeled. Smooth unmarked coins. No writing-like squiggles, letters, numbers, logos, watermarks, signatures or readable text. No readable text. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png"
+    ]
+  },
+  {
+    "id": "canh-06-07",
+    "scene": 6,
+    "from": 103,
+    "to": 122,
+    "text": "lấy từ quỹ dự phòng. Sáu chục triệu dự phòng còn hai mươi lăm triệu ba trăm ba chục ngàn,",
+    "keyword": "",
+    "ref": false,
+    "prompt": "Use case: illustration-story. One full-bleed landscape 16:9 Vietnamese financial explainer illustration. Flat 2D cartoon, thick clean dark-brown outlines, warm cream, sage and ochre palette, gentle cel shading. Objects-only conceptual illustration. No people, human faces, human silhouettes, arms or hands. Some smooth coins removed from transparent reserve jar into expense tray. Medium eye-level composition. One coherent scene, no split panels. Natural anatomically correct limbs, hands, wrists and body orientation; no lanyards or ID cards. All pages, calculator keys, calendar, clock, cups, machines and envelopes completely blank and unlabeled. Smooth unmarked coins. No writing-like squiggles, letters, numbers, logos, watermarks, signatures or readable text. No readable text. No text, letters, numbers, logos or watermarks.",
+    "refs": []
+  },
+  {
+    "id": "canh-06-08",
+    "scene": 6,
+    "from": 123,
+    "to": 138,
+    "text": "không phải đã mất nguyên cả quỹ. Từ tháng thứ ba, giả định quán đều mỗi",
+    "keyword": "DỰ PHÒNG VẪN CÒN",
+    "ref": false,
+    "prompt": "Use case: illustration-story. One full-bleed landscape 16:9 Vietnamese financial explainer illustration. Flat 2D cartoon, thick clean dark-brown outlines, warm cream, sage and ochre palette, gentle cel shading. Exactly one Co Bay, matching attached woman sheet: 48-year-old Vietnamese woman, round medium-tan face, short softly wavy dark-brown bob, no glasses, plain sage-green short sleeve blouse, ochre waist apron correctly tied behind, dark-brown trousers, black slip-on shoes; plum-purple blank notebook. Cafe owner checks partially filled reserve jar with calm thoughtful face. Close three-quarter view, uncluttered layered background. One coherent scene, no split panels. Natural anatomically correct limbs, hands, wrists and body orientation; no lanyards or ID cards. All pages, calculator keys, calendar, clock, cups, machines and envelopes completely blank and unlabeled. Smooth unmarked coins. No writing-like squiggles, letters, numbers, logos, watermarks, signatures or readable text. No readable text. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "assets/nhan-vat/co-bay.png"
+    ]
+  },
+  {
+    "id": "canh-06-09",
+    "scene": 6,
+    "from": 139,
+    "to": 156,
+    "text": "tháng dư mười một triệu ba trăm ba chục ngàn. Cộng hai tháng âm với mười tháng dư,",
+    "keyword": "",
+    "ref": true,
+    "prompt": "Use case: illustration-story. One full-bleed landscape 16:9 Vietnamese financial explainer illustration. Flat 2D cartoon, thick clean dark-brown outlines, warm cream, sage and ochre palette, gentle cel shading. Exactly one Bac Sau, matching attached accountant sheet: elderly Vietnamese man, salt-and-pepper side-part hair, rectangular glasses, blue pen behind ear, beige checkered short sleeve shirt, brown trousers, red blank ledger. Accountant turns blank calendar page beside fuller coin tray. Wide cafe establishing view with clear subjects on left. One coherent scene, no split panels. Natural anatomically correct limbs, hands, wrists and body orientation; no lanyards or ID cards. All pages, calculator keys, calendar, clock, cups, machines and envelopes completely blank and unlabeled. Smooth unmarked coins. No writing-like squiggles, letters, numbers, logos, watermarks, signatures or readable text. No readable text. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png"
+    ]
+  },
+  {
+    "id": "canh-06-10",
+    "scene": 6,
+    "from": 157,
+    "to": 175,
+    "text": "hết năm đầu mới tích lũy được bảy mươi tám triệu sáu trăm ba chục ngàn từ vận hành.",
+    "keyword": "TÍCH LŨY QUA THÁNG",
+    "ref": false,
+    "prompt": "Use case: illustration-story. One full-bleed landscape 16:9 Vietnamese financial explainer illustration. Flat 2D cartoon, thick clean dark-brown outlines, warm cream, sage and ochre palette, gentle cel shading. Objects-only conceptual illustration. No people, human faces, human silhouettes, arms or hands. Sequence of increasing coin stacks beside unmarked calendar pages. Low desk-height three-quarter composition. One coherent scene, no split panels. Natural anatomically correct limbs, hands, wrists and body orientation; no lanyards or ID cards. All pages, calculator keys, calendar, clock, cups, machines and envelopes completely blank and unlabeled. Smooth unmarked coins. No writing-like squiggles, letters, numbers, logos, watermarks, signatures or readable text. No readable text. No text, letters, numbers, logos or watermarks.",
+    "refs": []
+  },
+  {
+    "id": "canh-06-11",
+    "scene": 6,
+    "from": 176,
+    "to": 188,
+    "text": "Đó chưa phải ba trăm triệu thu hồi. Giữ nguyên mọi giả định,",
+    "keyword": "",
+    "ref": true,
+    "prompt": "Use case: illustration-story. One full-bleed landscape 16:9 Vietnamese financial explainer illustration. Flat 2D cartoon, thick clean dark-brown outlines, warm cream, sage and ochre palette, gentle cel shading. Exactly one Bac Sau, matching attached accountant sheet: elderly Vietnamese man, salt-and-pepper side-part hair, rectangular glasses, blue pen behind ear, beige checkered short sleeve shirt, brown trousers, red blank ledger. Accountant includes an empty tray with several full monthly trays. Overhead-oblique tabletop composition. One coherent scene, no split panels. Natural anatomically correct limbs, hands, wrists and body orientation; no lanyards or ID cards. All pages, calculator keys, calendar, clock, cups, machines and envelopes completely blank and unlabeled. Smooth unmarked coins. No writing-like squiggles, letters, numbers, logos, watermarks, signatures or readable text. No readable text. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png"
+    ]
+  },
+  {
+    "id": "canh-06-12",
+    "scene": 6,
+    "from": 189,
+    "to": 203,
+    "text": "phải sang tháng thứ ba mươi hai, tiền tích lũy mới đủ ba trăm triệu.",
+    "keyword": "GIỮ NGUYÊN GIẢ ĐỊNH",
+    "ref": true,
+    "prompt": "Use case: illustration-story. One full-bleed landscape 16:9 Vietnamese financial explainer illustration. Flat 2D cartoon, thick clean dark-brown outlines, warm cream, sage and ochre palette, gentle cel shading. Exactly one Bac Sau, matching attached accountant sheet: elderly Vietnamese man, salt-and-pepper side-part hair, rectangular glasses, blue pen behind ear, beige checkered short sleeve shirt, brown trousers, red blank ledger. Accountant aligns blank lease, calculator and monthly coin piles. Medium side view, natural body orientation. One coherent scene, no split panels. Natural anatomically correct limbs, hands, wrists and body orientation; no lanyards or ID cards. All pages, calculator keys, calendar, clock, cups, machines and envelopes completely blank and unlabeled. Smooth unmarked coins. No writing-like squiggles, letters, numbers, logos, watermarks, signatures or readable text. No readable text. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png"
+    ]
+  },
+  {
+    "id": "canh-06-13",
+    "scene": 6,
+    "from": 204,
+    "to": 219,
+    "text": "Điều kiện là còn được thuê tiếp cùng giá và quán giữ được dòng tiền đó.",
+    "keyword": "",
+    "ref": false,
+    "prompt": "Use case: illustration-story. One full-bleed landscape 16:9 Vietnamese financial explainer illustration. Flat 2D cartoon, thick clean dark-brown outlines, warm cream, sage and ochre palette, gentle cel shading. Objects-only conceptual illustration. No people, human faces, human silhouettes, arms or hands. Long row of unmarked calendar pages ending beside complete coin jar. Medium eye-level composition. One coherent scene, no split panels. Natural anatomically correct limbs, hands, wrists and body orientation; no lanyards or ID cards. All pages, calculator keys, calendar, clock, cups, machines and envelopes completely blank and unlabeled. Smooth unmarked coins. No writing-like squiggles, letters, numbers, logos, watermarks, signatures or readable text. No readable text. No text, letters, numbers, logos or watermarks.",
+    "refs": []
+  },
+  {
+    "id": "canh-06-14",
+    "scene": 6,
+    "from": 220,
+    "to": 240,
+    "text": "Đây là mô phỏng thời gian thu hồi khoản làm quán, chưa phải lời hứa thu lại toàn bộ bốn trăm",
+    "keyword": "NẾU ĐƯỢC THUÊ TIẾP",
+    "ref": true,
+    "prompt": "Use case: illustration-story. One full-bleed landscape 16:9 Vietnamese financial explainer illustration. Flat 2D cartoon, thick clean dark-brown outlines, warm cream, sage and ochre palette, gentle cel shading. Exactly one Bac Sau, matching attached accountant sheet: elderly Vietnamese man, salt-and-pepper side-part hair, rectangular glasses, blue pen behind ear, beige checkered short sleeve shirt, brown trousers, red blank ledger. Accountant points thoughtfully to blank lease beside long calendar row. Close three-quarter view, uncluttered layered background. One coherent scene, no split panels. Natural anatomically correct limbs, hands, wrists and body orientation; no lanyards or ID cards. All pages, calculator keys, calendar, clock, cups, machines and envelopes completely blank and unlabeled. Smooth unmarked coins. No writing-like squiggles, letters, numbers, logos, watermarks, signatures or readable text. No readable text. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png"
+    ]
+  },
+  {
+    "id": "canh-06-15",
+    "scene": 6,
+    "from": 241,
+    "to": 258,
+    "text": "hai mươi triệu. Cọc còn nằm chỗ khác, dự phòng còn bao nhiêu vẫn phải theo sổ riêng.",
+    "keyword": "",
+    "ref": false,
+    "prompt": "Use case: illustration-story. One full-bleed landscape 16:9 Vietnamese financial explainer illustration. Flat 2D cartoon, thick clean dark-brown outlines, warm cream, sage and ochre palette, gentle cel shading. Exactly one Co Bay, matching attached woman sheet: 48-year-old Vietnamese woman, round medium-tan face, short softly wavy dark-brown bob, no glasses, plain sage-green short sleeve blouse, ochre waist apron correctly tied behind, dark-brown trousers, black slip-on shoes; plum-purple blank notebook. Cafe owner separates sealed envelope and reserve jar from capital tray. Wide cafe establishing view with clear subjects on left. One coherent scene, no split panels. Natural anatomically correct limbs, hands, wrists and body orientation; no lanyards or ID cards. All pages, calculator keys, calendar, clock, cups, machines and envelopes completely blank and unlabeled. Smooth unmarked coins. No writing-like squiggles, letters, numbers, logos, watermarks, signatures or readable text. No readable text. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "assets/nhan-vat/co-bay.png"
+    ]
+  },
+  {
+    "id": "canh-07-01",
+    "scene": 7,
+    "from": 0,
+    "to": 13,
+    "text": "Bây giờ thử đổi một khoản thôi. Cùng doanh thu, cùng chi phí khác,",
+    "keyword": "",
+    "ref": true,
+    "prompt": "",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png"
+    ],
+    "image": "anh/canh-07.png"
+  },
+  {
+    "id": "canh-07-02",
+    "scene": 7,
+    "from": 14,
+    "to": 29,
+    "text": "tiền thuê từ hai chục lên hai mươi lăm triệu. Phần dư tháng ổn định từ",
+    "keyword": "CÙNG DOANH THU",
+    "ref": false,
+    "prompt": "Use case: illustration-story. One full-bleed landscape 16:9 Vietnamese financial explainer illustration. Flat 2D cartoon, thick clean dark-brown outlines, warm cream, sage and ochre palette, gentle cel shading. Objects-only conceptual illustration. No people, human faces, human silhouettes, arms or hands. Two equal revenue coin bowls beside two identical cafe models. Wide cafe establishing view with clear subjects on left. One coherent scene, no split panels. Natural anatomically correct limbs, hands, wrists and body orientation; no lanyards or ID cards. All pages, calculator keys, calendar, clock, cups, machines and envelopes completely blank and unlabeled. Smooth unmarked coins. No writing-like squiggles, letters, numbers, logos, watermarks, signatures or readable text. No readable text. No text, letters, numbers, logos or watermarks.",
+    "refs": []
+  },
+  {
+    "id": "canh-07-03",
+    "scene": 7,
+    "from": 30,
+    "to": 45,
+    "text": "mười một triệu ba trăm ba chục ngàn còn sáu triệu ba trăm ba chục ngàn.",
+    "keyword": "",
+    "ref": true,
+    "prompt": "Use case: illustration-story. One full-bleed landscape 16:9 Vietnamese financial explainer illustration. Flat 2D cartoon, thick clean dark-brown outlines, warm cream, sage and ochre palette, gentle cel shading. Exactly one Bac Sau, matching attached accountant sheet: elderly Vietnamese man, salt-and-pepper side-part hair, rectangular glasses, blue pen behind ear, beige checkered short sleeve shirt, brown trousers, red blank ledger. Accountant moves extra coins from recovery tray to rent envelope. Low desk-height three-quarter composition. One coherent scene, no split panels. Natural anatomically correct limbs, hands, wrists and body orientation; no lanyards or ID cards. All pages, calculator keys, calendar, clock, cups, machines and envelopes completely blank and unlabeled. Smooth unmarked coins. No writing-like squiggles, letters, numbers, logos, watermarks, signatures or readable text. No readable text. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png"
+    ]
+  },
+  {
+    "id": "canh-07-04",
+    "scene": 7,
+    "from": 46,
+    "to": 58,
+    "text": "Thuê thêm năm triệu không làm ly cà phê tự bán mắc hơn.",
+    "keyword": "PHẦN DƯ NHỎ ĐI",
+    "ref": false,
+    "prompt": "Use case: illustration-story. One full-bleed landscape 16:9 Vietnamese financial explainer illustration. Flat 2D cartoon, thick clean dark-brown outlines, warm cream, sage and ochre palette, gentle cel shading. Exactly one Co Bay, matching attached woman sheet: 48-year-old Vietnamese woman, round medium-tan face, short softly wavy dark-brown bob, no glasses, plain sage-green short sleeve blouse, ochre waist apron correctly tied behind, dark-brown trousers, black slip-on shoes; plum-purple blank notebook. Cafe owner looks at smaller remaining coin pile, thoughtful expression. Overhead-oblique tabletop composition. One coherent scene, no split panels. Natural anatomically correct limbs, hands, wrists and body orientation; no lanyards or ID cards. All pages, calculator keys, calendar, clock, cups, machines and envelopes completely blank and unlabeled. Smooth unmarked coins. No writing-like squiggles, letters, numbers, logos, watermarks, signatures or readable text. No readable text. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "assets/nhan-vat/co-bay.png"
+    ]
+  },
+  {
+    "id": "canh-07-05",
+    "scene": 7,
+    "from": 59,
+    "to": 78,
+    "text": "Tính cả hai tháng đầu yếu khách theo cùng cách, mốc thu lại ba trăm triệu trong phương án thuê",
+    "keyword": "",
+    "ref": false,
+    "prompt": "Use case: illustration-story. One full-bleed landscape 16:9 Vietnamese financial explainer illustration. Flat 2D cartoon, thick clean dark-brown outlines, warm cream, sage and ochre palette, gentle cel shading. Objects-only conceptual illustration. No people, human faces, human silhouettes, arms or hands. Same plain coffee cup beside a larger sealed rent envelope. Medium side view, natural body orientation. One coherent scene, no split panels. Natural anatomically correct limbs, hands, wrists and body orientation; no lanyards or ID cards. All pages, calculator keys, calendar, clock, cups, machines and envelopes completely blank and unlabeled. Smooth unmarked coins. No writing-like squiggles, letters, numbers, logos, watermarks, signatures or readable text. No readable text. No text, letters, numbers, logos or watermarks.",
+    "refs": []
+  },
+  {
+    "id": "canh-07-06",
+    "scene": 7,
+    "from": 79,
+    "to": 93,
+    "text": "cao phải tới tháng thứ năm mươi bảy, nếu mọi điều kiện còn giữ được.",
+    "keyword": "TÍNH CẢ GIAI ĐOẠN ĐẦU",
+    "ref": true,
+    "prompt": "Use case: illustration-story. One full-bleed landscape 16:9 Vietnamese financial explainer illustration. Flat 2D cartoon, thick clean dark-brown outlines, warm cream, sage and ochre palette, gentle cel shading. Exactly one Bac Sau, matching attached accountant sheet: elderly Vietnamese man, salt-and-pepper side-part hair, rectangular glasses, blue pen behind ear, beige checkered short sleeve shirt, brown trousers, red blank ledger. Accountant compares early empty trays and later modest coin stacks. Medium eye-level composition. One coherent scene, no split panels. Natural anatomically correct limbs, hands, wrists and body orientation; no lanyards or ID cards. All pages, calculator keys, calendar, clock, cups, machines and envelopes completely blank and unlabeled. Smooth unmarked coins. No writing-like squiggles, letters, numbers, logos, watermarks, signatures or readable text. No readable text. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png"
+    ]
+  },
+  {
+    "id": "canh-07-07",
+    "scene": 7,
+    "from": 94,
+    "to": 106,
+    "text": "Bác không bảo mặt bằng rẻ là tốt hơn trong mọi trường hợp.",
+    "keyword": "",
+    "ref": false,
+    "prompt": "Use case: illustration-story. One full-bleed landscape 16:9 Vietnamese financial explainer illustration. Flat 2D cartoon, thick clean dark-brown outlines, warm cream, sage and ochre palette, gentle cel shading. Objects-only conceptual illustration. No people, human faces, human silhouettes, arms or hands. Very long row of blank calendar pages beside slow-growing coin jar. Close three-quarter view, uncluttered layered background. One coherent scene, no split panels. Natural anatomically correct limbs, hands, wrists and body orientation; no lanyards or ID cards. All pages, calculator keys, calendar, clock, cups, machines and envelopes completely blank and unlabeled. Smooth unmarked coins. No writing-like squiggles, letters, numbers, logos, watermarks, signatures or readable text. No readable text. No text, letters, numbers, logos or watermarks.",
+    "refs": []
+  },
+  {
+    "id": "canh-07-08",
+    "scene": 7,
+    "from": 107,
+    "to": 122,
+    "text": "Chỗ mắc hơn mà thật sự tạo thêm khách thì phải tính doanh thu tương ứng;",
+    "keyword": "THUÊ MẮC CẦN THÊM KHÁCH",
+    "ref": true,
+    "prompt": "Use case: illustration-story. One full-bleed landscape 16:9 Vietnamese financial explainer illustration. Flat 2D cartoon, thick clean dark-brown outlines, warm cream, sage and ochre palette, gentle cel shading. Exactly one Bac Sau, matching attached accountant sheet: elderly Vietnamese man, salt-and-pepper side-part hair, rectangular glasses, blue pen behind ear, beige checkered short sleeve shirt, brown trousers, red blank ledger. Accountant compares busy street cafe model and quiet alley cafe model. Wide cafe establishing view with clear subjects on left. One coherent scene, no split panels. Natural anatomically correct limbs, hands, wrists and body orientation; no lanyards or ID cards. All pages, calculator keys, calendar, clock, cups, machines and envelopes completely blank and unlabeled. Smooth unmarked coins. No writing-like squiggles, letters, numbers, logos, watermarks, signatures or readable text. No readable text. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png"
+    ]
+  },
+  {
+    "id": "canh-07-09",
+    "scene": 7,
+    "from": 123,
+    "to": 137,
+    "text": "ở đây mình cố tình giữ doanh thu để thấy riêng tác động tiền thuê.",
+    "keyword": "",
+    "ref": true,
+    "prompt": "Use case: illustration-story. One full-bleed landscape 16:9 Vietnamese financial explainer illustration. Flat 2D cartoon, thick clean dark-brown outlines, warm cream, sage and ochre palette, gentle cel shading. Exactly one Bac Sau, matching attached accountant sheet: elderly Vietnamese man, salt-and-pepper side-part hair, rectangular glasses, blue pen behind ear, beige checkered short sleeve shirt, brown trousers, red blank ledger. Accountant keeps equal coin bowls fixed while changing rent envelope. Low desk-height three-quarter composition. One coherent scene, no split panels. Natural anatomically correct limbs, hands, wrists and body orientation; no lanyards or ID cards. All pages, calculator keys, calendar, clock, cups, machines and envelopes completely blank and unlabeled. Smooth unmarked coins. No writing-like squiggles, letters, numbers, logos, watermarks, signatures or readable text. No readable text. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png"
+    ]
+  },
+  {
+    "id": "canh-07-10",
+    "scene": 7,
+    "from": 138,
+    "to": 152,
+    "text": "Một phương án khác: hợp đồng ghi tăng năm phần trăm từ năm thứ hai.",
+    "keyword": "ĐIỀU KHOẢN TĂNG GIÁ",
+    "ref": false,
+    "prompt": "Use case: illustration-story. One full-bleed landscape 16:9 Vietnamese financial explainer illustration. Flat 2D cartoon, thick clean dark-brown outlines, warm cream, sage and ochre palette, gentle cel shading. Objects-only conceptual illustration. No people, human faces, human silhouettes, arms or hands. Blank lease and ascending plain envelopes beside calendar. Overhead-oblique tabletop composition. One coherent scene, no split panels. Natural anatomically correct limbs, hands, wrists and body orientation; no lanyards or ID cards. All pages, calculator keys, calendar, clock, cups, machines and envelopes completely blank and unlabeled. Smooth unmarked coins. No writing-like squiggles, letters, numbers, logos, watermarks, signatures or readable text. No readable text. No text, letters, numbers, logos or watermarks.",
+    "refs": []
+  },
+  {
+    "id": "canh-07-11",
+    "scene": 7,
+    "from": 153,
+    "to": 170,
+    "text": "Hai chục triệu thành hai mươi mốt triệu. Nếu doanh thu không đổi, phần dư chỉ còn mười",
+    "keyword": "",
+    "ref": true,
+    "prompt": "Use case: illustration-story. One full-bleed landscape 16:9 Vietnamese financial explainer illustration. Flat 2D cartoon, thick clean dark-brown outlines, warm cream, sage and ochre palette, gentle cel shading. Exactly one Bac Sau, matching attached accountant sheet: elderly Vietnamese man, salt-and-pepper side-part hair, rectangular glasses, blue pen behind ear, beige checkered short sleeve shirt, brown trousers, red blank ledger. Accountant compares two blank annual calendar folders. Medium side view, natural body orientation. One coherent scene, no split panels. Natural anatomically correct limbs, hands, wrists and body orientation; no lanyards or ID cards. All pages, calculator keys, calendar, clock, cups, machines and envelopes completely blank and unlabeled. Smooth unmarked coins. No writing-like squiggles, letters, numbers, logos, watermarks, signatures or readable text. No readable text. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png"
+    ]
+  },
+  {
+    "id": "canh-07-12",
+    "scene": 7,
+    "from": 171,
+    "to": 190,
+    "text": "triệu ba trăm ba chục ngàn mỗi tháng năm đó. Đừng ghi tiền thuê năm đầu rồi nhân suốt mấy",
+    "keyword": "PHẦN DƯ GIẢM THEO THUÊ",
+    "ref": false,
+    "prompt": "Use case: illustration-story. One full-bleed landscape 16:9 Vietnamese financial explainer illustration. Flat 2D cartoon, thick clean dark-brown outlines, warm cream, sage and ochre palette, gentle cel shading. Exactly one Co Bay, matching attached woman sheet: 48-year-old Vietnamese woman, round medium-tan face, short softly wavy dark-brown bob, no glasses, plain sage-green short sleeve blouse, ochre waist apron correctly tied behind, dark-brown trousers, black slip-on shoes; plum-purple blank notebook. Cafe owner closes thinner coin pouch beside key. Medium eye-level composition. One coherent scene, no split panels. Natural anatomically correct limbs, hands, wrists and body orientation; no lanyards or ID cards. All pages, calculator keys, calendar, clock, cups, machines and envelopes completely blank and unlabeled. Smooth unmarked coins. No writing-like squiggles, letters, numbers, logos, watermarks, signatures or readable text. No readable text. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "assets/nhan-vat/co-bay.png"
+    ]
+  },
+  {
+    "id": "canh-07-13",
+    "scene": 7,
+    "from": 191,
+    "to": 206,
+    "text": "năm như giá không đổi. Còn nếu mỗi ghế chỉ có hai lượt khách một ngày,",
+    "keyword": "",
+    "ref": true,
+    "prompt": "Use case: illustration-story. One full-bleed landscape 16:9 Vietnamese financial explainer illustration. Flat 2D cartoon, thick clean dark-brown outlines, warm cream, sage and ochre palette, gentle cel shading. Exactly one Bac Sau, matching attached accountant sheet: elderly Vietnamese man, salt-and-pepper side-part hair, rectangular glasses, blue pen behind ear, beige checkered short sleeve shirt, brown trousers, red blank ledger. Accountant places blank lease beside calendar and blank calculator. Close three-quarter view, uncluttered layered background. One coherent scene, no split panels. Natural anatomically correct limbs, hands, wrists and body orientation; no lanyards or ID cards. All pages, calculator keys, calendar, clock, cups, machines and envelopes completely blank and unlabeled. Smooth unmarked coins. No writing-like squiggles, letters, numbers, logos, watermarks, signatures or readable text. No readable text. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png"
+    ]
+  },
+  {
+    "id": "canh-07-14",
+    "scene": 7,
+    "from": 207,
+    "to": 225,
+    "text": "cùng giá và chi phí mình đã đặt, quán âm bảy triệu bảy trăm tám chục ngàn mỗi tháng.",
+    "keyword": "ÍT LƯỢT KHÁCH HƠN",
+    "ref": false,
+    "prompt": "Use case: illustration-story. One full-bleed landscape 16:9 Vietnamese financial explainer illustration. Flat 2D cartoon, thick clean dark-brown outlines, warm cream, sage and ochre palette, gentle cel shading. Objects-only conceptual illustration. No people, human faces, human silhouettes, arms or hands. Quiet cafe with empty wooden chairs and only two plain cups. Wide cafe establishing view with clear subjects on left. One coherent scene, no split panels. Natural anatomically correct limbs, hands, wrists and body orientation; no lanyards or ID cards. All pages, calculator keys, calendar, clock, cups, machines and envelopes completely blank and unlabeled. Smooth unmarked coins. No writing-like squiggles, letters, numbers, logos, watermarks, signatures or readable text. No readable text. No text, letters, numbers, logos or watermarks.",
+    "refs": []
+  },
+  {
+    "id": "canh-07-15",
+    "scene": 7,
+    "from": 226,
+    "to": 239,
+    "text": "Khi dòng tiền còn âm thì chưa có số tháng hoàn vốn để hứa.",
+    "keyword": "",
+    "ref": true,
+    "prompt": "Use case: illustration-story. One full-bleed landscape 16:9 Vietnamese financial explainer illustration. Flat 2D cartoon, thick clean dark-brown outlines, warm cream, sage and ochre palette, gentle cel shading. Exactly one Bac Sau, matching attached accountant sheet: elderly Vietnamese man, salt-and-pepper side-part hair, rectangular glasses, blue pen behind ear, beige checkered short sleeve shirt, brown trousers, red blank ledger. Accountant studies empty recovery tray and expense envelopes. Low desk-height three-quarter composition. One coherent scene, no split panels. Natural anatomically correct limbs, hands, wrists and body orientation; no lanyards or ID cards. All pages, calculator keys, calendar, clock, cups, machines and envelopes completely blank and unlabeled. Smooth unmarked coins. No writing-like squiggles, letters, numbers, logos, watermarks, signatures or readable text. No readable text. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png"
+    ]
+  },
+  {
+    "id": "canh-07-16",
+    "scene": 7,
+    "from": 240,
+    "to": 257,
+    "text": "Bác không cần con số thật đẹp; Bác cần cô Bảy biết quán chịu được trường hợp nào.",
+    "keyword": "QUÁN CHỊU ĐƯỢC GÌ",
+    "ref": false,
+    "prompt": "Use case: illustration-story. One full-bleed landscape 16:9 Vietnamese financial explainer illustration. Flat 2D cartoon, thick clean dark-brown outlines, warm cream, sage and ochre palette, gentle cel shading. Exactly one Co Bay, matching attached woman sheet: 48-year-old Vietnamese woman, round medium-tan face, short softly wavy dark-brown bob, no glasses, plain sage-green short sleeve blouse, ochre waist apron correctly tied behind, dark-brown trousers, black slip-on shoes; plum-purple blank notebook. Cafe owner opens plum notebook beside key and reserve jar. Overhead-oblique tabletop composition. One coherent scene, no split panels. Natural anatomically correct limbs, hands, wrists and body orientation; no lanyards or ID cards. All pages, calculator keys, calendar, clock, cups, machines and envelopes completely blank and unlabeled. Smooth unmarked coins. No writing-like squiggles, letters, numbers, logos, watermarks, signatures or readable text. No readable text. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "assets/nhan-vat/co-bay.png"
+    ]
+  },
+  {
+    "id": "canh-08-01",
+    "scene": 8,
+    "from": 0,
+    "to": 15,
+    "text": "Cầm hợp đồng lên mới thấy chuyện đáng lo. Ví dụ cô Bảy chỉ có hai",
+    "keyword": "",
+    "ref": true,
+    "prompt": "",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png",
+      "assets/nhan-vat/co-bay.png"
+    ],
+    "image": "anh/canh-08.png"
+  },
+  {
+    "id": "canh-08-02",
+    "scene": 8,
+    "from": 16,
+    "to": 31,
+    "text": "mươi bốn tháng thuê chắc chắn, giá hai chục triệu giữ nguyên trong thời hạn đó.",
+    "keyword": "HẠN THUÊ CHẮC CHẮN",
+    "ref": false,
+    "prompt": "Use case: illustration-story. One full-bleed landscape 16:9 Vietnamese financial explainer illustration. Flat 2D cartoon, thick clean dark-brown outlines, warm cream, sage and ochre palette, gentle cel shading. Objects-only conceptual illustration. No people, human faces, human silhouettes, arms or hands. Blank lease beside compact row of calendar pages and cafe key. Low desk-height three-quarter composition. One coherent scene, no split panels. Natural anatomically correct limbs, hands, wrists and body orientation; no lanyards or ID cards. All pages, calculator keys, calendar, clock, cups, machines and envelopes completely blank and unlabeled. Smooth unmarked coins. No writing-like squiggles, letters, numbers, logos, watermarks, signatures or readable text. No readable text. No text, letters, numbers, logos or watermarks.",
+    "refs": []
+  },
+  {
+    "id": "canh-08-03",
+    "scene": 8,
+    "from": 32,
+    "to": 45,
+    "text": "Trong khi mô phỏng thu lại tiền làm quán cần ba mươi hai tháng.",
+    "keyword": "",
+    "ref": true,
+    "prompt": "Use case: illustration-story. One full-bleed landscape 16:9 Vietnamese financial explainer illustration. Flat 2D cartoon, thick clean dark-brown outlines, warm cream, sage and ochre palette, gentle cel shading. Exactly one Bac Sau, matching attached accountant sheet: elderly Vietnamese man, salt-and-pepper side-part hair, rectangular glasses, blue pen behind ear, beige checkered short sleeve shirt, brown trousers, red blank ledger. Accountant aligns equal rent envelopes within a blank contract folder. Overhead-oblique tabletop composition. One coherent scene, no split panels. Natural anatomically correct limbs, hands, wrists and body orientation; no lanyards or ID cards. All pages, calculator keys, calendar, clock, cups, machines and envelopes completely blank and unlabeled. Smooth unmarked coins. No writing-like squiggles, letters, numbers, logos, watermarks, signatures or readable text. No readable text. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png"
+    ]
+  },
+  {
+    "id": "canh-08-04",
+    "scene": 8,
+    "from": 46,
+    "to": 56,
+    "text": "Tám tháng chênh ấy không tự biến thành quyền ở lại.",
+    "keyword": "THU HỒI CẦN DÀI HƠN",
+    "ref": false,
+    "prompt": "Use case: illustration-story. One full-bleed landscape 16:9 Vietnamese financial explainer illustration. Flat 2D cartoon, thick clean dark-brown outlines, warm cream, sage and ochre palette, gentle cel shading. Objects-only conceptual illustration. No people, human faces, human silhouettes, arms or hands. Long calendar ribbon extends beyond edge of blank lease folder. Medium side view, natural body orientation. One coherent scene, no split panels. Natural anatomically correct limbs, hands, wrists and body orientation; no lanyards or ID cards. All pages, calculator keys, calendar, clock, cups, machines and envelopes completely blank and unlabeled. Smooth unmarked coins. No writing-like squiggles, letters, numbers, logos, watermarks, signatures or readable text. No readable text. No text, letters, numbers, logos or watermarks.",
+    "refs": []
+  },
+  {
+    "id": "canh-08-05",
+    "scene": 8,
+    "from": 57,
+    "to": 76,
+    "text": "Hết hai mươi bốn tháng, dòng tiền tích lũy mới hai trăm mười bốn triệu năm trăm chín chục ngàn.",
+    "keyword": "",
+    "ref": true,
+    "prompt": "Use case: illustration-story. One full-bleed landscape 16:9 Vietnamese financial explainer illustration. Flat 2D cartoon, thick clean dark-brown outlines, warm cream, sage and ochre palette, gentle cel shading. Exactly one Bac Sau, matching attached accountant sheet: elderly Vietnamese man, salt-and-pepper side-part hair, rectangular glasses, blue pen behind ear, beige checkered short sleeve shirt, brown trousers, red blank ledger. Accountant considers cafe key beside closed blank lease. Medium eye-level composition. One coherent scene, no split panels. Natural anatomically correct limbs, hands, wrists and body orientation; no lanyards or ID cards. All pages, calculator keys, calendar, clock, cups, machines and envelopes completely blank and unlabeled. Smooth unmarked coins. No writing-like squiggles, letters, numbers, logos, watermarks, signatures or readable text. No readable text. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png"
+    ]
+  },
+  {
+    "id": "canh-08-06",
+    "scene": 8,
+    "from": 77,
+    "to": 96,
+    "text": "Còn tám mươi lăm triệu bốn trăm mười ngàn trong khoản ba trăm triệu chưa thu lại từ vận hành.",
+    "keyword": "HẾT HẠN CHƯA THU ĐỦ",
+    "ref": false,
+    "prompt": "Use case: illustration-story. One full-bleed landscape 16:9 Vietnamese financial explainer illustration. Flat 2D cartoon, thick clean dark-brown outlines, warm cream, sage and ochre palette, gentle cel shading. Exactly one Co Bay, matching attached woman sheet: 48-year-old Vietnamese woman, round medium-tan face, short softly wavy dark-brown bob, no glasses, plain sage-green short sleeve blouse, ochre waist apron correctly tied behind, dark-brown trousers, black slip-on shoes; plum-purple blank notebook. Cafe owner compares partly filled recovery tray and cafe setup model. Close three-quarter view, uncluttered layered background. One coherent scene, no split panels. Natural anatomically correct limbs, hands, wrists and body orientation; no lanyards or ID cards. All pages, calculator keys, calendar, clock, cups, machines and envelopes completely blank and unlabeled. Smooth unmarked coins. No writing-like squiggles, letters, numbers, logos, watermarks, signatures or readable text. No readable text. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "assets/nhan-vat/co-bay.png"
+    ]
+  },
+  {
+    "id": "canh-08-07",
+    "scene": 8,
+    "from": 97,
+    "to": 114,
+    "text": "Có thể còn tài sản bán được và tiền cọc, nhưng đó là bài toán rời quán riêng,",
+    "keyword": "",
+    "ref": true,
+    "prompt": "Use case: illustration-story. One full-bleed landscape 16:9 Vietnamese financial explainer illustration. Flat 2D cartoon, thick clean dark-brown outlines, warm cream, sage and ochre palette, gentle cel shading. Exactly one Bac Sau, matching attached accountant sheet: elderly Vietnamese man, salt-and-pepper side-part hair, rectangular glasses, blue pen behind ear, beige checkered short sleeve shirt, brown trousers, red blank ledger. Accountant points to gap between small recovered pile and larger initial pile. Wide cafe establishing view with clear subjects on left. One coherent scene, no split panels. Natural anatomically correct limbs, hands, wrists and body orientation; no lanyards or ID cards. All pages, calculator keys, calendar, clock, cups, machines and envelopes completely blank and unlabeled. Smooth unmarked coins. No writing-like squiggles, letters, numbers, logos, watermarks, signatures or readable text. No readable text. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png"
+    ]
+  },
+  {
+    "id": "canh-08-08",
+    "scene": 8,
+    "from": 115,
+    "to": 125,
+    "text": "không phải bằng chứng đã thu hồi đủ bằng bán nước.",
+    "keyword": "TÀI SẢN VÀ CỌC RIÊNG",
+    "ref": false,
+    "prompt": "Use case: illustration-story. One full-bleed landscape 16:9 Vietnamese financial explainer illustration. Flat 2D cartoon, thick clean dark-brown outlines, warm cream, sage and ochre palette, gentle cel shading. Objects-only conceptual illustration. No people, human faces, human silhouettes, arms or hands. Handcart with espresso machine separate from sealed deposit envelope. Low desk-height three-quarter composition. One coherent scene, no split panels. Natural anatomically correct limbs, hands, wrists and body orientation; no lanyards or ID cards. All pages, calculator keys, calendar, clock, cups, machines and envelopes completely blank and unlabeled. Smooth unmarked coins. No writing-like squiggles, letters, numbers, logos, watermarks, signatures or readable text. No readable text. No text, letters, numbers, logos or watermarks.",
+    "refs": []
+  },
+  {
+    "id": "canh-08-09",
+    "scene": 8,
+    "from": 126,
+    "to": 143,
+    "text": "Bác không nói chủ nhà thích là lấy lại được bất kỳ lúc nào. Thời hạn, giá thuê,",
+    "keyword": "",
+    "ref": true,
+    "prompt": "Use case: illustration-story. One full-bleed landscape 16:9 Vietnamese financial explainer illustration. Flat 2D cartoon, thick clean dark-brown outlines, warm cream, sage and ochre palette, gentle cel shading. Two distinct people matching attached sheets: Bac Sau, elderly Vietnamese accountant with rectangular glasses, salt-and-pepper hair, beige checkered shirt and blue pen behind ear; Co Bay, 48-year-old Vietnamese woman with round medium-tan face, short wavy brown bob, plain sage blouse, ochre waist apron correctly tied behind, brown trousers. Red ledger belongs to Bac Sau, plum notebook to Co Bay. Accountant and owner compare blank lease and plain law folder. Overhead-oblique tabletop composition. One coherent scene, no split panels. Natural anatomically correct limbs, hands, wrists and body orientation; no lanyards or ID cards. All pages, calculator keys, calendar, clock, cups, machines and envelopes completely blank and unlabeled. Smooth unmarked coins. No writing-like squiggles, letters, numbers, logos, watermarks, signatures or readable text. No readable text. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png",
+      "assets/nhan-vat/co-bay.png"
+    ]
+  },
+  {
+    "id": "canh-08-10",
+    "scene": 8,
+    "from": 144,
+    "to": 161,
+    "text": "trường hợp chấm dứt và trách nhiệm các bên phải xét hợp đồng cùng pháp luật áp dụng.",
+    "keyword": "GIỮA KỲ KHÁC HẾT HẠN",
+    "ref": false,
+    "prompt": "Use case: illustration-story. One full-bleed landscape 16:9 Vietnamese financial explainer illustration. Flat 2D cartoon, thick clean dark-brown outlines, warm cream, sage and ochre palette, gentle cel shading. Objects-only conceptual illustration. No people, human faces, human silhouettes, arms or hands. Blank calendar and lease with two separate unmarked page tabs. Medium side view, natural body orientation. One coherent scene, no split panels. Natural anatomically correct limbs, hands, wrists and body orientation; no lanyards or ID cards. All pages, calculator keys, calendar, clock, cups, machines and envelopes completely blank and unlabeled. Smooth unmarked coins. No writing-like squiggles, letters, numbers, logos, watermarks, signatures or readable text. No readable text. No text, letters, numbers, logos or watermarks.",
+    "refs": []
+  },
+  {
+    "id": "canh-08-11",
+    "scene": 8,
+    "from": 162,
+    "to": 179,
+    "text": "Chấm dứt giữa kỳ trái căn cứ khác với hết thời hạn rồi không thỏa thuận gia hạn.",
+    "keyword": "",
+    "ref": true,
+    "prompt": "Use case: illustration-story. One full-bleed landscape 16:9 Vietnamese financial explainer illustration. Flat 2D cartoon, thick clean dark-brown outlines, warm cream, sage and ochre palette, gentle cel shading. Exactly one Bac Sau, matching attached accountant sheet: elderly Vietnamese man, salt-and-pepper side-part hair, rectangular glasses, blue pen behind ear, beige checkered short sleeve shirt, brown trousers, red blank ledger. Accountant looks toward cafe doorway, lease safely on table. Medium eye-level composition. One coherent scene, no split panels. Natural anatomically correct limbs, hands, wrists and body orientation; no lanyards or ID cards. All pages, calculator keys, calendar, clock, cups, machines and envelopes completely blank and unlabeled. Smooth unmarked coins. No writing-like squiggles, letters, numbers, logos, watermarks, signatures or readable text. No readable text. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png"
+    ]
+  },
+  {
+    "id": "canh-08-12",
+    "scene": 8,
+    "from": 180,
+    "to": 198,
+    "text": "Quán đông lên không tự tạo quyền lấy lại nhà trước hạn, cũng không tự tạo quyền ở lại",
+    "keyword": "GHI RÕ TRƯỚC KHI KÝ",
+    "ref": false,
+    "prompt": "Use case: illustration-story. One full-bleed landscape 16:9 Vietnamese financial explainer illustration. Flat 2D cartoon, thick clean dark-brown outlines, warm cream, sage and ochre palette, gentle cel shading. Exactly one Co Bay, matching attached woman sheet: 48-year-old Vietnamese woman, round medium-tan face, short softly wavy dark-brown bob, no glasses, plain sage-green short sleeve blouse, ochre waist apron correctly tied behind, dark-brown trousers, black slip-on shoes; plum-purple blank notebook. Cafe owner reads blank lease, pen resting unused on table. Close three-quarter view, uncluttered layered background. One coherent scene, no split panels. Natural anatomically correct limbs, hands, wrists and body orientation; no lanyards or ID cards. All pages, calculator keys, calendar, clock, cups, machines and envelopes completely blank and unlabeled. Smooth unmarked coins. No writing-like squiggles, letters, numbers, logos, watermarks, signatures or readable text. No readable text. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "assets/nhan-vat/co-bay.png"
+    ]
+  },
+  {
+    "id": "canh-08-13",
+    "scene": 8,
+    "from": 199,
+    "to": 211,
+    "text": "vô hạn cho người thuê. Trước khi ký, ghi rõ mốc tăng giá,",
+    "keyword": "",
+    "ref": true,
+    "prompt": "Use case: illustration-story. One full-bleed landscape 16:9 Vietnamese financial explainer illustration. Flat 2D cartoon, thick clean dark-brown outlines, warm cream, sage and ochre palette, gentle cel shading. Exactly one Bac Sau, matching attached accountant sheet: elderly Vietnamese man, salt-and-pepper side-part hair, rectangular glasses, blue pen behind ear, beige checkered short sleeve shirt, brown trousers, red blank ledger. Accountant organizes blank calendar and rent envelope beside contract. Wide cafe establishing view with clear subjects on left. One coherent scene, no split panels. Natural anatomically correct limbs, hands, wrists and body orientation; no lanyards or ID cards. All pages, calculator keys, calendar, clock, cups, machines and envelopes completely blank and unlabeled. Smooth unmarked coins. No writing-like squiggles, letters, numbers, logos, watermarks, signatures or readable text. No readable text. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png"
+    ]
+  },
+  {
+    "id": "canh-08-14",
+    "scene": 8,
+    "from": 212,
+    "to": 227,
+    "text": "cách gia hạn, thời gian báo trước, điều kiện hoàn cọc và xử lý cải tạo.",
+    "keyword": "HOÀN CỌC VÀ CẢI TẠO",
+    "ref": false,
+    "prompt": "Use case: illustration-story. One full-bleed landscape 16:9 Vietnamese financial explainer illustration. Flat 2D cartoon, thick clean dark-brown outlines, warm cream, sage and ochre palette, gentle cel shading. Objects-only conceptual illustration. No people, human faces, human silhouettes, arms or hands. Deposit envelope, paint roller and lease on tidy tabletop. Low desk-height three-quarter composition. One coherent scene, no split panels. Natural anatomically correct limbs, hands, wrists and body orientation; no lanyards or ID cards. All pages, calculator keys, calendar, clock, cups, machines and envelopes completely blank and unlabeled. Smooth unmarked coins. No writing-like squiggles, letters, numbers, logos, watermarks, signatures or readable text. No readable text. No text, letters, numbers, logos or watermarks.",
+    "refs": []
+  },
+  {
+    "id": "canh-08-15",
+    "scene": 8,
+    "from": 228,
+    "to": 246,
+    "text": "Đừng chỉ nghe một câu cứ làm đi rồi tính. Giấy thuê ngắn mà vốn sửa quán thu rất",
+    "keyword": "",
+    "ref": true,
+    "prompt": "Use case: illustration-story. One full-bleed landscape 16:9 Vietnamese financial explainer illustration. Flat 2D cartoon, thick clean dark-brown outlines, warm cream, sage and ochre palette, gentle cel shading. Exactly one Bac Sau, matching attached accountant sheet: elderly Vietnamese man, salt-and-pepper side-part hair, rectangular glasses, blue pen behind ear, beige checkered short sleeve shirt, brown trousers, red blank ledger. Accountant thoughtfully opens blank document folder, calm serious face. Overhead-oblique tabletop composition. One coherent scene, no split panels. Natural anatomically correct limbs, hands, wrists and body orientation; no lanyards or ID cards. All pages, calculator keys, calendar, clock, cups, machines and envelopes completely blank and unlabeled. Smooth unmarked coins. No writing-like squiggles, letters, numbers, logos, watermarks, signatures or readable text. No readable text. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png"
+    ]
+  },
+  {
+    "id": "canh-08-16",
+    "scene": 8,
+    "from": 247,
+    "to": 268,
+    "text": "lâu thì phải nhìn ra ngay từ đầu; trường hợp tranh chấp cần người có chuyên môn xem giấy tờ cụ thể.",
+    "keyword": "XEM GIẤY TỜ CỤ THỂ",
+    "ref": false,
+    "prompt": "Use case: illustration-story. One full-bleed landscape 16:9 Vietnamese financial explainer illustration. Flat 2D cartoon, thick clean dark-brown outlines, warm cream, sage and ochre palette, gentle cel shading. Exactly one Co Bay, matching attached woman sheet: 48-year-old Vietnamese woman, round medium-tan face, short softly wavy dark-brown bob, no glasses, plain sage-green short sleeve blouse, ochre waist apron correctly tied behind, dark-brown trousers, black slip-on shoes; plum-purple blank notebook. Cafe owner gathers lease and property folders into plum notebook bag. Medium side view, natural body orientation. One coherent scene, no split panels. Natural anatomically correct limbs, hands, wrists and body orientation; no lanyards or ID cards. All pages, calculator keys, calendar, clock, cups, machines and envelopes completely blank and unlabeled. Smooth unmarked coins. No writing-like squiggles, letters, numbers, logos, watermarks, signatures or readable text. No readable text. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "assets/nhan-vat/co-bay.png"
+    ]
+  },
+  {
+    "id": "canh-09-01",
+    "scene": 9,
+    "from": 0,
+    "to": 15,
+    "text": "Giả sử sau một năm cô Bảy muốn dừng, hai bên đồng ý thanh lý sớm,",
+    "keyword": "",
+    "ref": false,
+    "prompt": "",
+    "refs": [],
+    "image": "anh/canh-09.png"
+  },
+  {
+    "id": "canh-09-02",
+    "scene": 9,
+    "from": 16,
+    "to": 32,
+    "text": "không còn khoản phạt hay nợ khác. Bác giả định được hoàn đủ sáu chục triệu cọc,",
+    "keyword": "ĐỒNG Ý THANH LÝ SỚM",
+    "ref": true,
+    "prompt": "Use case: illustration-story. One full-bleed landscape 16:9 Vietnamese financial explainer illustration. Flat 2D cartoon, thick clean dark-brown outlines, warm cream, sage and ochre palette, gentle cel shading. Two distinct people matching attached sheets: Bac Sau, elderly Vietnamese accountant with rectangular glasses, salt-and-pepper hair, beige checkered shirt and blue pen behind ear; Co Bay, 48-year-old Vietnamese woman with round medium-tan face, short wavy brown bob, plain sage blouse, ochre waist apron correctly tied behind, brown trousers. Red ledger belongs to Bac Sau, plum notebook to Co Bay. Owner and accountant review blank agreed settlement pages, calm expressions. Overhead-oblique tabletop composition. One coherent scene, no split panels. Natural anatomically correct limbs, hands, wrists and body orientation; no lanyards or ID cards. All pages, calculator keys, calendar, clock, cups, machines and envelopes completely blank and unlabeled. Smooth unmarked coins. No writing-like squiggles, letters, numbers, logos, watermarks, signatures or readable text. No readable text. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png",
+      "assets/nhan-vat/co-bay.png"
+    ]
+  },
+  {
+    "id": "canh-09-03",
+    "scene": 9,
+    "from": 33,
+    "to": 49,
+    "text": "máy móc và bàn ghế bán thực thu tám chục triệu, tháo dỡ với dọn trả nhà",
+    "keyword": "",
+    "ref": false,
+    "prompt": "Use case: illustration-story. One full-bleed landscape 16:9 Vietnamese financial explainer illustration. Flat 2D cartoon, thick clean dark-brown outlines, warm cream, sage and ochre palette, gentle cel shading. Objects-only conceptual illustration. No people, human faces, human silhouettes, arms or hands. Plain deposit envelope returns beside cafe key on table. Medium side view, natural body orientation. One coherent scene, no split panels. Natural anatomically correct limbs, hands, wrists and body orientation; no lanyards or ID cards. All pages, calculator keys, calendar, clock, cups, machines and envelopes completely blank and unlabeled. Smooth unmarked coins. No writing-like squiggles, letters, numbers, logos, watermarks, signatures or readable text. No readable text. No text, letters, numbers, logos or watermarks.",
+    "refs": []
+  },
+  {
+    "id": "canh-09-04",
+    "scene": 9,
+    "from": 50,
+    "to": 64,
+    "text": "tốn mười triệu. Phần cải tạo không thu lại được tiền trong phương án này.",
+    "keyword": "BÁN MÁY VÀ BÀN GHẾ",
+    "ref": false,
+    "prompt": "Use case: illustration-story. One full-bleed landscape 16:9 Vietnamese financial explainer illustration. Flat 2D cartoon, thick clean dark-brown outlines, warm cream, sage and ochre palette, gentle cel shading. Exactly one Co Bay, matching attached woman sheet: 48-year-old Vietnamese woman, round medium-tan face, short softly wavy dark-brown bob, no glasses, plain sage-green short sleeve blouse, ochre waist apron correctly tied behind, dark-brown trousers, black slip-on shoes; plum-purple blank notebook. Cafe owner stands beside used machine and stacked chairs on cart. Medium eye-level composition. One coherent scene, no split panels. Natural anatomically correct limbs, hands, wrists and body orientation; no lanyards or ID cards. All pages, calculator keys, calendar, clock, cups, machines and envelopes completely blank and unlabeled. Smooth unmarked coins. No writing-like squiggles, letters, numbers, logos, watermarks, signatures or readable text. No readable text. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "assets/nhan-vat/co-bay.png"
+    ]
+  },
+  {
+    "id": "canh-09-05",
+    "scene": 9,
+    "from": 65,
+    "to": 75,
+    "text": "Không có tiền sang nhượng thêm ngoài các khoản vừa kể.",
+    "keyword": "",
+    "ref": false,
+    "prompt": "Use case: illustration-story. One full-bleed landscape 16:9 Vietnamese financial explainer illustration. Flat 2D cartoon, thick clean dark-brown outlines, warm cream, sage and ochre palette, gentle cel shading. Objects-only conceptual illustration. No people, human faces, human silhouettes, arms or hands. Empty cafe floor with broom, paint roller and closed toolbox. Close three-quarter view, uncluttered layered background. One coherent scene, no split panels. Natural anatomically correct limbs, hands, wrists and body orientation; no lanyards or ID cards. All pages, calculator keys, calendar, clock, cups, machines and envelopes completely blank and unlabeled. Smooth unmarked coins. No writing-like squiggles, letters, numbers, logos, watermarks, signatures or readable text. No readable text. No text, letters, numbers, logos or watermarks.",
+    "refs": []
+  },
+  {
+    "id": "canh-09-06",
+    "scene": 9,
+    "from": 76,
+    "to": 93,
+    "text": "Tiền mang về gồm sáu chục triệu dự phòng ban đầu, cộng bảy mươi tám triệu sáu trăm",
+    "keyword": "CẢI TẠO KHÔNG THU LẠI",
+    "ref": true,
+    "prompt": "Use case: illustration-story. One full-bleed landscape 16:9 Vietnamese financial explainer illustration. Flat 2D cartoon, thick clean dark-brown outlines, warm cream, sage and ochre palette, gentle cel shading. Exactly one Bac Sau, matching attached accountant sheet: elderly Vietnamese man, salt-and-pepper side-part hair, rectangular glasses, blue pen behind ear, beige checkered short sleeve shirt, brown trousers, red blank ledger. Accountant looks at fixed decorated wall left behind. Wide cafe establishing view with clear subjects on left. One coherent scene, no split panels. Natural anatomically correct limbs, hands, wrists and body orientation; no lanyards or ID cards. All pages, calculator keys, calendar, clock, cups, machines and envelopes completely blank and unlabeled. Smooth unmarked coins. No writing-like squiggles, letters, numbers, logos, watermarks, signatures or readable text. No readable text. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png"
+    ]
+  },
+  {
+    "id": "canh-09-07",
+    "scene": 9,
+    "from": 94,
+    "to": 110,
+    "text": "ba chục ngàn dòng tiền vận hành tích lũy, cộng cọc được trả, cộng tiền bán đồ",
+    "keyword": "",
+    "ref": false,
+    "prompt": "Use case: illustration-story. One full-bleed landscape 16:9 Vietnamese financial explainer illustration. Flat 2D cartoon, thick clean dark-brown outlines, warm cream, sage and ochre palette, gentle cel shading. Objects-only conceptual illustration. No people, human faces, human silhouettes, arms or hands. Only machine, chair and coin tray on table, no extra envelope. Low desk-height three-quarter composition. One coherent scene, no split panels. Natural anatomically correct limbs, hands, wrists and body orientation; no lanyards or ID cards. All pages, calculator keys, calendar, clock, cups, machines and envelopes completely blank and unlabeled. Smooth unmarked coins. No writing-like squiggles, letters, numbers, logos, watermarks, signatures or readable text. No readable text. No text, letters, numbers, logos or watermarks.",
+    "refs": []
+  },
+  {
+    "id": "canh-09-08",
+    "scene": 9,
+    "from": 111,
+    "to": 125,
+    "text": "rồi trừ dọn. Tổng hai trăm sáu mươi tám triệu sáu trăm ba chục ngàn.",
+    "keyword": "CỘNG TỪ ĐẦU ĐẾN CUỐI",
+    "ref": true,
+    "prompt": "Use case: illustration-story. One full-bleed landscape 16:9 Vietnamese financial explainer illustration. Flat 2D cartoon, thick clean dark-brown outlines, warm cream, sage and ochre palette, gentle cel shading. Exactly one Bac Sau, matching attached accountant sheet: elderly Vietnamese man, salt-and-pepper side-part hair, rectangular glasses, blue pen behind ear, beige checkered short sleeve shirt, brown trousers, red blank ledger. Accountant sorts reserve jar, operating tray and deposit envelope. Overhead-oblique tabletop composition. One coherent scene, no split panels. Natural anatomically correct limbs, hands, wrists and body orientation; no lanyards or ID cards. All pages, calculator keys, calendar, clock, cups, machines and envelopes completely blank and unlabeled. Smooth unmarked coins. No writing-like squiggles, letters, numbers, logos, watermarks, signatures or readable text. No readable text. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png"
+    ]
+  },
+  {
+    "id": "canh-09-09",
+    "scene": 9,
+    "from": 126,
+    "to": 146,
+    "text": "So với bốn trăm hai mươi triệu đã chuẩn bị, còn thiếu một trăm năm mươi mốt triệu ba trăm bảy",
+    "keyword": "",
+    "ref": false,
+    "prompt": "Use case: illustration-story. One full-bleed landscape 16:9 Vietnamese financial explainer illustration. Flat 2D cartoon, thick clean dark-brown outlines, warm cream, sage and ochre palette, gentle cel shading. Exactly one Co Bay, matching attached woman sheet: 48-year-old Vietnamese woman, round medium-tan face, short softly wavy dark-brown bob, no glasses, plain sage-green short sleeve blouse, ochre waist apron correctly tied behind, dark-brown trousers, black slip-on shoes; plum-purple blank notebook. Cafe owner adds smooth coins from shallow tray to larger bowl. Medium side view, natural body orientation. One coherent scene, no split panels. Natural anatomically correct limbs, hands, wrists and body orientation; no lanyards or ID cards. All pages, calculator keys, calendar, clock, cups, machines and envelopes completely blank and unlabeled. Smooth unmarked coins. No writing-like squiggles, letters, numbers, logos, watermarks, signatures or readable text. No readable text. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "assets/nhan-vat/co-bay.png"
+    ]
+  },
+  {
+    "id": "canh-09-10",
+    "scene": 9,
+    "from": 147,
+    "to": 159,
+    "text": "chục ngàn. Tại sao vẫn cộng sáu chục triệu dự phòng ban đầu?",
+    "keyword": "TIỀN THẬT CÒN MANG VỀ",
+    "ref": false,
+    "prompt": "Use case: illustration-story. One full-bleed landscape 16:9 Vietnamese financial explainer illustration. Flat 2D cartoon, thick clean dark-brown outlines, warm cream, sage and ochre palette, gentle cel shading. Objects-only conceptual illustration. No people, human faces, human silhouettes, arms or hands. Final combined smooth coin pile beside packed cafe objects. Medium eye-level composition. One coherent scene, no split panels. Natural anatomically correct limbs, hands, wrists and body orientation; no lanyards or ID cards. All pages, calculator keys, calendar, clock, cups, machines and envelopes completely blank and unlabeled. Smooth unmarked coins. No writing-like squiggles, letters, numbers, logos, watermarks, signatures or readable text. No readable text. No text, letters, numbers, logos or watermarks.",
+    "refs": []
+  },
+  {
+    "id": "canh-09-11",
+    "scene": 9,
+    "from": 160,
+    "to": 180,
+    "text": "Vì phần lỗ hai tháng đầu đã nằm trong dòng tiền vận hành tích lũy rồi. Nếu lấy quỹ dự phòng",
+    "keyword": "",
+    "ref": false,
+    "prompt": "Use case: illustration-story. One full-bleed landscape 16:9 Vietnamese financial explainer illustration. Flat 2D cartoon, thick clean dark-brown outlines, warm cream, sage and ochre palette, gentle cel shading. Exactly one Co Bay, matching attached woman sheet: 48-year-old Vietnamese woman, round medium-tan face, short softly wavy dark-brown bob, no glasses, plain sage-green short sleeve blouse, ochre waist apron correctly tied behind, dark-brown trousers, black slip-on shoes; plum-purple blank notebook. Cafe owner compares final coin pouch and large empty initial money box. Close three-quarter view, uncluttered layered background. One coherent scene, no split panels. Natural anatomically correct limbs, hands, wrists and body orientation; no lanyards or ID cards. All pages, calculator keys, calendar, clock, cups, machines and envelopes completely blank and unlabeled. Smooth unmarked coins. No writing-like squiggles, letters, numbers, logos, watermarks, signatures or readable text. No readable text. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "assets/nhan-vat/co-bay.png"
+    ]
+  },
+  {
+    "id": "canh-09-12",
+    "scene": 9,
+    "from": 181,
+    "to": 198,
+    "text": "đã bị rút bớt rồi lại cộng dòng tiền đã gồm lỗ đó, mình trừ lỗ hai lần.",
+    "keyword": "KHÔNG TRỪ LỖ HAI LẦN",
+    "ref": true,
+    "prompt": "Use case: illustration-story. One full-bleed landscape 16:9 Vietnamese financial explainer illustration. Flat 2D cartoon, thick clean dark-brown outlines, warm cream, sage and ochre palette, gentle cel shading. Exactly one Bac Sau, matching attached accountant sheet: elderly Vietnamese man, salt-and-pepper side-part hair, rectangular glasses, blue pen behind ear, beige checkered short sleeve shirt, brown trousers, red blank ledger. Accountant points to single early expense tray beside reserve jar. Wide cafe establishing view with clear subjects on left. One coherent scene, no split panels. Natural anatomically correct limbs, hands, wrists and body orientation; no lanyards or ID cards. All pages, calculator keys, calendar, clock, cups, machines and envelopes completely blank and unlabeled. Smooth unmarked coins. No writing-like squiggles, letters, numbers, logos, watermarks, signatures or readable text. No readable text. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png"
+    ]
+  },
+  {
+    "id": "canh-09-13",
+    "scene": 9,
+    "from": 199,
+    "to": 210,
+    "text": "Bác tính cả luồng tiền từ đầu tới cuối để khỏi lẫn.",
+    "keyword": "",
+    "ref": false,
+    "prompt": "Use case: illustration-story. One full-bleed landscape 16:9 Vietnamese financial explainer illustration. Flat 2D cartoon, thick clean dark-brown outlines, warm cream, sage and ochre palette, gentle cel shading. Objects-only conceptual illustration. No people, human faces, human silhouettes, arms or hands. Small empty early tray included in longer row of filled monthly coin trays. Low desk-height three-quarter composition. One coherent scene, no split panels. Natural anatomically correct limbs, hands, wrists and body orientation; no lanyards or ID cards. All pages, calculator keys, calendar, clock, cups, machines and envelopes completely blank and unlabeled. Smooth unmarked coins. No writing-like squiggles, letters, numbers, logos, watermarks, signatures or readable text. No readable text. No text, letters, numbers, logos or watermarks.",
+    "refs": []
+  },
+  {
+    "id": "canh-09-14",
+    "scene": 9,
+    "from": 211,
+    "to": 232,
+    "text": "Giá rao sang quán không phải tiền đã có người trả. Mua lại máy móc cũng không tự có nghĩa được nhận",
+    "keyword": "GIÁ RAO KHÁC GIÁ NHẬN",
+    "ref": true,
+    "prompt": "Use case: illustration-story. One full-bleed landscape 16:9 Vietnamese financial explainer illustration. Flat 2D cartoon, thick clean dark-brown outlines, warm cream, sage and ochre palette, gentle cel shading. Exactly one Bac Sau, matching attached accountant sheet: elderly Vietnamese man, salt-and-pepper side-part hair, rectangular glasses, blue pen behind ear, beige checkered short sleeve shirt, brown trousers, red blank ledger. Accountant compares blank sale flyer and actual small coin pouch. Overhead-oblique tabletop composition. One coherent scene, no split panels. Natural anatomically correct limbs, hands, wrists and body orientation; no lanyards or ID cards. All pages, calculator keys, calendar, clock, cups, machines and envelopes completely blank and unlabeled. Smooth unmarked coins. No writing-like squiggles, letters, numbers, logos, watermarks, signatures or readable text. No readable text. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png"
+    ]
+  },
+  {
+    "id": "canh-09-15",
+    "scene": 9,
+    "from": 233,
+    "to": 253,
+    "text": "luôn hợp đồng thuê. Nếu là cho thuê lại, phải có sự đồng ý của bên cho thuê theo quy định;",
+    "keyword": "",
+    "ref": false,
+    "prompt": "Use case: illustration-story. One full-bleed landscape 16:9 Vietnamese financial explainer illustration. Flat 2D cartoon, thick clean dark-brown outlines, warm cream, sage and ochre palette, gentle cel shading. Exactly one Co Bay, matching attached woman sheet: 48-year-old Vietnamese woman, round medium-tan face, short softly wavy dark-brown bob, no glasses, plain sage-green short sleeve blouse, ochre waist apron correctly tied behind, dark-brown trousers, black slip-on shoes; plum-purple blank notebook. Cafe owner separates machine on cart from cafe key and lease on table. Medium side view, natural body orientation. One coherent scene, no split panels. Natural anatomically correct limbs, hands, wrists and body orientation; no lanyards or ID cards. All pages, calculator keys, calendar, clock, cups, machines and envelopes completely blank and unlabeled. Smooth unmarked coins. No writing-like squiggles, letters, numbers, logos, watermarks, signatures or readable text. No readable text. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "assets/nhan-vat/co-bay.png"
+    ]
+  },
+  {
+    "id": "canh-09-16",
+    "scene": 9,
+    "from": 254,
+    "to": 271,
+    "text": "chuyển giao hợp đồng còn phải xem giấy tờ và nghĩa vụ liên quan. Bà con cần kiểm",
+    "keyword": "THUÊ LẠI CẦN ĐỒNG Ý",
+    "ref": true,
+    "prompt": "Use case: illustration-story. One full-bleed landscape 16:9 Vietnamese financial explainer illustration. Flat 2D cartoon, thick clean dark-brown outlines, warm cream, sage and ochre palette, gentle cel shading. Exactly one Bac Sau, matching attached accountant sheet: elderly Vietnamese man, salt-and-pepper side-part hair, rectangular glasses, blue pen behind ear, beige checkered short sleeve shirt, brown trousers, red blank ledger. Accountant holds blank lease beside key, thoughtful careful expression. Medium eye-level composition. One coherent scene, no split panels. Natural anatomically correct limbs, hands, wrists and body orientation; no lanyards or ID cards. All pages, calculator keys, calendar, clock, cups, machines and envelopes completely blank and unlabeled. Smooth unmarked coins. No writing-like squiggles, letters, numbers, logos, watermarks, signatures or readable text. No readable text. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png"
+    ]
+  },
+  {
+    "id": "canh-09-17",
+    "scene": 9,
+    "from": 272,
+    "to": 291,
+    "text": "cả quyền tiếp tục dùng địa điểm, chứ đừng chỉ nhìn ảnh quán đẹp với lời rao vào bán ngay.",
+    "keyword": "",
+    "ref": false,
+    "prompt": "Use case: illustration-story. One full-bleed landscape 16:9 Vietnamese financial explainer illustration. Flat 2D cartoon, thick clean dark-brown outlines, warm cream, sage and ochre palette, gentle cel shading. Objects-only conceptual illustration. No people, human faces, human silhouettes, arms or hands. Cafe doorway, plain key and blank lease neatly on a table. Close three-quarter view, uncluttered layered background. One coherent scene, no split panels. Natural anatomically correct limbs, hands, wrists and body orientation; no lanyards or ID cards. All pages, calculator keys, calendar, clock, cups, machines and envelopes completely blank and unlabeled. Smooth unmarked coins. No writing-like squiggles, letters, numbers, logos, watermarks, signatures or readable text. No readable text. No text, letters, numbers, logos or watermarks.",
+    "refs": []
+  },
+  {
+    "id": "canh-10-01",
+    "scene": 10,
+    "from": 0,
+    "to": 15,
+    "text": "Cô Bảy nghe xong không còn hỏi Bác quán đông vậy có nên mở thêm không.",
+    "keyword": "",
+    "ref": true,
+    "prompt": "",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png",
+      "assets/nhan-vat/co-bay.png"
+    ],
+    "image": "anh/canh-10.png"
+  },
+  {
+    "id": "canh-10-02",
+    "scene": 10,
+    "from": 16,
+    "to": 28,
+    "text": "Cô lấy sổ chia lại tiền làm quán, tiền cọc, tiền dự phòng;",
+    "keyword": "CHIA LẠI CÁC NGĂN TIỀN",
+    "ref": false,
+    "prompt": "Use case: illustration-story. One full-bleed landscape 16:9 Vietnamese financial explainer illustration. Flat 2D cartoon, thick clean dark-brown outlines, warm cream, sage and ochre palette, gentle cel shading. Exactly one Co Bay, matching attached woman sheet: 48-year-old Vietnamese woman, round medium-tan face, short softly wavy dark-brown bob, no glasses, plain sage-green short sleeve blouse, ochre waist apron correctly tied behind, dark-brown trousers, black slip-on shoes; plum-purple blank notebook. Cafe owner organizes separate deposit envelope, reserve jar and setup tray. Medium side view, natural body orientation. One coherent scene, no split panels. Natural anatomically correct limbs, hands, wrists and body orientation; no lanyards or ID cards. All pages, calculator keys, calendar, clock, cups, machines and envelopes completely blank and unlabeled. Smooth unmarked coins. No writing-like squiggles, letters, numbers, logos, watermarks, signatures or readable text. No readable text. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "assets/nhan-vat/co-bay.png"
+    ]
+  },
+  {
+    "id": "canh-10-03",
+    "scene": 10,
+    "from": 29,
+    "to": 47,
+    "text": "lấy hợp đồng ra coi còn bao nhiêu tháng chắc chắn. Quyết định tiếp theo phải dựa trên số",
+    "keyword": "",
+    "ref": true,
+    "prompt": "Use case: illustration-story. One full-bleed landscape 16:9 Vietnamese financial explainer illustration. Flat 2D cartoon, thick clean dark-brown outlines, warm cream, sage and ochre palette, gentle cel shading. Exactly one Bac Sau, matching attached accountant sheet: elderly Vietnamese man, salt-and-pepper side-part hair, rectangular glasses, blue pen behind ear, beige checkered short sleeve shirt, brown trousers, red blank ledger. Accountant places key next to blank calendar and lease. Medium eye-level composition. One coherent scene, no split panels. Natural anatomically correct limbs, hands, wrists and body orientation; no lanyards or ID cards. All pages, calculator keys, calendar, clock, cups, machines and envelopes completely blank and unlabeled. Smooth unmarked coins. No writing-like squiggles, letters, numbers, logos, watermarks, signatures or readable text. No readable text. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png"
+    ]
+  },
+  {
+    "id": "canh-10-04",
+    "scene": 10,
+    "from": 48,
+    "to": 61,
+    "text": "thật của cô, chứ không phải nhìn quán bên cạnh đông rồi làm theo.",
+    "keyword": "DÙNG SỐ THẬT CỦA MÌNH",
+    "ref": false,
+    "prompt": "Use case: illustration-story. One full-bleed landscape 16:9 Vietnamese financial explainer illustration. Flat 2D cartoon, thick clean dark-brown outlines, warm cream, sage and ochre palette, gentle cel shading. Exactly one Co Bay, matching attached woman sheet: 48-year-old Vietnamese woman, round medium-tan face, short softly wavy dark-brown bob, no glasses, plain sage-green short sleeve blouse, ochre waist apron correctly tied behind, dark-brown trousers, black slip-on shoes; plum-purple blank notebook. Cafe owner writes naturally in blank plum notebook. Close three-quarter view, uncluttered layered background. One coherent scene, no split panels. Natural anatomically correct limbs, hands, wrists and body orientation; no lanyards or ID cards. All pages, calculator keys, calendar, clock, cups, machines and envelopes completely blank and unlabeled. Smooth unmarked coins. No writing-like squiggles, letters, numbers, logos, watermarks, signatures or readable text. No readable text. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "assets/nhan-vat/co-bay.png"
+    ]
+  },
+  {
+    "id": "canh-10-05",
+    "scene": 10,
+    "from": 62,
+    "to": 77,
+    "text": "Bà con nhớ giùm Bác ba điều. Thứ nhất, vốn trước khai trương có nhiều loại.",
+    "keyword": "",
+    "ref": true,
+    "prompt": "Use case: illustration-story. One full-bleed landscape 16:9 Vietnamese financial explainer illustration. Flat 2D cartoon, thick clean dark-brown outlines, warm cream, sage and ochre palette, gentle cel shading. Exactly one Bac Sau, matching attached accountant sheet: elderly Vietnamese man, salt-and-pepper side-part hair, rectangular glasses, blue pen behind ear, beige checkered short sleeve shirt, brown trousers, red blank ledger. Accountant presents three plain folders beside miniature cafe. Wide cafe establishing view with clear subjects on left. One coherent scene, no split panels. Natural anatomically correct limbs, hands, wrists and body orientation; no lanyards or ID cards. All pages, calculator keys, calendar, clock, cups, machines and envelopes completely blank and unlabeled. Smooth unmarked coins. No writing-like squiggles, letters, numbers, logos, watermarks, signatures or readable text. No readable text. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png"
+    ]
+  },
+  {
+    "id": "canh-10-06",
+    "scene": 10,
+    "from": 78,
+    "to": 96,
+    "text": "Cọc chưa chắc mất, dự phòng chưa chắc đã dùng, nhưng tiền sửa gắn vào căn nhà có thể",
+    "keyword": "VỐN CỌC VÀ DỰ PHÒNG",
+    "ref": false,
+    "prompt": "Use case: illustration-story. One full-bleed landscape 16:9 Vietnamese financial explainer illustration. Flat 2D cartoon, thick clean dark-brown outlines, warm cream, sage and ochre palette, gentle cel shading. Objects-only conceptual illustration. No people, human faces, human silhouettes, arms or hands. Setup cafe model, sealed deposit envelope and reserve jar separated. Low desk-height three-quarter composition. One coherent scene, no split panels. Natural anatomically correct limbs, hands, wrists and body orientation; no lanyards or ID cards. All pages, calculator keys, calendar, clock, cups, machines and envelopes completely blank and unlabeled. Smooth unmarked coins. No writing-like squiggles, letters, numbers, logos, watermarks, signatures or readable text. No readable text. No text, letters, numbers, logos or watermarks.",
+    "refs": []
+  },
+  {
+    "id": "canh-10-07",
+    "scene": 10,
+    "from": 97,
+    "to": 113,
+    "text": "khó lấy lại. Thứ hai, tính thu hồi bằng dòng tiền đủ cả tháng đầu vắng khách,",
+    "keyword": "",
+    "ref": true,
+    "prompt": "Use case: illustration-story. One full-bleed landscape 16:9 Vietnamese financial explainer illustration. Flat 2D cartoon, thick clean dark-brown outlines, warm cream, sage and ochre palette, gentle cel shading. Exactly one Bac Sau, matching attached accountant sheet: elderly Vietnamese man, salt-and-pepper side-part hair, rectangular glasses, blue pen behind ear, beige checkered short sleeve shirt, brown trousers, red blank ledger. Accountant considers fixed wall and portable chair. Overhead-oblique tabletop composition. One coherent scene, no split panels. Natural anatomically correct limbs, hands, wrists and body orientation; no lanyards or ID cards. All pages, calculator keys, calendar, clock, cups, machines and envelopes completely blank and unlabeled. Smooth unmarked coins. No writing-like squiggles, letters, numbers, logos, watermarks, signatures or readable text. No readable text. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png"
+    ]
+  },
+  {
+    "id": "canh-10-08",
+    "scene": 10,
+    "from": 114,
+    "to": 128,
+    "text": "có tính công của mình; đừng chia vốn cho một tháng đẹp nhất. Thứ ba,",
+    "keyword": "TÍNH CẢ THÁNG XẤU",
+    "ref": false,
+    "prompt": "Use case: illustration-story. One full-bleed landscape 16:9 Vietnamese financial explainer illustration. Flat 2D cartoon, thick clean dark-brown outlines, warm cream, sage and ochre palette, gentle cel shading. Exactly one Co Bay, matching attached woman sheet: 48-year-old Vietnamese woman, round medium-tan face, short softly wavy dark-brown bob, no glasses, plain sage-green short sleeve blouse, ochre waist apron correctly tied behind, dark-brown trousers, black slip-on shoes; plum-purple blank notebook. Cafe owner looks at empty early tray and later monthly coin piles. Medium side view, natural body orientation. One coherent scene, no split panels. Natural anatomically correct limbs, hands, wrists and body orientation; no lanyards or ID cards. All pages, calculator keys, calendar, clock, cups, machines and envelopes completely blank and unlabeled. Smooth unmarked coins. No writing-like squiggles, letters, numbers, logos, watermarks, signatures or readable text. No readable text. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "assets/nhan-vat/co-bay.png"
+    ]
+  },
+  {
+    "id": "canh-10-09",
+    "scene": 10,
+    "from": 129,
+    "to": 149,
+    "text": "đặt mốc thu hồi cạnh thời hạn thuê chắc chắn và điều kiện gia hạn, không tự nối thêm thời gian",
+    "keyword": "",
+    "ref": false,
+    "prompt": "Use case: illustration-story. One full-bleed landscape 16:9 Vietnamese financial explainer illustration. Flat 2D cartoon, thick clean dark-brown outlines, warm cream, sage and ochre palette, gentle cel shading. Objects-only conceptual illustration. No people, human faces, human silhouettes, arms or hands. Long calendar ribbon beside shorter lease folder. Medium eye-level composition. One coherent scene, no split panels. Natural anatomically correct limbs, hands, wrists and body orientation; no lanyards or ID cards. All pages, calculator keys, calendar, clock, cups, machines and envelopes completely blank and unlabeled. Smooth unmarked coins. No writing-like squiggles, letters, numbers, logos, watermarks, signatures or readable text. No readable text. No text, letters, numbers, logos or watermarks.",
+    "refs": []
+  },
+  {
+    "id": "canh-10-10",
+    "scene": 10,
+    "from": 150,
+    "to": 165,
+    "text": "trên giấy. Ví dụ này giữ một mặt bằng giá để bà con thấy cách tính,",
+    "keyword": "KHÔNG TỰ NỐI THỜI GIAN",
+    "ref": true,
+    "prompt": "Use case: illustration-story. One full-bleed landscape 16:9 Vietnamese financial explainer illustration. Flat 2D cartoon, thick clean dark-brown outlines, warm cream, sage and ochre palette, gentle cel shading. Exactly one Bac Sau, matching attached accountant sheet: elderly Vietnamese man, salt-and-pepper side-part hair, rectangular glasses, blue pen behind ear, beige checkered short sleeve shirt, brown trousers, red blank ledger. Accountant gently holds blank calendar beside closed lease. Close three-quarter view, uncluttered layered background. One coherent scene, no split panels. Natural anatomically correct limbs, hands, wrists and body orientation; no lanyards or ID cards. All pages, calculator keys, calendar, clock, cups, machines and envelopes completely blank and unlabeled. Smooth unmarked coins. No writing-like squiggles, letters, numbers, logos, watermarks, signatures or readable text. No readable text. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png"
+    ]
+  },
+  {
+    "id": "canh-10-11",
+    "scene": 10,
+    "from": 166,
+    "to": 181,
+    "text": "không dự báo thị trường hay khuyên đầu tư một quán cụ thể. Khi tiền thuê,",
+    "keyword": "",
+    "ref": false,
+    "prompt": "Use case: illustration-story. One full-bleed landscape 16:9 Vietnamese financial explainer illustration. Flat 2D cartoon, thick clean dark-brown outlines, warm cream, sage and ochre palette, gentle cel shading. Exactly one Co Bay, matching attached woman sheet: 48-year-old Vietnamese woman, round medium-tan face, short softly wavy dark-brown bob, no glasses, plain sage-green short sleeve blouse, ochre waist apron correctly tied behind, dark-brown trousers, black slip-on shoes; plum-purple blank notebook. Cafe owner checks blank calculator beside key and coffee cup. Wide cafe establishing view with clear subjects on left. One coherent scene, no split panels. Natural anatomically correct limbs, hands, wrists and body orientation; no lanyards or ID cards. All pages, calculator keys, calendar, clock, cups, machines and envelopes completely blank and unlabeled. Smooth unmarked coins. No writing-like squiggles, letters, numbers, logos, watermarks, signatures or readable text. No readable text. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "assets/nhan-vat/co-bay.png"
+    ]
+  },
+  {
+    "id": "canh-10-12",
+    "scene": 10,
+    "from": 182,
+    "to": 196,
+    "text": "thuế, lượng khách hoặc nghĩa vụ hợp đồng thay đổi, phải tính lại cả chuỗi.",
+    "keyword": "XEM SỔ VÀ GIẤY TỜ",
+    "ref": true,
+    "prompt": "Use case: illustration-story. One full-bleed landscape 16:9 Vietnamese financial explainer illustration. Flat 2D cartoon, thick clean dark-brown outlines, warm cream, sage and ochre palette, gentle cel shading. Exactly one Bac Sau, matching attached accountant sheet: elderly Vietnamese man, salt-and-pepper side-part hair, rectangular glasses, blue pen behind ear, beige checkered short sleeve shirt, brown trousers, red blank ledger. Accountant aligns red ledger and blank lease on desk. Low desk-height three-quarter composition. One coherent scene, no split panels. Natural anatomically correct limbs, hands, wrists and body orientation; no lanyards or ID cards. All pages, calculator keys, calendar, clock, cups, machines and envelopes completely blank and unlabeled. Smooth unmarked coins. No writing-like squiggles, letters, numbers, logos, watermarks, signatures or readable text. No readable text. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png"
+    ]
+  },
+  {
+    "id": "canh-10-13",
+    "scene": 10,
+    "from": 197,
+    "to": 211,
+    "text": "Một quyết định lớn nên có người phù hợp xem cả sổ lẫn giấy tờ.",
+    "keyword": "",
+    "ref": true,
+    "prompt": "Use case: illustration-story. One full-bleed landscape 16:9 Vietnamese financial explainer illustration. Flat 2D cartoon, thick clean dark-brown outlines, warm cream, sage and ochre palette, gentle cel shading. Exactly one Bac Sau, matching attached accountant sheet: elderly Vietnamese man, salt-and-pepper side-part hair, rectangular glasses, blue pen behind ear, beige checkered short sleeve shirt, brown trousers, red blank ledger. Accountant smiles toward viewer holding red ledger naturally. Overhead-oblique tabletop composition. One coherent scene, no split panels. Natural anatomically correct limbs, hands, wrists and body orientation; no lanyards or ID cards. All pages, calculator keys, calendar, clock, cups, machines and envelopes completely blank and unlabeled. Smooth unmarked coins. No writing-like squiggles, letters, numbers, logos, watermarks, signatures or readable text. No readable text. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png"
+    ]
+  },
+  {
+    "id": "canh-10-14",
+    "scene": 10,
+    "from": 212,
+    "to": 236,
+    "text": "Nếu thấy cách coi sổ này có ích, bà con bấm đăng ký kênh Bác Sáu Sổ Sách, gửi cho người đang coi mặt bằng.",
+    "keyword": "GỬI NGƯỜI THUÊ QUÁN",
+    "ref": false,
+    "prompt": "Use case: illustration-story. One full-bleed landscape 16:9 Vietnamese financial explainer illustration. Flat 2D cartoon, thick clean dark-brown outlines, warm cream, sage and ochre palette, gentle cel shading. Exactly one Co Bay, matching attached woman sheet: 48-year-old Vietnamese woman, round medium-tan face, short softly wavy dark-brown bob, no glasses, plain sage-green short sleeve blouse, ochre waist apron correctly tied behind, dark-brown trousers, black slip-on shoes; plum-purple blank notebook. Cafe owner watches completely blank phone at cafe table. Medium side view, natural body orientation. One coherent scene, no split panels. Natural anatomically correct limbs, hands, wrists and body orientation; no lanyards or ID cards. All pages, calculator keys, calendar, clock, cups, machines and envelopes completely blank and unlabeled. Smooth unmarked coins. No writing-like squiggles, letters, numbers, logos, watermarks, signatures or readable text. No readable text. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "assets/nhan-vat/co-bay.png"
+    ]
+  },
+  {
+    "id": "canh-10-15",
+    "scene": 10,
+    "from": 237,
+    "to": 259,
+    "text": "Bà con từng gặp khoản nào lúc trả quán mà trước khi mở không nghĩ tới, kể Bác nghe dưới bình luận nghen.",
+    "keyword": "",
+    "ref": true,
+    "prompt": "Use case: illustration-story. One full-bleed landscape 16:9 Vietnamese financial explainer illustration. Flat 2D cartoon, thick clean dark-brown outlines, warm cream, sage and ochre palette, gentle cel shading. Exactly one Bac Sau, matching attached accountant sheet: elderly Vietnamese man, salt-and-pepper side-part hair, rectangular glasses, blue pen behind ear, beige checkered short sleeve shirt, brown trousers, red blank ledger. Accountant listens warmly across tea table, notebook ready. Medium eye-level composition. One coherent scene, no split panels. Natural anatomically correct limbs, hands, wrists and body orientation; no lanyards or ID cards. All pages, calculator keys, calendar, clock, cups, machines and envelopes completely blank and unlabeled. Smooth unmarked coins. No writing-like squiggles, letters, numbers, logos, watermarks, signatures or readable text. No readable text. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png"
+    ]
+  },
+  {
+    "id": "canh-10-16",
+    "scene": 10,
+    "from": 260,
+    "to": 274,
+    "text": "Bác chốt một câu: Đừng chỉ đếm bàn kín. Hãy đếm tháng lấy lại tiền.",
+    "keyword": "ĐẾM THÁNG LẤY LẠI TIỀN",
+    "ref": true,
+    "prompt": "Use case: illustration-story. One full-bleed landscape 16:9 Vietnamese financial explainer illustration. Flat 2D cartoon, thick clean dark-brown outlines, warm cream, sage and ochre palette, gentle cel shading. Exactly one Bac Sau, matching attached accountant sheet: elderly Vietnamese man, salt-and-pepper side-part hair, rectangular glasses, blue pen behind ear, beige checkered short sleeve shirt, brown trousers, red blank ledger. Accountant rests red ledger beside blank calendar and cafe key, confident gentle smile. Close three-quarter view, uncluttered layered background. One coherent scene, no split panels. Natural anatomically correct limbs, hands, wrists and body orientation; no lanyards or ID cards. All pages, calculator keys, calendar, clock, cups, machines and envelopes completely blank and unlabeled. Smooth unmarked coins. No writing-like squiggles, letters, numbers, logos, watermarks, signatures or readable text. No readable text. No text, letters, numbers, logos or watermarks.",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png"
+    ]
+  }
+]

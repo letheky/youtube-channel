@@ -1,0 +1,26 @@
+{
+  "recorded_at": "2026-10-29T10:33:04+07:00",
+  "channel_id": "UCMDWcpFr6SZ1Nk7_ffVGTVA",
+  "episode_slug": "01-wifi-khac-goi-mang",
+  "approved_by": "channel_owner_direct_chat_reply",
+  "owner_feedback_verbatim": "Đã nghe cả hai, không thấy lỗi",
+  "scope": "Owner listened to entire long review MP4 and Short; no speech, joins or subtitle issues reported",
+  "full_episode_listening_complete": true,
+  "short_listening_complete": true,
+  "agent_direct_listening": false,
+  "reviewed_assets": [
+    {
+      "type": "long",
+      "path": "remotion/out/wifi-long-review-v1.mp4",
+      "sha256": "508b53495f183af1f4f36b7ce45f9dbbcd24bb218b44e0ca8d333f78558de4f5"
+    },
+    {
+      "type": "short",
+      "path": "remotion/out/wifi-short-review-v1.mp4",
+      "sha256": "74f440e1241990d45e2285a3308d597e33f87b94406adfc5c18bbd1da4faa9c5"
+    }
+  ],
+  "publication_completed": false,
+  "release_master_created": false,
+  "next_step": "Produce separate release files without review labels using approved existing audio; validate final files before upload"
+}

@@ -1,0 +1,59 @@
+{
+  "checkedAt": "2026-10-28T03:02:08.191947+00:00",
+  "law": {
+    "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/41-2024-qh15.pdf",
+    "verifiedArticles": [
+      10,
+      21,
+      23,
+      25,
+      33,
+      34,
+      36,
+      64,
+      66,
+      67,
+      70,
+      71,
+      72,
+      73,
+      98,
+      99,
+      103,
+      104,
+      111
+    ],
+    "scope": "Read relevant extracted law text, not full88page visual audit. Male15years40%,20years45%; female20years55%. Lump2months/year from2014. Preserve unpaid-out period; no deletion of records. Monthly allowance duration depends contributions and top-up may be needed. Social pension default75;70-75 poor/near-poor exceptions are not assigned to fictionalTu."
+  },
+  "mixedRegime": {
+    "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/159-cp.signed.pdf",
+    "record": "https://vanban.chinhphu.vn/?docid=214269&pageid=27160",
+    "verified": "Signedscan pages8-9 visually read, Article11 paragraphs1-4: combine mandatory+voluntary years, pensionpercentage times weightedaverage mandatorywage+voluntaryincome. 10mandatory+5voluntary uses voluntary15year male40%. Same real7million average in both components is a scenario assumption."
+  },
+  "retirementAge": {
+    "url": "https://xaydungchinhsach.chinhphu.vn/tra-cuu-tuoi-nghi-huu-thoi-diem-nghi-huu-cua-nguoi-lao-dong-theo-nam-sinh-119241029170451525.htm",
+    "verified": "Male62from2028, normal working conditions. No claim clause4.2of135repealed;158Article44list did not support secondary source."
+  },
+  "assumptions": [
+    "Tu35,10fullyears2015-2024,stopped2025",
+    "Realadjustedaverage7million",
+    "Retire62 under current ordinary rule, no forecast futurelaw",
+    "Voluntary22% chosen7million, before subsidies",
+    "Personal compulsorycost8%, employer14% fund separately",
+    "Constantrealpension; interest/discounting excluded; no guarantee purchasingpower27yearslater",
+    "80years only in appendix, not current narration"
+  ],
+  "math": "kiem_tra_video_13.py Decimal50 fullchain assertions passed:140m,50months,83months,62months,103.111months. No intermediate rounding.",
+  "consolidated2026": {
+    "url": "https://congbaocdn.chinhphu.vn/180507251028987904/2026/3/5/468972-1772691642_v1_1772691941_signed.pdf",
+    "publication": "Công báo133 ngày28/02/2026,80trang",
+    "checked": "Header incorporates LuậtNhàgiáo73/2025,Thanhtra84/2025,Dânsố113/2025,Phụchồi-phásản142/2025. Relevant ordinary worker Articles23,66,70,98,99,104,111 read; scenario percentages, eligibility and allowance safeguards unchanged. No claim visual audit all80pages.",
+    "current2026Corroboration": "https://baochinhphu.vn/khi-nao-duoc-dong-bu-bhxh-de-huong-che-do-huu-102260731092839483.htm",
+    "narrationAndMathChanged": false
+  },
+  "voluntaryContributionLegalBasis": {
+    "article": "36(1), Law41/2024/QH15, consolidated2026",
+    "rate": "22% of chosen monthly income, before state support",
+    "citationErratum": "Frozen script assumption-table footnote says33(2); correct citation36(1). Spoken narration does not cite an article number; 22% and all calculations unchanged. Frozen script and voice untouched."
+  }
+}

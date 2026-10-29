@@ -1,0 +1,38 @@
+{
+  "channel_name": "Dấu Vết Thời Đại",
+  "english_name": "Traces of Time",
+  "channel_id": "UCW_x25fRd3LXMAi5Nxq1y4g",
+  "creation_status": "created_verified_public_and_studio",
+  "handle": "@DauVetThoiDaiOfficial",
+  "public_url": "https://www.youtube.com/channel/UCW_x25fRd3LXMAi5Nxq1y4g",
+  "studio_url": "https://studio.youtube.com/channel/UCW_x25fRd3LXMAi5Nxq1y4g",
+  "browser": "Brave",
+  "browser_id_last_seen": "3",
+  "profile_name_verified": "Person 1",
+  "setup_tab_id_last_seen": "169036165",
+  "browser_window_id_last_seen": 169036166,
+  "require_channel_id_match_before_write": true,
+  "owner_account": "bacsausosach@gmail.com",
+  "timezone": "Asia/Saigon",
+  "do_not_modify_channel_ids": [
+    "UCMDWcpFr6SZ1Nk7_ffVGTVA",
+    "UCb8J1ex5t19hvQx0lsbdB6A",
+    "UCgk1lZuiaobS2qNtcRlwQ1w"
+  ],
+  "window_id_last_seen": 17236848,
+  "dedicated_window": true,
+  "browser_tab_group": null,
+  "handle_check_tab_id_last_seen": "169036154",
+  "ui_reverified_for_handoff": true,
+  "last_ui_observation": "2026-10-29: created new Brand channel under bacsausosach@gmail.com. Public page shows name, @DauVetThoiDaiOfficial, Customize channel and Manage videos. Studio URL and channel URL field match UCW_x25fRd3LXMAi5Nxq1y4g. HWND17236848 / browser window169036166 / tab169036165.",
+  "public_candidate_channel_id_unverified": "UCgk1lZuiaobS2qNtcRlwQ1w",
+  "ownership_observation_file": "config/channel-observation-2026-10-29.json",
+  "ownership_resolution_status": "resolved_new_brand_channel_created_under_expected_owner",
+  "new_channel_created_on": "2026-10-29",
+  "creation_authorization": {
+    "owner_reply": "tạo lại để nó phụ thuộc vào gmail bacsau",
+    "scope": "Create Dấu Vết Thời Đại under bacsausosach@gmail.com with an available replacement handle; @DauVetThoiDaiOfficial created and verified"
+  },
+  "handoff_updated_at": "2026-10-29T11:32:33+07:00",
+  "last_page_state": "Studio Customization; avatar and bilingual profile persisted, banner Upload/placeholder after failed save attempt. No file picker open."
+}

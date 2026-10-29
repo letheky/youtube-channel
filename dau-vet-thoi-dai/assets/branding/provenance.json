@@ -1,0 +1,16 @@
+[
+  {
+    "file": "avatar-dau-vet.png",
+    "size_bytes": 2156554,
+    "sha256": "1E45254BAF913CCE9D55B34C4EB4CF1ED4ED670166298DD929D72CCCF249B231",
+    "source": "built-in image_gen",
+    "purpose": "synthetic channel branding, not historical evidence"
+  },
+  {
+    "file": "banner-dau-vet-2560x1440.png",
+    "size_bytes": 4872126,
+    "sha256": "8261C739131A9978B517A41A67614D20A5E24103CCB8625B248CB280720EB303",
+    "source": "built-in image_gen",
+    "purpose": "synthetic channel branding, not historical evidence"
+  }
+]

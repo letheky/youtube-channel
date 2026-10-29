@@ -1,0 +1,107 @@
+[
+  {
+    "scene": 1,
+    "image": "canh-01-v2.png",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png",
+      "assets/nhan-vat/chu-ba-sua-xe.png"
+    ],
+    "sceneText": "Wide eye-level view inside a small Vietnamese alley motorcycle repair shop. Chu Ba stands beside one parked plain commuter motorcycle, relaxed with a cloth in one hand; Bac Sau, facing him, opens a plain red notebook at a small side table. Friendly curious expressions. Foreground simple coin tray, background blank parts boxes. Both whole torsos visibly face forward; natural separate hands.",
+    "prompt": "Use case: illustration-story. Generate one NEW landscape 16:9 image, 1672x940 or comparable high resolution. Flat 2D Vietnamese cartoon, thick outlines, warm colors, consistent with supplied character reference sheets. Inputs are identity and drawing-style references only. Wide eye-level view inside a small Vietnamese alley motorcycle repair shop. Chu Ba stands beside one parked plain commuter motorcycle, relaxed with a cloth in one hand; Bac Sau, facing him, opens a plain red notebook at a small side table. Friendly curious expressions. Foreground simple coin tray, background blank parts boxes. Both whole torsos visibly face forward; natural separate hands. Chu Ba if present: 48, short dark crew-cut, no glasses, rust-orange short sleeve shirt with one charcoal FRONT chest pocket, charcoal work trousers, closed brown shoes. Bac Sau if present must exactly match his sheet: older grey side-parted hair, rectangular glasses, beige plaid shirt, blue pen behind ear. All props generic and unbranded. Absolutely NO readable text, letters, digits, logos, watermarks, labels, badges, ID cards, or glyph-like marks on tiny props. No floating limbs, extra fingers or faces. One single scene, not a collage or contact sheet. No native overlay yet."
+  },
+  {
+    "scene": 2,
+    "image": "canh-02.png",
+    "refs": [
+      "assets/nhan-vat/chu-ba-sua-xe.png"
+    ],
+    "sceneText": "Close three-quarter view of Chu Ba at a tidy parts counter holding one plain motorcycle inner tube while his other hand rests openly on the counter. On the table a plain sealed oil bottle, small bearing and blank receipt slips, arranged clearly apart. Generic small motorcycle in soft background. No Bac Sau in this image.",
+    "prompt": "Use case: illustration-story. Generate one NEW landscape 16:9 image, 1672x940 or comparable high resolution. Flat 2D Vietnamese cartoon, thick outlines, warm colors, consistent with supplied character reference sheets. Inputs are identity and drawing-style references only. Close three-quarter view of Chu Ba at a tidy parts counter holding one plain motorcycle inner tube while his other hand rests openly on the counter. On the table a plain sealed oil bottle, small bearing and blank receipt slips, arranged clearly apart. Generic small motorcycle in soft background. No Bac Sau in this image. Chu Ba if present: 48, short dark crew-cut, no glasses, rust-orange short sleeve shirt with one charcoal FRONT chest pocket, charcoal work trousers, closed brown shoes. Bac Sau if present must exactly match his sheet: older grey side-parted hair, rectangular glasses, beige plaid shirt, blue pen behind ear. All props generic and unbranded. Absolutely NO readable text, letters, digits, logos, watermarks, labels, badges, ID cards, or glyph-like marks on tiny props. No floating limbs, extra fingers or faces. One single scene, not a collage or contact sheet. No native overlay yet."
+  },
+  {
+    "scene": 3,
+    "image": "canh-03.png",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png",
+      "assets/nhan-vat/chu-ba-sua-xe.png"
+    ],
+    "sceneText": "Side view of Chu Ba kneeling safely on one knee beside the stationary front wheel of a generic commuter motorcycle, using a simple spanner with one visible hand and resting other on knee. Bac Sau seated a comfortable distance away with notebook on lap watching. Wide shop interior, daylight from alley, blank wall clock with plain hands but no numerals or tick glyphs. No moving motorcycle or riding.",
+    "prompt": "Use case: illustration-story. Generate one NEW landscape 16:9 image, 1672x940 or comparable high resolution. Flat 2D Vietnamese cartoon, thick outlines, warm colors, consistent with supplied character reference sheets. Inputs are identity and drawing-style references only. Side view of Chu Ba kneeling safely on one knee beside the stationary front wheel of a generic commuter motorcycle, using a simple spanner with one visible hand and resting other on knee. Bac Sau seated a comfortable distance away with notebook on lap watching. Wide shop interior, daylight from alley, blank wall clock with plain hands but no numerals or tick glyphs. No moving motorcycle or riding. Chu Ba if present: 48, short dark crew-cut, no glasses, rust-orange short sleeve shirt with one charcoal FRONT chest pocket, charcoal work trousers, closed brown shoes. Bac Sau if present must exactly match his sheet: older grey side-parted hair, rectangular glasses, beige plaid shirt, blue pen behind ear. All props generic and unbranded. Absolutely NO readable text, letters, digits, logos, watermarks, labels, badges, ID cards, or glyph-like marks on tiny props. No floating limbs, extra fingers or faces. One single scene, not a collage or contact sheet. No native overlay yet."
+  },
+  {
+    "scene": 4,
+    "image": "canh-04.png",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png",
+      "assets/nhan-vat/chu-ba-sua-xe.png"
+    ],
+    "sceneText": "Medium view over a mechanic workbench. Chu Ba thoughtfully shows a large removed plain mechanical housing lying on a tray, both hands resting on bench. Bac Sau sits beside him with a smaller spare part in a separate tray. Clear visual contrast of cumbersome job and small routine part without charts or split panels. No additional people.",
+    "prompt": "Use case: illustration-story. Generate one NEW landscape 16:9 image, 1672x940 or comparable high resolution. Flat 2D Vietnamese cartoon, thick outlines, warm colors, consistent with supplied character reference sheets. Inputs are identity and drawing-style references only. Medium view over a mechanic workbench. Chu Ba thoughtfully shows a large removed plain mechanical housing lying on a tray, both hands resting on bench. Bac Sau sits beside him with a smaller spare part in a separate tray. Clear visual contrast of cumbersome job and small routine part without charts or split panels. No additional people. Chu Ba if present: 48, short dark crew-cut, no glasses, rust-orange short sleeve shirt with one charcoal FRONT chest pocket, charcoal work trousers, closed brown shoes. Bac Sau if present must exactly match his sheet: older grey side-parted hair, rectangular glasses, beige plaid shirt, blue pen behind ear. All props generic and unbranded. Absolutely NO readable text, letters, digits, logos, watermarks, labels, badges, ID cards, or glyph-like marks on tiny props. No floating limbs, extra fingers or faces. One single scene, not a collage or contact sheet. No native overlay yet."
+  },
+  {
+    "scene": 5,
+    "image": "canh-05.png",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png",
+      "assets/nhan-vat/chu-ba-sua-xe.png"
+    ],
+    "sceneText": "Quiet shop accounting moment. Chu Ba and Bac Sau sit at a small wooden table reviewing open completely blank notebook pages, three blank cream envelopes and a plain blue folder. Modest fan, cleaning tools and sealed oil disposal container in background with absolutely no labels. Medium-wide view, warm honest mood, natural elbows and hands.",
+    "prompt": "Use case: illustration-story. Generate one NEW landscape 16:9 image, 1672x940 or comparable high resolution. Flat 2D Vietnamese cartoon, thick outlines, warm colors, consistent with supplied character reference sheets. Inputs are identity and drawing-style references only. Quiet shop accounting moment. Chu Ba and Bac Sau sit at a small wooden table reviewing open completely blank notebook pages, three blank cream envelopes and a plain blue folder. Modest fan, cleaning tools and sealed oil disposal container in background with absolutely no labels. Medium-wide view, warm honest mood, natural elbows and hands. Chu Ba if present: 48, short dark crew-cut, no glasses, rust-orange short sleeve shirt with one charcoal FRONT chest pocket, charcoal work trousers, closed brown shoes. Bac Sau if present must exactly match his sheet: older grey side-parted hair, rectangular glasses, beige plaid shirt, blue pen behind ear. All props generic and unbranded. Absolutely NO readable text, letters, digits, logos, watermarks, labels, badges, ID cards, or glyph-like marks on tiny props. No floating limbs, extra fingers or faces. One single scene, not a collage or contact sheet. No native overlay yet."
+  },
+  {
+    "scene": 6,
+    "image": "canh-06-v2.png",
+    "refs": [],
+    "sceneText": "Warm close still life on a clean wooden mechanic workbench: a used plain steel spanner, a compact unbranded air compressor behind, a plain closed red savings tin and a few simple blank metallic coins. No people, no hands. Balanced cinematic flat cartoon composition with clear shapes; no calculator, digital display or writing.",
+    "prompt": "Use case: illustration-story. Generate one NEW landscape 16:9 image, 1672x940 or comparable high resolution. Flat 2D Vietnamese cartoon, thick outlines, warm colors, consistent with supplied character reference sheets. Inputs are identity and drawing-style references only. Warm close still life on a clean wooden mechanic workbench: a used plain steel spanner, a compact unbranded air compressor behind, a plain closed red savings tin and a few simple blank metallic coins. No people, no hands. Balanced cinematic flat cartoon composition with clear shapes; no calculator, digital display or writing. Chu Ba if present: 48, short dark crew-cut, no glasses, rust-orange short sleeve shirt with one charcoal FRONT chest pocket, charcoal work trousers, closed brown shoes. Bac Sau if present must exactly match his sheet: older grey side-parted hair, rectangular glasses, beige plaid shirt, blue pen behind ear. All props generic and unbranded. Absolutely NO readable text, letters, digits, logos, watermarks, labels, badges, ID cards, or glyph-like marks on tiny props. No floating limbs, extra fingers or faces. One single scene, not a collage or contact sheet. No native overlay yet."
+  },
+  {
+    "scene": 7,
+    "image": "canh-07.png",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png",
+      "assets/nhan-vat/chu-ba-sua-xe.png"
+    ],
+    "sceneText": "Chu Ba and Bac Sau seated facing each other at a side desk in the repair shop. Bac Sau calmly gestures with one open hand toward a small hourglass, Chu Ba listens with both hands resting naturally on thighs. Completely blank red notebook and plain money envelope on table. Front three-quarter view with bodies and shirt pockets facing correctly. No split-screen or generated infographic.",
+    "prompt": "Use case: illustration-story. Generate one NEW landscape 16:9 image, 1672x940 or comparable high resolution. Flat 2D Vietnamese cartoon, thick outlines, warm colors, consistent with supplied character reference sheets. Inputs are identity and drawing-style references only. Chu Ba and Bac Sau seated facing each other at a side desk in the repair shop. Bac Sau calmly gestures with one open hand toward a small hourglass, Chu Ba listens with both hands resting naturally on thighs. Completely blank red notebook and plain money envelope on table. Front three-quarter view with bodies and shirt pockets facing correctly. No split-screen or generated infographic. Chu Ba if present: 48, short dark crew-cut, no glasses, rust-orange short sleeve shirt with one charcoal FRONT chest pocket, charcoal work trousers, closed brown shoes. Bac Sau if present must exactly match his sheet: older grey side-parted hair, rectangular glasses, beige plaid shirt, blue pen behind ear. All props generic and unbranded. Absolutely NO readable text, letters, digits, logos, watermarks, labels, badges, ID cards, or glyph-like marks on tiny props. No floating limbs, extra fingers or faces. One single scene, not a collage or contact sheet. No native overlay yet."
+  },
+  {
+    "scene": 8,
+    "image": "canh-08.png",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png",
+      "assets/nhan-vat/chu-ba-sua-xe.png"
+    ],
+    "sceneText": "Over-shoulder wide shop stockroom scene: Chu Ba and Bac Sau stand beside shelves of plain blank parts cartons, neatly stacked inner tubes, bearings and unlabelled sealed bottles. Chu Ba points with one hand to extra cartons; Bac Sau holds his closed plain red notebook at waist. Their bodies oriented toward shelves, front chest pockets never appear on back. Leave comfortable empty floor foreground.",
+    "prompt": "Use case: illustration-story. Generate one NEW landscape 16:9 image, 1672x940 or comparable high resolution. Flat 2D Vietnamese cartoon, thick outlines, warm colors, consistent with supplied character reference sheets. Inputs are identity and drawing-style references only. Over-shoulder wide shop stockroom scene: Chu Ba and Bac Sau stand beside shelves of plain blank parts cartons, neatly stacked inner tubes, bearings and unlabelled sealed bottles. Chu Ba points with one hand to extra cartons; Bac Sau holds his closed plain red notebook at waist. Their bodies oriented toward shelves, front chest pockets never appear on back. Leave comfortable empty floor foreground. Chu Ba if present: 48, short dark crew-cut, no glasses, rust-orange short sleeve shirt with one charcoal FRONT chest pocket, charcoal work trousers, closed brown shoes. Bac Sau if present must exactly match his sheet: older grey side-parted hair, rectangular glasses, beige plaid shirt, blue pen behind ear. All props generic and unbranded. Absolutely NO readable text, letters, digits, logos, watermarks, labels, badges, ID cards, or glyph-like marks on tiny props. No floating limbs, extra fingers or faces. One single scene, not a collage or contact sheet. No native overlay yet."
+  },
+  {
+    "scene": 9,
+    "image": "canh-09.png",
+    "refs": [
+      "assets/nhan-vat/chu-ba-sua-xe.png"
+    ],
+    "sceneText": "Rainy quiet alley outside Chu Ba's small motorcycle repair shop, metal shutter partly lowered, no customers. Chu Ba stands under the awning in his consistent rust orange mechanic shirt with charcoal chest pocket and dark work trousers, hands relaxed holding a folded cloth, thoughtful but calm. One stationary motorcycle safely on its stand beside shop. No Bac Sau, no injury or medical depiction. Muted warm cartoon rain light.",
+    "prompt": "Use case: illustration-story. Generate one NEW landscape 16:9 image, 1672x940 or comparable high resolution. Flat 2D Vietnamese cartoon, thick outlines, warm colors, consistent with supplied character reference sheets. Inputs are identity and drawing-style references only. Rainy quiet alley outside Chu Ba's small motorcycle repair shop, metal shutter partly lowered, no customers. Chu Ba stands under the awning in his consistent rust orange mechanic shirt with charcoal chest pocket and dark work trousers, hands relaxed holding a folded cloth, thoughtful but calm. One stationary motorcycle safely on its stand beside shop. No Bac Sau, no injury or medical depiction. Muted warm cartoon rain light. Chu Ba if present: 48, short dark crew-cut, no glasses, rust-orange short sleeve shirt with one charcoal FRONT chest pocket, charcoal work trousers, closed brown shoes. Bac Sau if present must exactly match his sheet: older grey side-parted hair, rectangular glasses, beige plaid shirt, blue pen behind ear. All props generic and unbranded. Absolutely NO readable text, letters, digits, logos, watermarks, labels, badges, ID cards, or glyph-like marks on tiny props. No floating limbs, extra fingers or faces. One single scene, not a collage or contact sheet. No native overlay yet."
+  },
+  {
+    "scene": 10,
+    "image": "canh-10-v2.png",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png",
+      "assets/nhan-vat/chu-ba-sua-xe.png"
+    ],
+    "sceneText": "Warm sunset at the same modest Vietnamese alley repair shop. Chu Ba in his rust-orange shirt and Bac Sau in beige checked shirt sit on separate low chairs drinking tea after work. Plain red notebook closed on little table between them, tools put away, stationary motorcycle in background. Human appreciative tone, faces and hands clear, no ID cards or straps.",
+    "prompt": "Use case: illustration-story. Generate one NEW landscape 16:9 image, 1672x940 or comparable high resolution. Flat 2D Vietnamese cartoon, thick outlines, warm colors, consistent with supplied character reference sheets. Inputs are identity and drawing-style references only. Warm sunset at the same modest Vietnamese alley repair shop. Chu Ba in his rust-orange shirt and Bac Sau in beige checked shirt sit on separate low chairs drinking tea after work. Plain red notebook closed on little table between them, tools put away, stationary motorcycle in background. Human appreciative tone, faces and hands clear, no ID cards or straps. Chu Ba if present: 48, short dark crew-cut, no glasses, rust-orange short sleeve shirt with one charcoal FRONT chest pocket, charcoal work trousers, closed brown shoes. Bac Sau if present must exactly match his sheet: older grey side-parted hair, rectangular glasses, beige plaid shirt, blue pen behind ear. All props generic and unbranded. Absolutely NO readable text, letters, digits, logos, watermarks, labels, badges, ID cards, or glyph-like marks on tiny props. No floating limbs, extra fingers or faces. One single scene, not a collage or contact sheet. No native overlay yet."
+  },
+  {
+    "scene": 0,
+    "image": "thumbnail.png",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png",
+      "assets/nhan-vat/chu-ba-sua-xe.png"
+    ],
+    "sceneText": "YouTube thumbnail background. Right half: Chu Ba holds a simple steel spanner downward at his side while Bac Sau studies a plain red notebook with curious expression. Generic plain motorcycle behind on right. Left half is uncluttered deep dark teal negative space reserved for native typography added later. Warm golden shop lighting, bold thick shapes. No generated title or typography.",
+    "prompt": "Use case: illustration-story. Generate one NEW landscape 16:9 image, 1672x940 or comparable high resolution. Flat 2D Vietnamese cartoon, thick outlines, warm colors, consistent with supplied character reference sheets. Inputs are identity and drawing-style references only. YouTube thumbnail background. Right half: Chu Ba holds a simple steel spanner downward at his side while Bac Sau studies a plain red notebook with curious expression. Generic plain motorcycle behind on right. Left half is uncluttered deep dark teal negative space reserved for native typography added later. Warm golden shop lighting, bold thick shapes. No generated title or typography. Chu Ba if present: 48, short dark crew-cut, no glasses, rust-orange short sleeve shirt with one charcoal FRONT chest pocket, charcoal work trousers, closed brown shoes. Bac Sau if present must exactly match his sheet: older grey side-parted hair, rectangular glasses, beige plaid shirt, blue pen behind ear. All props generic and unbranded. Absolutely NO readable text, letters, digits, logos, watermarks, labels, badges, ID cards, or glyph-like marks on tiny props. No floating limbs, extra fingers or faces. One single scene, not a collage or contact sheet. No native overlay yet."
+  }
+]

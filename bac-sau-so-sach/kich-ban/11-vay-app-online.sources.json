@@ -1,0 +1,42 @@
+{
+  "checkedDateVN": "2026-10-26",
+  "sources": [
+    {
+      "title": "Bộ luật Dân sự2015 Điều468",
+      "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2016/01/91.signed.pdf",
+      "scope": "Giới hạn20% và ngoại lệ luật liên quan; nguồn MOJ hỏi đáp hỗ trợ khi bản PDF scan, không áp chung cho TCTD."
+    },
+    {
+      "title": "Luật Các TCTD2024 Điều100",
+      "url": "https://xaydungchinhsach.chinhphu.vn/toan-van-luat-cac-to-chuc-tin-dung-119240405135841794.htm",
+      "scope": "Thỏa thuận lãi/phí theo pháp luật chuyên ngành, không khẳng định mọi phí hợp pháp."
+    },
+    {
+      "title": "VBHN86/NHNN30-6-2026 Điều13/16",
+      "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/7/86-vbhn-nhnn.pdf",
+      "scope": "Có cập nhật TT29/2026 hiệu lực15/8/2026; cung cấp thông tin lãi/phí. Không dùng bản06/VBHN cũ làm bản mới nhất."
+    },
+    {
+      "title": "NĐ94/2025 thử nghiệm",
+      "url": "https://baochinhphu.vn/co-che-thu-nghiem-co-kiem-soat-trong-linh-vuc-ngan-hang-102250430145715956.htm",
+      "scope": "Có cơ chế thử nghiệm P2P, không chấp thuận toàn bộ app hoặc bảo đảm khoản vay."
+    },
+    {
+      "title": "Công an Cà Mau24/8/2026",
+      "url": "https://congan.camau.gov.vn/ch26/1448-Canh-bao-thu-doan-lua-dao-cho-vay-tien-online.html",
+      "scope": "Cảnh báo chuyển phí trước/cung cấp dữ liệu, giữ bằng chứng; không nêu tên app hay dữ liệu cá nhân."
+    },
+    {
+      "title": "Bộ Tư pháp giải thích Điều468",
+      "url": "https://pbgdpl.gov.vn/Pages/chi-tiet-tin.aspx?ItemID=2216&l=Nghiencuutraodoi",
+      "scope": "Kết quả tìm kiếm chính thức có nội dung20%; toàn trang mở403, không tuyên bố đã đọc toàn trang."
+    }
+  ],
+  "allCommercialInputsHypothetical": true,
+  "checkedAt": "2026-10-26T14:12:57.624805+00:00",
+  "officialCivilSearchCorroboration": {
+    "url": "https://htpldn.moj.gov.vn/Pages/chi-tiet-tin.aspx?ItemID=1835&l=Nghiencuutraodoi",
+    "checked": "Official indexed extracts reproduce Article468 cap/exception/ineffective excess. Full-page open timed out; civil government PDF scan available, not represented as fully read."
+  },
+  "currentBankCircular": "86/VBHN-NHNN30Jun2026 including29/2026 effective15Aug; Article13/14/16 read in government PDF. Old06VBHN not used as latest."
+}

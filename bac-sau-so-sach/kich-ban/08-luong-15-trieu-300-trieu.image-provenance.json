@@ -1,0 +1,188 @@
+[
+  {
+    "image": "thumbnail.png",
+    "prompt": "Flat 2D cartoon, thick dark outlines, warm colors, 16:9. Bac Sau and Bao on RIGHT TWO THIRDS, Bao holding a blank envelope with a hopeful yet puzzled expression, Bac Sau thoughtfully holding his red ledger. LEFT THIRD completely clean dark teal negative space for native typography. Follow both character reference sheets exactly. No text, digits, logos, watermark, badges, or lanyards. Correct anatomy and bag strap orientation.",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png",
+      "assets/nhan-vat/cau-bao.png"
+    ],
+    "source": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-79cb946d-b5c4-41b4-9ff3-12d5cf1d02a7.png",
+    "output": "D:/Repo/bac-sau-so-sach/videos/08-luong-15-trieu-300-trieu/anh/thumbnail.png",
+    "selectedOutput": "D:\\Repo\\bac-sau-so-sach\\videos\\08-luong-15-trieu-300-trieu\\anh\\thumbnail.png",
+    "selectedImage": "thumbnail.png",
+    "manualReviewed": true,
+    "sha256": "12ed5a6fa5855804207bd1e61420b6b63a9d9d518d70b0dbdad813d4bfb6850a"
+  },
+  {
+    "image": "canh-01.png",
+    "prompt": "Flat 2D cartoon, thick outlines, warm colors, 16:9. Follow Bac Sau and Bao reference sheets. Bao sits on the left of a cozy Vietnamese home tea table, proudly holding a blank envelope; Bac Sau on the right opens a red ledger, curious. Warm daylight, medium two-shot, clear hands, bag strap on Bao's front torso. No text, digits, logos, badge or lanyard. Keep every phone, laptop, calculator display, book cover, envelope and calendar blank. Coins are plain disks with no denominations. No readable letters, numbers, pseudo-writing, logos, or watermarks. Clean coherent cartoon anatomy and clothing; no employee ID badges or neck lanyards.",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png",
+      "assets/nhan-vat/cau-bao.png"
+    ],
+    "source": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-b60e89e9-c8c9-402d-94e0-72772d423c60.png",
+    "output": "D:\\Repo\\bac-sau-so-sach\\videos\\08-luong-15-trieu-300-trieu\\anh\\nhap\\canh-01.png",
+    "selectedImage": "canh-01-v2.png",
+    "selectedOutput": "D:\\Repo\\bac-sau-so-sach\\videos\\08-luong-15-trieu-300-trieu\\anh\\canh-01-v2.png",
+    "edits": [
+      {
+        "source": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-a7ee7980-2a1f-47a1-a045-5389b093d72c.png",
+        "output": "D:/Repo/bac-sau-so-sach/videos/08-luong-15-trieu-300-trieu/anh/canh-01-v2.png",
+        "prompt": "Edit this existing illustration with one very small correction only. On the old calculator at the BOTTOM RIGHT, REMOVE EVERY digit, letter, arithmetic operator and mark from EVERY keypad button. Each keycap must be a completely blank solid grey or muted orange rectangle. Keep the display blank. Also make visible coin faces smooth plain disks with absolutely no engraved letters or numbers. Preserve both people's exact faces, pose, correct hands, garments, bags, ledger, envelope, furniture, crop, colors and lighting unchanged. Do not introduce any text, glyphs, logos or watermark anywhere."
+      }
+    ],
+    "manualReviewed": true,
+    "sha256": "e7f02fd982c57b23868627964e7270a1439f3b7d6574f6e38725be7aa1a21bed"
+  },
+  {
+    "image": "canh-02.png",
+    "prompt": "Flat 2D cartoon, thick outlines, warm colors, 16:9. Follow both references. Bac Sau at left gently points to three separate shallow trays of plain coins; young Bao at right studies a blank payslip. Top-down diagonal office-table composition, no glasses or lanyard on Bao, one blue pen behind Bac Sau's ear. No readable text, numbers, currency markings or logos. Keep every phone, laptop, calculator display, book cover, envelope and calendar blank. Coins are plain disks with no denominations. No readable letters, numbers, pseudo-writing, logos, or watermarks. Clean coherent cartoon anatomy and clothing; no employee ID badges or neck lanyards.",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png",
+      "assets/nhan-vat/cau-bao.png"
+    ],
+    "source": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-aff7177f-c153-4ebd-9789-60c2aeb60680.png",
+    "output": "D:\\Repo\\bac-sau-so-sach\\videos\\08-luong-15-trieu-300-trieu\\anh\\nhap\\canh-02.png",
+    "selectedImage": "canh-02-v2.png",
+    "selectedOutput": "D:\\Repo\\bac-sau-so-sach\\videos\\08-luong-15-trieu-300-trieu\\anh\\canh-02-v2.png",
+    "edits": [
+      {
+        "source": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-7b6404da-8491-4d01-b6ce-e5b314248938.png",
+        "output": "D:/Repo/bac-sau-so-sach/videos/08-luong-15-trieu-300-trieu/anh/canh-02-v2.png",
+        "prompt": "Edit this existing cartoon with ONLY one targeted correction: the calculator keypad at the BOTTOM LEFT has tiny readable labels. Remove ALL labels, digits, letters, operator symbols, bars and pseudo-writing from EVERY button. Replace them with completely blank smooth grey/orange keycaps, leaving the calculator housing/display unchanged. All blank papers, calendar, book covers and coins must remain unlettered. Preserve the faces, poses, hands, clothes, room, three trays and composition exactly. Do not add text, numbers, logos, watermarks or an employee badge."
+      }
+    ],
+    "manualReviewed": true,
+    "sha256": "df85c76cc3b6736451b56c7c9d480ad3764c3394e52edf271c028fd5aee26a5e"
+  },
+  {
+    "image": "canh-03.png",
+    "prompt": "Flat 2D cartoon, thick outlines, warm colors, 16:9. Bao alone, follow reference exactly, in a modest tidy Vietnamese rented room. Wide view showing compact bed, small kitchenette, unbranded bicycle helmet and a closed laptop, Bao at desk holding a plain notebook. No text, digits, logos, badge or lanyard. Natural relaxed anatomy, bag hangs on chair. Keep every phone, laptop, calculator display, book cover, envelope and calendar blank. Coins are plain disks with no denominations. No readable letters, numbers, pseudo-writing, logos, or watermarks. Clean coherent cartoon anatomy and clothing; no employee ID badges or neck lanyards.",
+    "refs": [
+      "assets/nhan-vat/cau-bao.png"
+    ],
+    "source": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-3a6aedc6-d8d0-4bc4-9167-9d8b256dcd2e.png",
+    "output": "D:/Repo/bac-sau-so-sach/videos/08-luong-15-trieu-300-trieu/anh/canh-03.png",
+    "selectedOutput": "D:\\Repo\\bac-sau-so-sach\\videos\\08-luong-15-trieu-300-trieu\\anh\\canh-03.png",
+    "selectedImage": "canh-03.png",
+    "manualReviewed": true,
+    "sha256": "ccbe101d24cb4aef5ab6808eadc677b696a61280b006413c7d5c64d4168164ae"
+  },
+  {
+    "image": "canh-04.png",
+    "prompt": "Flat 2D cartoon, thick outlines, warm colors, 16:9. Bac Sau and Bao examine an unfolded blank annual calendar at a tea table. Around it, separate unlabelled envelopes with simple pictorial props: travel bag, flowers, medicine pouch, closed laptop, study books. No text, digits, brand marks or readable calendar dates. Follow references, correct two hands per person. Keep every phone, laptop, calculator display, book cover, envelope and calendar blank. Coins are plain disks with no denominations. No readable letters, numbers, pseudo-writing, logos, or watermarks. Clean coherent cartoon anatomy and clothing; no employee ID badges or neck lanyards.",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png",
+      "assets/nhan-vat/cau-bao.png"
+    ],
+    "source": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-0038111b-789e-436c-a795-403f39832821.png",
+    "output": "D:\\Repo\\bac-sau-so-sach\\videos\\08-luong-15-trieu-300-trieu\\anh\\nhap\\canh-04.png",
+    "selectedImage": "canh-04-v3.png",
+    "selectedOutput": "D:\\Repo\\bac-sau-so-sach\\videos\\08-luong-15-trieu-300-trieu\\anh\\canh-04-v3.png",
+    "edits": [
+      {
+        "source": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-ae20178c-5cac-49f1-8597-eb94820131af.png",
+        "output": "D:\\Repo\\bac-sau-so-sach\\videos\\08-luong-15-trieu-300-trieu\\anh\\nhap\\canh-04-v2.png",
+        "prompt": "Make one minimal correction to this exact cartoon illustration: ERASE all faint tiny header letters, weekday labels, numbers and pseudo-writing from the unfolded paper calendar on the table. Leave only the clean empty grid of light tan straight lines on cream paper; every cell and margin must be completely blank. Keep the people, faces, four hands, pointing poses, envelopes, medical pictogram, props, warm room and composition unchanged. No text, digits, logos or watermark anywhere."
+      },
+      {
+        "source": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-6d4ca2fe-251b-4591-ab97-8400d918cc28.png",
+        "output": "D:/Repo/bac-sau-so-sach/videos/08-luong-15-trieu-300-trieu/anh/canh-04-v3.png",
+        "prompt": "Only change the large unfolded calendar paper the two men point at: replace its ENTIRE visible surface with completely blank uniform cream paper, NO GRID, NO header, NO tiny marks, NO strokes, NO numbers, NO letters, NO lines at all. Keep its physical outline and center fold, and both pointing fingertips. It should look like a large clean unprinted folded sheet. Preserve every other object and all people exactly. Do not add any typography or logos anywhere."
+      }
+    ],
+    "manualReviewed": true,
+    "sha256": "d8cd94903f3e0b3de79d6b05beb99fb2d26ef0497f3352d2c7556ca2e740addf"
+  },
+  {
+    "image": "canh-05.png",
+    "prompt": "Flat 2D cartoon, thick outlines, warm colors, 16:9. Bac Sau and Bao at home table with one large pile and one clearly smaller pile of plain coins in separate trays, blank ledger in front. Bac Sau thoughtful, Bao curious rather than despairing. Medium side view. Exact reference outfits, no readable writing, digits, logos or lanyards. Keep every phone, laptop, calculator display, book cover, envelope and calendar blank. Coins are plain disks with no denominations. No readable letters, numbers, pseudo-writing, logos, or watermarks. Clean coherent cartoon anatomy and clothing; no employee ID badges or neck lanyards.",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png",
+      "assets/nhan-vat/cau-bao.png"
+    ],
+    "source": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-7bda083a-24f7-416a-8574-a5b893961530.png",
+    "output": "D:/Repo/bac-sau-so-sach/videos/08-luong-15-trieu-300-trieu/anh/canh-05.png",
+    "selectedOutput": "D:\\Repo\\bac-sau-so-sach\\videos\\08-luong-15-trieu-300-trieu\\anh\\canh-05.png",
+    "selectedImage": "canh-05.png",
+    "manualReviewed": true,
+    "sha256": "8964a1255c1ea13d8830d7f34d6036c7a287949b5945eb27f5e8eaf8036f786b"
+  },
+  {
+    "image": "canh-06.png",
+    "prompt": "Flat 2D cartoon, thick outlines, warm colors, 16:9. Top-down close view of Bac Sau and Bao's hands allocating plain coins from ONE central tray into two unlabelled envelopes, a red ledger visible. Precisely one pair of hands per visible person, correct sleeves: beige checked and light blue. No text, digits, logos, money denominations or diagrams. Keep every phone, laptop, calculator display, book cover, envelope and calendar blank. Coins are plain disks with no denominations. No readable letters, numbers, pseudo-writing, logos, or watermarks. Clean coherent cartoon anatomy and clothing; no employee ID badges or neck lanyards.",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png",
+      "assets/nhan-vat/cau-bao.png"
+    ],
+    "source": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-3330899e-50cb-4345-bef1-ff32a7cbb538.png",
+    "output": "D:/Repo/bac-sau-so-sach/videos/08-luong-15-trieu-300-trieu/anh/canh-06.png",
+    "selectedOutput": "D:\\Repo\\bac-sau-so-sach\\videos\\08-luong-15-trieu-300-trieu\\anh\\canh-06.png",
+    "selectedImage": "canh-06.png",
+    "manualReviewed": true,
+    "sha256": "d84beeec2f5ce56d5173aca75a7c01752cd6e615c4c5166054ca7d4c1f8665da"
+  },
+  {
+    "image": "canh-07.png",
+    "prompt": "Flat 2D cartoon, thick outlines, warm colors, 16:9. Bac Sau in foreground operating an old calculator with blank unlabelled buttons and screen; Bao in background compares two blank notebook pages. Warm tea-table setting, over-Bao-shoulder composition. Follow references, no text, digits, logos or lanyards. Keep every phone, laptop, calculator display, book cover, envelope and calendar blank. Coins are plain disks with no denominations. No readable letters, numbers, pseudo-writing, logos, or watermarks. Clean coherent cartoon anatomy and clothing; no employee ID badges or neck lanyards. IMPORTANT: do NOT copy any button glyphs from the character reference calculator. Every calculator key is a completely BLANK grey or muted orange rectangle, no digit or operator symbols.",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png",
+      "assets/nhan-vat/cau-bao.png"
+    ],
+    "source": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-efeb0846-e06f-4840-921f-6b11d8ed2ea2.png",
+    "output": "D:\\Repo\\bac-sau-so-sach\\videos\\08-luong-15-trieu-300-trieu\\anh\\nhap\\canh-07.png",
+    "selectedImage": "canh-07-v2.png",
+    "selectedOutput": "D:\\Repo\\bac-sau-so-sach\\videos\\08-luong-15-trieu-300-trieu\\anh\\canh-07-v2.png",
+    "edits": [
+      {
+        "source": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-839e2686-60e3-47e7-91fd-378c5d8ddbe5.png",
+        "output": "D:/Repo/bac-sau-so-sach/videos/08-luong-15-trieu-300-trieu/anh/canh-07-v2.png",
+        "prompt": "Edit ONLY the few GOLD COINS on the table near the lower middle/right of this existing cartoon. Remove all engraved digits, letters, denomination symbols, pseudo-writing and emblems from every visible coin face, making each a completely smooth solid gold disk with only a simple circular rim and lighting highlights. The calculator already has correctly blank buttons; keep it exactly blank. Preserve both characters, hands, clothes, blue pen, papers, ledger, teacups, room, camera view and colors unchanged. No text, numbers, logos, watermark or employee badges."
+      }
+    ],
+    "manualReviewed": true,
+    "sha256": "8444697413730a02b170df3c2db62da49434ffa94926cfbba92bb32baed449a6"
+  },
+  {
+    "image": "canh-08.png",
+    "prompt": "Flat 2D cartoon, thick outlines, warm colors, 16:9. Bao sits at a small desk practising work skills with an unbranded laptop showing completely blank screen and blank books; Bac Sau visits holding a closed red ledger. Bao's tan messenger bag on chair, correct youthful appearance. Cozy evening, medium wide shot. No text, numbers, logos, badges or lanyards. Keep every phone, laptop, calculator display, book cover, envelope and calendar blank. Coins are plain disks with no denominations. No readable letters, numbers, pseudo-writing, logos, or watermarks. Clean coherent cartoon anatomy and clothing; no employee ID badges or neck lanyards.",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png",
+      "assets/nhan-vat/cau-bao.png"
+    ],
+    "source": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-6891f4dd-1f0d-43e6-9648-c3f5460b5a2e.png",
+    "output": "D:/Repo/bac-sau-so-sach/videos/08-luong-15-trieu-300-trieu/anh/canh-08.png",
+    "selectedOutput": "D:\\Repo\\bac-sau-so-sach\\videos\\08-luong-15-trieu-300-trieu\\anh\\canh-08.png",
+    "selectedImage": "canh-08.png",
+    "manualReviewed": true,
+    "sha256": "77b64fba5473ee06d85bed30437aeed9fe46791b56127d95be88e39ddadff6e3"
+  },
+  {
+    "image": "canh-09.png",
+    "prompt": "Flat 2D cartoon, thick outlines, warm colors, 16:9. Bac Sau and Bao at a home table with exactly three separate unlabelled trays, plain envelopes and a blank notebook. Bao calmly sorts rather than celebrating wealth. Wide frontal shot with both faces unobstructed, exact reference clothing. No text, digits, bank logos, readable cash or lanyards. Keep every phone, laptop, calculator display, book cover, envelope and calendar blank. Coins are plain disks with no denominations. No readable letters, numbers, pseudo-writing, logos, or watermarks. Clean coherent cartoon anatomy and clothing; no employee ID badges or neck lanyards.",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png",
+      "assets/nhan-vat/cau-bao.png"
+    ],
+    "source": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-326e313f-6d23-46b3-80ca-11e54923a2e2.png",
+    "output": "D:/Repo/bac-sau-so-sach/videos/08-luong-15-trieu-300-trieu/anh/canh-09.png",
+    "selectedOutput": "D:\\Repo\\bac-sau-so-sach\\videos\\08-luong-15-trieu-300-trieu\\anh\\canh-09.png",
+    "selectedImage": "canh-09.png",
+    "manualReviewed": true,
+    "sha256": "44461e2be58340c52d059e2e44422fe63d692b9d992152707a35bf8258821d8b"
+  },
+  {
+    "image": "canh-10.png",
+    "prompt": "Flat 2D cartoon, thick outlines, warm colors, 16:9. Bac Sau and Bao share tea at a cozy home table; Bao closes a plain notebook, thoughtful and relieved, Bac Sau gently smiles, red ledger on table. Faces in upper half with clear lower region for native quote and subtitles. Exact character references, correct hands and messenger strap, no readable writing, digits, logos, badges or lanyards. Keep every phone, laptop, calculator display, book cover, envelope and calendar blank. Coins are plain disks with no denominations. No readable letters, numbers, pseudo-writing, logos, or watermarks. Clean coherent cartoon anatomy and clothing; no employee ID badges or neck lanyards.",
+    "refs": [
+      "assets/nhan-vat/bang-nhan-vat.png",
+      "assets/nhan-vat/cau-bao.png"
+    ],
+    "source": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-98c28b72-b9fb-4216-a811-f093cb14f21b.png",
+    "output": "D:/Repo/bac-sau-so-sach/videos/08-luong-15-trieu-300-trieu/anh/canh-10.png",
+    "selectedOutput": "D:\\Repo\\bac-sau-so-sach\\videos\\08-luong-15-trieu-300-trieu\\anh\\canh-10.png",
+    "selectedImage": "canh-10.png",
+    "manualReviewed": true,
+    "sha256": "ea5f7f842315e6ba7e23710329205879023b7b536e67b29492e314019588e7fe"
+  }
+]

@@ -1,0 +1,329 @@
+{
+  "slug": "07-the-tin-dung",
+  "preparedAt": "2026-10-23T03:39:23.820160+00:00",
+  "status": "script_and_base_images_ready_waiting_authorization",
+  "script": {
+    "path": "kich-ban/07-the-tin-dung.md",
+    "sha256": "945b09528db339c876d5e39081ae592809bc5bbdf5b29cea39ad09e6420f5f6f",
+    "scenes": 10,
+    "characters": 11443,
+    "step4ChecksPassed": true,
+    "narrationLocked": false,
+    "narrationRecorded": false,
+    "estimatedTtsCredit": 5035,
+    "creditReadOnly": {
+      "limit": 131000,
+      "used": 39783,
+      "remaining": 91217
+    }
+  },
+  "calculations": {
+    "principal": "20000000",
+    "annualAssumedRate": "36%",
+    "minimumAssumedRate": "5%",
+    "minimumDay45": "1000000",
+    "day0to45Interest": "887671",
+    "day45to60Interest": "281096",
+    "totalInterestAt60": "1168767",
+    "principalAfterPayment": "19000000",
+    "billDay60": "20168767",
+    "paidPlusStillOwed": "21168767",
+    "cashbackAssumed": "100000",
+    "interestLessCashback": "1068767",
+    "interestIfPay2mAt45": "1153973",
+    "interestSavedByExtra1mAt45": "14795",
+    "merchantDiscountAssumedRate": "2%",
+    "merchantFee": "400000",
+    "merchantNet": "19600000",
+    "cashAdvancePrincipal": "5000000",
+    "cashAdvanceFee": "200000",
+    "cashAdvanceInterest10days": "51288",
+    "cashAdvanceTotalCost": "251288",
+    "cashAdvanceRepayment": "5251288",
+    "earlyCycleDays": 45,
+    "lateCycleDays": 16
+  },
+  "images": {
+    "tool": "image_gen tích hợp",
+    "baseImages": 11,
+    "allDecoded": true,
+    "allVisuallyReviewed": true,
+    "files": [
+      {
+        "file": "D:\\Repo\\bac-sau-so-sach\\videos\\07-the-tin-dung\\anh\\canh-01.png",
+        "width": 1672,
+        "height": 941,
+        "sha256": "1f9ff2a683465ab6b39d0a6764a54728f1a780ae3611380d7e29b3eb66577699",
+        "decoded": true
+      },
+      {
+        "file": "D:\\Repo\\bac-sau-so-sach\\videos\\07-the-tin-dung\\anh\\canh-02.png",
+        "width": 1672,
+        "height": 941,
+        "sha256": "0a78a8e1b3f83216688dcd83d0f36382d59bdb98420720ad904e849dacd1fe7c",
+        "decoded": true
+      },
+      {
+        "file": "D:\\Repo\\bac-sau-so-sach\\videos\\07-the-tin-dung\\anh\\canh-03.png",
+        "width": 1672,
+        "height": 941,
+        "sha256": "12bb2d21c0b2007f1b4d4c25fb30a89e183e1f63a9a686e243ac9f948d06f248",
+        "decoded": true
+      },
+      {
+        "file": "D:\\Repo\\bac-sau-so-sach\\videos\\07-the-tin-dung\\anh\\canh-04.png",
+        "width": 1672,
+        "height": 941,
+        "sha256": "b37ec7c2ff243c54303abc5f43e8f89ebca783a99ae281402c9c5471ad920222",
+        "decoded": true
+      },
+      {
+        "file": "D:\\Repo\\bac-sau-so-sach\\videos\\07-the-tin-dung\\anh\\canh-05.png",
+        "width": 1672,
+        "height": 941,
+        "sha256": "5275fb0a8a6272631bdf80cbfab501f2b83b5109c63bef9cce6bfb0fba698bc7",
+        "decoded": true
+      },
+      {
+        "file": "D:\\Repo\\bac-sau-so-sach\\videos\\07-the-tin-dung\\anh\\canh-06.png",
+        "width": 1672,
+        "height": 941,
+        "sha256": "918234aff9ca3a6bae6d7a28077ebc21cab960801a101090040fe27397a98687",
+        "decoded": true
+      },
+      {
+        "file": "D:\\Repo\\bac-sau-so-sach\\videos\\07-the-tin-dung\\anh\\canh-07.png",
+        "width": 1672,
+        "height": 941,
+        "sha256": "574b42a215356e88aa333a12e8bdc0c08d78e17afd215274d5fc1b7f6238ef38",
+        "decoded": true
+      },
+      {
+        "file": "D:\\Repo\\bac-sau-so-sach\\videos\\07-the-tin-dung\\anh\\canh-08.png",
+        "width": 1672,
+        "height": 941,
+        "sha256": "977a0ce01afeef3ec14723b9e9649df6887423e8154682228e152d875aa0a25e",
+        "decoded": true
+      },
+      {
+        "file": "D:\\Repo\\bac-sau-so-sach\\videos\\07-the-tin-dung\\anh\\canh-09.png",
+        "width": 1672,
+        "height": 941,
+        "sha256": "11245651b981071162f7573a32cf5d1cd11c7f34759087e4434f2af67cfec72e",
+        "decoded": true
+      },
+      {
+        "file": "D:\\Repo\\bac-sau-so-sach\\videos\\07-the-tin-dung\\anh\\canh-10.png",
+        "width": 1672,
+        "height": 941,
+        "sha256": "509873a49b28064cb57d55a08665ae7e866562e4feae2ef0401237407860bb82",
+        "decoded": true
+      },
+      {
+        "file": "D:\\Repo\\bac-sau-so-sach\\videos\\07-the-tin-dung\\anh\\thumbnail.png",
+        "width": 1672,
+        "height": 941,
+        "sha256": "40a63662a8a865981c2067b66a926e22ce5511ad076fdf2aded1eb02b414520d",
+        "decoded": true
+      }
+    ],
+    "provenance": "kich-ban/07-the-tin-dung.image-provenance.json",
+    "characterReferencesReused": [
+      "assets/nhan-vat/bang-nhan-vat.png",
+      "assets/nhan-vat/con-ut.png"
+    ]
+  },
+  "overlayCuePlan": [
+    {
+      "scene": 1,
+      "type": "headline",
+      "cue": "Con Út khoe với Bác",
+      "until": "Bữa nay mình không mua xe trả góp",
+      "rows": [
+        "Hoàn100.000đ",
+        "Trả1.000.000đ",
+        "Đúng hạn đã đủ chưa?"
+      ]
+    },
+    {
+      "scene": 2,
+      "type": "chips",
+      "cue": "Trên sao kê thường có số dư",
+      "until": "Giả sử Út mua hàng",
+      "rows": [
+        "Dư nợ sao kê",
+        "Khoản tối thiểu",
+        "Khác điều kiện miễn lãi"
+      ]
+    },
+    {
+      "scene": 2,
+      "type": "ledger",
+      "cue": "Giả sử Út mua hàng",
+      "until": null,
+      "rows": [
+        "Giả định mua20triệu",
+        "Tối thiểu giả định5%",
+        "Kỳ đầu1triệu;chưa có khoản khác"
+      ]
+    },
+    {
+      "scene": 3,
+      "type": "chart",
+      "cue": "Mình dựng một chiếc lịch riêng",
+      "until": "Đây là lịch minh họa",
+      "rows": [
+        "Ngày0 mua20triệu",
+        "Ngày30 sao kê",
+        "Ngày45 hạn trả",
+        "Mua ngày29:chỉ16ngày tới hạn"
+      ]
+    },
+    {
+      "scene": 4,
+      "type": "ledger",
+      "cue": "Giờ mới tới con số chính",
+      "until": null,
+      "rows": [
+        "Giả định36%/năm,365ngày",
+        "0–45:20triệu→887.671đ",
+        "45–60:19triệu→281.096đ",
+        "Tổng1.168.767đ;không đếm trùng"
+      ]
+    },
+    {
+      "scene": 5,
+      "type": "ledger",
+      "cue": "Ở sao kê sau",
+      "until": "Đã trả một triệu",
+      "rows": [
+        "Gốc còn19triệu",
+        "Lãi1.168.767đ",
+        "Còn nợ20.168.767đ",
+        "Đã trả1triệu trước đó"
+      ]
+    },
+    {
+      "scene": 5,
+      "type": "ledger",
+      "cue": "Bây giờ cho Út được hoàn tiền",
+      "until": "Ưu đãi thật còn có trần",
+      "rows": [
+        "Hoàn giả định0,5%=100.000đ",
+        "Lãi trừ hoàn1.068.767đ",
+        "Chưa có phí khác"
+      ]
+    },
+    {
+      "scene": 6,
+      "type": "comparison",
+      "cue": "Út hỏi, vậy con trả hai triệu",
+      "until": null,
+      "rows": [
+        "Trả1triệu:lãi1.168.767đ",
+        "Trả2triệu:lãi1.153.973đ",
+        "Cùng ngày45;giảm14.795đ",
+        "Trảđủ20triệu:lãi0 theo điều kiện riêng"
+      ]
+    },
+    {
+      "scene": 7,
+      "type": "ledger",
+      "cue": "Giả sử riêng giao dịch hai chục triệu",
+      "until": "Phí cửa hàng thỏa thuận",
+      "rows": [
+        "Giả định phí cửa hàng2%",
+        "20triệu→phí400.000đ",
+        "Cửa hàng nhận19,6triệu trước chi phí khác"
+      ]
+    },
+    {
+      "scene": 7,
+      "type": "chips",
+      "cue": "Phí cửa hàng thỏa thuận",
+      "until": null,
+      "rows": [
+        "Merchant discount khác interchange",
+        "Không gán cả400.000đ cho phát hành",
+        "Doanh thu chưa phải lợi nhuận"
+      ]
+    },
+    {
+      "scene": 8,
+      "type": "ledger",
+      "cue": "Bác tách hẳn một ví dụ khác",
+      "until": null,
+      "rows": [
+        "Phương án riêng:nhận5triệu",
+        "Phígiảđịnh4%=200.000đ",
+        "Lãi trên5,2triệu trong10ngày",
+        "Chi phí251.288đ;trả5.251.288đ"
+      ]
+    },
+    {
+      "scene": 9,
+      "type": "rules",
+      "cue": "Út mở ứng dụng",
+      "until": null,
+      "rows": [
+        "Đã đăng ký trích nợ?",
+        "Toàn bộ hay tối thiểu?",
+        "Đủ tiền đúng thời điểm?",
+        "Kiểm khoản trả đã ghi nhận"
+      ]
+    },
+    {
+      "scene": 10,
+      "type": "rules",
+      "cue": "Bác nhắc ba điều",
+      "until": "Tấm thẻ có thể tiện",
+      "rows": [
+        "Tối thiểu không phải miễn lãi",
+        "Lãi bám ngày/loại giao dịch",
+        "Phí hệ thống khác lợi nhuận"
+      ]
+    },
+    {
+      "scene": 10,
+      "type": "quote",
+      "cue": "Bác chốt một câu",
+      "until": null,
+      "rows": [
+        "Hạn mức là tiền được mượn, không phải tiền đã kiếm."
+      ]
+    }
+  ],
+  "shortTextCandidates": [
+    {
+      "scene": 1,
+      "text": "Con Út khoe với Bác, tháng rồi nó xài thẻ được hoàn một trăm ngàn. Tới hạn, nó cũng đã chuyển trả một triệu, đúng cái ô thanh toán tối thiểu. Vậy mà kỳ sau lại có tiền lãi. Nó hỏi, con trả đúng hạn rồi, ngân hàng còn thu gì nữa?"
+    },
+    {
+      "scene": 2,
+      "text": "Trên sao kê thường có số dư cần thanh toán và một khoản tối thiểu. Khoản tối thiểu là yêu cầu của kỳ đó. Nó không hứa rằng mình chỉ cần trả chừng ấy là được miễn tiền lãi. Cũng đừng hiểu đó là lịch trả góp, tháng nào một cục nhỏ bằng nhau tới lúc tự hết nợ."
+    },
+    {
+      "scene": 10,
+      "text": "hạn mức là tiền được mượn, không phải tiền đã kiếm."
+    }
+  ],
+  "shortNote": "Exact text candidates only; no audio/timestamps/runtime/spec.json until narration authorized and available. Re-evaluate 45–55sec after real timings.",
+  "oldSources": [
+    {
+      "video": 5,
+      "sourceHashesUnchanged": 42
+    },
+    {
+      "video": 6,
+      "sourceHashesUnchanged": 42
+    }
+  ],
+  "rendered": false,
+  "finalVideoQaPassed": false,
+  "uploaded": false,
+  "targetLongVN": "2026-10-24 18:00",
+  "targetShortVN": "2026-10-25 11:30",
+  "scheduleConfirmed": false,
+  "deadlineQaVN": "2026-10-24 15:00",
+  "permission": "HANDOFF only #4–#6; request explicit #7 permission before paid narration or upload. No new OAuth, no early public/unlisted."
+}

@@ -1,0 +1,308 @@
+{
+  "createdAt": "2026-10-25T03:20:26.102879+00:00",
+  "video": "09-mua-nha-hay-thue",
+  "character": {
+    "image": "assets/nhan-vat/hieu-thao.png",
+    "source": "C:/Users/ADMIN/.codex/generated_images/01a144d5-caf8-7920-b0ee-6f43058e7f93/exec-b4d7bc66-7e68-45eb-970f-5b25138bb63d.png",
+    "mode": "built-in-image_gen",
+    "manualReviewed": true,
+    "sha256": "334ff94c233b0b7ca4a26b6eb6f8b0ecc8a9cbfc542293668c84aee8a784b854",
+    "size": [
+      1672,
+      941
+    ],
+    "notes": "Identity, hair, clothing, front/three-quarter hands/earrings and absence of ID cards reviewed. Watch is optional; if visible on left wrist.",
+    "prompt": "Use case: illustration-story. Asset: production character reference sheet for Vietnamese animated finance channel. Reference image is STYLE ONLY, not identity: do not copy the elderly man's age or clothes. New character couple Hieu and Thao. Hieu Vietnamese man age32, short black side-part hair, clean shaven, olive-green plain polo, navy trousers, brown casual shoes, small watch on LEFT wrist. Thao Vietnamese woman age30, shoulder-length straight black hair center part, muted terracotta cardigan over plain ivory crew-neck blouse, long navy skirt, black flats, tiny stud earrings. Both normal adult proportions, expressive gentle faces, warm medium skin. On ivory blank background, show each person full body front and three-quarter view, plus two medium face expressions each, clean organized spacious layout, same exact identity/clothing across poses. Flat2D cartoon, thick warm outlines, subtle soft shading and warm palette matching reference. This is a character sheet, not a scene. No elderly people, no lanyards or ID cards, no ties, no glasses, no text, letters, numbers, labels, logos, watermark, or calculator keys. Anatomically clear two arms each, five fingers where visible; fully dressed. Landscape16:9.\n"
+  },
+  "assets": [
+    {
+      "id": "canh-01",
+      "image": "canh-01.png",
+      "prompt": "Flat 2D cartoon, thick outlines, warm colors, 16:9. [Reference: Bác Sáu character sheet] Hieu in olive polo and Thao in terracotta cardigan at a warm modest living room table; Hieu holds simple house keys, Thao listens thoughtfully, Bac Sau opens his plain red notebook. Eye-level medium wide shot, relaxed hands clearly separated. No readable text, digits, labels, logos, ID cards or watermark. Production invariants: match supplied character identities exactly. Bac Sau elderly beige plaid shirt rectangular glasses, blue pen behind ear and red notebook; Hieu olive polo/short black hair; Thao terracotta cardigan/ivory blouse/long navy skirt/shoulder-length black hair. Only include the people specified by the scene, no extra people. Every person exactly two arms, natural wrists and hands, no fused fingers, correct clothing front and back. No employee badges, text on papers, numerals on props, logos, or counterfeit writing. The scene fills a full landscape16:9 frame. Any calculator keys are entirely blank.",
+      "refs": [
+        "assets/nhan-vat/bang-nhan-vat.png",
+        "assets/nhan-vat/hieu-thao.png"
+      ],
+      "source": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-fcf09d5e-4036-4f98-94c8-0921ff4d982a.png",
+      "target": "D:/Repo/bac-sau-so-sach/videos/09-mua-nha-hay-thue/anh/canh-01.png",
+      "mode": "built-in-image_gen",
+      "manualReviewed": true,
+      "selected": true,
+      "sha256": "1a7b1ca91a635bcd4ab64310131018eddd9fe150db1e3901e1ff54759945c38b",
+      "size": [
+        1672,
+        941
+      ]
+    },
+    {
+      "id": "canh-02",
+      "image": "canh-02.png",
+      "prompt": "Flat 2D cartoon, thick outlines, warm colors, 16:9. [Reference: Bác Sáu character sheet] Bac Sau at a wooden table with two equal-sized trays, a simple little townhouse model, blank envelopes and plain coins. Hieu and Thao watch from the far side. Overhead three-quarter composition, no overlapping hands. No readable text, numbers, labels, logos or watermark. Production invariants: match supplied character identities exactly. Bac Sau elderly beige plaid shirt rectangular glasses, blue pen behind ear and red notebook; Hieu olive polo/short black hair; Thao terracotta cardigan/ivory blouse/long navy skirt/shoulder-length black hair. Only include the people specified by the scene, no extra people. Every person exactly two arms, natural wrists and hands, no fused fingers, correct clothing front and back. No employee badges, text on papers, numerals on props, logos, or counterfeit writing. The scene fills a full landscape16:9 frame. Any calculator keys are entirely blank.",
+      "refs": [
+        "assets/nhan-vat/bang-nhan-vat.png",
+        "assets/nhan-vat/hieu-thao.png"
+      ],
+      "source": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-28f926f4-8326-4d10-9ac2-940f6d2d4620.png",
+      "target": "D:/Repo/bac-sau-so-sach/videos/09-mua-nha-hay-thue/anh/canh-02.png",
+      "mode": "built-in-image_gen",
+      "manualReviewed": true,
+      "selected": true,
+      "sha256": "dc154d82ceb8b2a7210d12117aacbebe8f2b4fbfb95e6de9f299f558f3f91efb",
+      "size": [
+        1672,
+        941
+      ]
+    },
+    {
+      "id": "canh-03",
+      "image": "canh-03.png",
+      "prompt": "Flat 2D cartoon, thick outlines, warm colors, 16:9. [Reference: Bác Sáu character sheet] Bac Sau and Hieu comparing a blank loan calendar and two plain envelopes on the table, Thao looking concerned but calm. Close medium shot, one pointing hand and all wrists natural. All pages entirely blank, no tiny marks, text, digits, logos or watermark. Production invariants: match supplied character identities exactly. Bac Sau elderly beige plaid shirt rectangular glasses, blue pen behind ear and red notebook; Hieu olive polo/short black hair; Thao terracotta cardigan/ivory blouse/long navy skirt/shoulder-length black hair. Only include the people specified by the scene, no extra people. Every person exactly two arms, natural wrists and hands, no fused fingers, correct clothing front and back. No employee badges, text on papers, numerals on props, logos, or counterfeit writing. The scene fills a full landscape16:9 frame. Any calculator keys are entirely blank.",
+      "refs": [
+        "assets/nhan-vat/bang-nhan-vat.png",
+        "assets/nhan-vat/hieu-thao.png"
+      ],
+      "source": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-3a8fb152-8cd8-4287-a1a3-3af88321989a.png",
+      "target": "D:/Repo/bac-sau-so-sach/videos/09-mua-nha-hay-thue/anh/canh-03.png",
+      "mode": "built-in-image_gen",
+      "manualReviewed": true,
+      "selected": true,
+      "sha256": "e4076446b7fc73a3f937b0abeb169b4588d95ba9a5e15589c8d9fc6b50988fab",
+      "size": [
+        1672,
+        941
+      ]
+    },
+    {
+      "id": "canh-04",
+      "image": "canh-04.png",
+      "prompt": "Flat 2D cartoon, thick outlines, warm colors, 16:9. Thao in terracotta cardigan organizing two wooden trays of blank envelopes beside a plain house model and keys; Hieu in olive polo sits nearby with hands resting on his own notebook. Spacious medium wide view, warm daylight. No readable text, digits, symbols, logos, lanyards or watermark. Production invariants: match supplied character identities exactly. Bac Sau elderly beige plaid shirt rectangular glasses, blue pen behind ear and red notebook; Hieu olive polo/short black hair; Thao terracotta cardigan/ivory blouse/long navy skirt/shoulder-length black hair. Only include the people specified by the scene, no extra people. Every person exactly two arms, natural wrists and hands, no fused fingers, correct clothing front and back. No employee badges, text on papers, numerals on props, logos, or counterfeit writing. The scene fills a full landscape16:9 frame. Any calculator keys are entirely blank.",
+      "refs": [
+        "assets/nhan-vat/hieu-thao.png"
+      ],
+      "source": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-506ea65f-ded7-431d-80af-6305861ad670.png",
+      "target": "D:/Repo/bac-sau-so-sach/videos/09-mua-nha-hay-thue/anh/canh-04.png",
+      "mode": "built-in-image_gen",
+      "manualReviewed": false,
+      "selected": false,
+      "draftPath": "D:\\Repo\\bac-sau-so-sach\\videos\\09-mua-nha-hay-thue\\anh\\nhap\\canh-04.png",
+      "reasonRejected": "Extra elderly character without required reference in scenes04/05/09; calculator key glyphs in07/08."
+    },
+    {
+      "id": "canh-04",
+      "image": "canh-04-v2.png",
+      "refs": [
+        "D:/Repo/bac-sau-so-sach/assets/nhan-vat/hieu-thao.png"
+      ],
+      "prompt": "Flat2D cartoon, thick outlines, warm colors, landscape16:9. Use supplied character sheet identities. ONLY TWO adults, Hieu(olive green polo navy trousers) and Thao(terracotta cardigan ivory crewneck long navy skirt). Thao organizes two wooden trays of blank envelopes beside a small plain townhouse model and keys, Hieu sits nearby resting hands on his own blank notebook. Modest Vietnamese living room, natural daylight, medium-wide composition. Exactly two people, no elderly person, no third person, no calculator, no badges. Clear normal hands and clothing. Every paper and envelope completely blank, no readable text, numbers, symbols, logos or watermark.",
+      "source": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-301f5f72-e514-4721-9972-a4cbb47dcc7d.png",
+      "target": "D:/Repo/bac-sau-so-sach/videos/09-mua-nha-hay-thue/anh/canh-04-v2.png",
+      "mode": "built-in-image_gen",
+      "manualReviewed": true,
+      "replaces": "canh-04.png",
+      "selected": true,
+      "sha256": "0e822744c60beedba5266ecfaafb8fa15b864c0435c6785a10ddfe38fa90281f",
+      "size": [
+        1672,
+        941
+      ]
+    },
+    {
+      "id": "canh-05",
+      "image": "canh-05.png",
+      "prompt": "Flat 2D cartoon, thick outlines, warm colors, 16:9. Still life on a warm wooden table: small plain townhouse model, simple keys, two clearly separate wooden trays with blank envelopes and unmarked coins, open blank notebook. Gentle diagonal composition, no people. No readable text, digits, currency symbols, logos or watermark. Production invariants: match supplied character identities exactly. Bac Sau elderly beige plaid shirt rectangular glasses, blue pen behind ear and red notebook; Hieu olive polo/short black hair; Thao terracotta cardigan/ivory blouse/long navy skirt/shoulder-length black hair. Only include the people specified by the scene, no extra people. Every person exactly two arms, natural wrists and hands, no fused fingers, correct clothing front and back. No employee badges, text on papers, numerals on props, logos, or counterfeit writing. The scene fills a full landscape16:9 frame. Any calculator keys are entirely blank.",
+      "refs": [],
+      "source": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-1e90a0db-ac5d-415e-83e3-64e9713cafbf.png",
+      "target": "D:/Repo/bac-sau-so-sach/videos/09-mua-nha-hay-thue/anh/canh-05.png",
+      "mode": "built-in-image_gen",
+      "manualReviewed": false,
+      "selected": false,
+      "draftPath": "D:\\Repo\\bac-sau-so-sach\\videos\\09-mua-nha-hay-thue\\anh\\nhap\\canh-05.png",
+      "reasonRejected": "Extra elderly character without required reference in scenes04/05/09; calculator key glyphs in07/08."
+    },
+    {
+      "id": "canh-05",
+      "image": "canh-05-v2.png",
+      "refs": [],
+      "prompt": "Flat2D cartoon, thick outlines, warm colors, landscape16:9. OBJECT STILL LIFE ONLY, absolutely NO people or body parts. Wooden table in a cozy modest Vietnamese home, small plain townhouse model, simple unbranded house keys, two separate wooden trays of blank envelopes and unmarked plain coins, open entirely blank notebook. Attractive gentle overhead diagonal composition. No calculator, readable text, digits, labels, currency symbols, logos or watermark. Warm cream and natural wood with olive/terracotta accents.",
+      "source": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-73439dbd-baee-40f5-b856-835f5f68cbcb.png",
+      "target": "D:/Repo/bac-sau-so-sach/videos/09-mua-nha-hay-thue/anh/canh-05-v2.png",
+      "mode": "built-in-image_gen",
+      "manualReviewed": true,
+      "replaces": "canh-05.png",
+      "selected": true,
+      "sha256": "d02097999fb90789aa150bcb4c1aace444a1d1c3dc3ccda368ddc1693329f093",
+      "size": [
+        1672,
+        941
+      ]
+    },
+    {
+      "id": "canh-06",
+      "image": "canh-06.png",
+      "prompt": "Flat 2D cartoon, thick outlines, warm colors, 16:9. [Reference: Bác Sáu character sheet] Bac Sau calmly showing two broad wooden trays to Hieu and Thao in a modest home: one tray beside a plain townhouse model, the other with neatly stacked blank envelopes. Characters fully visible above table, no crossed ownership of arms. No readable text, numbers, charts, logos or watermark. Production invariants: match supplied character identities exactly. Bac Sau elderly beige plaid shirt rectangular glasses, blue pen behind ear and red notebook; Hieu olive polo/short black hair; Thao terracotta cardigan/ivory blouse/long navy skirt/shoulder-length black hair. Only include the people specified by the scene, no extra people. Every person exactly two arms, natural wrists and hands, no fused fingers, correct clothing front and back. No employee badges, text on papers, numerals on props, logos, or counterfeit writing. The scene fills a full landscape16:9 frame. Any calculator keys are entirely blank.",
+      "refs": [
+        "assets/nhan-vat/bang-nhan-vat.png",
+        "assets/nhan-vat/hieu-thao.png"
+      ],
+      "source": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-65f73892-a18f-443c-9096-094731389bc1.png",
+      "target": "D:/Repo/bac-sau-so-sach/videos/09-mua-nha-hay-thue/anh/canh-06.png",
+      "mode": "built-in-image_gen",
+      "manualReviewed": true,
+      "selected": true,
+      "sha256": "26db381376fca232eba77f3b69a3fe9fa039d3feabfc4f1fa806e53a0a7246b7",
+      "size": [
+        1672,
+        941
+      ]
+    },
+    {
+      "id": "canh-07",
+      "image": "canh-07.png",
+      "prompt": "Flat 2D cartoon, thick outlines, warm colors, 16:9. [Reference: Bác Sáu character sheet] Thao replaces one blank envelope on a neat table while Bac Sau holds a blue pen above a blank notebook and Hieu looks at the unchanged house model. Clear three-person medium shot, gentle thoughtful expressions. No readable text, numbers, symbols, logos or watermark. Production invariants: match supplied character identities exactly. Bac Sau elderly beige plaid shirt rectangular glasses, blue pen behind ear and red notebook; Hieu olive polo/short black hair; Thao terracotta cardigan/ivory blouse/long navy skirt/shoulder-length black hair. Only include the people specified by the scene, no extra people. Every person exactly two arms, natural wrists and hands, no fused fingers, correct clothing front and back. No employee badges, text on papers, numerals on props, logos, or counterfeit writing. The scene fills a full landscape16:9 frame. Any calculator keys are entirely blank.",
+      "refs": [
+        "assets/nhan-vat/bang-nhan-vat.png",
+        "assets/nhan-vat/hieu-thao.png"
+      ],
+      "source": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-e94aa78e-58fc-4f30-83a4-eccf6d00f0ff.png",
+      "target": "D:/Repo/bac-sau-so-sach/videos/09-mua-nha-hay-thue/anh/canh-07.png",
+      "mode": "built-in-image_gen",
+      "manualReviewed": false,
+      "selected": false,
+      "draftPath": "D:\\Repo\\bac-sau-so-sach\\videos\\09-mua-nha-hay-thue\\anh\\nhap\\canh-07.png",
+      "reasonRejected": "Extra elderly character without required reference in scenes04/05/09; calculator key glyphs in07/08."
+    },
+    {
+      "id": "canh-07",
+      "image": "canh-07-v2.png",
+      "refs": [
+        "D:/Repo/bac-sau-so-sach/videos/09-mua-nha-hay-thue/anh/canh-07.png"
+      ],
+      "prompt": "Precise edit of supplied illustration: remove the calculator completely from lower right of the wooden table and reconstruct the wood surface naturally. Keep every character, facial expression, hair, pose, hands, clothes, notebook, house model, keys, envelopes, camera and lighting unchanged. No replacement prop. Keep landscape16:9. No text, digits, logos or watermark anywhere.",
+      "source": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-a08849b3-7e5e-4183-9d23-c94398472ab3.png",
+      "target": "D:/Repo/bac-sau-so-sach/videos/09-mua-nha-hay-thue/anh/canh-07-v2.png",
+      "mode": "built-in-image_gen",
+      "manualReviewed": true,
+      "replaces": "canh-07.png",
+      "editInputPreservedAt": "D:\\Repo\\bac-sau-so-sach\\videos\\09-mua-nha-hay-thue\\anh\\nhap\\canh-07.png",
+      "selected": true,
+      "sha256": "463f60df1e9b5318bcf4386e079a6bc1ecf6c5ecf0f4e94bd2bd42b47c82dce0",
+      "size": [
+        1672,
+        941
+      ]
+    },
+    {
+      "id": "canh-08",
+      "image": "canh-08.png",
+      "prompt": "Flat 2D cartoon, thick outlines, warm colors, 16:9. [Reference: Bác Sáu character sheet] Hieu examines a plain wallet beside a blank payment calendar, Thao holds a small tray of plain envelopes, Bac Sau calmly listens. Close medium composition in their living room, mild concern not panic. No readable text, digits, logos, labels, lanyards or watermark. Production invariants: match supplied character identities exactly. Bac Sau elderly beige plaid shirt rectangular glasses, blue pen behind ear and red notebook; Hieu olive polo/short black hair; Thao terracotta cardigan/ivory blouse/long navy skirt/shoulder-length black hair. Only include the people specified by the scene, no extra people. Every person exactly two arms, natural wrists and hands, no fused fingers, correct clothing front and back. No employee badges, text on papers, numerals on props, logos, or counterfeit writing. The scene fills a full landscape16:9 frame. Any calculator keys are entirely blank.",
+      "refs": [
+        "assets/nhan-vat/bang-nhan-vat.png",
+        "assets/nhan-vat/hieu-thao.png"
+      ],
+      "source": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-59dc3322-25a5-4289-9594-4b135a7e2246.png",
+      "target": "D:/Repo/bac-sau-so-sach/videos/09-mua-nha-hay-thue/anh/canh-08.png",
+      "mode": "built-in-image_gen",
+      "manualReviewed": false,
+      "selected": false,
+      "draftPath": "D:\\Repo\\bac-sau-so-sach\\videos\\09-mua-nha-hay-thue\\anh\\nhap\\canh-08.png",
+      "reasonRejected": "Extra elderly character without required reference in scenes04/05/09; calculator key glyphs in07/08."
+    },
+    {
+      "id": "canh-08",
+      "image": "canh-08-v2.png",
+      "refs": [
+        "D:/Repo/bac-sau-so-sach/videos/09-mua-nha-hay-thue/anh/canh-08.png"
+      ],
+      "prompt": "Precise edit of supplied illustration: remove the calculator completely from foreground right of the wooden table and reconstruct the wooden surface naturally. Preserve every person, expressions, hair, wardrobe, hands, wallet, tray of envelopes, blank calendar grid, red notebook, camera and lighting exactly. Do not change anatomy or add props. Landscape16:9, no text, digits, logos or watermark.",
+      "source": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-5cb97339-d169-4f6a-a77c-025417462101.png",
+      "target": "D:/Repo/bac-sau-so-sach/videos/09-mua-nha-hay-thue/anh/canh-08-v2.png",
+      "mode": "built-in-image_gen",
+      "manualReviewed": true,
+      "replaces": "canh-08.png",
+      "editInputPreservedAt": "D:\\Repo\\bac-sau-so-sach\\videos\\09-mua-nha-hay-thue\\anh\\nhap\\canh-08.png",
+      "selected": true,
+      "sha256": "9e3396e91af0ab2db3dd326189c09c1034968733bf8f047df7a36b9b9db82669",
+      "size": [
+        1671,
+        941
+      ]
+    },
+    {
+      "id": "canh-09",
+      "image": "canh-09.png",
+      "prompt": "Flat 2D cartoon, thick outlines, warm colors, 16:9. Hieu and Thao seated side by side examining two completely blank paper folders at their modest living room table; a small closed suitcase and potted plant near the door, simple keys on table. Balanced wide shot with clear hands and intact clothing. No readable text, tiny marks, digits, logos or watermark. Production invariants: match supplied character identities exactly. Bac Sau elderly beige plaid shirt rectangular glasses, blue pen behind ear and red notebook; Hieu olive polo/short black hair; Thao terracotta cardigan/ivory blouse/long navy skirt/shoulder-length black hair. Only include the people specified by the scene, no extra people. Every person exactly two arms, natural wrists and hands, no fused fingers, correct clothing front and back. No employee badges, text on papers, numerals on props, logos, or counterfeit writing. The scene fills a full landscape16:9 frame. Any calculator keys are entirely blank.",
+      "refs": [
+        "assets/nhan-vat/hieu-thao.png"
+      ],
+      "source": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-dbb12e39-8185-496b-a0eb-ecc5b38a1edc.png",
+      "target": "D:/Repo/bac-sau-so-sach/videos/09-mua-nha-hay-thue/anh/canh-09.png",
+      "mode": "built-in-image_gen",
+      "manualReviewed": false,
+      "selected": false,
+      "draftPath": "D:\\Repo\\bac-sau-so-sach\\videos\\09-mua-nha-hay-thue\\anh\\nhap\\canh-09.png",
+      "reasonRejected": "Extra elderly character without required reference in scenes04/05/09; calculator key glyphs in07/08."
+    },
+    {
+      "id": "canh-09",
+      "image": "canh-09-v2.png",
+      "refs": [
+        "D:/Repo/bac-sau-so-sach/assets/nhan-vat/hieu-thao.png"
+      ],
+      "prompt": "Flat2D cartoon, thick outlines, warm colors, landscape16:9. Use supplied couple identities. ONLY TWO adults Hieu(olive polo navy trousers) and Thao(terracotta cardigan ivory crewneck blouse navy long skirt), seated side by side at modest Vietnamese living room table, each holds a separate entirely blank paper folder, simple house keys on table. A closed small suitcase and potted plant near door. Balanced wide shot. Normal two arms each, distinct hands holding their own folder, natural wrists. No elderly person, no third person, no badges. All paper entirely blank with no tiny writing, no text, digits, logos or watermark.",
+      "source": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-0e1a067a-9581-42e5-98fd-1cd8bccf9635.png",
+      "target": "D:/Repo/bac-sau-so-sach/videos/09-mua-nha-hay-thue/anh/canh-09-v2.png",
+      "mode": "built-in-image_gen",
+      "manualReviewed": true,
+      "replaces": "canh-09.png",
+      "selected": true,
+      "sha256": "30b7d47cf30d7ad19746ec36aea1b2ac9e76a7703cb73ec7e95095b363b4a2f0",
+      "size": [
+        1672,
+        941
+      ]
+    },
+    {
+      "id": "canh-10",
+      "image": "canh-10.png",
+      "prompt": "Flat 2D cartoon, thick outlines, warm colors, 16:9. [Reference: Bác Sáu character sheet] Bac Sau, Hieu and Thao calmly enjoying tea around a modest wooden table, plain house keys beside a closed red notebook. Characters and hands in upper three quarters, clean cream lower quarter for native quote later. Warm hopeful light, all faces unobscured. No readable text, digits, logos, ID cards or watermark. Production invariants: match supplied character identities exactly. Bac Sau elderly beige plaid shirt rectangular glasses, blue pen behind ear and red notebook; Hieu olive polo/short black hair; Thao terracotta cardigan/ivory blouse/long navy skirt/shoulder-length black hair. Only include the people specified by the scene, no extra people. Every person exactly two arms, natural wrists and hands, no fused fingers, correct clothing front and back. No employee badges, text on papers, numerals on props, logos, or counterfeit writing. The scene fills a full landscape16:9 frame. Any calculator keys are entirely blank.",
+      "refs": [
+        "assets/nhan-vat/bang-nhan-vat.png",
+        "assets/nhan-vat/hieu-thao.png"
+      ],
+      "source": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-cfac729d-c21f-481d-83d1-067672433388.png",
+      "target": "D:/Repo/bac-sau-so-sach/videos/09-mua-nha-hay-thue/anh/canh-10.png",
+      "mode": "built-in-image_gen",
+      "manualReviewed": true,
+      "selected": true,
+      "sha256": "df6f21b89c8c38fec499ced68469ce05317bb39b647663ef8e3a579a8d0b367e",
+      "size": [
+        1672,
+        941
+      ]
+    },
+    {
+      "id": "thumbnail",
+      "image": "thumbnail.png",
+      "prompt": "Flat 2D cartoon, thick outlines, warm colors, 16:9. Reference Bác Sáu and Hieu-Thao character sheets. Bac Sau calmly compares two wooden trays, a plain little house model and simple keys, with the young couple listening. Group on right half, uncluttered dark teal left half for native title later. No readable text, symbols, digits, labels, logos or watermarks. Correct hands, no ID cards. Keep left half dark teal, no native text yet. All clothing and anatomy correct; faces large and clear. No calculator digits, writing, label symbols or badges.",
+      "refs": [
+        "assets/nhan-vat/bang-nhan-vat.png",
+        "assets/nhan-vat/hieu-thao.png"
+      ],
+      "source": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-c6778806-2280-47fd-ba88-2d72e9490241.png",
+      "target": "D:/Repo/bac-sau-so-sach/videos/09-mua-nha-hay-thue/anh/thumbnail.png",
+      "mode": "built-in-image_gen",
+      "manualReviewed": true,
+      "selected": true,
+      "sha256": "18e1cc002475359f5fbd940a6d634c6174594ebc128fc905bf8040c44ed52a9a",
+      "size": [
+        1672,
+        941
+      ]
+    }
+  ],
+  "selectedImageCount": 11,
+  "selectedPngDecodedIncludingCharacter": 12,
+  "rejectedDrafts": 5,
+  "manualReviewed": true,
+  "productionImagesAreNotFullShotSet": true
+}

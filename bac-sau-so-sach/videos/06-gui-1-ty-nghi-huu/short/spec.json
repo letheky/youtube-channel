@@ -1,0 +1,31 @@
+{
+  "gap": 0.25,
+  "tail": 2,
+  "segments": [
+    {
+      "scene": 1,
+      "from": 0,
+      "to": 14
+    },
+    {
+      "scene": 5,
+      "from": 8,
+      "to": 35
+    },
+    {
+      "scene": 5,
+      "from": 36,
+      "to": 70
+    },
+    {
+      "scene": 5,
+      "from": 71,
+      "to": 113
+    },
+    {
+      "scene": 10,
+      "from": 224,
+      "to": 233
+    }
+  ]
+}

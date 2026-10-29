@@ -1,0 +1,178 @@
+{
+  "created_on": "2026-10-29",
+  "timezone": "Asia/Saigon",
+  "version": 1,
+  "creator": "Codex procedural synthesis for Dau Vet Thoi Dai",
+  "source_code": "scripts/build_brand_audio.py",
+  "third_party_audio": false,
+  "youtube_audio_library_candidate_used": false,
+  "status": "Technically checked preview; listening QA pending",
+  "cues": [
+    {
+      "cue": "intro",
+      "duration_seconds": 3.2,
+      "composition": "Original additive synthesis; D-centred glass motif; no external samples",
+      "notes": [
+        {
+          "onset_seconds": 0.1,
+          "midi": 62,
+          "gain": 0.15,
+          "pan": -0.15
+        },
+        {
+          "onset_seconds": 0.48,
+          "midi": 69,
+          "gain": 0.12,
+          "pan": 0.2
+        },
+        {
+          "onset_seconds": 0.86,
+          "midi": 74,
+          "gain": 0.11,
+          "pan": -0.1
+        },
+        {
+          "onset_seconds": 1.24,
+          "midi": 76,
+          "gain": 0.065,
+          "pan": 0.15
+        },
+        {
+          "onset_seconds": 1.7,
+          "midi": 74,
+          "gain": 0.08,
+          "pan": 0.0
+        }
+      ],
+      "audio": "assets/audio/intro-original-v1.wav",
+      "audio_sha256": "072d408b1b90b9258bc451f15539cd5e9303251a9f5fb24609691dbb37dd9743",
+      "video": "assets/motion/intro-original-audio-v1.mp4",
+      "video_sha256": "d8677b84294d5fd02cb6bc2ceb6860b0075f77e41a84b0a75240d738743c8e85",
+      "source_silent_master_sha256": "0ee7ff7922e99e55c9b2dfc9573c74a3819c016ed19f748c2e11e9d861c2e19d",
+      "final_aac_loudness": {
+        "input_i": "-20.01",
+        "input_tp": "-10.45",
+        "input_lra": "0.70",
+        "input_thresh": "-30.80",
+        "output_i": "-19.32",
+        "output_tp": "-9.98",
+        "output_lra": "0.00",
+        "output_thresh": "-30.11",
+        "normalization_type": "dynamic",
+        "target_offset": "-0.68"
+      },
+      "technical_qa": "Full video/audio decode passed; duration, stereo 48kHz, 1080p checked",
+      "listening_qa": "Pending human audition; agent has not listened"
+    },
+    {
+      "cue": "outro",
+      "duration_seconds": 12.0,
+      "composition": "Original additive synthesis; D-centred glass motif; no external samples",
+      "notes": [
+        {
+          "onset_seconds": 0.15,
+          "midi": 62,
+          "gain": 0.085,
+          "pan": -0.2
+        },
+        {
+          "onset_seconds": 0.85,
+          "midi": 65,
+          "gain": 0.085,
+          "pan": 0.2
+        },
+        {
+          "onset_seconds": 1.5499999999999998,
+          "midi": 69,
+          "gain": 0.085,
+          "pan": -0.2
+        },
+        {
+          "onset_seconds": 2.2499999999999996,
+          "midi": 76,
+          "gain": 0.085,
+          "pan": 0.2
+        },
+        {
+          "onset_seconds": 2.9499999999999997,
+          "midi": 74,
+          "gain": 0.085,
+          "pan": -0.2
+        },
+        {
+          "onset_seconds": 3.65,
+          "midi": 69,
+          "gain": 0.085,
+          "pan": 0.2
+        },
+        {
+          "onset_seconds": 4.35,
+          "midi": 65,
+          "gain": 0.085,
+          "pan": -0.2
+        },
+        {
+          "onset_seconds": 5.05,
+          "midi": 64,
+          "gain": 0.085,
+          "pan": 0.2
+        },
+        {
+          "onset_seconds": 5.75,
+          "midi": 62,
+          "gain": 0.065,
+          "pan": -0.2
+        },
+        {
+          "onset_seconds": 6.45,
+          "midi": 65,
+          "gain": 0.065,
+          "pan": 0.2
+        },
+        {
+          "onset_seconds": 7.15,
+          "midi": 69,
+          "gain": 0.065,
+          "pan": -0.2
+        },
+        {
+          "onset_seconds": 7.85,
+          "midi": 74,
+          "gain": 0.065,
+          "pan": 0.2
+        },
+        {
+          "onset_seconds": 8.549999999999999,
+          "midi": 76,
+          "gain": 0.065,
+          "pan": -0.2
+        },
+        {
+          "onset_seconds": 9.25,
+          "midi": 74,
+          "gain": 0.065,
+          "pan": 0.2
+        }
+      ],
+      "audio": "assets/audio/outro-original-v1.wav",
+      "audio_sha256": "40d6782d79af29d19357190c95306bfa87370063d5824f35fd957d401f9e07fd",
+      "video": "assets/motion/outro-original-audio-v1.mp4",
+      "video_sha256": "7d5a0be9cf3284d97aa8ba09aa588ee8d664a572d5bd568462f65d2049ec8f3f",
+      "source_silent_master_sha256": "630fc6fe32257f88f2f03c9298096f484075448216c4a318db8ed3f75f91c889",
+      "final_aac_loudness": {
+        "input_i": "-20.00",
+        "input_tp": "-9.89",
+        "input_lra": "5.60",
+        "input_thresh": "-30.24",
+        "output_i": "-20.91",
+        "output_tp": "-11.26",
+        "output_lra": "2.70",
+        "output_thresh": "-31.06",
+        "normalization_type": "dynamic",
+        "target_offset": "0.91"
+      },
+      "technical_qa": "Full video/audio decode passed; duration, stereo 48kHz, 1080p checked",
+      "listening_qa": "Pending human audition; agent has not listened"
+    }
+  ]
+}

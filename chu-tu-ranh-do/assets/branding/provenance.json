@@ -1,0 +1,32 @@
+{
+  "created_on": "2026-10-28",
+  "generation": "built-in image_gen",
+  "avatar_source": "exec-13ccd7da-cd89-40e0-ab7f-81e52585aaa5.png",
+  "banner_draft": "exec-cd56a0a1-012e-4314-aa12-38c3ca04f9fc.png",
+  "banner_selected_edit": "exec-f98e723f-9393-4617-bca9-3b6194995661.png",
+  "export": "FFmpeg Lanczos 2176x1224 centered on 2560x1440 cream background for mobile crop; no content redrawing",
+  "safe_area_checked": [
+    510,
+    509,
+    1540,
+    422
+  ],
+  "assets": [
+    {
+      "path": "avatar-chu-tu.png",
+      "sha256": "a5cc6a0581d88efec245b7cef5f585162bae3f82c1f2aa1ff4c8099a534009ca",
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "path": "banner-chu-tu-2560x1440.png",
+      "sha256": "38ed91c428f39efc68032b366db6a1de0c017645b7445a20af53a735866c85ba",
+      "size": [
+        2560,
+        1440
+      ]
+    }
+  ]
+}

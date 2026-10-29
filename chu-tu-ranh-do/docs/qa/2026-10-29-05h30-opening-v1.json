@@ -1,0 +1,260 @@
+{
+  "checked_at": "2026-10-29T05:55:06.132433+07:00",
+  "episode_slug": "01-wifi-khac-goi-mang",
+  "pre_tts_commit": "0c832ac",
+  "script_unchanged_since_00h": true,
+  "recorded_scenes": [
+    1
+  ],
+  "not_yet_recorded_scenes": [
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12
+  ],
+  "new_synthesis_requests": 8,
+  "all_original_wav_and_markers_preserved": true,
+  "source_wav_sha_matches_manifest": true,
+  "post_audio_references_original_mp3_hash": true,
+  "tts_provider": "vsp",
+  "voice": "vi-thai-son",
+  "model": "vieneu-v3-turbo",
+  "voice_long_term_approved": false,
+  "audio_duration": 30.962,
+  "words": 101,
+  "render_props_audit": {
+    "listened": false,
+    "release_ready": false,
+    "scenes": [
+      {
+        "scene": 1,
+        "audio_sha256": "23b6cfcfe23974922b7e07bec459b24ec65800b1a3d7a34b5c669d03670fc2ba",
+        "duration": 30.962,
+        "words": 101,
+        "beat_frames": [
+          0,
+          311,
+          671
+        ],
+        "cue_frames": {
+          "bedroom": 88,
+          "loading": 155
+        }
+      }
+    ]
+  },
+  "video": {
+    "probe": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 1920,
+          "height": 1080,
+          "r_frame_rate": "30/1",
+          "side_data_list": [
+            {}
+          ]
+        },
+        {
+          "codec_name": "aac",
+          "codec_type": "audio",
+          "sample_rate": "48000",
+          "channels": 2,
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "31.000000",
+        "size": "3542223"
+      }
+    },
+    "integrated_lufs": -16.0,
+    "true_peak_dbfs": -2.5,
+    "decode": "pass",
+    "sampled_frames": [
+      0,
+      49,
+      88,
+      98,
+      147,
+      155,
+      195,
+      244,
+      293,
+      310,
+      311,
+      342,
+      391,
+      440,
+      488,
+      537,
+      586,
+      635,
+      670,
+      671,
+      684,
+      733,
+      781,
+      830,
+      879,
+      928
+    ],
+    "frames_folder": "remotion/out/opening-qa-v4",
+    "listened": false,
+    "release_ready": false
+  },
+  "visual_review": {
+    "design_stills_reviewed": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "design_folder": "remotion/out/designs-v2",
+    "mp4_frames_reviewed": [
+      0,
+      49,
+      88,
+      98,
+      147,
+      155,
+      195,
+      244,
+      293,
+      310,
+      311,
+      342,
+      391,
+      440,
+      488,
+      537,
+      586,
+      635,
+      670,
+      671,
+      684,
+      733,
+      781,
+      830,
+      879,
+      928
+    ],
+    "contact_sheets": [
+      "remotion/out/opening-qa-v4/sheet-1.png",
+      "remotion/out/opening-qa-v4/sheet-2.png",
+      "remotion/out/opening-qa-v4/sheet-3.png"
+    ],
+    "full_size_spotchecks": [
+      88,
+      311,
+      671,
+      928
+    ],
+    "result": "No clipped body/text in accepted sample; focus switches on anchored words and diagram starts at frame671. Final subcaption interval29.333–30.889s verified in props; final blank frame is after speech."
+  },
+  "normalization": "two-pass loudnorm to separate v4; original scene audio unchanged",
+  "thumbnails": [
+    {
+      "variant": "A",
+      "path": "remotion/out/wifi-thumbnail-A-v2.png",
+      "width": 1280,
+      "height": 720,
+      "bytes": 294530,
+      "sha256": "1fcddbb7e4426198f490de7c880a573a655e885da3f0aa52c819045c20bca60e",
+      "visual_review": "accepted: Vietnamese glyphs, face, router and text clear; no measured-number claim"
+    },
+    {
+      "variant": "B",
+      "path": "remotion/out/wifi-thumbnail-B-v2.png",
+      "width": 1280,
+      "height": 720,
+      "bytes": 254773,
+      "sha256": "3075c1eb0d7b6235c29fc6cf5eb8bc554980bc533d9e472b8befc26d1184f8bc",
+      "visual_review": "accepted: Vietnamese glyphs, face, router and text clear; no measured-number claim"
+    }
+  ],
+  "description_characters": 201,
+  "independent_asr": {
+    "report": "remotion/out/scene1-independent-asr.json",
+    "differences": [
+      {
+        "kind": "replace",
+        "expected": "lành vô",
+        "recognized": "lạnh bộ"
+      },
+      {
+        "kind": "replace",
+        "expected": "mới",
+        "recognized": "mời"
+      },
+      {
+        "kind": "replace",
+        "expected": "nhưng",
+        "recognized": "yên"
+      },
+      {
+        "kind": "replace",
+        "expected": "cước",
+        "recognized": "cực"
+      },
+      {
+        "kind": "replace",
+        "expected": "sóng",
+        "recognized": "sống"
+      },
+      {
+        "kind": "replace",
+        "expected": "sóng",
+        "recognized": "sống"
+      },
+      {
+        "kind": "replace",
+        "expected": "tư",
+        "recognized": "tôi"
+      },
+      {
+        "kind": "replace",
+        "expected": "tách từng chặng",
+        "recognized": "tất cảnh chặn"
+      }
+    ],
+    "is_listening": false,
+    "requires_listening": true,
+    "interpretation": "Possible ASR/dialect or synthesis differences; not proof of incorrect speech. Do not resynthesize automatically."
+  },
+  "listened": false,
+  "listening_review_needed": "Listen to all31s, especially cước/sóng around10–18s and Tư/tách từng chặng around22–25s. Check joins and naturalness.",
+  "release_ready": false,
+  "uploaded": false,
+  "scheduled": false,
+  "sha256": {
+    "kich-ban/01-wifi-khac-goi-mang.md": "0549de6b2f86ad28d6ec7d77388367cb86ca8e9e719a0b4cdc480984b7056df5",
+    "assets/episodes/01-wifi/character-sheet-v1.png": "f0af3121b44bf3e862b5da84f967832c8093bc8567a085eb097e557dd3d1f664",
+    "assets/episodes/01-wifi/apartment-v1.png": "9c341f5be9bf44335137956dad4008aaf1e224087fd765d6df0add3cdba6716f",
+    "videos/01-wifi-khac-goi-mang/giong/canh-01.goc.wav": "da0e05e7b48e383f7aed09b2da062edaf0167742cc73c73811f6775a6de51b1f",
+    "videos/01-wifi-khac-goi-mang/giong/canh-01.goc.mp3": "7db339d3f273172418c19f687f038bfe34c67bd51b3fc61e7f62d4f3afa9a388",
+    "videos/01-wifi-khac-goi-mang/giong/canh-01.goc.json": "3aef376bb54ee1b913d7321d6a658790fc9667904b2ee9d94273645517bd19e2",
+    "videos/01-wifi-khac-goi-mang/giong/canh-01.mp3": "23b6cfcfe23974922b7e07bec459b24ec65800b1a3d7a34b5c669d03670fc2ba",
+    "videos/01-wifi-khac-goi-mang/giong/canh-01.json": "47ea8ba49dd57e0c9a7ffde6e3878c848abd24969b37998ff61f696ddc8dcfb3",
+    "remotion/out/wifi-opening-review-v4.mp4": "788b1d19b5f380fce5ab6dbf4c292a9a028f2ca92dd66da676ef19f418c78339",
+    "remotion/out/wifi-review-scenes-1.json": "9294d6600c67117c52cfcea698f1e9b289bfa022c8fc05fb76150e4ca2febe8a"
+  }
+}

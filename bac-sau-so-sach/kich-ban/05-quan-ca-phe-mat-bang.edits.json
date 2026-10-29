@@ -1,0 +1,43 @@
+[
+  {
+    "image": "anh/canh-01.png",
+    "reason": "QA phát hiện hai bút cạnh đầu Bác Sáu; chỉ giữ một bút sau tai.",
+    "prompt": "Edit only this existing illustration. Bac Sau accidentally has two blue pens near his head. Remove the extra upright blue pen on the VIEWER-LEFT side of the elderly man's head, above the left lens of his glasses near the center of the picture. Reconstruct the small background/hair area naturally. Keep exactly one blue pen behind his VIEWER-RIGHT ear. Preserve all faces, body poses, hands, clothing, notebooks, key, table, cafe background, lighting, style, framing and aspect ratio exactly. Add no letters, numbers or text.",
+    "source": "exec-5efc6ae7-62eb-476a-8d06-7753121e2939.png",
+    "result": "exec-4e0139a0-1ddf-4de8-89b1-159914c99f42.png",
+    "review": "Đã xem riêng ảnh kết quả, đúng một bút, tay và trang phục giữ nguyên. Copy vào ảnh cảnh trước render thử."
+  },
+  {
+    "image": "assets/nhan-vat/co-bay.png",
+    "type": "character-sheet",
+    "result": "exec-3a1874a0-ca37-43da-8370-8af35e87559f.png",
+    "brief": "Nữ Việt Nam 48 tuổi, mặt tròn da ngăm vừa, bob nâu gợn ngắn, không kính; áo sage trơn ngắn tay, tạp dề eo vàng đất buộc sau lưng, quần nâu đậm, giày đen; sổ tím mận/chìa khóa không chữ. Hai dáng toàn thân và bốn biểu cảm. Tham chiếu bang-nhan-vat.png chỉ để khớp phong cách, không đổi thành nam Bác Sáu.",
+    "review": "Đã xem và chấp nhận, dùng làm ref cho mọi ảnh có cô Bảy."
+  },
+  {
+    "type": "audit-normalization",
+    "image": "anh/shots/*.png",
+    "note": "Sau tạo ảnh, thêm hai câu No readable text. No text, letters, numbers, logos or watermarks. vào cuối prompt để bộ audit nhận đúng hậu tố bắt buộc. Prompt gốc đã cấm chữ/số/logo/watermark và kết thúc bằng No writing-like squiggles, letters, numbers, logos, watermarks, signatures or readable text. Bỏ cả hai câu hậu tố vừa thêm sẽ khôi phục đúng prompt đã gọi. Rút 15 keyword dài xuống 2–5 chữ; không đổi lời đọc, ranh giới hoặc ảnh."
+  },
+  {
+    "image": "anh/shots/canh-03-03.png",
+    "reason": "Sửa ảnh sai mô hình hoặc nhân vật thừa sau QA toàn bộ bộ ảnh.",
+    "prompt": "Use case: precise-object-edit. Edit the existing illustration. Replace the miniature temple held in Bac Sau's left hand with a miniature contemporary Vietnamese cafe storefront, with a flat green awning, glass window and tiny coffee cup silhouette, no signage. Also replace the temple ornament on the back right shelf with a small plain potted plant. Replace the temple in the framed background picture with a simple cafe street scene without signage. Keep the elderly man's identity, rectangular glasses, single blue pen, beige checked shirt, hands, coin pouch, red ledger, lighting and framing. Calculator keys blank. No text, letters, numbers, logos or watermarks.",
+    "result": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-8c784ba8-deaa-4520-a99f-ed620c394214.png",
+    "review": "Đã xem riêng ảnh sửa, đúng chủ thể, tay, không chữ; chấp nhận trước render cuối."
+  },
+  {
+    "image": "anh/shots/canh-10-05.png",
+    "reason": "Sửa ảnh sai mô hình hoặc nhân vật thừa sau QA toàn bộ bộ ảnh.",
+    "prompt": "Use case: precise-object-edit. Edit this existing cafe illustration. Remove the young male employee completely, including his body and arms, reconstructing the cafe chairs and table naturally. Exactly one person remains: Bac Sau in beige checked shirt with rectangular glasses and one blue pen behind ear, holding the red folder. Keep the two other plain folders on the table, calculator, cups, cafe setting, lighting, colors and framing. Preserve Bac Sau's anatomy and identity. No other people. No text, letters, numbers, logos or watermarks.",
+    "result": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-5c53134b-daec-4ade-997b-aa03a5f209a5.png",
+    "review": "Đã xem riêng ảnh sửa, đúng chủ thể, tay, không chữ; chấp nhận trước render cuối."
+  },
+  {
+    "image": "anh/shots/canh-10-08.png",
+    "reason": "Sửa ảnh sai mô hình hoặc nhân vật thừa sau QA toàn bộ bộ ảnh.",
+    "prompt": "Use case: precise-object-edit. Edit this cafe illustration. Remove the duplicate woman at the back left holding the empty tray, including her body, tray and legs, reconstruct the empty cafe floor, tables and chairs naturally. Exactly ONE woman remains: the smiling foreground woman in sage green shirt counting coins. Preserve her face, hands, coins, purple ledger, calculator, background, lighting and framing. No other people. No text, letters, numbers, logos or watermarks.",
+    "result": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a144d5-caf8-7920-b0ee-6f43058e7f93\\exec-bb7f7c92-7320-4ae6-94e8-fcf1c3acedd2.png",
+    "review": "Đã xem riêng ảnh sửa, đúng chủ thể, tay, không chữ; chấp nhận trước render cuối."
+  }
+]

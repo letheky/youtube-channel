@@ -1,0 +1,235 @@
+{
+  "text": "Chào bà con, Tư đây. Trong nhà mình, có món xài mỗi ngày mà chưa chắc mình đã hiểu nó.\n\nKhoan vội mua thêm đồ mới. Bữa nay, Tư cùng bà con coi từng chuyện một, nói cho dễ hiểu, rồi hãy quyết định nghen.",
+  "duration": 14.807,
+  "speed": 0.9,
+  "pause": 0.7,
+  "words": [
+    {
+      "word": "Chào",
+      "start": 0.0,
+      "end": 0.111
+    },
+    {
+      "word": "bà",
+      "start": 0.111,
+      "end": 0.378
+    },
+    {
+      "word": "con,",
+      "start": 0.378,
+      "end": 1.0
+    },
+    {
+      "word": "Tư",
+      "start": 1.0,
+      "end": 1.244
+    },
+    {
+      "word": "đây.",
+      "start": 1.244,
+      "end": 1.667
+    },
+    {
+      "word": "Trong",
+      "start": 1.778,
+      "end": 2.0
+    },
+    {
+      "word": "nhà",
+      "start": 2.0,
+      "end": 2.2
+    },
+    {
+      "word": "mình,",
+      "start": 2.2,
+      "end": 2.778
+    },
+    {
+      "word": "có",
+      "start": 2.778,
+      "end": 2.978
+    },
+    {
+      "word": "món",
+      "start": 2.978,
+      "end": 3.133
+    },
+    {
+      "word": "xài",
+      "start": 3.133,
+      "end": 3.511
+    },
+    {
+      "word": "mỗi",
+      "start": 3.511,
+      "end": 3.733
+    },
+    {
+      "word": "ngày",
+      "start": 3.733,
+      "end": 3.956
+    },
+    {
+      "word": "mà",
+      "start": 3.956,
+      "end": 4.556
+    },
+    {
+      "word": "chưa",
+      "start": 4.556,
+      "end": 4.8
+    },
+    {
+      "word": "chắc",
+      "start": 4.8,
+      "end": 5.067
+    },
+    {
+      "word": "mình",
+      "start": 5.067,
+      "end": 5.289
+    },
+    {
+      "word": "đã",
+      "start": 5.289,
+      "end": 5.578
+    },
+    {
+      "word": "hiểu",
+      "start": 5.578,
+      "end": 5.867
+    },
+    {
+      "word": "nó.",
+      "start": 5.867,
+      "end": 6.244
+    },
+    {
+      "word": "Khoan",
+      "start": 7.178,
+      "end": 7.467
+    },
+    {
+      "word": "vội",
+      "start": 7.467,
+      "end": 7.689
+    },
+    {
+      "word": "mua",
+      "start": 7.689,
+      "end": 8.044
+    },
+    {
+      "word": "thêm",
+      "start": 8.044,
+      "end": 8.244
+    },
+    {
+      "word": "đồ",
+      "start": 8.244,
+      "end": 8.467
+    },
+    {
+      "word": "mới.",
+      "start": 8.467,
+      "end": 8.911
+    },
+    {
+      "word": "Bữa",
+      "start": 9.044,
+      "end": 9.289
+    },
+    {
+      "word": "nay,",
+      "start": 9.289,
+      "end": 9.889
+    },
+    {
+      "word": "Tư",
+      "start": 9.889,
+      "end": 10.133
+    },
+    {
+      "word": "cùng",
+      "start": 10.133,
+      "end": 10.356
+    },
+    {
+      "word": "bà",
+      "start": 10.356,
+      "end": 10.578
+    },
+    {
+      "word": "con",
+      "start": 10.578,
+      "end": 10.8
+    },
+    {
+      "word": "coi",
+      "start": 10.8,
+      "end": 11.111
+    },
+    {
+      "word": "từng",
+      "start": 11.111,
+      "end": 11.289
+    },
+    {
+      "word": "chuyện",
+      "start": 11.289,
+      "end": 11.622
+    },
+    {
+      "word": "một,",
+      "start": 11.622,
+      "end": 12.178
+    },
+    {
+      "word": "nói",
+      "start": 12.178,
+      "end": 12.333
+    },
+    {
+      "word": "cho",
+      "start": 12.333,
+      "end": 12.556
+    },
+    {
+      "word": "dễ",
+      "start": 12.556,
+      "end": 12.8
+    },
+    {
+      "word": "hiểu,",
+      "start": 12.8,
+      "end": 13.378
+    },
+    {
+      "word": "rồi",
+      "start": 13.378,
+      "end": 13.667
+    },
+    {
+      "word": "hãy",
+      "start": 13.667,
+      "end": 13.911
+    },
+    {
+      "word": "quyết",
+      "start": 13.911,
+      "end": 14.111
+    },
+    {
+      "word": "định",
+      "start": 14.111,
+      "end": 14.356
+    },
+    {
+      "word": "nghen.",
+      "start": 14.356,
+      "end": 14.733
+    }
+  ],
+  "provider": "vsp",
+  "source_sha256": "d6d30e27a51bce1844b78f18301f2928201bf4f024db6fc25f3e84b4261a2965"
+}

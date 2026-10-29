@@ -1,0 +1,134 @@
+{
+  "checkedOn": "2026-10-26",
+  "allCommercialInputsHypothetical": true,
+  "rounding": "Decimal50; no intermediate rounding; money HALF_UP to VND; spoken amounts use approximately where rounded",
+  "jobs": [
+    {
+      "name": "nhanh",
+      "count": "10",
+      "price": "50000",
+      "parts": "20000",
+      "minutes": "12"
+    },
+    {
+      "name": "vua",
+      "count": "6",
+      "price": "140000",
+      "parts": "85000",
+      "minutes": "30"
+    },
+    {
+      "name": "lau",
+      "count": "2",
+      "price": "320000",
+      "parts": "190000",
+      "minutes": "60"
+    }
+  ],
+  "daily": {
+    "revenue": "1980000",
+    "parts": "1090000",
+    "repairMinutes": "420",
+    "gross": "890000"
+  },
+  "overheadPaidMonthly": {
+    "rent": "4500000",
+    "utilities": "700000",
+    "consumables": "450000",
+    "warrantyParts": "350000",
+    "cleaningWaste": "200000"
+  },
+  "ownerInsurancePaidMonthly": "1200000",
+  "insuranceNotStatutoryFormula": true,
+  "equipment": {
+    "originalCost": "60000000",
+    "months": "60",
+    "assumedResidual": "0"
+  },
+  "capacity": {
+    "repairMinutes": "420",
+    "warrantyMinutes": "30",
+    "adminProcurementMinutes": "60",
+    "waitingMinutes": "60",
+    "restMinutes": "30",
+    "totalMinutes": "600",
+    "expanded24RepairMinutes": "560",
+    "expanded24TotalMinutes": "740"
+  },
+  "baseMonth": {
+    "days": "26",
+    "tickets": "468",
+    "hours": "260",
+    "revenue": "51480000",
+    "partsConsumed": "28340000",
+    "gross": "23140000",
+    "shopCashBeforeOwnerInsurance": "16940000",
+    "ownerCashBeforeEquipmentReserve": "15740000",
+    "equipmentReserve": "1000000",
+    "ownerSpendableAfterReserve": "14740000",
+    "hourlyOwnerAfterReserve": "56692.307692307692307692307692307692307692307692308"
+  },
+  "closedSixDaysMonth": {
+    "days": "20",
+    "tickets": "360",
+    "hours": "200",
+    "revenue": "39600000",
+    "partsConsumed": "21800000",
+    "gross": "17800000",
+    "shopCashBeforeOwnerInsurance": "11600000",
+    "ownerCashBeforeEquipmentReserve": "10400000",
+    "equipmentReserve": "1000000",
+    "ownerSpendableAfterReserve": "9400000",
+    "hourlyOwnerAfterReserve": "47000"
+  },
+  "annual10Base2ClosedMonths": {
+    "days": "300",
+    "tickets": "5400",
+    "hours": "3000",
+    "revenue": "594000000",
+    "partsConsumed": "327000000",
+    "gross": "267000000",
+    "ownerCashBeforeEquipmentReserve": "178200000",
+    "equipmentReserve": "12000000",
+    "ownerSpendableAfterReserve": "166200000",
+    "meanMonthlySpendable": "13850000",
+    "hourlySpendable": "55400"
+  },
+  "officeHypothesis": {
+    "takeHome": "15000000",
+    "days": "22",
+    "hoursPerDay": "8",
+    "hours": "176",
+    "hourly": "85227.272727272727272727272727272727272727272727273"
+  },
+  "inventoryGrowthMonth": {
+    "opening": "30000000",
+    "closing": "38000000",
+    "increase": "8000000",
+    "purchasesPaid": "36340000",
+    "ownerCashBeforeReserve": "7740000",
+    "ownerCashAfterReserve": "6740000"
+  },
+  "largeJobHypothesis": {
+    "price": "600000",
+    "parts": "480000",
+    "minutes": "180",
+    "gross": "120000",
+    "hourlyGross": "40000"
+  },
+  "quickJobsSame180Minutes": {
+    "count": "15",
+    "gross": "450000",
+    "hourlyGross": "150000"
+  },
+  "comparisons": {
+    "monthlyCashMinusOffice": "740000",
+    "monthlyAfterReserveMinusOffice": "-260000",
+    "extraPresenceHours": "84",
+    "hourlyRatio": "0.66518974358974358974358974358974358974358974358975",
+    "lostShopGrossSixClosedDays": "5340000",
+    "baseAnnualRevenue": "617760000",
+    "annualOfficeTakeHome": "180000000"
+  },
+  "taxScope": "VAT/PIT business income only; assumed one registered shop, no other business revenue, both annual scenarios below1bn; no above-threshold tax estimate; no taxes/fees on other activities modeled"
+}

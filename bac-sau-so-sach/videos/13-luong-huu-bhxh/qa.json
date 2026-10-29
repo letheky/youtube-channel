@@ -1,0 +1,210 @@
+{
+  "video": "13-luong-huu-bhxh",
+  "status": "scheduled_qa_complete",
+  "qaCompletedAt": "2026-10-28T08:45:43.461236+00:00",
+  "qaCompletedBeforeDeadlineVN": true,
+  "uploadStatus": "long_and_short_scheduled_private_api_verified",
+  "permission": {
+    "commit": "06c120c",
+    "expiresVN": "2026-11-04T23:59:59+07:00",
+    "longTargetVN": "2026-10-29T18:00:00+07:00",
+    "shortTargetVN": "2026-10-30T11:30:00+07:00"
+  },
+  "voice": {
+    "scriptCommit": "17c925a",
+    "step4Commit": "bde0931",
+    "ttsPasses": 1,
+    "retakes": 0,
+    "creditUsed": 4153,
+    "creditRemaining": 62628,
+    "lockedSourceFiles": 34,
+    "protectedTotalFiles": 320,
+    "sourceHashFile": "D:\\CodexTemp\\bac-sau-video13\\work\\video-13-source-hashes.json",
+    "sourceHashesUnchanged": true,
+    "runtimeCannotListenByEar": true,
+    "asrIsNotEarListening": true
+  },
+  "visual": {
+    "passed": true,
+    "reviewedAt": "2026-10-28T08:45:41.137480+00:00",
+    "longSha256": "01b9cac0082a5f37a7b914e8952877b6e012dbbc18eedb55f14923aa2f1615eb",
+    "shortSha256": "c3803a7e15199bcc36c4c7f28c228f5e7fd68635b4c82a7c8688084790bb7001",
+    "encodedLongFramesReviewed": 42,
+    "encodedContactPagesReviewed": 7,
+    "shortFramesReviewed": 8,
+    "previewEncodedFramesReviewed": 6,
+    "nativeStillFramesReviewed": 42,
+    "overlayPanelsReviewed": 22,
+    "allScenesLedgersVisibleKeywordsQuoteCtaOutroReviewed": true,
+    "crossfadeAndRandomFramesReviewed": true,
+    "noTextSubtitleFaceOverlapFound": true,
+    "numbersAssumptionLabelsLegalExceptionsPassed": true,
+    "selectedImagesPreviouslyReviewed": 126,
+    "actualMp4Evidence": "D:\\CodexTemp\\bac-sau-video13\\outputs\\video-13-qa\\encoded-final\\frames.json",
+    "contactPages": "D:\\CodexTemp\\bac-sau-video13\\outputs\\video-13-qa\\encoded-contact",
+    "runtimeCannotListenByEar": true,
+    "asrIsNotListeningByEar": true,
+    "sourceAsr": "small all8scenes, large-v3 difficult numeral passages; final Short AAC large-v3 matches hash",
+    "retakes": 0
+  },
+  "assets": {
+    "shots": 125,
+    "differentShotImages": 125,
+    "selectedPngDecoded": 126,
+    "baseImages": 9,
+    "newShotImages": 117,
+    "manualReviewComplete": true,
+    "imagesComplete": true,
+    "protectedSourcesUnchanged": 320,
+    "newShotImagesSaved": 117,
+    "newShotImagesRemaining": 0,
+    "newShotImagesReviewed": 117,
+    "plannedShots": 125,
+    "selectedPngExpected": 126,
+    "identityFixes": {
+      "canh-01-06": "anh/shots/canh-01-06-v2.png",
+      "canh-02-06": "anh/shots/canh-02-06-v2.png",
+      "canh-02-09": "anh/shots/canh-02-09-v2.png",
+      "canh-02-14": "anh/shots/canh-02-14-v2.png",
+      "canh-03-06": "anh/shots/canh-03-06-v2.png",
+      "canh-03-09": "anh/shots/canh-03-09-v2.png",
+      "canh-04-06": "anh/shots/canh-04-06-v2.png",
+      "canh-04-09": "anh/shots/canh-04-09-v2.png"
+    },
+    "assetAudit": "D:\\CodexTemp\\bac-sau-video13\\outputs\\video-13-qa\\asset-check.json",
+    "helmetFixes": {
+      "canh-07-10": "anh/shots/canh-07-10-v2.png",
+      "canh-07-12": "anh/shots/canh-07-12-v2.png",
+      "canh-08-02": "anh/shots/canh-08-02-v2.png",
+      "canh-08-04": "anh/shots/canh-08-04-v2.png",
+      "canh-08-05": "anh/shots/canh-08-05-v2.png",
+      "canh-08-08": "anh/shots/canh-08-08-v2.png"
+    },
+    "detailAndObjectFixes": {
+      "canh-02-11": "canh-02-11-v3",
+      "canh-02-13": "canh-02-13-v3",
+      "canh-03-13": "canh-03-13-v3",
+      "canh-05-13": "canh-05-13-v3",
+      "canh-08-02": "canh-08-02-v4",
+      "base-01": "base-01-v3",
+      "base-02": "base-02-v3",
+      "base-08": "base-08-v3"
+    }
+  },
+  "streamDecode": {
+    "passed": true,
+    "longAndShortFullVideoAndAudio": true,
+    "errors": [],
+    "evidence": "D:\\CodexTemp\\bac-sau-video13\\outputs\\video-13-qa\\stream-decode-check.json"
+  },
+  "renderInputs": {
+    "count": 187,
+    "allHashesUnchanged": true,
+    "evidence": "D:\\CodexTemp\\bac-sau-video13\\work\\final-render-input-hashes.json"
+  },
+  "thumbnail": {
+    "file": "D:\\Repo\\bac-sau-so-sach\\videos\\13-luong-huu-bhxh\\thumbnail-final.jpg",
+    "sha256": "fbc46e53a076370dc48d82d5d3d02d9cd614de00e9317c98eb7e6279cbacdf34",
+    "width": 1280,
+    "height": 720,
+    "visuallyReviewed": true,
+    "selectedVersion": "v1"
+  },
+  "metadata": {
+    "longChapters": 8,
+    "longDescriptionCharacters": 973,
+    "spacingManuallyReviewed": true,
+    "shortNeedsRealLongUrl": false,
+    "longUrlInShortBeforeUpload": "https://youtu.be/q9VXq-zeXY0",
+    "apiExact": true
+  },
+  "productionCheckpoint": {
+    "imageWorkerStopped": true,
+    "imageWorkerCompleted": true,
+    "activeWorkerCell": null,
+    "noBackgroundGenerationClaim": true,
+    "renderCompleted": true,
+    "dailyAutomationUpdatedAt": "2026-10-28T09:15:02.438596+00:00",
+    "dailyAutomationId": "c-p-nh-t-v-l-m-video-4-l-c-10h",
+    "dailySchedulePreserved": true,
+    "noDuplicateAutomationCreated": true,
+    "related11DailyCheckVN": "2026-10-29T10:00:00+07:00",
+    "related13DailyCheckVN": "2026-10-30T10:00:00+07:00"
+  },
+  "studio": {
+    "status": "end_screen_ai_confirmed_related_waits_long_public",
+    "windowId": 66974,
+    "endScreen": {
+      "targetVideoId": "PxqG898ad1o",
+      "subscribe": true,
+      "startTimecode": "12:52:03",
+      "endTimecode": "13:02:03",
+      "fps": 30,
+      "durationSeconds": 10,
+      "saveAndReopenConfirmed": true,
+      "checkedAt": "2026-10-28T09:05:03.728Z",
+      "evidence": "D:\\CodexTemp\\bac-sau-video13\\outputs\\studio-end-screen13.json"
+    },
+    "aiUseLong": "Yes_confirmed_UI",
+    "aiUseShort": "Yes_confirmed_UI",
+    "advancedSettingsDirtyStateUndoneNoOtherFieldsSaved": true,
+    "related": {
+      "status": "pending_long_public",
+      "shortId": "bgx3qesaD3Q",
+      "targetVideoId": "q9VXq-zeXY0",
+      "uiLastObserved": "None",
+      "longPublicTargetVN": "2026-10-29T18:00:00+07:00",
+      "nextDailyCheckVN": "2026-10-30T10:00:00+07:00",
+      "beforeShortVN": "2026-10-30T11:30:00+07:00",
+      "permissionExpiresVN": "2026-11-04T23:59:59+07:00",
+      "evidence": "D:\\CodexTemp\\bac-sau-video13\\outputs\\studio-related-pending13.json"
+    },
+    "temporaryShortTabsOpened": 0,
+    "mainStudioRetained": true,
+    "noOtherVideosChanged": true
+  },
+  "backup": {
+    "status": "complete_verified",
+    "passed": true,
+    "files": 3,
+    "evidence": "D:\\CodexTemp\\bac-sau-video13\\outputs\\backup-13.json",
+    "completedAt": "2026-10-28T08:52:48.064056+00:00"
+  },
+  "long": {
+    "file": "D:\\Repo\\bac-sau-so-sach\\videos\\13-luong-huu-bhxh\\13-luong-huu-bhxh.mp4",
+    "duration": 782.1,
+    "lufs": -16.25,
+    "dBTP": -2.01,
+    "sha256": "01b9cac0082a5f37a7b914e8952877b6e012dbbc18eedb55f14923aa2f1615eb",
+    "silences": [
+      {
+        "start": 771.117562,
+        "end": 782.1
+      }
+    ]
+  },
+  "short": {
+    "file": "D:\\Repo\\bac-sau-so-sach\\videos\\13-luong-huu-bhxh\\short\\short-13.mp4",
+    "duration": 51.6,
+    "lufs": -14.39,
+    "dBTP": -2.44,
+    "sha256": "c3803a7e15199bcc36c4c7f28c228f5e7fd68635b4c82a7c8688084790bb7001",
+    "silences": [
+      {
+        "start": 47.356437,
+        "end": 51.6
+      }
+    ]
+  },
+  "finalLocalHashesRechecked": true,
+  "apiVerification": {
+    "allReady": true,
+    "channelId": "UCb8J1ex5t19hvQx0lsbdB6A",
+    "checkedAt": "2026-10-28T09:12:38.276475+00:00",
+    "evidence": "D:\\CodexTemp\\bac-sau-video13\\outputs\\youtube13-verification.json",
+    "metadataExact": true,
+    "privateUntilSchedule": true,
+    "processingSucceededHD": true,
+    "longThumbnailAndVietnameseCaptionsServing": true
+  }
+}

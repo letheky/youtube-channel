@@ -1,0 +1,15 @@
+{
+  "timezone": "Asia/Saigon",
+  "thread_id": "01a1822b-fc56-7712-b9a9-0dd5778ef404",
+  "midnight": {
+    "id": "ch-t-s-n-xu-t-l-c-00-00",
+    "time": "00:00",
+    "status": "ACTIVE"
+  },
+  "unfinished_resume": {
+    "id": "ch-t-ti-p-vi-c-d-l-c-05-30",
+    "time": "05:30",
+    "status": "ACTIVE",
+    "only_if_unfinished": true
+  }
+}

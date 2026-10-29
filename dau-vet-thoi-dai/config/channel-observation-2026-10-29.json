@@ -1,0 +1,28 @@
+{
+  "observed_at": "2026-10-29T07:40:00+07:00",
+  "timezone": "Asia/Saigon",
+  "window_id": 3213608,
+  "browser": "Brave",
+  "public_candidate": {
+    "name": "Dấu Vết Thời Đại",
+    "handle": "@DauVetThoiDai",
+    "url": "https://www.youtube.com/@DauVetThoiDai",
+    "channel_id": "UCgk1lZuiaobS2qNtcRlwQ1w",
+    "id_observation_method": "Public About > Share channel > Copy channel ID",
+    "joined_date_shown": "2026-10-28",
+    "avatar_observed": "default purple D",
+    "content_observed": "no content",
+    "ownership_verified": false
+  },
+  "managed_channel_inventory": {
+    "account": "bacsausosach@gmail.com",
+    "surfaces_checked": ["Switch account", "View all channels / All channels"],
+    "channels_shown": ["Bác Sáu Sổ Sách / @BacSauSoSach", "Chú Tư Rành Đồ / @ChuTuRanhDo"],
+    "target_present": false
+  },
+  "studio_probe": "Direct navigation requested; Studio content did not load during observation. No successful access or explicit permission-denied result established.",
+  "project_channel_id": null,
+  "user_question_pending": "Was the public candidate created under another account, or should a different available handle be used?",
+  "external_changes_made": false,
+  "other_channel_windows_modified": false
+}

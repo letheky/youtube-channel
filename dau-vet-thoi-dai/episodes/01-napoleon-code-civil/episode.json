@@ -1,0 +1,160 @@
+{
+  "id": "01-napoleon-code-civil",
+  "version": 1,
+  "status": "editorial_pilot_not_voice_locked",
+  "checked_on": "2026-10-29",
+  "title": {
+    "vi": "Napoleon có tự viết Bộ luật Napoleon?",
+    "en": "Did Napoleon Write the Napoleonic Code?"
+  },
+  "description": {
+    "vi": "Ai viết Bộ luật Napoleon? Tìm hiểu công trình năm 1804 và giới hạn của bình đẳng trong gia đình thời ấy. Bản thử của Dấu Vết Thời Đại.",
+    "en": "Who wrote the Napoleonic Code? Explore the 1804 legal project and the limits of equality within the family. An editorial pilot from Traces of Time."
+  },
+  "central_question": "Napoleon đóng vai trò gì trong Bộ luật Dân sự và vì sao thống nhất luật không đồng nghĩa bình đẳng cho mọi người?",
+  "questions": [
+    {"id": "Q1", "vi": "Napoleon có tự viết bộ luật mang tên mình?", "answer_scenes": ["S02", "S03"]},
+    {"id": "Q2", "vi": "Một bộ luật chung có đồng nghĩa ai cũng bình đẳng?", "answer_scenes": ["S04", "S05", "S06"]}
+  ],
+  "timing_status": "storyboard_estimates_not_aligned_to_speech",
+  "tts": {"provider": "VSP", "voice_vi": null, "voice_en": null, "requested": false},
+  "sources": [
+    {
+      "id": "E01",
+      "title": "Ministère de la Justice — Bicentenaire du Code civil (2004)",
+      "url": "https://www.justice.gouv.fr/sites/default/files/migrations/presse/art_pix/conf080304.pdf",
+      "locator": "PDF pp. 5–7 (printed pp. 3–5)",
+      "short_credit": "Ministère de la Justice · 2004",
+      "verification": "full_text_read",
+      "kind": "institutional_historical_summary"
+    },
+    {
+      "id": "E02",
+      "title": "Sénat — Bicentenaire du Code civil : l'élaboration",
+      "url": "https://www.senat.fr/connaitre-le-senat/lhistoire-du-senat/dossiers-dhistoire/bicentenaire-du-code-civil/bicentenaire-du-code-civil-lelaboration.html",
+      "locator": "Commission of 1800 and law of 21 March 1804",
+      "short_credit": "Sénat · Élaboration du Code civil",
+      "verification": "search_excerpt_read_full_page_timeout",
+      "kind": "institutional_historical_summary"
+    },
+    {
+      "id": "E03",
+      "title": "Assemblée nationale — 1804–1810 : la codification juridique",
+      "url": "https://www.assemblee-nationale.fr/dyn/histoire-et-patrimoine/consulat-et-premier-empire/la-codification-juridique",
+      "locator": "Different regional legal traditions; drafting commission",
+      "short_credit": "Assemblée nationale · Codification juridique",
+      "verification": "search_excerpt_read_full_page_timeout",
+      "kind": "institutional_historical_summary"
+    },
+    {
+      "id": "E04",
+      "title": "Criminocorpus — Code civil, article 213, historical versions",
+      "url": "https://criminocorpus.org/fr/legislation/droit/versions/718/213/pdf/",
+      "locator": "Original 1804 edition, article introduced in 1803; 1938 revision",
+      "short_credit": "Code civil de 1804 · art. 213 / Criminocorpus",
+      "verification": "search_excerpt_of_primary_law_read_full_pdf_timeout",
+      "kind": "primary_historical_law_transcription"
+    },
+    {
+      "id": "E05",
+      "title": "Légifrance — Code civil, article 213, version effective 1 January 1971",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006422741/2024-05-02",
+      "locator": "Text modified by Law 70-459 of 4 June 1970; effective 1 January 1971",
+      "short_credit": "Légifrance · art. 213 · version 01/01/1971",
+      "verification": "indexed_official_text_read_date_specific_page_403",
+      "kind": "primary_law"
+    },
+    {
+      "id": "E06",
+      "title": "Info.gouv.fr — La femme mariée avait le statut de mineure…",
+      "url": "https://www.info.gouv.fr/actualite/la-femme-mariee-avait-le-statut-de-mineure-au-meme-titre-que-les-enfants",
+      "locator": "Historical context of married women's legal capacity",
+      "short_credit": "Info.gouv.fr · Histoire des droits des femmes",
+      "verification": "search_excerpt_read",
+      "kind": "institutional_interview"
+    }
+  ],
+  "scenes": [
+    {
+      "id": "S01", "role": "hook", "estimated_seconds": 23,
+      "heading": {"vi": "Một tên gọi. Hai câu hỏi.", "en": "One Name. Two Questions."},
+      "display": {"vi": ["NAPOLEON", "Có tự viết bộ luật?", "Bình đẳng cho những ai?"], "en": ["NAPOLEON", "Did he write the code?", "Equal rights for whom?"]},
+      "narration": {
+        "vi": "Một bộ luật mang tên Napoleon. Nhưng người cầm quyền có phải cũng là người tự viết từng điều luật? Và nếu một quốc gia có bộ luật chung, liệu mọi người đã bình đẳng với nhau? Hai câu hỏi ấy dẫn chúng ta từ bàn soạn thảo đến một điều khoản về hôn nhân.",
+        "en": "A legal code bears Napoleon's name. But did the ruler personally write its provisions? And does giving a country a common code mean giving everyone equal rights? Those questions take us from the drafting room to a rule about marriage."
+      },
+      "evidence": ["E01", "E04"], "answers": [], "visual_kind": "original_typography"
+    },
+    {
+      "id": "S02", "role": "body", "estimated_seconds": 26,
+      "heading": {"vi": "Một công trình tập thể", "en": "A Collective Project"},
+      "display": {"vi": ["1800 · ỦY BAN SOẠN THẢO", "Portalis · Tronchet", "Maleville · Bigot de Préameneu"], "en": ["1800 · DRAFTING COMMISSION", "Portalis · Tronchet", "Maleville · Bigot de Préameneu"]},
+      "narration": {
+        "vi": "Năm 1800, Bonaparte giao một ủy ban bốn luật gia chuẩn bị dự thảo: Portalis, Tronchet, Maleville và Bigot de Préameneu. Dự thảo còn qua tham vấn tòa án và thảo luận tại Hội đồng Nhà nước. Napoleon thúc đẩy công trình bằng quyền lực chính trị; gọi ông là tác giả duy nhất sẽ xóa mất công việc của những người soạn luật.",
+        "en": "In 1800, Bonaparte appointed four jurists to prepare a draft: Portalis, Tronchet, Maleville and Bigot de Préameneu. Courts were consulted, and the Council of State debated the text. Napoleon provided political drive. Treating him as its sole author would erase the work of its legal drafters."
+      },
+      "evidence": ["E01", "E02"], "answers": ["Q1"], "visual_kind": "original_typography"
+    },
+    {
+      "id": "S03", "role": "body", "estimated_seconds": 23,
+      "heading": {"vi": "Tên gọi đến sau", "en": "The Name Came Later"},
+      "display": {"vi": ["21.03.1804", "Code civil des Français", "1807 → Code Napoléon"], "en": ["21 MARCH 1804", "Code civil des Français", "1807 → Code Napoléon"]},
+      "narration": {
+        "vi": "Ngày 21 tháng 3 năm 1804, ba mươi sáu đạo luật được hợp thành Bộ luật Dân sự của người Pháp. Đến năm 1807, bộ luật mới mang tên Code Napoléon. Tên người cầm quyền gắn với một thành quả lớn, nhưng tên gọi không phải danh sách đầy đủ những người tạo nên nó.",
+        "en": "On 21 March 1804, thirty-six laws were brought together as the Civil Code of the French. It was renamed Code Napoléon in 1807. A ruler's name became attached to a major achievement, but a title is not a full list of its creators."
+      },
+      "evidence": ["E01", "E02"], "answers": ["Q1"], "visual_kind": "original_timeline"
+    },
+    {
+      "id": "S04", "role": "body", "estimated_seconds": 25,
+      "heading": {"vi": "Thống nhất điều gì?", "en": "What Was Unified?"},
+      "display": {"vi": ["LUẬT TƯ", "Những truyền thống địa phương", "→ Một bộ luật chung"], "en": ["PRIVATE LAW", "Different regional traditions", "→ A Common Code"]},
+      "narration": {
+        "vi": "Trước đó, nước Pháp có những vùng theo tập quán và những vùng theo luật thành văn chịu ảnh hưởng luật La Mã. Bộ luật góp phần thống nhất luật tư, lĩnh vực liên quan đến con người, tài sản và các quan hệ dân sự. Đây là thay đổi về cách tổ chức pháp luật. Nó chưa tự trả lời ai có quyền ngang ai.",
+        "en": "France had regions governed by customary law and others drawing on written law influenced by Roman law. The code unified private law: rules concerning persons, property and civil relationships. That changed how law was organised. It did not, by itself, settle who enjoyed equal rights."
+      },
+      "evidence": ["E03"], "answers": ["Q2"], "visual_kind": "original_diagram_not_geographic_map"
+    },
+    {
+      "id": "S05", "role": "body", "estimated_seconds": 26,
+      "heading": {"vi": "Ranh giới trong gia đình", "en": "A Boundary Within the Family"},
+      "display": {"vi": ["1804 · ĐIỀU 213", "Người chồng: bảo hộ", "Người vợ: phục tùng", "Diễn nghĩa điều luật lịch sử · đã được sửa đổi"], "en": ["1804 · ARTICLE 213", "Husband: protection", "Wife: obedience", "Historical provision, paraphrased · later amended"]},
+      "narration": {
+        "vi": "Điều 213 trong bản năm 1804 yêu cầu người chồng bảo hộ vợ, còn người vợ phải phục tùng chồng. Đây là sự bất đối xứng được viết thẳng vào luật. Cần nói chính xác: chúng ta đang xét địa vị của người phụ nữ có chồng trong văn bản lịch sử, không khẳng định mọi phụ nữ đều có cùng địa vị, hay điều khoản ấy còn nguyên đến nay.",
+        "en": "Article 213 in the 1804 edition required a husband to protect his wife and a wife to obey her husband. The inequality was explicit. This concerns married women's position under a historical provision. It does not mean that every woman had the same legal status, or that this wording remains in force."
+      },
+      "evidence": ["E04", "E06"], "answers": ["Q2"], "visual_kind": "original_historical_law_paraphrase"
+    },
+    {
+      "id": "S06", "role": "body", "estimated_seconds": 22,
+      "heading": {"vi": "Một di sản được sửa đổi", "en": "An Inheritance That Changed"},
+      "display": {"vi": ["01.01.1971 · PHIÊN BẢN ĐIỀU 213", "Vợ chồng cùng đảm nhiệm", "việc điều hành gia đình", "Diễn nghĩa · không phải nguyên văn năm 1804"], "en": ["1 JAN 1971 · ARTICLE 213 VERSION", "Spouses jointly direct", "the life of the family", "Paraphrase · not the 1804 wording"]},
+      "narration": {
+        "vi": "Ở phiên bản Điều 213 có hiệu lực từ đầu năm 1971, vợ chồng cùng đảm nhiệm việc điều hành tinh thần và vật chất của gia đình. Cùng một số điều, nội dung đã đổi. Vì thế, nói bộ luật có di sản lâu dài không có nghĩa mọi quy định của năm 1804 vẫn tồn tại nguyên vẹn.",
+        "en": "The version of Article 213 effective from January 1971 gives spouses joint responsibility for the family's moral and material direction. The article number survived; its substance changed. A lasting legal inheritance does not mean that every rule from 1804 survived unchanged."
+      },
+      "evidence": ["E05"], "answers": ["Q2"], "visual_kind": "original_historical_law_paraphrase"
+    },
+    {
+      "id": "S07", "role": "conclusion", "estimated_seconds": 20,
+      "heading": {"vi": "Di sản gồm cả giới hạn", "en": "A Legacy Includes Its Limits"},
+      "display": {"vi": ["THÀNH QUẢ TẬP THỂ", "THỐNG NHẤT LUẬT TƯ", "CHƯA PHẢI BÌNH ĐẲNG CHO TẤT CẢ"], "en": ["A COLLECTIVE ACHIEVEMENT", "UNIFIED PRIVATE LAW", "NOT EQUAL RIGHTS FOR EVERYONE"]},
+      "narration": {
+        "vi": "Câu trả lời là: Napoleon thúc đẩy một công trình tập thể, chứ không tự mình viết toàn bộ bộ luật. Và một bộ luật thống nhất vẫn có thể chứa những bất bình đẳng. Đánh giá di sản của ông cần nhìn cả năng lực xây dựng thể chế lẫn giới hạn của những thể chế ấy. Đó là hai phần của cùng một câu chuyện.",
+        "en": "Napoleon drove a collective project; he did not write the entire code himself. And a unified code could still contain unequal rights. Assessing his legacy means examining both the institutions he helped build and their limitations. Both belong in the same account."
+      },
+      "evidence": ["E02", "E03", "E04", "E05"], "answers": ["Q1", "Q2"], "visual_kind": "original_typography"
+    }
+  ],
+  "release_gates": {
+    "editorial_review": "draft_self_reviewed_not_locked",
+    "original_images_only": true,
+    "historical_image_assets": [],
+    "source_page_published": false,
+    "narration_audio": false,
+    "subtitles_aligned": false,
+    "listening_qa": false,
+    "channel_ownership_verified": false,
+    "upload_allowed": false
+  }
+}

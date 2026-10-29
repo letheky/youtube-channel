@@ -1,0 +1,363 @@
+{
+  "video": "09-mua-nha-hay-thue",
+  "status": "published_api_and_related_verified",
+  "updatedAt": "2026-10-25T08:59:18.027228+00:00",
+  "long": {
+    "file": "D:\\Repo\\bac-sau-so-sach\\videos\\09-mua-nha-hay-thue\\09-mua-nha-hay-thue.mp4",
+    "duration": 948.7,
+    "lufs": -16.22,
+    "dBTP": -1.84,
+    "sha256": "a8bee74826ffa8f595e1e862b2a42fde7f8e93552dbfdf4adeec611acba213b5",
+    "silences": [
+      {
+        "start": 937.744833,
+        "end": 948.7
+      }
+    ]
+  },
+  "short": {
+    "file": "D:\\Repo\\bac-sau-so-sach\\videos\\09-mua-nha-hay-thue\\short\\short-09.mp4",
+    "duration": 46.6,
+    "lufs": -14.39,
+    "dBTP": -1.9,
+    "sha256": "7bf4f3b053046a6867d3b3198c7cdbacd55288c93cf31c0c3647da1888c8bbca",
+    "silences": []
+  },
+  "shortVisual": {
+    "encodedFramesReviewed": 8,
+    "passed": true,
+    "quoteCtaAndTextClear": true,
+    "sha256": "7bf4f3b053046a6867d3b3198c7cdbacd55288c93cf31c0c3647da1888c8bbca"
+  },
+  "visual": {
+    "passed": true,
+    "encodedLongFramesReviewed": 52,
+    "shortFramesReviewed": 8,
+    "longSha256": "a8bee74826ffa8f595e1e862b2a42fde7f8e93552dbfdf4adeec611acba213b5",
+    "shortSha256": "7bf4f3b053046a6867d3b3198c7cdbacd55288c93cf31c0c3647da1888c8bbca",
+    "reviewedAt": "2026-10-25T08:59:15.471190+00:00",
+    "nativeQuoteAndCtaClear": true,
+    "allTablesKeywordsTransitionsAndOutroReviewed": true,
+    "longEvidence": "D:\\CodexTemp\\bac-sau-video09\\outputs\\video-09-qa\\encoded-contact",
+    "shortEvidence": "D:\\CodexTemp\\bac-sau-video09\\outputs\\video-09-qa\\encoded-short",
+    "note": "52 actual encoded MP4 frames reviewed across9 contact sheets; earlier full-size image corrections and52 composition proof frames reviewed. Brief dissolves intentionally show overlap; completed panels clear. Runtime cannot listen by ear.",
+    "runtimeCannotListenByEar": true,
+    "proofFramesReviewed": 52,
+    "previewEncodedFramesReviewed": 6
+  },
+  "audioReview": "Local small ASR of all 10 source scenes and large-v3 of final encoded Short; monetary amounts compared manually. Runtime cannot listen by ear, ASR is not listening. One TTS pass only.",
+  "credit": {
+    "before": 80777,
+    "after": 75696,
+    "usedBy09": 5081,
+    "ttsPasses": 1,
+    "ttsRequests": 10,
+    "counterSettled": true
+  },
+  "protectedSources": {
+    "count": 210,
+    "changed": false,
+    "own09": 42,
+    "old05to08": 168
+  },
+  "scriptCommit": "1c6cefe",
+  "preparedCommit": "8e1465c",
+  "permissionCommit": "2a43d7a",
+  "productionCommit": "3c7ff5c",
+  "sourcesCheckedOn": "2026-10-25",
+  "calculation": "scripts/kiem_tra_video_09.py; Decimal50, independent weighted FV, end-of-month contributions, HALF_UP only final dong. All market inputs hypothetical.",
+  "youtube": {
+    "uploaded": true,
+    "auth": "connected_correct_channel_25oct",
+    "longId": "rzYHvSEeKOM",
+    "shortId": "XsEsQJFsJ-4"
+  },
+  "permissionExpiresVN": "2026-10-26T23:59:59+07:00",
+  "assets": {
+    "selected": 157,
+    "decoded": 157,
+    "uniqueShotHashes": 155,
+    "allShotImagesManuallyReviewed": true,
+    "auditMissing": 0,
+    "auditErrors": 0,
+    "reviewSheets": 20,
+    "proofFramesReviewed": 52,
+    "previewEncodedFramesReviewed": 6,
+    "preview": {
+      "duration": 60,
+      "lufs": -16.18,
+      "dBTP": -2.21,
+      "fullStreamDecodePassed": true
+    },
+    "shots": 155,
+    "differentShotImages": 155,
+    "baseImages": 11,
+    "newShotImages": 145,
+    "manualReviewComplete": true
+  },
+  "finalTimelineSelectedShotPathsMatch": true,
+  "qaCompletedAt": "2026-10-25T08:59:18.027228+00:00",
+  "qaCompletedBeforeDeadlineVN": true,
+  "uploadStatus": "private_scheduled_api_verified",
+  "streamDecode": {
+    "passed": true,
+    "longAndShortFullVideoAndAudio": true,
+    "errors": [],
+    "evidence": "D:\\CodexTemp\\bac-sau-video09\\outputs\\video-09-qa\\stream-decode-check.json"
+  },
+  "renderInputs": {
+    "count": 207,
+    "allHashesUnchanged": true,
+    "evidence": "D:\\CodexTemp\\bac-sau-video09\\work\\final-render-input-hashes.json"
+  },
+  "thumbnail": {
+    "file": "D:\\Repo\\bac-sau-so-sach\\videos\\09-mua-nha-hay-thue\\thumbnail-final.jpg",
+    "sha256": "15949cd4ff44c4decd8e5b02bb27a9c8ab36bdd6461a5eded18e2450998b5b21",
+    "width": 1280,
+    "height": 720,
+    "visuallyReviewed": true
+  },
+  "metadata": {
+    "longChapters": 10,
+    "longDescriptionBytes": 4187,
+    "spacingManuallyReviewed": true,
+    "shortNeedsRealLongUrl": false,
+    "shortLongUrl": "https://youtu.be/rzYHvSEeKOM"
+  },
+  "studio": {
+    "endScreen": {
+      "savedAndReopened": true,
+      "targetVideoId": "PxqG898ad1o",
+      "subscribe": true,
+      "reason": "Video06 on capital/purchasing power relates to this housing comparison; only editing new09.",
+      "confirmedAt": "2026-10-25T15:39:06.491326+00:00",
+      "startTimecode": "15:38:21",
+      "endTimecode": "15:48:21",
+      "durationSeconds": 10,
+      "fps": 30,
+      "elementsConfirmed": [
+        "specific_video_06",
+        "subscribe_own_channel"
+      ]
+    },
+    "aiDisclosureSentByUploader": true,
+    "aiDisclosureConfirmedInUi": true,
+    "relatedVideo": {
+      "status": "verified_existing_link",
+      "shortId": "XsEsQJFsJ-4",
+      "targetLongId": "rzYHvSEeKOM",
+      "targetId": "rzYHvSEeKOM",
+      "uiTitle": "Mua Nhà Hay Thuê Nhà? Bác Sáu Tính Cùng Một Túi Tiền Trong 20 Năm",
+      "currentlyLinkedConfirmed": true,
+      "saved": true,
+      "savedAndReopened": true,
+      "reopened": true,
+      "verifiedAt": "2026-10-28T00:33:15.574551+00:00",
+      "verifiedAtVN": "2026-10-28T07:33:15.574551+07:00",
+      "changedThisRun": false,
+      "savePerformedThisRun": false,
+      "method": "Direct Studio Related title; title matched API long ID. #9 existing link inspected read-only; #10 selected, Save, Ctrl+R and new page state confirmed.",
+      "browserWindowId": 66974,
+      "apiEvidence": "D:\\CodexTemp\\bac-sau-video10\\outputs\\related-check28-api-after.json",
+      "privacyAndScheduleUnchanged": true,
+      "previousCheckpoint": {
+        "saved": false,
+        "status": "pending_user_stopped_computer_use",
+        "targetId": "rzYHvSEeKOM",
+        "savedAndReopened": false,
+        "checkedAt": "2026-10-25T15:39:06.491326+00:00",
+        "reason": "Own long private/scheduled; not present in Related chooser on25Oct. No privacy/schedule change.",
+        "eligibleAfterVN": "2026-10-26 18:00",
+        "permissionExpiresVN": "2026-10-26 23:59:59",
+        "followupAutomationId": "ho-n-t-t-li-n-k-t-short-9-v-10",
+        "followupTimesVN": [
+          "2026-10-26 18:05",
+          "2026-10-26 21:05"
+        ],
+        "permissionNotExtended": true,
+        "lastAttemptAt": "2026-10-26T14:05:11.656456+00:00",
+        "reopened": false
+      }
+    },
+    "longScheduleVN": "2026-10-26 18:00",
+    "shortScheduleVN": "2026-10-27 11:30",
+    "permissionExpiresVN": "2026-10-26 23:59:59",
+    "latestUiAttempt": {
+      "checkedAtVN": "2026-10-26T22:04:18.528293+07:00",
+      "status": "user_stopped_computer_use_physical_escape",
+      "message": "Computer Use was stopped by the user with the physical Escape key.",
+      "relatedSaved": false,
+      "reopened": false
+    },
+    "aiDisclosureLongConfirmedInUi": true,
+    "aiDisclosureShortConfirmedInUi": true,
+    "aiDisclosureUiValue": "Yes, AI was used",
+    "aiDisclosureCheckedAt": "2026-10-25T15:39:06.491326+00:00",
+    "aiDisclosureChangedThisRun": false
+  },
+  "youtubeVerification": {
+    "checkedAt": "2026-10-25T15:32:07.966395+00:00",
+    "channelId": "UCb8J1ex5t19hvQx0lsbdB6A",
+    "ready": true,
+    "pending": [],
+    "videos": [
+      {
+        "kind": "video",
+        "id": "rzYHvSEeKOM",
+        "title": "Mua Nhà Hay Thuê Nhà? Bác Sáu Tính Cùng Một Túi Tiền Trong 20 Năm",
+        "privacy": "private",
+        "publishAt": "2026-10-26T11:00:00Z",
+        "uploadStatus": "processed",
+        "processingStatus": "succeeded",
+        "duration": "PT15M49S",
+        "definition": "hd",
+        "hasCustomThumbnail": true,
+        "selfDeclaredMadeForKids": false,
+        "containsSyntheticMedia": null,
+        "metadataMatches": true,
+        "thumbnails": {
+          "default": {
+            "url": "https://i9.ytimg.com/vi/rzYHvSEeKOM/default.jpg?sqp=CPjA-NYG&rs=AOn4CLAjR3kxRzOVmh_Lp1M7YXc-7_DTdQ",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i9.ytimg.com/vi/rzYHvSEeKOM/mqdefault.jpg?sqp=CPjA-NYG&rs=AOn4CLD4gpYG-ZfI3P2xC7nvdsASAKfJvw",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i9.ytimg.com/vi/rzYHvSEeKOM/hqdefault.jpg?sqp=CPjA-NYG&rs=AOn4CLDqv5iiG7DRYkRlkFUGQcDFxDQ8bQ",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i9.ytimg.com/vi/rzYHvSEeKOM/sddefault.jpg?sqp=CPjA-NYG&rs=AOn4CLC3FNSrFuR2BCK5QChBm3LpJjZNsw",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i9.ytimg.com/vi/rzYHvSEeKOM/maxresdefault.jpg?sqp=CPjA-NYG&rs=AOn4CLCyTpay_3qHyWSr8u4btA3NTQNRaQ",
+            "width": 1280,
+            "height": 720
+          }
+        }
+      },
+      {
+        "kind": "short",
+        "id": "XsEsQJFsJ-4",
+        "title": "Thuê là mất tiền? Đừng quên túi tiền ban đầu #shorts",
+        "privacy": "private",
+        "publishAt": "2026-10-27T04:30:00Z",
+        "uploadStatus": "processed",
+        "processingStatus": "succeeded",
+        "duration": "PT47S",
+        "definition": "hd",
+        "hasCustomThumbnail": false,
+        "selfDeclaredMadeForKids": false,
+        "containsSyntheticMedia": null,
+        "metadataMatches": true,
+        "thumbnails": {
+          "default": {
+            "url": "https://i9.ytimg.com/vi/XsEsQJFsJ-4/default.jpg?sqp=CPjA-NYG&rs=AOn4CLDFpItQh8KefU1M0H6gEC6ciXF6ug",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i9.ytimg.com/vi/XsEsQJFsJ-4/mqdefault.jpg?sqp=CPjA-NYG&rs=AOn4CLB6MNY4UP9e2-O3IbQfDffJqBwVGA",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i9.ytimg.com/vi/XsEsQJFsJ-4/hqdefault.jpg?sqp=CPjA-NYG&rs=AOn4CLBtKBqvoh6By-ibnRAEMtZjjvJrgg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i9.ytimg.com/vi/XsEsQJFsJ-4/sddefault.jpg?sqp=CPjA-NYG&rs=AOn4CLCsln8zRWIF6mc4vnkCTn13qWLz1A",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i9.ytimg.com/vi/XsEsQJFsJ-4/maxresdefault.jpg?sqp=CPjA-NYG&rs=AOn4CLABlfXz5izQ_7yjX4mrnxeu8WIoJA",
+            "width": 1280,
+            "height": 720
+          }
+        }
+      }
+    ],
+    "vietnameseCaptions": true,
+    "captionTracks": [
+      {
+        "id": "AUieDaZQLLQknEjsRI5PEQVlOvvrD8VjNEWV9ci1f1UmPzmONMpCD2T6dvE8bmS42Q",
+        "language": "vi",
+        "status": "serving"
+      },
+      {
+        "id": "AUieDaZTCt3JeXN5dEGy6IXhnXAvLpFXfUWOmYHcNRcPRyZxoaQ",
+        "language": "vi",
+        "status": "serving"
+      }
+    ]
+  },
+  "lastUpdatedAt": "2026-10-25T15:39:06.491326+00:00",
+  "studioPostApiVerification": {
+    "checkedAt": "2026-10-25T15:37:50.892184+00:00",
+    "channelId": "UCb8J1ex5t19hvQx0lsbdB6A",
+    "videos": [
+      {
+        "id": "rzYHvSEeKOM",
+        "kind": "video",
+        "slug": "09-mua-nha-hay-thue",
+        "privacy": "private",
+        "publishAt": "2026-10-26T11:00:00Z",
+        "metadataMatches": true,
+        "processing": "succeeded",
+        "definition": "hd"
+      },
+      {
+        "id": "XsEsQJFsJ-4",
+        "kind": "short",
+        "slug": "09-mua-nha-hay-thue",
+        "privacy": "private",
+        "publishAt": "2026-10-27T04:30:00Z",
+        "metadataMatches": true,
+        "processing": "succeeded",
+        "definition": "hd"
+      }
+    ],
+    "note": "API confirms privacy/schedule/metadata after Studio; Related/end screens/AI use were checked in UI, not inferred from API."
+  },
+  "backup": {
+    "status": "verified_complete",
+    "destination": "ltky-drive:Bac Sau So Sach - backup/09-mua-nha-hay-thue",
+    "checkedAt": "2026-10-27T03:03:32.403889+00:00",
+    "files": [
+      {
+        "path": "09-mua-nha-hay-thue.mp4",
+        "sha256": "a8bee74826ffa8f595e1e862b2a42fde7f8e93552dbfdf4adeec611acba213b5"
+      },
+      {
+        "path": "short/short-09.mp4",
+        "sha256": "7bf4f3b053046a6867d3b3198c7cdbacd55288c93cf31c0c3647da1888c8bbca"
+      },
+      {
+        "path": "thumbnail-final.jpg",
+        "sha256": "15949cd4ff44c4decd8e5b02bb27a9c8ab36bdd6461a5eded18e2450998b5b21"
+      }
+    ],
+    "matchingFiles": 3,
+    "differences": 0,
+    "evidence": "D:\\CodexTemp\\bac-sau-video11\\outputs\\backup-09.json",
+    "existingConfigUsed": true,
+    "noNewOAuth": true
+  },
+  "lastApiObservation": {
+    "checkedAt": "2026-10-28T00:31:52.363477+00:00",
+    "channelId": "UCb8J1ex5t19hvQx0lsbdB6A",
+    "longPrivacy": "public",
+    "shortPrivacy": "public",
+    "shortPublishAt": null,
+    "metadataAndScheduleUnchanged": true
+  }
+}
